@@ -1,0 +1,395 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1,
+                "Grupo": "Análisis Espacial y Ciencia de los Datos",
+                "Area_Estrategica": "Servicios SIG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2,
+                "Grupo": "Análisis y Visualizacion en Tiempo Real",
+                "Area_Estrategica": "Servicios SIG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3,
+                "Grupo": "Configuración de Aplicaciones",
+                "Area_Estrategica": "Servicios SIG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 4,
+                "Grupo": "Data Management",
+                "Area_Estrategica": "Servicios SIG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 5,
+                "Grupo": "Desarrollo de Aplicaciones",
+                "Area_Estrategica": "Servicios SIG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 6,
+                "Grupo": "Procesamiento de Imágenes y Sensores Remotos",
+                "Area_Estrategica": "Servicios SIG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 7,
+                "Grupo": "Representación Cartográfica",
+                "Area_Estrategica": "Servicios SIG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 8,
+                "Grupo": "IA Generativa",
+                "Area_Estrategica": "Servicios de IA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 9,
+                "Grupo": "Machine Learning",
+                "Area_Estrategica": "Servicios de IA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 10,
+                "Grupo": "GeoAI",
+                "Area_Estrategica": "Servicios de IA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 11,
+                "Grupo": "Asistentes Virtuales",
+                "Area_Estrategica": "Servicios de IA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 12,
+                "Grupo": "Automatizaciones IA",
+                "Area_Estrategica": "Servicios de IA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 13,
+                "Grupo": "Proyectos SMART",
+                "Area_Estrategica": "Servicios de Ingeniería"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 14,
+                "Grupo": "Servicios de HSE",
+                "Area_Estrategica": "Servicios de Ingeniería"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 15,
+                "Grupo": "Servicios de Ingeniería de Ductos",
+                "Area_Estrategica": "Servicios de Ingeniería"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 16,
+                "Grupo": "Servicios de Ingenieria de Procesos",
+                "Area_Estrategica": "Servicios de Ingeniería"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 17,
+                "Grupo": "Servicios de integridad",
+                "Area_Estrategica": "Servicios de Ingeniería"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 18,
+                "Grupo": "Capacitación",
+                "Area_Estrategica": "Servicios de Ingeniería"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 19,
+                "Grupo": "Capacitación",
+                "Area_Estrategica": "Servicios de IA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 20,
+                "Grupo": "Capacitación",
+                "Area_Estrategica": "Servicios SIG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 21,
+                "Grupo": "Proyectos",
+                "Area_Estrategica": "Otros Servicios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 22,
+                "Grupo": "Servicios de Gestión Humana",
+                "Area_Estrategica": "Otros Servicios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 23,
+                "Grupo": "Capacitación",
+                "Area_Estrategica": "Operaciones de Campo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 24,
+                "Grupo": "Operaciones Hibridas",
+                "Area_Estrategica": "Operaciones de Campo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 25,
+                "Grupo": "Recolección de Datos en Tierra",
+                "Area_Estrategica": "Operaciones de Campo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 26,
+                "Grupo": "Servicios de Drones",
+                "Area_Estrategica": "Operaciones de Campo"
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1,
+                "Servicio": "Básico",
+                "Full_1": 400000.0,
+                "Full_2": 400000.0,
+                "Promo_1": 200000.0,
+                "Promo_2": 100000.0,
+                "Promo_3": 50000.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2,
+                "Servicio": "Intermedio",
+                "Full_1": 2500000.0,
+                "Full_2": 2500000.0,
+                "Promo_1": 1500000.0,
+                "Promo_2": 1000000.0,
+                "Promo_3": 800000.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3,
+                "Servicio": "Avanzado",
+                "Full_1": 5000000.0,
+                "Full_2": 5000000.0,
+                "Promo_1": 3000000.0,
+                "Promo_2": 2000000.0,
+                "Promo_3": 1500000.0
+            }
+        }
+    ]
+}
