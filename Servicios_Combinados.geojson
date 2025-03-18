@@ -1,350 +1,378 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            },
-            "properties": {
-                "OBJECTID": 1,
-                "Nombre_Servicio_Combinado": "Class Location",
-                "Codigo_Servicio_SIG": 57,
-                "Nombre_del_Servicio": "Viaticos de Alimentación por dia y Estadia en Hotel (por dia)",
-                "Descripción_Técnica_del_Servici": "Este servicio cubre los gastos de alimentación por día y estadía en hotel por noche para el personal que realice servicios SIG por demanda fuera de Bogotá, dentro del territorio nacional. Es aplicable para viajes en avión y, en caso de servicios de sensores remotos, para dos personas.",
-                "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo",
-                "Grupo": "Logistica",
-                "Subgrupo": "Viaticos, Hospedaje y Transporte",
-                "Unidades_Basicos": 1.5,
-                "Unidades_Intermedias": "",
-                "Unidades_Avanzadas": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            },
-            "properties": {
-                "OBJECTID": 2,
-                "Nombre_Servicio_Combinado": "Class Location",
-                "Codigo_Servicio_SIG": 58,
-                "Nombre_del_Servicio": "Ticketes de Avion Vuelos Nacionales",
-                "Descripción_Técnica_del_Servici": "Este servicio cubre los gastos de traslado en avión dentro del país para vuelos nacionales, ofreciendo un servicio de ida y vuelta. La tarificación puede variar según temporada y fecha de viaje.",
-                "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo",
-                "Grupo": "Logistica",
-                "Subgrupo": "Viaticos, Hospedaje y Transporte",
-                "Unidades_Basicos": 3.0,
-                "Unidades_Intermedias": "",
-                "Unidades_Avanzadas": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            },
-            "properties": {
-                "OBJECTID": 3,
-                "Nombre_Servicio_Combinado": "Class Location",
-                "Codigo_Servicio_SIG": 59,
-                "Nombre_del_Servicio": "Traslados en taxis Aeropuertos",
-                "Descripción_Técnica_del_Servici": "Este servicio cubre los gastos de traslado en taxi para desplazamientos a o desde aeropuertos cuando se viaja fuera de Bogotá en avión, abarcando un viaje ida y vuelta.",
-                "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo",
-                "Grupo": "Logistica",
-                "Subgrupo": "Viaticos, Hospedaje y Transporte",
-                "Unidades_Basicos": 0.6666666666666666,
-                "Unidades_Intermedias": "",
-                "Unidades_Avanzadas": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            },
-            "properties": {
-                "OBJECTID": 4,
-                "Nombre_Servicio_Combinado": "Class Location",
-                "Codigo_Servicio_SIG": 60,
-                "Nombre_del_Servicio": "Combustible por Dia",
-                "Descripción_Técnica_del_Servici": "Este servicio cubre el gasto de combustible diario para traslados en una camioneta durante las operaciones de campo.",
-                "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo",
-                "Grupo": "Logistica",
-                "Subgrupo": "Viaticos, Hospedaje y Transporte",
-                "Unidades_Basicos": 0.3333333333333333,
-                "Unidades_Intermedias": "",
-                "Unidades_Avanzadas": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            },
-            "properties": {
-                "OBJECTID": 5,
-                "Nombre_Servicio_Combinado": "Class Location",
-                "Codigo_Servicio_SIG": 61,
-                "Nombre_del_Servicio": "Peajes",
-                "Descripción_Técnica_del_Servici": "Este servicio cubre el costo de peajes diarios para traslados en una camioneta durante operaciones de campo.",
-                "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo",
-                "Grupo": "Logistica",
-                "Subgrupo": "Viaticos, Hospedaje y Transporte",
-                "Unidades_Basicos": 0.3333333333333333,
-                "Unidades_Intermedias": "",
-                "Unidades_Avanzadas": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            },
-            "properties": {
-                "OBJECTID": 6,
-                "Nombre_Servicio_Combinado": "Class Location",
-                "Codigo_Servicio_SIG": 67,
-                "Nombre_del_Servicio": "Cumplimiento Basico de requerimientos HSE durante la ejecusión de proyectos",
-                "Descripción_Técnica_del_Servici": "Este servicio asegura el cumplimiento básico de los requerimientos HSE durante la ejecución de proyectos, mediante la recopilación sistemática y el envío de reportes mensuales. Con el soporte de tecnología Esri y la experiencia de IsaGIS, se optimiza el seguimiento y la gestión de la información HSE.",
-                "Area_estrategica_IsaGIS_Technol": "Otros Servicios",
-                "Grupo": "Proyectos",
-                "Subgrupo": "Actividades Generales de Proyectos",
-                "Unidades_Basicos": 1.0,
-                "Unidades_Intermedias": "",
-                "Unidades_Avanzadas": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            },
-            "properties": {
-                "OBJECTID": 7,
-                "Nombre_Servicio_Combinado": "Class Location",
-                "Codigo_Servicio_SIG": 68,
-                "Nombre_del_Servicio": "Compilacion de entregables",
-                "Descripción_Técnica_del_Servici": "Este servicio permite compilar y consolidar los entregables de un proyecto, facilitando la organización y presentación de la información final. Se integra eficientemente con otros servicios combinados, aprovechando la capacidad de gestión de datos de Esri y la experiencia de IsaGIS.",
-                "Area_estrategica_IsaGIS_Technol": "Otros Servicios",
-                "Grupo": "Proyectos",
-                "Subgrupo": "Actividades Generales de Proyectos",
-                "Unidades_Basicos": 1.0,
-                "Unidades_Intermedias": "",
-                "Unidades_Avanzadas": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            },
-            "properties": {
-                "OBJECTID": 8,
-                "Nombre_Servicio_Combinado": "Class Location",
-                "Codigo_Servicio_SIG": 69,
-                "Nombre_del_Servicio": "Talleres para cualquier proyecto",
-                "Descripción_Técnica_del_Servici": "Este servicio posibilita la realización de talleres multidisciplinarios en proyectos de ingeniería, orientados a definir matrices de evaluación, criterios de trazados, análisis de clases de localidad, áreas de alta consecuencia o impacto ambiental. Las sesiones (de hasta 3 horas) se diseñan para optimizar la toma de decisiones, combinando la metodología de IsaGIS y la robustez de Esri.",
-                "Area_estrategica_IsaGIS_Technol": "Otros Servicios",
-                "Grupo": "Proyectos",
-                "Subgrupo": "Actividades Generales de Proyectos",
-                "Unidades_Basicos": 1.0,
-                "Unidades_Intermedias": "",
-                "Unidades_Avanzadas": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            },
-            "properties": {
-                "OBJECTID": 9,
-                "Nombre_Servicio_Combinado": "Class Location",
-                "Codigo_Servicio_SIG": 109,
-                "Nombre_del_Servicio": "Costo de Vehiculo por Dia",
-                "Descripción_Técnica_del_Servici": "Este servicio cubre la asignación de un vehículo con conductor para operaciones de campo durante un día completo, garantizando la movilidad necesaria para el traslado de personal y equipos. Es ideal para proyectos que requieren desplazamientos en terreno.",
-                "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo",
-                "Grupo": "Logistica",
-                "Subgrupo": "Viaticos, Hospedaje y Transporte",
-                "Unidades_Basicos": "",
-                "Unidades_Intermedias": 1.5,
-                "Unidades_Avanzadas": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            },
-            "properties": {
-                "OBJECTID": 10,
-                "Nombre_Servicio_Combinado": "Class Location",
-                "Codigo_Servicio_SIG": 121,
-                "Nombre_del_Servicio": "Class Location (25 km)",
-                "Descripción_Técnica_del_Servici": "Desarrolla el análisis de “Class Location” conforme a la norma ASME B31.8 para gasoductos. El servicio requiere que el cliente proporcione –o contrate el desarrollo de– el trazado del gasoducto y la ubicación de las ocupaciones humanas. En caso de no contar con estos datos, se puede utilizar información secundaria (por ejemplo, gratuita del IGAC) o contratar un servicio de GIS Conceptual para extraer dicha información; adicionalmente, se puede optar por mejorar la capa de ocupaciones humanas con servicios de drones. No se incluye la generación de documentos, desarrollo de trazados ni georreferenciación de la capa de ocupaciones humanas. Si se desea analizar múltiples rutas, se suman los kilómetros y el costo se incrementa proporcionalmente; para incluir documentación, se debe agregar un servicio de documentación (2 a 10 páginas). El resultado se entrega en una File GDB.",
-                "Area_estrategica_IsaGIS_Technol": "Servicios de Ingeniería",
-                "Grupo": "Servicios de Ingeniería de Ductos",
-                "Subgrupo": "Diseño de Gasoductos",
-                "Unidades_Basicos": "",
-                "Unidades_Intermedias": 1.0,
-                "Unidades_Avanzadas": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            },
-            "properties": {
-                "OBJECTID": 11,
-                "Nombre_Servicio_Combinado": "Class Location",
-                "Codigo_Servicio_SIG": 175,
-                "Nombre_del_Servicio": "GIS Conceptual Standard",
-                "Descripción_Técnica_del_Servici": "Este servicio forma parte de la metodología integrada de SIG e ingeniería para el diseño de gasoductos u oleoductos. Se crea a partir de datos abiertos en Colombia (IGAC, IDEAM, OSM, ArcGIS Living Atlas, etc.) y se convierte al sistema Magna Colombia GMT12 mediante extracción y clip de capas en el área del proyecto. El resultado se entrega en formato File GDB; para obtenerlo en AutoCAD o KMZ se debe contratar el servicio \"Cartografía Secundaria en formato CAD o KMZ\".",
-                "Area_estrategica_IsaGIS_Technol": "Servicios de Ingeniería",
-                "Grupo": "Servicios de Ingeniería de Ductos",
-                "Subgrupo": "Diseño de Gasoductos",
-                "Unidades_Basicos": "",
-                "Unidades_Intermedias": 2.0,
-                "Unidades_Avanzadas": 1.0
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            },
-            "properties": {
-                "OBJECTID": 12,
-                "Nombre_Servicio_Combinado": "Class Location",
-                "Codigo_Servicio_SIG": 180,
-                "Nombre_del_Servicio": "Procesamiento Ocupaciones Humanas para ingenierias Conceptuales",
-                "Descripción_Técnica_del_Servici": "Este servicio integra y procesa las capas secundarias asociadas a las ocupaciones humanas para generar la capa y el modelo de datos requeridos por el algoritmo de Clases por Localidad. Cubre un área correspondiente a una ruta de 50 km de tubería y 200 metros a cada lado; para rutas más extensas se realizará un prorrateo. Es requisito contar con un servicio previo de GIS Conceptual.",
-                "Area_estrategica_IsaGIS_Technol": "Servicios de Ingeniería",
-                "Grupo": "Servicios de Ingeniería de Ductos",
-                "Subgrupo": "Diseño de Gasoductos",
-                "Unidades_Basicos": "",
-                "Unidades_Intermedias": "",
-                "Unidades_Avanzadas": 1.0
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            },
-            "properties": {
-                "OBJECTID": 13,
-                "Nombre_Servicio_Combinado": "Videos para Redes Sociales",
-                "Codigo_Servicio_SIG": 52,
-                "Nombre_del_Servicio": "Narración",
-                "Descripción_Técnica_del_Servici": "Este servicio añade narración a videos promocionales, pudiendo optar por narración generada mediante inteligencia artificial o mediante voz humana, en inglés o español. Se realiza una reunión previa para seleccionar el narrador adecuado, lo que potencia el impacto y la comunicación del mensaje promocional.",
-                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "IA Generativa",
-                "Subgrupo": "Mercadeo",
-                "Unidades_Basicos": 2.0,
-                "Unidades_Intermedias": "",
-                "Unidades_Avanzadas": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            },
-            "properties": {
-                "OBJECTID": 14,
-                "Nombre_Servicio_Combinado": "Videos para Redes Sociales",
-                "Codigo_Servicio_SIG": 53,
-                "Nombre_del_Servicio": "Guion (Script) para Videos ",
-                "Descripción_Técnica_del_Servici": "Este servicio ofrece la elaboración de un guion para videos promocionales que incluye la descripción de cada escena, indicaciones para las imágenes o videos y, opcionalmente, la incorporación de narración. El guion se adapta a cualquier temática y se entrega en formato Word, facilitando la producción audiovisual.",
-                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "IA Generativa",
-                "Subgrupo": "Mercadeo",
-                "Unidades_Basicos": 1.0,
-                "Unidades_Intermedias": "",
-                "Unidades_Avanzadas": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            },
-            "properties": {
-                "OBJECTID": 15,
-                "Nombre_Servicio_Combinado": "Videos para Redes Sociales",
-                "Codigo_Servicio_SIG": 160,
-                "Nombre_del_Servicio": "Videos Promocionales",
-                "Descripción_Técnica_del_Servici": "Este servicio crea videos promocionales para presentaciones, Story Maps, aplicaciones web inmersivas o actividades de mercadeo, utilizando inteligencia artificial, tecnología SIG de Esri y recursos propios de IsaGIS (drones y proyectos de ingeniería). El video tendrá una duración máxima de 2 minutos; videos más largos se cotizan proporcionalmente. El contenido, imágenes, temática, guion y narración deben ser proporcionados por el cliente o solicitados como servicios adicionales.",
-                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "IA Generativa",
-                "Subgrupo": "Mercadeo",
-                "Unidades_Basicos": "",
-                "Unidades_Intermedias": "",
-                "Unidades_Avanzadas": 1.0
-            }
-        }
-    ]
+  "type": "FeatureCollection",
+  "schema": {
+    "Nombre_Servicio_Combinado": {
+      "type": "String",
+      "length": 255
+    },
+    "Codigo_Servicio_SIG": {
+      "type": "Integer",
+      "length": null
+    },
+    "Nombre_del_Servicio": {
+      "type": "String",
+      "length": 255
+    },
+    "Descripción_Técnica_del_Servici": {
+      "type": "String",
+      "length": 1436
+    },
+    "Area_estrategica_IsaGIS_Technol": {
+      "type": "String",
+      "length": 255
+    },
+    "Grupo": {
+      "type": "String",
+      "length": 255
+    },
+    "Subgrupo": {
+      "type": "String",
+      "length": 255
+    },
+    "Unidades_Basicos": {
+      "type": "Double",
+      "length": null
+    },
+    "Unidades_Intermedias": {
+      "type": "Double",
+      "length": null
+    },
+    "Unidades_Avanzadas": {
+      "type": "Double",
+      "length": null
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre_Servicio_Combinado": "Class Location",
+        "Codigo_Servicio_SIG": 57,
+        "Nombre_del_Servicio": "Viaticos de Alimentación por dia y Estadia en Hotel (por dia)",
+        "Descripción_Técnica_del_Servici": "Este servicio cubre los gastos de alimentación por día y estadía en hotel por noche para el personal que realice servicios SIG por demanda fuera de Bogotá, dentro del territorio nacional. Es aplicable para viajes en avión y, en caso de servicios de sensores remotos, para dos personas.",
+        "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo",
+        "Grupo": "Logistica",
+        "Subgrupo": "Viaticos, Hospedaje y Transporte",
+        "Unidades_Basicos": 1.5,
+        "Unidades_Intermedias": "",
+        "Unidades_Avanzadas": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre_Servicio_Combinado": "Class Location",
+        "Codigo_Servicio_SIG": 58,
+        "Nombre_del_Servicio": "Ticketes de Avion Vuelos Nacionales",
+        "Descripción_Técnica_del_Servici": "Este servicio cubre los gastos de traslado en avión dentro del país para vuelos nacionales, ofreciendo un servicio de ida y vuelta. La tarificación puede variar según temporada y fecha de viaje.",
+        "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo",
+        "Grupo": "Logistica",
+        "Subgrupo": "Viaticos, Hospedaje y Transporte",
+        "Unidades_Basicos": 3.0,
+        "Unidades_Intermedias": "",
+        "Unidades_Avanzadas": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre_Servicio_Combinado": "Class Location",
+        "Codigo_Servicio_SIG": 59,
+        "Nombre_del_Servicio": "Traslados en taxis Aeropuertos",
+        "Descripción_Técnica_del_Servici": "Este servicio cubre los gastos de traslado en taxi para desplazamientos a o desde aeropuertos cuando se viaja fuera de Bogotá en avión, abarcando un viaje ida y vuelta.",
+        "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo",
+        "Grupo": "Logistica",
+        "Subgrupo": "Viaticos, Hospedaje y Transporte",
+        "Unidades_Basicos": 0.6666666666666666,
+        "Unidades_Intermedias": "",
+        "Unidades_Avanzadas": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre_Servicio_Combinado": "Class Location",
+        "Codigo_Servicio_SIG": 60,
+        "Nombre_del_Servicio": "Combustible por Dia",
+        "Descripción_Técnica_del_Servici": "Este servicio cubre el gasto de combustible diario para traslados en una camioneta durante las operaciones de campo.",
+        "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo",
+        "Grupo": "Logistica",
+        "Subgrupo": "Viaticos, Hospedaje y Transporte",
+        "Unidades_Basicos": 0.3333333333333333,
+        "Unidades_Intermedias": "",
+        "Unidades_Avanzadas": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre_Servicio_Combinado": "Class Location",
+        "Codigo_Servicio_SIG": 61,
+        "Nombre_del_Servicio": "Peajes",
+        "Descripción_Técnica_del_Servici": "Este servicio cubre el costo de peajes diarios para traslados en una camioneta durante operaciones de campo.",
+        "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo",
+        "Grupo": "Logistica",
+        "Subgrupo": "Viaticos, Hospedaje y Transporte",
+        "Unidades_Basicos": 0.3333333333333333,
+        "Unidades_Intermedias": "",
+        "Unidades_Avanzadas": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre_Servicio_Combinado": "Class Location",
+        "Codigo_Servicio_SIG": 67,
+        "Nombre_del_Servicio": "Cumplimiento Basico de requerimientos HSE durante la ejecusión de proyectos",
+        "Descripción_Técnica_del_Servici": "Este servicio asegura el cumplimiento básico de los requerimientos HSE durante la ejecución de proyectos, mediante la recopilación sistemática y el envío de reportes mensuales. Con el soporte de tecnología Esri y la experiencia de IsaGIS, se optimiza el seguimiento y la gestión de la información HSE.",
+        "Area_estrategica_IsaGIS_Technol": "Otros Servicios",
+        "Grupo": "Proyectos",
+        "Subgrupo": "Actividades Generales de Proyectos",
+        "Unidades_Basicos": 1.0,
+        "Unidades_Intermedias": "",
+        "Unidades_Avanzadas": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre_Servicio_Combinado": "Class Location",
+        "Codigo_Servicio_SIG": 68,
+        "Nombre_del_Servicio": "Compilacion de entregables",
+        "Descripción_Técnica_del_Servici": "Este servicio permite compilar y consolidar los entregables de un proyecto, facilitando la organización y presentación de la información final. Se integra eficientemente con otros servicios combinados, aprovechando la capacidad de gestión de datos de Esri y la experiencia de IsaGIS.",
+        "Area_estrategica_IsaGIS_Technol": "Otros Servicios",
+        "Grupo": "Proyectos",
+        "Subgrupo": "Actividades Generales de Proyectos",
+        "Unidades_Basicos": 1.0,
+        "Unidades_Intermedias": "",
+        "Unidades_Avanzadas": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre_Servicio_Combinado": "Class Location",
+        "Codigo_Servicio_SIG": 69,
+        "Nombre_del_Servicio": "Talleres para cualquier proyecto",
+        "Descripción_Técnica_del_Servici": "Este servicio posibilita la realización de talleres multidisciplinarios en proyectos de ingeniería, orientados a definir matrices de evaluación, criterios de trazados, análisis de clases de localidad, áreas de alta consecuencia o impacto ambiental. Las sesiones (de hasta 3 horas) se diseñan para optimizar la toma de decisiones, combinando la metodología de IsaGIS y la robustez de Esri.",
+        "Area_estrategica_IsaGIS_Technol": "Otros Servicios",
+        "Grupo": "Proyectos",
+        "Subgrupo": "Actividades Generales de Proyectos",
+        "Unidades_Basicos": 1.0,
+        "Unidades_Intermedias": "",
+        "Unidades_Avanzadas": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre_Servicio_Combinado": "Class Location",
+        "Codigo_Servicio_SIG": 109,
+        "Nombre_del_Servicio": "Costo de Vehiculo por Dia",
+        "Descripción_Técnica_del_Servici": "Este servicio cubre la asignación de un vehículo con conductor para operaciones de campo durante un día completo, garantizando la movilidad necesaria para el traslado de personal y equipos. Es ideal para proyectos que requieren desplazamientos en terreno.",
+        "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo",
+        "Grupo": "Logistica",
+        "Subgrupo": "Viaticos, Hospedaje y Transporte",
+        "Unidades_Basicos": "",
+        "Unidades_Intermedias": 1.5,
+        "Unidades_Avanzadas": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre_Servicio_Combinado": "Class Location",
+        "Codigo_Servicio_SIG": 121,
+        "Nombre_del_Servicio": "Class Location (25 km)",
+        "Descripción_Técnica_del_Servici": "Desarrolla el análisis de “Class Location” conforme a la norma ASME B31.8 para gasoductos. El servicio requiere que el cliente proporcione –o contrate el desarrollo de– el trazado del gasoducto y la ubicación de las ocupaciones humanas. En caso de no contar con estos datos, se puede utilizar información secundaria (por ejemplo, gratuita del IGAC) o contratar un servicio de GIS Conceptual para extraer dicha información; adicionalmente, se puede optar por mejorar la capa de ocupaciones humanas con servicios de drones. No se incluye la generación de documentos, desarrollo de trazados ni georreferenciación de la capa de ocupaciones humanas. Si se desea analizar múltiples rutas, se suman los kilómetros y el costo se incrementa proporcionalmente; para incluir documentación, se debe agregar un servicio de documentación (2 a 10 páginas). El resultado se entrega en una File GDB.",
+        "Area_estrategica_IsaGIS_Technol": "Servicios de Ingeniería",
+        "Grupo": "Servicios de Ingeniería de Ductos",
+        "Subgrupo": "Diseño de Gasoductos",
+        "Unidades_Basicos": "",
+        "Unidades_Intermedias": 1.0,
+        "Unidades_Avanzadas": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre_Servicio_Combinado": "Class Location",
+        "Codigo_Servicio_SIG": 175,
+        "Nombre_del_Servicio": "GIS Conceptual Standard",
+        "Descripción_Técnica_del_Servici": "Este servicio forma parte de la metodología integrada de SIG e ingeniería para el diseño de gasoductos u oleoductos. Se crea a partir de datos abiertos en Colombia (IGAC, IDEAM, OSM, ArcGIS Living Atlas, etc.) y se convierte al sistema Magna Colombia GMT12 mediante extracción y clip de capas en el área del proyecto. El resultado se entrega en formato File GDB; para obtenerlo en AutoCAD o KMZ se debe contratar el servicio \"Cartografía Secundaria en formato CAD o KMZ\".",
+        "Area_estrategica_IsaGIS_Technol": "Servicios de Ingeniería",
+        "Grupo": "Servicios de Ingeniería de Ductos",
+        "Subgrupo": "Diseño de Gasoductos",
+        "Unidades_Basicos": "",
+        "Unidades_Intermedias": 2.0,
+        "Unidades_Avanzadas": 1.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre_Servicio_Combinado": "Class Location",
+        "Codigo_Servicio_SIG": 180,
+        "Nombre_del_Servicio": "Procesamiento Ocupaciones Humanas para ingenierias Conceptuales",
+        "Descripción_Técnica_del_Servici": "Este servicio integra y procesa las capas secundarias asociadas a las ocupaciones humanas para generar la capa y el modelo de datos requeridos por el algoritmo de Clases por Localidad. Cubre un área correspondiente a una ruta de 50 km de tubería y 200 metros a cada lado; para rutas más extensas se realizará un prorrateo. Es requisito contar con un servicio previo de GIS Conceptual.",
+        "Area_estrategica_IsaGIS_Technol": "Servicios de Ingeniería",
+        "Grupo": "Servicios de Ingeniería de Ductos",
+        "Subgrupo": "Diseño de Gasoductos",
+        "Unidades_Basicos": "",
+        "Unidades_Intermedias": "",
+        "Unidades_Avanzadas": 1.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre_Servicio_Combinado": "Videos para Redes Sociales",
+        "Codigo_Servicio_SIG": 52,
+        "Nombre_del_Servicio": "Narración",
+        "Descripción_Técnica_del_Servici": "Este servicio añade narración a videos promocionales, pudiendo optar por narración generada mediante inteligencia artificial o mediante voz humana, en inglés o español. Se realiza una reunión previa para seleccionar el narrador adecuado, lo que potencia el impacto y la comunicación del mensaje promocional.",
+        "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+        "Grupo": "IA Generativa",
+        "Subgrupo": "Mercadeo",
+        "Unidades_Basicos": 2.0,
+        "Unidades_Intermedias": "",
+        "Unidades_Avanzadas": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre_Servicio_Combinado": "Videos para Redes Sociales",
+        "Codigo_Servicio_SIG": 53,
+        "Nombre_del_Servicio": "Guion (Script) para Videos ",
+        "Descripción_Técnica_del_Servici": "Este servicio ofrece la elaboración de un guion para videos promocionales que incluye la descripción de cada escena, indicaciones para las imágenes o videos y, opcionalmente, la incorporación de narración. El guion se adapta a cualquier temática y se entrega en formato Word, facilitando la producción audiovisual.",
+        "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+        "Grupo": "IA Generativa",
+        "Subgrupo": "Mercadeo",
+        "Unidades_Basicos": 1.0,
+        "Unidades_Intermedias": "",
+        "Unidades_Avanzadas": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Nombre_Servicio_Combinado": "Videos para Redes Sociales",
+        "Codigo_Servicio_SIG": 160,
+        "Nombre_del_Servicio": "Videos Promocionales",
+        "Descripción_Técnica_del_Servici": "Este servicio crea videos promocionales para presentaciones, Story Maps, aplicaciones web inmersivas o actividades de mercadeo, utilizando inteligencia artificial, tecnología SIG de Esri y recursos propios de IsaGIS (drones y proyectos de ingeniería). El video tendrá una duración máxima de 2 minutos; videos más largos se cotizan proporcionalmente. El contenido, imágenes, temática, guion y narración deben ser proporcionados por el cliente o solicitados como servicios adicionales.",
+        "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+        "Grupo": "IA Generativa",
+        "Subgrupo": "Mercadeo",
+        "Unidades_Basicos": "",
+        "Unidades_Intermedias": "",
+        "Unidades_Avanzadas": 1.0
+      }
+    }
+  ]
 }
+/* Actualizado el 2025-03-18 12:50:25 */
