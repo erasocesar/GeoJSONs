@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "schema": {
+        "Tipo_de_Servicio": {
+            "type": "String",
+            "length": 255
+        },
+        "Modalidad_de_Contrato": {
+            "type": "String",
+            "length": 255
+        },
+        "Costos_Base": {
+            "type": "Integer",
+            "length": null
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Tipo_de_Servicio": "Basico",
+                "Modalidad_de_Contrato": "Full 1",
+                "Costos_Base": 300000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Tipo_de_Servicio": "Basico",
+                "Modalidad_de_Contrato": "Full 2",
+                "Costos_Base": 250000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Tipo_de_Servicio": "Basico",
+                "Modalidad_de_Contrato": "Promo 1",
+                "Costos_Base": 150000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Tipo_de_Servicio": "Basico",
+                "Modalidad_de_Contrato": "Promo 2",
+                "Costos_Base": 100000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Tipo_de_Servicio": "Basico",
+                "Modalidad_de_Contrato": "Promo 3",
+                "Costos_Base": 50000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Tipo_de_Servicio": "Intermedio",
+                "Modalidad_de_Contrato": "Full 1",
+                "Costos_Base": 2500000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Tipo_de_Servicio": "Intermedio",
+                "Modalidad_de_Contrato": "Full 2",
+                "Costos_Base": 2300000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Tipo_de_Servicio": "Intermedio",
+                "Modalidad_de_Contrato": "Promo 1",
+                "Costos_Base": 1500000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Tipo_de_Servicio": "Intermedio",
+                "Modalidad_de_Contrato": "Promo 2",
+                "Costos_Base": 1000000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Tipo_de_Servicio": "Intermedio",
+                "Modalidad_de_Contrato": "Promo 3",
+                "Costos_Base": 800000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Tipo_de_Servicio": "Avanzado",
+                "Modalidad_de_Contrato": "Full 1",
+                "Costos_Base": 5000000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Tipo_de_Servicio": "Avanzado",
+                "Modalidad_de_Contrato": "Full 2",
+                "Costos_Base": 4000000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Tipo_de_Servicio": "Avanzado",
+                "Modalidad_de_Contrato": "Promo 1",
+                "Costos_Base": 3000000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Tipo_de_Servicio": "Avanzado",
+                "Modalidad_de_Contrato": "Promo 2",
+                "Costos_Base": 2000000
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Tipo_de_Servicio": "Avanzado",
+                "Modalidad_de_Contrato": "Promo 3",
+                "Costos_Base": 1400000
+            }
+        }
+    ],
+    "updated_at": "2025-03-27 11:29:11"
+}
