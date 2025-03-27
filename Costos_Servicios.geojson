@@ -39,7 +39,7 @@
             "properties": {
                 "Servicio": "Básico",
                 "Full_1": 400000.0,
-                "Full_2": 400000.0,
+                "Full_2": 300000.0,
                 "Promo_1": 200000.0,
                 "Promo_2": 100000.0,
                 "Promo_3": 50000.0
@@ -57,7 +57,7 @@
             "properties": {
                 "Servicio": "Intermedio",
                 "Full_1": 2500000.0,
-                "Full_2": 2500000.0,
+                "Full_2": 2300000.0,
                 "Promo_1": 1500000.0,
                 "Promo_2": 1000000.0,
                 "Promo_3": 800000.0
@@ -75,12 +75,12 @@
             "properties": {
                 "Servicio": "Avanzado",
                 "Full_1": 5000000.0,
-                "Full_2": 5000000.0,
+                "Full_2": 4000000.0,
                 "Promo_1": 3000000.0,
                 "Promo_2": 2000000.0,
                 "Promo_3": 1400000.0
             }
         }
     ],
-    "updated_at": "2025-03-18 13:20:24"
+    "updated_at": "2025-03-27 11:29:06"
 }
