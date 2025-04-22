@@ -394,7 +394,95 @@
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Prueba 4",
+                "Codigo_Servicio_SIG": 46,
+                "Nombre_del_Servicio": "Preparacion de Oferta Tecnico Económica Sencilla",
+                "Descripción_Técnica_del_Servici": "Este servicio consiste en el desarrollo de una oferta técnico-económica sencilla que detalla hasta 5 ítems contractuales, basándose en un análisis técnico y un cronograma preliminar. Está diseñado para facilitar la presentación de propuestas en licitaciones, integrando precisión en los datos y la experiencia de IsaGIS.",
+                "Area_estrategica_IsaGIS_Technol": "Otros Servicios",
+                "Grupo": "Proyectos",
+                "Subgrupo": "Licitaciones y Ofertas Sencillas",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Prueba 4",
+                "Codigo_Servicio_SIG": 34,
+                "Nombre_del_Servicio": "Correccion Manual de Errores Detectados (30 errores)",
+                "Descripción_Técnica_del_Servici": "Este servicio se orienta a la corrección manual de errores en datos vectoriales (línea, punto o polígono) identificados mediante la ejecución de reglas de validación topológicas y de atributos con el inspector de errores de ArcGIS Pro. Está diseñado para mejorar la calidad de los datos cuando los procesos automáticos no corrigen todos los errores, permitiendo una intervención manual precisa para hasta 30 errores por unidad de servicio.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios SIG",
+                "Grupo": "Data Management",
+                "Subgrupo": "Optimización de datos",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Prueba 4",
+                "Codigo_Servicio_SIG": 42,
+                "Nombre_del_Servicio": "Acompañamiento / soporte técnico / Soporte Comercial (el costo de 1 hora es un servicio básico)",
+                "Descripción_Técnica_del_Servici": "Este servicio ofrece acompañamiento, soporte técnico y comercial en reuniones virtuales o presenciales en Bogotá, brindando asesoría en temas de GIS, IA, ingeniería y otros aspectos que requiera la empresa. Es ideal para resolver dudas, apoyar implementaciones y acompañar al cliente en reuniones y proyectos. Si la sesión supera 1 hora, se facturará proporcionalmente; en caso de visitas de campo, se incluirán viáticos y recargos por traslados.",
+                "Area_estrategica_IsaGIS_Technol": "Otros Servicios",
+                "Grupo": "Asesorias",
+                "Subgrupo": "Asesorias",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Prueba 4",
+                "Codigo_Servicio_SIG": 30,
+                "Nombre_del_Servicio": "Migración de Mapa desarrollado en ArcMap a ArcGIS Pro",
+                "Descripción_Técnica_del_Servici": "Este servicio transforma proyectos de mapas desarrollados en ArcMap (archivo MXD) a ArcGIS Pro (archivo APRX), facilitando la migración hacia la plataforma moderna de Esri. Una vez migrado, el proyecto en ArcGIS Pro puede ser utilizado para desarrollar algoritmos, servicios web o aplicaciones móviles, integrándose con ArcGIS Enterprise o ArcGIS Online.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios SIG",
+                "Grupo": "Data Management",
+                "Subgrupo": "Migración de Aplicaciones",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0
+            }
         }
     ],
-    "updated_at": "2025-04-22 14:11:30"
+    "updated_at": "2025-04-22 16:24:51"
 }
