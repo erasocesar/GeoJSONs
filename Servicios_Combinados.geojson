@@ -174,7 +174,73 @@
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 1.0
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Class Location",
+                "Codigo_Servicio_SIG": 120,
+                "Nombre_del_Servicio": "Class Location (25 km)",
+                "Descripción_Técnica_del_Servici": "Desarrolla el análisis de “Class Location” conforme a la norma ASME B31.8 para gasoductos. El servicio requiere que el cliente proporcione –o contrate el desarrollo de– el trazado del gasoducto y la ubicación de las ocupaciones humanas. En caso de no contar con estos datos, se puede utilizar información secundaria (por ejemplo, gratuita del IGAC) o contratar un servicio de GIS Conceptual para extraer dicha información; adicionalmente, se puede optar por mejorar la capa de ocupaciones humanas con servicios de drones. No se incluye la generación de documentos, desarrollo de trazados ni georreferenciación de la capa de ocupaciones humanas. Si se desea analizar múltiples rutas, se suman los kilómetros y el costo se incrementa proporcionalmente; para incluir documentación, se debe agregar un servicio de documentación (2 a 10 páginas). El resultado se entrega en una File GDB.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de Ingeniería",
+                "Grupo": "Servicios de Ingeniería de Ductos",
+                "Subgrupo": "Diseño de Gasoductos",
+                "Unidades_Basicos": 0.0,
+                "Unidades_Intermedias": 1.0,
+                "Unidades_Avanzadas": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Class Location",
+                "Codigo_Servicio_SIG": 96,
+                "Nombre_del_Servicio": "Extracción de ocupaciones humanas usando Deep Learning (200 Ha)",
+                "Descripción_Técnica_del_Servici": "Este servicio clasifica asentamientos y ocupaciones humanas mediante Deep Learning aplicado a imágenes Sentinel 2. Diseñado para capturar la complejidad de los asentamientos, ofrece resultados superiores a los métodos tradicionales y es ideal para análisis en proyectos de planificación y evaluación urbana.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios SIG",
+                "Grupo": "Procesamiento de Imágenes y Sensores Remotos",
+                "Subgrupo": "Deep Learning",
+                "Unidades_Basicos": 0.0,
+                "Unidades_Intermedias": 1.0,
+                "Unidades_Avanzadas": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Class Location",
+                "Codigo_Servicio_SIG": 207,
+                "Nombre_del_Servicio": "Extracción de ocupaciones humanas usando Deep Learning (200 Ha)",
+                "Descripción_Técnica_del_Servici": "Este servicio clasifica asentamientos y ocupaciones humanas mediante Deep Learning aplicado a imágenes Sentinel 2. Diseñado para capturar la complejidad de los asentamientos, ofrece resultados superiores a los métodos tradicionales y es ideal para análisis en proyectos de planificación y evaluación urbana.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "GeoAI",
+                "Subgrupo": "Deep Learning",
+                "Unidades_Basicos": 0.0,
+                "Unidades_Intermedias": 1.0,
+                "Unidades_Avanzadas": 0.0
+            }
         }
     ],
-    "updated_at": "2025-04-22 11:44:31"
+    "updated_at": "2025-04-22 12:03:55"
 }
