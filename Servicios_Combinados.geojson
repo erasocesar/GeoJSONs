@@ -240,7 +240,73 @@
                 "Unidades_Intermedias": 1.0,
                 "Unidades_Avanzadas": 0.0
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Prueba",
+                "Codigo_Servicio_SIG": 9,
+                "Nombre_del_Servicio": "Espacialización de elementos o Eventos asociados a una Linea (tuberia o infraestructurla lineal) usando Pks o Abcisas",
+                "Descripción_Técnica_del_Servici": "Este servicio permite la espacialización de elementos o eventos asociados a infraestructuras lineales a partir de datos tabulares que contengan Pks o abscisas. Se genera una capa dinámica en Esri ArcGIS que se actualiza automáticamente al modificar la tabla, facilitando el seguimiento en tiempo real.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios SIG",
+                "Grupo": "Análisis Espacial y Ciencia de los Datos",
+                "Subgrupo": "Procesamiento Geoespacial",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Prueba",
+                "Codigo_Servicio_SIG": 4,
+                "Nombre_del_Servicio": "Curvas de Nivel en formato Autocad",
+                "Descripción_Técnica_del_Servici": "Utilizando Esri ArcGIS, este servicio genera curvas de nivel precisas a intervalos personalizados, basándose en el Modelo Digital de Elevación (DEM) proporcionado. La capa resultante se entrega en un formato compatible con Autocad, ideal para proyectos de ingeniería y planificación.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios SIG",
+                "Grupo": "Análisis Espacial y Ciencia de los Datos",
+                "Subgrupo": "Procesamiento Geoespacial",
+                "Unidades_Basicos": 2.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Prueba",
+                "Codigo_Servicio_SIG": 13,
+                "Nombre_del_Servicio": "Definicion de Datum y Sistemas de Coordenadas",
+                "Descripción_Técnica_del_Servici": "Este servicio sobrescribe la información del sistema de coordenadas (proyección y Datum) de un dataset, sin modificar la geometría existente. Está diseñado para capas georreferenciadas que presentan un sistema de coordenadas desconocido o incorrecto. Si se requiere transformar la geometría a otro sistema, se recomienda utilizar el servicio de Transformación de Sistema de Coordenadas. Con la potencia de Esri ArcGIS, nuestros expertos en IsaGIS aseguran que la información se ajuste a los estándares requeridos.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios SIG",
+                "Grupo": "Análisis Espacial y Ciencia de los Datos",
+                "Subgrupo": "Procesamiento Geoespacial",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0
+            }
         }
     ],
-    "updated_at": "2025-04-22 12:03:55"
+    "updated_at": "2025-04-22 12:09:18"
 }
