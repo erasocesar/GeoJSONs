@@ -1369,7 +1369,7 @@
                 "Descripción_Técnica_del_Servicio": "Este servicio ofrece acompañamiento, soporte técnico y comercial en reuniones virtuales o presenciales en Bogotá, brindando asesoría en temas de GIS, IA, ingeniería y otros aspectos que requiera la empresa. Es ideal para resolver dudas, apoyar implementaciones y acompañar al cliente en reuniones y proyectos. Si la sesión supera 1 hora, se facturará proporcionalmente; en caso de visitas de campo, se incluirán viáticos y recargos por traslados.",
                 "Detalles_Costo_Base": "Se cobra 1 unidad de Servicio SIG Básico por cada hora de acompañamiento, ajustándose proporcionalmente si se excede el tiempo estipulado.",
                 "Notas_Adicionales": "El cliente debe enviar una solicitud detallada con la descripción del soporte o asesoría requerida.",
-                "Tiempo__Dias_habiles_": "0,125",
+                "Tiempo__Dias_habiles_": "0.125",
                 "Tiempos_de_entrega": "1 hora",
                 "URL_Video_hosting": "",
                 "URL_con_información_adicional": "",
@@ -4708,37 +4708,6 @@
                 ]
             },
             "properties": {
-                "Nro": 150,
-                "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Grupo": "Procesamiento de Imágenes y Sensores Remotos",
-                "Subgrupo": "Deep Learning",
-                "Nombre_del_Servicio": "Implementar un modelo de GeoAI",
-                "Clasificación": "Servicio Avanzado",
-                "Descripción_Técnica_del_Servicio": "Este servicio permite desarrollar un modelo de GeoAI que integra herramientas SIG e inteligencia artificial para automatizar tareas repetitivas (por ejemplo, extracción y georeferenciación de información a partir de imágenes aéreas o satelitales, y extracción de elementos de videos). El algoritmo se entrena de acuerdo con las necesidades específicas del cliente.",
-                "Detalles_Costo_Base": "5 Servicios SIG Avanzados cubren el desarrollo de un algoritmo de GeoAI.",
-                "Notas_Adicionales": "El cliente debe entregar un documento detallado que describa la necesidad, objetivos y requisitos para el algoritmo a desarrollar.",
-                "Tiempo__Dias_habiles_": "",
-                "Tiempos_de_entrega": "2 mes a 4 meses",
-                "URL_Video_hosting": "",
-                "URL_con_información_adicional": "",
-                "Basicos": 0.0,
-                "Intermedios": 0.0,
-                "Avanzados": 4.0,
-                "Pregunta": "",
-                "Factor_Corrección": "",
-                "Codig_Nuevo": 150
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
                 "Nro": 151,
                 "Area_IsaGIS_Technologies": "Operaciones de Campo",
                 "Grupo": "Recolección de Datos en Tierra",
@@ -5306,7 +5275,7 @@
                 "Descripción_Técnica_del_Servicio": "Este servicio se encarga de la recopilación y el envío diario de reportes de requerimientos HSE de nivel avanzado durante la ejecución del proyecto, sin necesidad de contratar a un profesional HSE.",
                 "Detalles_Costo_Base": "1 Servicio SIG Avanzado cubre esta actividad.",
                 "Notas_Adicionales": "El cliente debe entregar una lista de requerimientos HSE diarios.",
-                "Tiempo__Dias_habiles_": "960",
+                "Tiempo__Dias_habiles_": "20",
                 "Tiempos_de_entrega": "30 dias",
                 "URL_Video_hosting": "",
                 "URL_con_información_adicional": "",
@@ -5337,7 +5306,7 @@
                 "Descripción_Técnica_del_Servicio": "Este servicio cubre la administración y contratación mensual de profesionales HSE, asegurando que el personal adecuado esté disponible para cumplir con las normativas y necesidades del proyecto.",
                 "Detalles_Costo_Base": "1 Servicio SIG Avanzado + 1 Servicio SIG Intermedio cubren esta actividad.",
                 "Notas_Adicionales": "El cliente debe proporcionar los requisitos y el perfil del profesional HSE a contratar.",
-                "Tiempo__Dias_habiles_": "960",
+                "Tiempo__Dias_habiles_": "20",
                 "Tiempos_de_entrega": "30 dias",
                 "URL_Video_hosting": "",
                 "URL_con_información_adicional": "",
@@ -6546,7 +6515,7 @@
                 "Descripción_Técnica_del_Servicio": "Este servicio permite desarrollar un modelo de GeoAI que integra herramientas SIG e inteligencia artificial para automatizar tareas repetitivas (por ejemplo, extracción y georeferenciación de información a partir de imágenes aéreas o satelitales, y extracción de elementos de videos). El algoritmo se entrena de acuerdo con las necesidades específicas del cliente.",
                 "Detalles_Costo_Base": "5 Servicios SIG Avanzados cubren el desarrollo de un algoritmo de GeoAI.",
                 "Notas_Adicionales": "El cliente debe entregar un documento detallado que describa la necesidad, objetivos y requisitos para el algoritmo a desarrollar.",
-                "Tiempo__Dias_habiles_": "",
+                "Tiempo__Dias_habiles_": "60",
                 "Tiempos_de_entrega": "2 mes a 4 meses",
                 "URL_Video_hosting": "",
                 "URL_con_información_adicional": "",
@@ -7241,5 +7210,5 @@
             }
         }
     ],
-    "updated_at": "2025-04-22 16:24:44"
+    "updated_at": "2025-04-23 17:33:38"
 }
