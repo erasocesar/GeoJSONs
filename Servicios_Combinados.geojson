@@ -119,32 +119,10 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Videos para Redes Sociales",
+                "Nombre_Servicio_Combinado": "Creación de Videos para Redes Sociales con Avatar",
                 "Codigo_Servicio_SIG": 51,
-                "Nombre_del_Servicio": "Narración",
-                "Descripción_Técnica_del_Servici": "Este servicio añade narración a videos promocionales, pudiendo optar por narración generada mediante inteligencia artificial o mediante voz humana, en inglés o español. Se realiza una reunión previa para seleccionar el narrador adecuado, lo que potencia el impacto y la comunicación del mensaje promocional.",
-                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "IA Generativa",
-                "Subgrupo": "Mercadeo",
-                "Unidades_Basicos": 2.0,
-                "Unidades_Intermedias": 0.0,
-                "Unidades_Avanzadas": 0.0
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Nombre_Servicio_Combinado": "Videos para Redes Sociales",
-                "Codigo_Servicio_SIG": 52,
-                "Nombre_del_Servicio": "Guion (Script) para Videos ",
-                "Descripción_Técnica_del_Servici": "Este servicio ofrece la elaboración de un guion para videos promocionales que incluye la descripción de cada escena, indicaciones para las imágenes o videos y, opcionalmente, la incorporación de narración. El guion se adapta a cualquier temática y se entrega en formato Word, facilitando la producción audiovisual.",
+                "Nombre_del_Servicio": "Avatar programado para narración de Videos",
+                "Descripción_Técnica_del_Servici": "Este servicio consiste en la creación de un Avatar usando IA, que puede ser usado para narrar videos promocionales o de redes sociales. Se puede implementar el Avatar con Avatares publicos disponibles en la herramienta de IA de IsaGIS o se puede configurar Avatares Hiperrealistas que son basados en videos de 2 min entregados por el cliente o usando fotografias de la persona o objeto animado a clonar.  ",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
                 "Grupo": "IA Generativa",
                 "Subgrupo": "Mercadeo",
@@ -163,18 +141,62 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Videos para Redes Sociales",
+                "Nombre_Servicio_Combinado": "Creación de Videos para Redes Sociales con Avatar",
+                "Codigo_Servicio_SIG": 52,
+                "Nombre_del_Servicio": "Guion (Script) para Videos ",
+                "Descripción_Técnica_del_Servici": "Este servicio ofrece la elaboración de un guion para videos promocionales que incluye la descripción de cada escena, indicaciones para las imágenes o videos y, opcionalmente, la incorporación de narración. El guion se adapta a cualquier temática y se entrega en formato Word, facilitando la producción audiovisual.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IA Generativa",
+                "Subgrupo": "Mercadeo",
+                "Unidades_Basicos": 0.5,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Creación de Videos para Redes Sociales con Avatar",
+                "Codigo_Servicio_SIG": 53,
+                "Nombre_del_Servicio": "Desarrollo General de Estrategias de Mercadeo ",
+                "Descripción_Técnica_del_Servici": "Este servicio desarrolla estrategias generales de mercadeo adaptadas a la temática o tipo de negocio del cliente, ofreciendo hasta 10 estrategias con una descripción general de cada actividad. El entregable se presenta en una tabla Excel, proporcionando una visión clara y estructurada para la toma de decisiones, sin incluir la ejecución de las estrategias.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IA Generativa",
+                "Subgrupo": "Mercadeo",
+                "Unidades_Basicos": 0.5,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Creación de Videos para Redes Sociales con Avatar",
                 "Codigo_Servicio_SIG": 158,
                 "Nombre_del_Servicio": "Videos Promocionales",
-                "Descripción_Técnica_del_Servici": "Este servicio crea videos promocionales para presentaciones, Story Maps, aplicaciones web inmersivas o actividades de mercadeo, utilizando inteligencia artificial, tecnología SIG de Esri y recursos propios de IsaGIS (drones y proyectos de ingeniería). El video tendrá una duración máxima de 2 minutos; videos más largos se cotizan proporcionalmente. El contenido, imágenes, temática, guion y narración deben ser proporcionados por el cliente o solicitados como servicios adicionales.",
+                "Descripción_Técnica_del_Servici": "Este servicio crea videos promocionales para presentaciones, Story Maps, aplicaciones web inmersivas o actividades de mercadeo, utilizando inteligencia artificial, tecnología SIG de Esri y recursos propios de IsaGIS (drones y proyectos de ingeniería). El video tendrá una duración máxima de 2 minutos; videos más largos se cotizan proporcionalmente. El contenido, imágenes, temática, guion y narración deben ser proporcionados por el cliente o solicitados como servicios adicionales, se pudiera integrar el video con un avatar. pero tambien se debe solicitar adicionalmente la creación del avatar.",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
                 "Grupo": "IA Generativa",
                 "Subgrupo": "Mercadeo",
                 "Unidades_Basicos": 0.0,
-                "Unidades_Intermedias": 0.0,
-                "Unidades_Avanzadas": 1.0
+                "Unidades_Intermedias": 1.0,
+                "Unidades_Avanzadas": 0.0
             }
         }
     ],
-    "updated_at": "2025-04-24 10:47:48"
+    "updated_at": "2025-04-24 10:55:31"
 }
