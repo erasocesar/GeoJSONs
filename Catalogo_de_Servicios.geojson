@@ -1308,7 +1308,7 @@
                 "Detalles_Costo_Base": "Se cobra 1 unidad de Servicio SIG Básico por la construcción de entre 1 y 5 puntos de control temporales, lo minimo que se cobran son 5 puntos de control, a pesar de que sean menos. Para construcciones de puntos de control permanentes, se debe adquirir el Servicio de Contrucción de Puntos de Control Permanente.",
                 "Notas_Adicionales": "El cliente debe proporcionar la planeación de los puntos de control, la cual puede gestionarse mediante el servicio de “Planeación de Puntos de Control de 3 m”.",
                 "Tiempo__Dias_habiles_": "0,25",
-                "Tiempos_de_entrega": "Cada punto de contro se construye en 5 min pero dependiendo de la separacion y accesibilidad entre los puntos de control este tiempo puede aumentar.",
+                "Tiempos_de_entrega": "Cada punto de control se construye en 5 min pero dependiendo de la separacion y accesibilidad entre los puntos de control este tiempo puede aumentar.",
                 "URL_Video_hosting": "",
                 "URL_con_información_adicional": "https://support.pix4d.com/hc/en-us/articles/4402423894545-Automatic-target-detection-AutoGCP-algorithm",
                 "Basicos": 1.0,
@@ -7303,5 +7303,5 @@
             }
         }
     ],
-    "updated_at": "2025-05-23 07:49:05"
+    "updated_at": "2025-05-23 08:15:43"
 }
