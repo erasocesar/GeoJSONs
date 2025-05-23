@@ -96,17 +96,17 @@
                 "Nombre_del_Servicio": "Cruce geoespacial sencillo (1 cruce entre 2 capas)",
                 "Clasificación": "Servicio Básico",
                 "Descripción_Técnica_del_Servicio": "Nuestro servicio de Cruce Geoespacial Sencillo integra dos capas geoespaciales, aplicando filtros o definition queries para lograr un análisis preciso. El resultado se entrega como una nueva capa en el formato solicitado (línea o punto). Si se requiere agregar una columna con la clasificación de la selección, se debe contratar el servicio complementario \"Clasificación de Datos Geoespaciales según ubicación geográfica\". Aproveche la potencia de Esri ArcGIS para obtener análisis rápidos y exactos.",
-                "Detalles_Costo_Base": "Equivale a media unidad de servicio SIG Básico, que incluye la entrega del cruce en el formato elegido. Para la entrega en formatos adicionales, se sumarán servicios complementarios de conversión de datos.",
+                "Detalles_Costo_Base": "0,25 servicios Básico POR CADA CRUCE GEOESPACIAL, que incluye la entrega del cruce en el formato elegido. Para la entrega en formatos adicionales, se sumarán servicios complementarios de conversión de datos.",
                 "Notas_Adicionales": "El cliente debe proporcionar dos capas en formato Feature Class de una Geodatabase (GDB). Si las capas no están en el formato requerido, se deberá contratar un servicio adicional de conversión de datos.",
-                "Tiempo__Dias_habiles_": "1",
+                "Tiempo__Dias_habiles_": "0,25",
                 "Tiempos_de_entrega": "2 - 8 h",
-                "URL_Video_hosting": "https://www.nuevaweb.isagis.com/images/Trazado_de_Ductos.mp4",
+                "URL_Video_hosting": "",
                 "URL_con_información_adicional": "",
-                "Basicos": 0.5,
+                "Basicos": 0.25,
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
-                "Pregunta": "",
-                "Factor_Corrección": "",
+                "Pregunta": "Cuantos Cruces Geoespaciales desea ejecutar?",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 1
             }
         },
@@ -129,15 +129,15 @@
                 "Descripción_Técnica_del_Servicio": "Este servicio transforma datos tabulares (Excel o TXT) en información espacial precisa. Es indispensable que el archivo incluya coordenadas exactas, junto con la información del Datum y el Sistema de Coordenadas. Para espacializar datos con puntos kilométricos o abscisas sobre infraestructuras lineales, se recomienda el servicio \"Espacialización de elementos o Eventos asociados a una Línea\".",
                 "Detalles_Costo_Base": "El costo seria media unidad básica y no importa la cantidad de registros que tenga la tabla, teniendo en cuenta los requerimientos mencionados en la descripción técnica del Servicio y en Notas Adicionales. Si falta la información de referencia, se deberá contratar el servicio de Determinación de Sistema de Coordenadas o servicios adicionales de mejora de datos.",
                 "Notas_Adicionales": "Proporcione el archivo de Excel o TXT con las coordenadas, junto con la información detallada del Datum y Sistema de Coordenadas. Es fundamental verificar la precisión de los datos para asegurar resultados óptimos, Isagis no se hace responble de la precisión de los datos entregados por el cliente, si se requiere verificación y control de calidad de los datos que entrega el cliente, se deben contratar servicios adicionales.",
-                "Tiempo__Dias_habiles_": "1",
+                "Tiempo__Dias_habiles_": "0,25",
                 "Tiempos_de_entrega": "2 - 8 h",
-                "URL_Video_hosting": "https://www.nuevaweb.isagis.com/images/Trazado_de_Ductos.mp4",
+                "URL_Video_hosting": "",
                 "URL_con_información_adicional": "",
                 "Basicos": 0.5,
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
-                "Pregunta": "",
-                "Factor_Corrección": "",
+                "Pregunta": "No aplica, siempre sera 1 el Factor de Corrección",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 2
             }
         },
@@ -158,17 +158,17 @@
                 "Nombre_del_Servicio": "Clasificación de Datos geoespaciales según ubicación Geografica",
                 "Clasificación": "Servicio Básico",
                 "Descripción_Técnica_del_Servicio": "Este servicio clasifica sus datos geoespaciales mediante cruces con capas de referencia, añadiendo un campo en los atributos que indica la clasificación basada en la ubicación. Aproveche Esri ArcGIS para obtener análisis precisos y eficientes en sus proyectos.",
-                "Detalles_Costo_Base": "El costo equivale a media unidad de servicio SIG Básico por capa clasificada, permitiendo hasta dos cruces geoespaciales en el proceso.",
+                "Detalles_Costo_Base": "El costo equivale a media unidad de servicio SIG Básico POR CLASIFICACIÓN.",
                 "Notas_Adicionales": "Es indispensable haber ejecutado previamente el servicio \"Cruce geoespacial sencillo (1 cruce entre 2 capas)\" para disponer de las capas base necesarias para la clasificación.",
-                "Tiempo__Dias_habiles_": "1",
+                "Tiempo__Dias_habiles_": "0,25",
                 "Tiempos_de_entrega": "2 - 8 h",
                 "URL_Video_hosting": "",
                 "URL_con_información_adicional": "",
                 "Basicos": 0.5,
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
-                "Pregunta": "",
-                "Factor_Corrección": "",
+                "Pregunta": "Cuentas clasificaciones desea realizar?",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 3
             }
         },
@@ -189,17 +189,17 @@
                 "Nombre_del_Servicio": "Curvas de Nivel en formato Autocad",
                 "Clasificación": "Servicio Básico",
                 "Descripción_Técnica_del_Servicio": "Utilizando Esri ArcGIS, este servicio genera curvas de nivel precisas a intervalos personalizados, basándose en el Modelo Digital de Elevación (DEM) proporcionado. La capa resultante se entrega en un formato compatible con Autocad, ideal para proyectos de ingeniería y planificación.",
-                "Detalles_Costo_Base": "El servicio equivale a media unidad de servicio SIG Básico, que cubren la creación de curvas de nivel conforme a las especificaciones solicitadas.",
-                "Notas_Adicionales": "Proporcione un DEM en formato digital. Si se trata de un estudio conceptual, se puede solicitar el servicio de Entrega de Datos Abiertos; para mayor precisión, se recomienda contratar el servicio de Sensores Remotos (DSM).",
-                "Tiempo__Dias_habiles_": "1",
+                "Detalles_Costo_Base": "El servicio equivale a media unidad de servicio SIG Básico, que cubren la creación de curvas de nivel de un DEM (Modelo Digital de Elevación). Se cobrara 0,5 unidades por cada 800 Km2.",
+                "Notas_Adicionales": "Proporcione un DEM en formato digital y con datum y Sistema de Coordenadas definido. Si se trata de un estudio conceptual, se puede solicitar el servicio de Entrega de Datos Abiertos; para mayor precisión, se recomienda contratar el servicio de Sensores Remotos (DSM). Si no se tiene definido el Datum o Sistema de Coordenadas, se debe contratar este servicio adicionalmente.",
+                "Tiempo__Dias_habiles_": "0,5",
                 "Tiempos_de_entrega": "2 - 8 h",
                 "URL_Video_hosting": "",
-                "URL_con_información_adicional": "https://youtu.be/qQxlsvnPJLE",
+                "URL_con_información_adicional": "",
                 "Basicos": 0.5,
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
-                "Pregunta": "",
-                "Factor_Corrección": "",
+                "Pregunta": "El area del DEM es mayor a 800 km²? si la respuesta es no el factor de corrección es 1 y si la respuesta si, por cada 800 km² aumentaria en 1 el factor de corrección.",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 4
             }
         },
@@ -219,18 +219,18 @@
                 "Subgrupo": "Procesamiento Geoespacial",
                 "Nombre_del_Servicio": "Mapa de Pendientes",
                 "Clasificación": "Servicio Básico",
-                "Descripción_Técnica_del_Servicio": "Este servicio genera un mapa raster de pendientes a partir de un DSM, empleando Esri ArcGIS para procesar y convertir el modelo en un raster en formato GeoTIFF. Es ideal para análisis topográficos y de ingeniería.",
-                "Detalles_Costo_Base": "Equivale a 1 unidad de servicio SIG Básico, que incluye la creación del mapa de pendientes en el formato solicitado.",
-                "Notas_Adicionales": "El cliente debe proporcionar un DSM (Digital Surface Model). Si no se dispone del modelo, se recomienda contratar el servicio de Sensores Remotos \"Servicio de Mapeo Topográfico RGB o LIDAR\".",
-                "Tiempo__Dias_habiles_": "1",
+                "Descripción_Técnica_del_Servicio": "Este servicio genera un mapa raster de pendientes a partir de un DEM (Modelo Digital de Elevación), empleando algoritmos de ArcGIS para procesar y convertir un DEM en un mapa de pendientes y se entregaria un raster en formato GeoTIFF. Es ideal para análisis topográficos y de ingeniería.",
+                "Detalles_Costo_Base": "Equivale a 1 unidad de servicio SIG Básico, que incluye la creación del mapa de pendientes en el formato solicitado. Se cobrara 1 unidad de Servicio Básico por cada 800 Km2.",
+                "Notas_Adicionales": "El cliente debe proporcionar un DEM (Modelo Digital de Elevación). Si no se dispone del modelo, se recomienda contratar el servicio de Sensores Remotos \"Servicio de Mapeo Topográfico RGB o LIDAR\" para obtener un DSM y un servicio de geoprocesamiento para obtener un DEM.",
+                "Tiempo__Dias_habiles_": "0,5",
                 "Tiempos_de_entrega": "2 - 8 h",
                 "URL_Video_hosting": "",
                 "URL_con_información_adicional": "https://youtu.be/qQxlsvnPJLE",
                 "Basicos": 0.5,
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
-                "Pregunta": "",
-                "Factor_Corrección": "",
+                "Pregunta": "El area del DEM es mayor a 800 km²? si la respuesta es no el factor de corrección es 1 y si la respuesta si, por cada 800 km² aumentaria en 1 el factor de corrección.",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 5
             }
         },
@@ -250,18 +250,18 @@
                 "Subgrupo": "Procesamiento Geoespacial",
                 "Nombre_del_Servicio": "Ubicación  crestas de montaña (Lomos).",
                 "Clasificación": "Servicio Básico",
-                "Descripción_Técnica_del_Servicio": "Este servicio utiliza un algoritmo patentado de IsaGIS para detectar y delinear las crestas de montaña (lomos) a partir de un DSM. La capa resultante se entrega en un formato geoespacial único (SHP, Feature Class, KMZ o Autocad), facilitando su integración en proyectos de ingeniería y análisis topográfico, aprovechando la eficiencia de Esri ArcGIS.",
+                "Descripción_Técnica_del_Servicio": "Este servicio utiliza un geoproceso creado IsaGIS para detectar y delinear las crestas de montaña (lomos) a partir de un DSM (modelo digital de superficie). La capa resultante se entrega en un formato geoespacial único (SHP, Feature Class, KMZ o Autocad), facilitando su integración en proyectos de ingeniería y análisis topográfico, aprovechando la eficiencia de ArcGIS.",
                 "Detalles_Costo_Base": "Equivale a 2 unidades de servicio SIG Básico, cubriendo la generación de la capa de lomos en el formato elegido (se entrega en un único formato).",
                 "Notas_Adicionales": "Se requiere proporcionar un DSM en formato digital. En su defecto, el cliente puede optar por el servicio de Entrega de Datos Abiertos o el servicio de Sensores Remotos \"Servicio de Mapeo Topográfico RGB o LIDAR\".",
                 "Tiempo__Dias_habiles_": "0,5",
                 "Tiempos_de_entrega": "2 - 8 h",
                 "URL_Video_hosting": "",
-                "URL_con_información_adicional": "https://youtu.be/qQxlsvnPJLE",
+                "URL_con_información_adicional": "",
                 "Basicos": 2.0,
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
-                "Pregunta": "",
-                "Factor_Corrección": "",
+                "Pregunta": "El area del DSM es mayor a 800 km²? si la respuesta es no el factor de correción es 1 y si la respuesta si, por cada 800 km² aumentaria en 1 el factor de corrección.",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 6
             }
         },
@@ -281,18 +281,18 @@
                 "Subgrupo": "Procesamiento Geoespacial",
                 "Nombre_del_Servicio": "Creación de la Ruta o Tuberia Inteligente Sin Calibración",
                 "Clasificación": "Servicio Básico",
-                "Descripción_Técnica_del_Servicio": "Este servicio transforma una capa lineal en una ruta o tubería inteligente, integrando referencias lineales (Pks o abscisas) para ubicar eventos y elementos con precisión. Utilizando Esri ArcGIS, optimiza la visualización y análisis en 2D, siendo ideal para proyectos de gasoductos u oleoductos. Para calibración topográfica o ajustes adicionales, se recomienda el servicio \"Tubería Inteligente con Calibración\" y otros servicios de optimización.",
+                "Descripción_Técnica_del_Servicio": "Este servicio transforma una capa lineal en una ruta o tubería inteligente, que permitia manejar referencias lineales (Pks o abscisas) para ubicar eventos y elementos con precisión sobre la capa tipo linea. Utilizando ArcGIS, optimiza la visualización y análisis en 2D, siendo ideal para proyectos de gasoductos u oleoductos. Para calibración topográfica o ajustes adicionales, se recomienda el servicio \"Tubería Inteligente con Calibración\" y otros servicios de optimización.",
                 "Detalles_Costo_Base": "Equivale a media unidad de servicio SIG Básico, que cubre la creación de la ruta en 2D. Los servicios adicionales para calibración u optimización se facturarán por separado.",
-                "Notas_Adicionales": "El cliente debe entregar el trazado de la tubería en cualquier formato digital. Si no se dispone de esta información, se puede solicitar el servicio \"Desarrollo de 1 trazado (25 KM)\".",
-                "Tiempo__Dias_habiles_": "1",
+                "Notas_Adicionales": "El cliente debe entregar el trazado de la tubería o la capa tipo linea en cualquier formato digital. Si no se dispone de esta información, se puede solicitar el servicio \"Desarrollo de 1 trazado (25 KM)\".",
+                "Tiempo__Dias_habiles_": "0,5",
                 "Tiempos_de_entrega": "2 - 8 h",
                 "URL_Video_hosting": "",
                 "URL_con_información_adicional": "",
                 "Basicos": 0.5,
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
-                "Pregunta": "",
-                "Factor_Corrección": "",
+                "Pregunta": "No aplica, siempre sera 1 el Factor de Corrección",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 7
             }
         },
@@ -310,20 +310,20 @@
                 "Area_IsaGIS_Technologies": "Servicios SIG",
                 "Grupo": "Análisis Espacial y Ciencia de los Datos",
                 "Subgrupo": "Procesamiento Geoespacial",
-                "Nombre_del_Servicio": "Obtención de Pks de elementos sobre una tuberia o ruta",
+                "Nombre_del_Servicio": "Obtención de Pks de elementos tipo punto sobre una tuberia o ruta",
                 "Clasificación": "Servicio Básico",
-                "Descripción_Técnica_del_Servicio": "Este servicio calcula los puntos kilométricos (Pks) de elementos ubicados sobre una tubería inteligente, generando una tabla detallada con los valores de Pks y sus atributos. Se aprovecha la tecnología Esri ArcGIS para obtener resultados precisos en el formato que el cliente requiera.",
-                "Detalles_Costo_Base": "Equivale a 1 unidad de servicio SIG Básico, que incluye el análisis de una capa con una tubería inteligente. Si se requieren entregas en formatos adicionales, se aplicarán servicios de conversión complementarios.",
-                "Notas_Adicionales": "El cliente debe proporcionar la capa de la tubería inteligente y la capa de elementos cuyos Pks se desean calcular. Si la tubería no es inteligente o falta el trazado, se recomienda solicitar los servicios \"Tubería Inteligente Sin Calibración\" o \"Creación de trazados\".",
+                "Descripción_Técnica_del_Servicio": "Este servicio calcula los puntos kilométricos (Pks) de elementos tipo punto ubicados sobre una tubería inteligente, generando una tabla detallada con los valores de Pks y sus atributos. Se aprovecha la tecnología Esri ArcGIS para obtener resultados precisos en el formato que el cliente requiera.",
+                "Detalles_Costo_Base": "Equivale a 0,5 unidad de servicio SIG Básico, que incluye el análisis de una capa con una tubería inteligente, ambas capas deben estar en formato feature class de ArcGIS. Si se requieren realizar conversión a Feature Class, se aplicarán servicios de conversión complementarios.",
+                "Notas_Adicionales": "El cliente debe proporcionar la capa de la tubería inteligente y la capa de elementos tipo puhnto cuyos Pks se desean calcular en formato Feature Class de ArcGIS. Si la tubería no es inteligente o falta el trazado, se recomienda solicitar los servicios \"Tubería Inteligente Sin Calibración\" o \"Creación de trazados\". Se pudiera entrega la tabla en formato excel, teniendo en cuenta que este servicio aplica para generar los PK en capas tipo punto, no linea. ",
                 "Tiempo__Dias_habiles_": "0,5",
                 "Tiempos_de_entrega": "2 - 8 h",
                 "URL_Video_hosting": "",
                 "URL_con_información_adicional": "",
-                "Basicos": 1.0,
+                "Basicos": 0.5,
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
-                "Pregunta": "",
-                "Factor_Corrección": "",
+                "Pregunta": "No aplica, siempre sera 1 el Factor de Corrección",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 8
             }
         },
@@ -344,8 +344,8 @@
                 "Nombre_del_Servicio": "Espacialización de elementos o Eventos asociados a una Linea (tuberia o infraestructurla lineal) usando Pks o Abcisas",
                 "Clasificación": "Servicio Básico",
                 "Descripción_Técnica_del_Servicio": "Este servicio permite la espacialización de elementos o eventos asociados a infraestructuras lineales a partir de datos tabulares que contengan Pks o abscisas. Se genera una capa dinámica en Esri ArcGIS que se actualiza automáticamente al modificar la tabla, facilitando el seguimiento en tiempo real.",
-                "Detalles_Costo_Base": "Equivale a 1 unidad de servicio SIG Básico, que incluye la creación y exportación del evento en el formato geoespacial solicitado. Los servicios adicionales de conversión se facturarán por separado.",
-                "Notas_Adicionales": "Proporcione la tabla de Pks en formato Excel, junto con la información de la referencia lineal y la tubería inteligente. Si no se cuenta con la tubería inteligente, se recomienda solicitar el servicio \"Creación de la Ruta o Tuberia Inteligente Sin Calibración\".",
+                "Detalles_Costo_Base": "Equivale a 1 unidad de servicio SIG Básico, que incluye la creación y exportación del evento en el formato geoespacial solicitado. Los servicios adicionales de conversión se facturarán por separado. Se entregara una tabla con los Pk inicial y Final de cada linea en formato excel.",
+                "Notas_Adicionales": "Proporcione la tabla de Pks en formato Excel, junto con la información de la referencia lineal y la tubería inteligente. Si no se cuenta con la tubería inteligente, se recomienda solicitar el servicio \"Creación de la Ruta o Tuberia Inteligente Sin Calibración\". Si se desea adicionalmente que la tabla posea las coordenadas de inicio y fin de la linea se debe contratar el servicio coodenadas de inicio y fin de lineas.",
                 "Tiempo__Dias_habiles_": "0,5",
                 "Tiempos_de_entrega": "2 - 8 h",
                 "URL_Video_hosting": "",
@@ -353,8 +353,8 @@
                 "Basicos": 1.0,
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
-                "Pregunta": "",
-                "Factor_Corrección": "",
+                "Pregunta": "No aplica, siempre sera 1 el Factor de Corrección",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 9
             }
         },
@@ -372,10 +372,10 @@
                 "Area_IsaGIS_Technologies": "Servicios SIG",
                 "Grupo": "Análisis Espacial y Ciencia de los Datos",
                 "Subgrupo": "Procesamiento Geoespacial",
-                "Nombre_del_Servicio": "Conversión de tuberias 2D a 3D usando DEMs",
+                "Nombre_del_Servicio": "Conversión de tuberias 2D a 3D usando DEMs (Modelos Digitales de Elevación)",
                 "Clasificación": "Servicio Básico",
-                "Descripción_Técnica_del_Servicio": "Este servicio convierte una tubería 2D en un modelo 3D utilizando un Modelo Digital de Elevación (DEM), permitiendo obtener la longitud real y un análisis topográfico preciso. Aproveche Esri ArcGIS para transformar sus datos lineales en modelos tridimensionales de alta calidad.",
-                "Detalles_Costo_Base": "Equivale a 1 unidad de servicio SIG Básico, que incluye la conversión a 3D en el formato solicitado. Si el DEM no está disponible, se recomienda contratar el servicio de Sensores Remotos para su generación.",
+                "Descripción_Técnica_del_Servicio": "Este servicio convierte una tubería 2D en un modelo 3D utilizando un Modelo Digital de Elevación (DEM), permitiendo obtener la longitud real y un análisis topográfico preciso. Aproveche ArcGIS para transformar sus datos lineales en modelos tridimensionales de alta calidad.",
+                "Detalles_Costo_Base": "Equivale a 1 unidad de servicio SIG Básico, que incluye la conversión a 3D en el formato solicitado. Si el DEM no está disponible, se recomienda contratar el servicio de Sensores Remotos para su generación. La unidad de servicio basico no se ve afectado por la logitud de la tuberia o capa lineal.",
                 "Notas_Adicionales": "El cliente debe proporcionar el DEM y el trazado de la tubería en 2D. En ausencia de alguno de estos, se deberá solicitar el servicio \"Desarrollo de 1 trazado (25 KM)\" para el trazado y \"Servicio de generación de Modelo Digital de Elevación (MDE o DEM)\" para el DEM.",
                 "Tiempo__Dias_habiles_": "0,5",
                 "Tiempos_de_entrega": "2 - 8 h",
@@ -384,8 +384,8 @@
                 "Basicos": 1.0,
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
-                "Pregunta": "",
-                "Factor_Corrección": "",
+                "Pregunta": "No aplica, siempre sera 1 el Factor de Corrección",
+                "Factor_Corrección": 0.0,
                 "Codig_Nuevo": 10
             }
         },
@@ -416,7 +416,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 11
             }
         },
@@ -447,7 +447,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 12
             }
         },
@@ -478,7 +478,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 13
             }
         },
@@ -509,7 +509,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 14
             }
         },
@@ -540,7 +540,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 15
             }
         },
@@ -571,7 +571,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 16
             }
         },
@@ -602,7 +602,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 17
             }
         },
@@ -633,7 +633,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 18
             }
         },
@@ -664,7 +664,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 19
             }
         },
@@ -695,7 +695,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 20
             }
         },
@@ -716,17 +716,17 @@
                 "Nombre_del_Servicio": "Conversión de formatos Vectoriales 2D",
                 "Clasificación": "Servicio Básico",
                 "Descripción_Técnica_del_Servicio": "Este servicio permite convertir una capa vectorial 2D de un formato a otro, abarcando formatos como AutoCAD (DWG, DXF), DGN, KML, KMZ, SHP, Feature Class, GPX, Servicios Web, entre otros. Con soporte para más de 100 formatos diferentes, IsaGIS garantiza la interoperabilidad y precisión en la migración de datos, optimizando la integración con la tecnología Esri.",
-                "Detalles_Costo_Base": "Se cobra 1 unidad de Servicio SIG Básico por cada conversión de una capa de un formato a otro. En el caso de servicios web, la plataforma debe tener habilitada la conversión de datos. No incluye la depuración, control de calidad, eliminación de duplicados, conversión de coordenadas o migración de modelo de datos; para estos requerimientos se deben contratar servicios adicionales.",
+                "Detalles_Costo_Base": "Se cobra 0.25 unidades de Servicio Básico por Una conversión de una capa de un formato a otro. En el caso de servicios web, la plataforma debe tener habilitada la conversión de datos. No incluye la depuración, control de calidad, eliminación de duplicados, conversión de coordenadas o migración de modelo de datos; para estos requerimientos se deben contratar servicios adicionales.",
                 "Notas_Adicionales": "El cliente debe entregar la capa geográfica 2D en su formato original y especificar el formato de destino requerido.",
-                "Tiempo__Dias_habiles_": "0,5",
+                "Tiempo__Dias_habiles_": "0,25",
                 "Tiempos_de_entrega": "2 - 8h",
                 "URL_Video_hosting": "",
                 "URL_con_información_adicional": "",
-                "Basicos": 1.0,
+                "Basicos": 0.25,
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
-                "Pregunta": "",
-                "Factor_Corrección": "",
+                "Pregunta": "Cuantas Conversiones desea realizar?",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 21
             }
         },
@@ -757,7 +757,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 22
             }
         },
@@ -788,7 +788,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 23
             }
         },
@@ -819,7 +819,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 24
             }
         },
@@ -850,7 +850,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 25
             }
         },
@@ -881,7 +881,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 26
             }
         },
@@ -912,7 +912,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 27
             }
         },
@@ -943,7 +943,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 28
             }
         },
@@ -974,7 +974,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 29
             }
         },
@@ -1005,7 +1005,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 30
             }
         },
@@ -1036,7 +1036,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 31
             }
         },
@@ -1067,7 +1067,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 32
             }
         },
@@ -1098,7 +1098,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 33
             }
         },
@@ -1129,7 +1129,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 34
             }
         },
@@ -1160,7 +1160,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 35
             }
         },
@@ -1191,7 +1191,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 36
             }
         },
@@ -1222,7 +1222,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 37
             }
         },
@@ -1253,7 +1253,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 38
             }
         },
@@ -1284,7 +1284,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 39
             }
         },
@@ -1315,7 +1315,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 40
             }
         },
@@ -1346,7 +1346,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 41
             }
         },
@@ -1377,7 +1377,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 42
             }
         },
@@ -1408,7 +1408,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 43
             }
         },
@@ -1439,7 +1439,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 44
             }
         },
@@ -1470,7 +1470,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 45
             }
         },
@@ -1501,7 +1501,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 46
             }
         },
@@ -1532,7 +1532,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 47
             }
         },
@@ -1563,7 +1563,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 48
             }
         },
@@ -1594,7 +1594,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 49
             }
         },
@@ -1625,7 +1625,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 50
             }
         },
@@ -1656,7 +1656,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 51
             }
         },
@@ -1687,7 +1687,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 52
             }
         },
@@ -1718,7 +1718,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 53
             }
         },
@@ -1749,7 +1749,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 54
             }
         },
@@ -1780,7 +1780,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 55
             }
         },
@@ -1811,7 +1811,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 56
             }
         },
@@ -1842,7 +1842,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 57
             }
         },
@@ -1873,7 +1873,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 58
             }
         },
@@ -1904,7 +1904,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 59
             }
         },
@@ -1935,7 +1935,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 60
             }
         },
@@ -1966,7 +1966,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 61
             }
         },
@@ -1997,7 +1997,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 62
             }
         },
@@ -2028,7 +2028,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 63
             }
         },
@@ -2059,7 +2059,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 64
             }
         },
@@ -2090,7 +2090,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 65
             }
         },
@@ -2121,7 +2121,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 66
             }
         },
@@ -2152,7 +2152,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 67
             }
         },
@@ -2183,7 +2183,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 68
             }
         },
@@ -2214,7 +2214,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 69
             }
         },
@@ -2245,7 +2245,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 70
             }
         },
@@ -2276,7 +2276,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 71
             }
         },
@@ -2307,7 +2307,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 72
             }
         },
@@ -2338,7 +2338,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 73
             }
         },
@@ -2369,7 +2369,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 74
             }
         },
@@ -2400,7 +2400,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 75
             }
         },
@@ -2431,7 +2431,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 76
             }
         },
@@ -2462,7 +2462,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 77
             }
         },
@@ -2493,7 +2493,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 78
             }
         },
@@ -2524,7 +2524,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 79
             }
         },
@@ -2555,7 +2555,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 80
             }
         },
@@ -2586,7 +2586,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 81
             }
         },
@@ -2617,7 +2617,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 82
             }
         },
@@ -2648,7 +2648,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 83
             }
         },
@@ -2679,7 +2679,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 84
             }
         },
@@ -2710,7 +2710,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 85
             }
         },
@@ -2741,7 +2741,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 86
             }
         },
@@ -2772,7 +2772,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 87
             }
         },
@@ -2803,7 +2803,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 88
             }
         },
@@ -2834,7 +2834,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 89
             }
         },
@@ -2865,7 +2865,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 90
             }
         },
@@ -2896,7 +2896,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 91
             }
         },
@@ -2927,7 +2927,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 92
             }
         },
@@ -2958,7 +2958,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 93
             }
         },
@@ -2989,7 +2989,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 94
             }
         },
@@ -3020,7 +3020,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 95
             }
         },
@@ -3051,7 +3051,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 96
             }
         },
@@ -3082,7 +3082,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 97
             }
         },
@@ -3113,7 +3113,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 98
             }
         },
@@ -3144,7 +3144,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 99
             }
         },
@@ -3175,7 +3175,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 100
             }
         },
@@ -3206,7 +3206,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 101
             }
         },
@@ -3237,7 +3237,7 @@
                 "Intermedios": 2.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 102
             }
         },
@@ -3268,7 +3268,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 103
             }
         },
@@ -3299,7 +3299,7 @@
                 "Intermedios": 2.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 104
             }
         },
@@ -3330,7 +3330,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 105
             }
         },
@@ -3361,7 +3361,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 106
             }
         },
@@ -3392,7 +3392,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 107
             }
         },
@@ -3423,7 +3423,7 @@
                 "Intermedios": 1.5,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 108
             }
         },
@@ -3454,7 +3454,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 109
             }
         },
@@ -3485,7 +3485,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 110
             }
         },
@@ -3516,7 +3516,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 111
             }
         },
@@ -3547,7 +3547,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 112
             }
         },
@@ -3578,7 +3578,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 113
             }
         },
@@ -3609,7 +3609,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 114
             }
         },
@@ -3640,7 +3640,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 115
             }
         },
@@ -3671,7 +3671,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 116
             }
         },
@@ -3702,7 +3702,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 117
             }
         },
@@ -3733,7 +3733,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 118
             }
         },
@@ -3764,7 +3764,7 @@
                 "Intermedios": 1.5,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 119
             }
         },
@@ -3795,7 +3795,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 120
             }
         },
@@ -3826,7 +3826,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 121
             }
         },
@@ -3857,7 +3857,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 122
             }
         },
@@ -3888,7 +3888,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 123
             }
         },
@@ -3919,7 +3919,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 124
             }
         },
@@ -3950,7 +3950,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 3.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 125
             }
         },
@@ -3981,7 +3981,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 10.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 126
             }
         },
@@ -4012,7 +4012,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 127
             }
         },
@@ -4043,7 +4043,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 128
             }
         },
@@ -4074,7 +4074,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 129
             }
         },
@@ -4105,7 +4105,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 130
             }
         },
@@ -4136,7 +4136,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 131
             }
         },
@@ -4167,7 +4167,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 132
             }
         },
@@ -4198,7 +4198,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 133
             }
         },
@@ -4229,7 +4229,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 134
             }
         },
@@ -4260,7 +4260,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 135
             }
         },
@@ -4291,7 +4291,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 136
             }
         },
@@ -4322,7 +4322,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 137
             }
         },
@@ -4353,7 +4353,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 138
             }
         },
@@ -4384,7 +4384,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 139
             }
         },
@@ -4415,7 +4415,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 140
             }
         },
@@ -4446,7 +4446,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 141
             }
         },
@@ -4477,7 +4477,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 142
             }
         },
@@ -4508,7 +4508,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 2.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 143
             }
         },
@@ -4539,7 +4539,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 144
             }
         },
@@ -4570,7 +4570,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 145
             }
         },
@@ -4601,7 +4601,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 146
             }
         },
@@ -4632,7 +4632,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 147
             }
         },
@@ -4663,7 +4663,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 148
             }
         },
@@ -4694,7 +4694,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 2.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 149
             }
         },
@@ -4725,7 +4725,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 151
             }
         },
@@ -4756,7 +4756,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 152
             }
         },
@@ -4787,7 +4787,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 153
             }
         },
@@ -4818,7 +4818,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 6.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 154
             }
         },
@@ -4849,7 +4849,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 155
             }
         },
@@ -4880,7 +4880,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 156
             }
         },
@@ -4911,7 +4911,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 157
             }
         },
@@ -4942,7 +4942,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 158
             }
         },
@@ -4973,7 +4973,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 2.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 159
             }
         },
@@ -5004,7 +5004,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 160
             }
         },
@@ -5035,7 +5035,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 161
             }
         },
@@ -5066,7 +5066,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 2.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 162
             }
         },
@@ -5097,7 +5097,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 163
             }
         },
@@ -5128,7 +5128,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 164
             }
         },
@@ -5159,7 +5159,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 166
             }
         },
@@ -5190,7 +5190,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 2.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 167
             }
         },
@@ -5221,7 +5221,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 168
             }
         },
@@ -5252,7 +5252,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 169
             }
         },
@@ -5283,7 +5283,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 170
             }
         },
@@ -5314,7 +5314,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 171
             }
         },
@@ -5345,7 +5345,7 @@
                 "Intermedios": 2.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 172
             }
         },
@@ -5376,7 +5376,7 @@
                 "Intermedios": 2.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 173
             }
         },
@@ -5407,7 +5407,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 174
             }
         },
@@ -5438,7 +5438,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 175
             }
         },
@@ -5469,7 +5469,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 176
             }
         },
@@ -5500,7 +5500,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 177
             }
         },
@@ -5531,7 +5531,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 178
             }
         },
@@ -5562,7 +5562,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 6.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 179
             }
         },
@@ -5593,7 +5593,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 180
             }
         },
@@ -5624,7 +5624,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 2.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 181
             }
         },
@@ -5655,7 +5655,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 4.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 182
             }
         },
@@ -5686,7 +5686,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 183
             }
         },
@@ -5717,7 +5717,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 184
             }
         },
@@ -5748,7 +5748,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 185
             }
         },
@@ -5779,7 +5779,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 186
             }
         },
@@ -5810,7 +5810,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 187
             }
         },
@@ -5841,7 +5841,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 188
             }
         },
@@ -5872,7 +5872,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 189
             }
         },
@@ -5903,7 +5903,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 190
             }
         },
@@ -5934,7 +5934,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 191
             }
         },
@@ -5965,7 +5965,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 192
             }
         },
@@ -5996,7 +5996,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 193
             }
         },
@@ -6027,7 +6027,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 194
             }
         },
@@ -6058,7 +6058,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 195
             }
         },
@@ -6089,7 +6089,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 196
             }
         },
@@ -6120,7 +6120,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 197
             }
         },
@@ -6151,7 +6151,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 198
             }
         },
@@ -6182,7 +6182,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 199
             }
         },
@@ -6213,7 +6213,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 200
             }
         },
@@ -6244,7 +6244,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 201
             }
         },
@@ -6275,7 +6275,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 202
             }
         },
@@ -6306,7 +6306,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 203
             }
         },
@@ -6337,7 +6337,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 204
             }
         },
@@ -6368,7 +6368,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 205
             }
         },
@@ -6399,7 +6399,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 206
             }
         },
@@ -6430,7 +6430,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 207
             }
         },
@@ -6461,7 +6461,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 208
             }
         },
@@ -6492,7 +6492,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 4.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 209
             }
         },
@@ -6523,7 +6523,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 210
             }
         },
@@ -6554,7 +6554,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 211
             }
         },
@@ -6585,7 +6585,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 212
             }
         },
@@ -6616,7 +6616,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 213
             }
         },
@@ -6647,7 +6647,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 214
             }
         },
@@ -6678,7 +6678,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 215
             }
         },
@@ -6709,7 +6709,7 @@
                 "Intermedios": 3.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 216
             }
         },
@@ -6740,7 +6740,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 217
             }
         },
@@ -6771,7 +6771,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 218
             }
         },
@@ -6802,7 +6802,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 219
             }
         },
@@ -6833,7 +6833,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 220
             }
         },
@@ -6864,7 +6864,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 221
             }
         },
@@ -6895,7 +6895,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 1.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 222
             }
         },
@@ -6926,7 +6926,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 223
             }
         },
@@ -6957,7 +6957,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 224
             }
         },
@@ -6988,7 +6988,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 225
             }
         },
@@ -7019,7 +7019,7 @@
                 "Intermedios": 1.0,
                 "Avanzados": 2.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 226
             }
         },
@@ -7050,7 +7050,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 228
             }
         },
@@ -7081,7 +7081,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 3.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 229
             }
         },
@@ -7112,7 +7112,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 230
             }
         },
@@ -7143,7 +7143,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 231
             }
         },
@@ -7174,7 +7174,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 109
             }
         },
@@ -7205,7 +7205,7 @@
                 "Intermedios": 0.8,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 109
             }
         },
@@ -7236,7 +7236,7 @@
                 "Intermedios": 1.2,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 109
             }
         },
@@ -7267,7 +7267,7 @@
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 109
             }
         },
@@ -7298,10 +7298,10 @@
                 "Intermedios": "",
                 "Avanzados": "",
                 "Pregunta": "",
-                "Factor_Corrección": "",
+                "Factor_Corrección": 1.0,
                 "Codig_Nuevo": ""
             }
         }
     ],
-    "updated_at": "2025-05-22 07:44:41"
+    "updated_at": "2025-05-22 22:07:07"
 }
