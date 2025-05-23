@@ -1277,13 +1277,13 @@
                 "Detalles_Costo_Base": "Se cobra 1/3 unidad de Servicio SIG Básico por la recolecicón de cada puntos de control.",
                 "Notas_Adicionales": "A este servicio se debe adicionar un servicio de planeación de trabajos de campo para tener la ubicación y cantidad de Puntos de Control.",
                 "Tiempo__Dias_habiles_": "0,125",
-                "Tiempos_de_entrega": "1 hora",
+                "Tiempos_de_entrega": "1 segundo por punto pero dependiendo de la separacion y accesibilidad entre puntos el tiempo aumentara.",
                 "URL_Video_hosting": "",
                 "URL_con_información_adicional": "https://experience.arcgis.com/experience/8448b247e8b747d381353783e6e72d44/page/Recolecci%C3%B3n-de-Datos-de-Campo/",
                 "Basicos": 0.333333333,
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
-                "Pregunta": "",
+                "Pregunta": "Cuantos Puntos de Control planea recolectar?",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 39
             }
@@ -1305,16 +1305,16 @@
                 "Nombre_del_Servicio": "Construcción de Puntos de Control temporales",
                 "Clasificación": "Servicio Básico",
                 "Descripción_Técnica_del_Servicio": "Este servicio se encarga de la ubicación de puntos de control temporales en terreno, necesarios para ejecutar misiones autónomas de fotogrametría. Los puntos se planifican y distribuyen utilizando ArcGIS Pro, siguiendo las mejores prácticas y la experiencia de IsaGIS para asegurar estabilidad y visibilidad durante la misión. Estos puntos son temporales y serán removidos una vez finalizada la misión de vuelo autónomo. ",
-                "Detalles_Costo_Base": "Se cobra 1 unidad de Servicio SIG Básico por la ubicación de entre 1 y 5 puntos de control temporales, lo minimo que se cobran son 5 puntos de control, a pesar de que sean menos. Para construcciones de puntos de control permanentes, se debe adquirir el Servicio de Contrucción de Puntos de Control Permanente.",
+                "Detalles_Costo_Base": "Se cobra 1 unidad de Servicio SIG Básico por la construcción de entre 1 y 5 puntos de control temporales, lo minimo que se cobran son 5 puntos de control, a pesar de que sean menos. Para construcciones de puntos de control permanentes, se debe adquirir el Servicio de Contrucción de Puntos de Control Permanente.",
                 "Notas_Adicionales": "El cliente debe proporcionar la planeación de los puntos de control, la cual puede gestionarse mediante el servicio de “Planeación de Puntos de Control de 3 m”.",
                 "Tiempo__Dias_habiles_": "0,25",
-                "Tiempos_de_entrega": "1 dias",
+                "Tiempos_de_entrega": "Cada punto de contro se construye en 5 min pero dependiendo de la separacion y accesibilidad entre los puntos de control este tiempo puede aumentar.",
                 "URL_Video_hosting": "",
                 "URL_con_información_adicional": "https://support.pix4d.com/hc/en-us/articles/4402423894545-Automatic-target-detection-AutoGCP-algorithm",
                 "Basicos": 1.0,
                 "Intermedios": 0.0,
                 "Avanzados": 0.0,
-                "Pregunta": "",
+                "Pregunta": "Cuantos Puntos de Control Temporales planea construir? (el factor de corrección es 1 si se planea construir 1 a 5 puntos y se desea construir entre 5 y 10 sube a 2 y asi sucesivamente)",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 40
             }
@@ -7303,5 +7303,5 @@
             }
         }
     ],
-    "updated_at": "2025-05-22 22:07:07"
+    "updated_at": "2025-05-23 07:49:05"
 }
