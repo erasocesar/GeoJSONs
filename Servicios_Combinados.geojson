@@ -306,7 +306,139 @@
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control",
+                "Codigo_Servicio_SIG": 64,
+                "Nombre_del_Servicio": "Revision de alcance, Información y KOM del proyecto",
+                "Descripción_Técnica_del_Servici": "Este servicio cubre las actividades iniciales del proyecto, que incluyen la revisión y análisis de la documentación, la recopilación de información y la realización de un Kick-Off Meeting (KOM). Es fundamental para establecer las bases y definir el alcance del proyecto, aprovechando la experiencia de IsaGIS.",
+                "Area_estrategica_IsaGIS_Technol": "Otros Servicios",
+                "Grupo": "Proyectos",
+                "Subgrupo": "Actividades Generales de Proyectos",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control",
+                "Codigo_Servicio_SIG": 65,
+                "Nombre_del_Servicio": "Preparación HSE Básico de proyectos",
+                "Descripción_Técnica_del_Servici": "Este servicio se utiliza para cubrir los gastos y la recopilación de requerimientos básicos de HSE en proyectos donde el alcance en esta área es sencillo (de 1 a 5 requisitos). Con la precisión de la tecnología Esri y la experiencia de IsaGIS, se garantiza un manejo adecuado de los aspectos HSE desde el inicio del proyecto.",
+                "Area_estrategica_IsaGIS_Technol": "Uso interno IsaGIS ",
+                "Grupo": "Proyectos",
+                "Subgrupo": "Actividades Generales de Proyectos",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control",
+                "Codigo_Servicio_SIG": 67,
+                "Nombre_del_Servicio": "Compilacion de entregables",
+                "Descripción_Técnica_del_Servici": "Este servicio permite compilar y consolidar los entregables de un proyecto, facilitando la organización y presentación de la información final. Se integra eficientemente con otros servicios combinados, aprovechando la capacidad de gestión de datos de Esri y la experiencia de IsaGIS.",
+                "Area_estrategica_IsaGIS_Technol": "Otros Servicios",
+                "Grupo": "Proyectos",
+                "Subgrupo": "Actividades Generales de Proyectos",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control",
+                "Codigo_Servicio_SIG": 45,
+                "Nombre_del_Servicio": "Creación de documentación o manuales (1 a 2 paginas)",
+                "Descripción_Técnica_del_Servici": "Este servicio desarrolla documentación o manuales de hasta 2 páginas que describen de forma clara y concisa productos, algoritmos, aplicaciones o infraestructuras SIG implementadas. El documento se orienta tanto a usuarios como a técnicos, integrando la precisión de Esri con la metodología de IsaGIS.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios SIG",
+                "Grupo": "Proyectos",
+                "Subgrupo": "Documentación de Proyectos SIG",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control",
+                "Codigo_Servicio_SIG": 48,
+                "Nombre_del_Servicio": "Analisis Técnico de Proyectos GIS o Tecnologia o Ingeniería",
+                "Descripción_Técnica_del_Servici": "Este servicio realiza un análisis técnico detallado de proyectos en ámbitos GIS, tecnológicos o de ingeniería, evaluando subactividades, requerimientos de personal, equipos, viajes y software. El resultado se documenta en un archivo Excel con el formato estándar de IsaGIS, abarcando hasta 5 ítems; para ítems adicionales se prorratea el servicio.",
+                "Area_estrategica_IsaGIS_Technol": "Otros Servicios",
+                "Grupo": "Proyectos",
+                "Subgrupo": "Licitaciones y Ofertas Sencillas",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control",
+                "Codigo_Servicio_SIG": 49,
+                "Nombre_del_Servicio": "Elaboración de PDT o Cronograma de Actividades ",
+                "Descripción_Técnica_del_Servici": "Este servicio desarrolla el cronograma de actividades (PDT) de un proyecto basándose en el análisis técnico previo, y se entrega en formato Excel o Project. El cronograma abarca hasta 5 ítems contractuales, facilitando la planificación y ejecución de proyectos SIG.",
+                "Area_estrategica_IsaGIS_Technol": "Otros Servicios",
+                "Grupo": "Proyectos",
+                "Subgrupo": "Licitaciones y Ofertas Sencillas",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0
+            }
         }
     ],
-    "updated_at": "2025-05-23 07:49:13"
+    "updated_at": "2025-05-23 08:15:51"
 }
