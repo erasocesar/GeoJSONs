@@ -87,7 +87,7 @@
             "properties": {
                 "Tipo_de_Servicio": "Basico",
                 "Modalidad_de_Contrato": "Promo 3",
-                "Costos_Base": 50000
+                "Costos_Base": 80000
             }
         },
         {
@@ -241,5 +241,5 @@
             }
         }
     ],
-    "updated_at": "2025-05-22 07:44:52"
+    "updated_at": "2025-05-22 22:07:17"
 }
