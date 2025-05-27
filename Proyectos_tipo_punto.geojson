@@ -1,0 +1,453 @@
+{
+    "type": "FeatureCollection",
+    "name": "Proyectos_tipo_punto",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::3857"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "x": -8388023.3432,
+                "y": 1111638.0667000003,
+                "z": 0,
+                "spatialReference": {
+                    "wkid": 102100,
+                    "latestWkid": 3857
+                }
+            },
+            "properties": {
+                "Nombre_del_Proyecto": "Proyecto Cartagena Jobo",
+                "Industria": "Gasoductos",
+                "Descripción": "El objetivo principal de este proyecto es hacer la evaluación y generación de 3 trazados en Jobo, área entregada en el KMZ ctg-jobo entregado por Promigas, con el fin de reemplazar un gasoducto existente operado por Promigas en la zona del KMZ, que atraviesa 10 municipios, localizados en los departamentos de Córdoba, Bolívar y Sucre.",
+                "Servicio_IsaGIS": "Evaluacion de Trazados, GIS Conceptual, Analisis de Class Location, Servicio de Fotorgrametria con Drones y Soporte GIS a todas las areas de SUMMUM Projects. Se entregaron 14 ortofotomosaicos, 5 ",
+                "Link_Applicacion": "https://www.mapsmadeeasy.com/maps/public_3D/ba8774db5d074f1aa94bfcd019d1c125/",
+                "Cliente": "Promigas",
+                "LinK_Video_Youtube": "https://youtu.be/eVgByaEgHd0",
+                "ORIG_FID": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "x": -8240633.406199999,
+                "y": 542385.7624000013,
+                "z": 0,
+                "spatialReference": {
+                    "wkid": 102100,
+                    "latestWkid": 3857
+                }
+            },
+            "properties": {
+                "Nombre_del_Proyecto": "Demo Encuentro de Usuarios de Petróleo 2022 y Conferencia Usuarios Esri 2022",
+                "Industria": "Gasoductos",
+                "Descripción": "El objetivo era crear un proyecto ficiticio para mostrar la metodología integrada de SIG e Ingenieria para diseño de gasoductos, para Encuentro de Usuarios de Petróleo 2022 y Conferencia Usuarios Esri 2022. Se pone el link de youtube del Encuentro de usuarios de Petroleo y Gas 2022 en punto del video 1 h:25 min esta la presentacion.",
+                "Servicio_IsaGIS": "Se crearon Ortofotos, Modelos 3D, DSM, DTM y Videos Aereo Georreferenciados usando Site SCAN for ArcGIS",
+                "Link_Applicacion": "https://www.mapsmadeeasy.com/maps/view_3D/1084e8b399964f2186f2d4d1bcd4f8e7/",
+                "Cliente": "Esri Colombia",
+                "LinK_Video_Youtube": "https://www.youtube.com/watch?v=8HKihts2Qno&t=5207s",
+                "ORIG_FID": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "x": -7979302.5614,
+                "y": 425029.99599999934,
+                "z": 0,
+                "spatialReference": {
+                    "wkid": 102100,
+                    "latestWkid": 3857
+                }
+            },
+            "properties": {
+                "Nombre_del_Proyecto": "Proyecto de Topografia para ODL",
+                "Industria": "Oleoductos",
+                "Descripción": "icios SIG para la creacion de Productos de Drones para la Ingenieria Basica del Oleoducto en dicha zona, los productos se entregaro con Precision RMSER entre 6 y 10 cm y 6 cm por pixel",
+                "Servicio_IsaGIS": "Se crearon Ortofotos, Modelos 3D, DSM, DTM y Videos Aereo Georreferenciados y se entrego un GIS Conceptual",
+                "Link_Applicacion": null,
+                "Cliente": "ODL (Ecodesign)",
+                "LinK_Video_Youtube": null,
+                "ORIG_FID": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "x": -7444943.0178,
+                "y": 1171483.056499999,
+                "z": 0,
+                "spatialReference": {
+                    "wkid": 102100,
+                    "latestWkid": 3857
+                }
+            },
+            "properties": {
+                "Nombre_del_Proyecto": "Proyecto Geogas",
+                "Industria": "Sistemas de Transporte y Distribución de Gas Natural de Venezuela",
+                "Descripción": "El proyecto consistio en la implementación un SIG relacionado al Sistema de Transporte y Distribución de Gas Natural de la ciudad de 5 grandes ciudades. el proyecto gano el SAG AWARD.  ",
+                "Servicio_IsaGIS": "Se implemento un Visor Web, el GIS a nivel de escritorio y la extension ArcFM",
+                "Link_Applicacion": null,
+                "Cliente": "PDVSA GAS",
+                "LinK_Video_Youtube": null,
+                "ORIG_FID": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "x": -8245942.2458,
+                "y": 529318.5333999991,
+                "z": 0,
+                "spatialReference": {
+                    "wkid": 102100,
+                    "latestWkid": 3857
+                }
+            },
+            "properties": {
+                "Nombre_del_Proyecto": "Taller de Drones en el Liceo Boston",
+                "Industria": "Escuelas",
+                "Descripción": "Se realizo un taller de drones en 3A del Liceo Boston, parte del plan de apoyo en las escuelas para promover los SIG y Drones",
+                "Servicio_IsaGIS": "Se obtuvo ortofos, Modelos 3D y Videos Aereos",
+                "Link_Applicacion": "https://www.mapsmadeeasy.com/maps/public/afb5381cfc08442297ea4715a93fb36b/",
+                "Cliente": "Liceo Boston",
+                "LinK_Video_Youtube": "https://servintsiging.maps.arcgis.com/apps/instant/attachmentviewer/index.html?appid=ebbbb6885c694253bab1991cabee60bb&locale=en",
+                "ORIG_FID": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "x": -8409375.1311,
+                "y": 1149980.8398000002,
+                "z": 0,
+                "spatialReference": {
+                    "wkid": 102100,
+                    "latestWkid": 3857
+                }
+            },
+            "properties": {
+                "Nombre_del_Proyecto": "Proyecto SPEC",
+                "Industria": "Ambiental",
+                "Descripción": "Evaluacion de Impacto Directo e Indirecto para licencia ambiental del ANLA",
+                "Servicio_IsaGIS": "GIS Concectual, analisis de PHD y creación de areas de impacto Directo e Indirecto para proyecto de gasoducto e introducir todos los requisitos para la Licencia ambiental. Proyecto para Ecopetrol",
+                "Link_Applicacion": null,
+                "Cliente": "Promigas",
+                "LinK_Video_Youtube": null,
+                "ORIG_FID": 7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "x": -13275843.8278,
+                "y": 4353578.320600003,
+                "z": 0,
+                "spatialReference": {
+                    "wkid": 102100,
+                    "latestWkid": 3857
+                }
+            },
+            "properties": {
+                "Nombre_del_Proyecto": "Desarrollo de Negocios SIG en California",
+                "Industria": "Comercio y Negocios",
+                "Descripción": "Contratado por la empresa Edifica USA y SUMMUM Projects para buscar contratos de SIG en estados Unidos",
+                "Servicio_IsaGIS": "Se construyo un Dashboard de seguimientos de Clientes",
+                "Link_Applicacion": "https://servintsiging.maps.arcgis.com/apps/dashboards/171c1e9bf4d44f29b6a6fc1478957d79",
+                "Cliente": "SUMMUM Projects",
+                "LinK_Video_Youtube": null,
+                "ORIG_FID": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "x": -6179587.7479,
+                "y": 655425.5262000002,
+                "z": 0,
+                "spatialReference": {
+                    "wkid": 102100,
+                    "latestWkid": 3857
+                }
+            },
+            "properties": {
+                "Nombre_del_Proyecto": "GIS Consultant para Staatsolie",
+                "Industria": "Exploración y Producción de Hidrocarburos",
+                "Descripción": "Contratado por Dunia Technology y asigando a Staatsolie como Consultor GIS",
+                "Servicio_IsaGIS": null,
+                "Link_Applicacion": null,
+                "Cliente": "Dunia Technology (Staatsolie)",
+                "LinK_Video_Youtube": null,
+                "ORIG_FID": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "x": -8152332.381899999,
+                "y": 255999.8227000013,
+                "z": 0,
+                "spatialReference": {
+                    "wkid": 102100,
+                    "latestWkid": 3857
+                }
+            },
+            "properties": {
+                "Nombre_del_Proyecto": "Aplicacion Geográfica para el curso Historia Colombiana del Pétroleo ",
+                "Industria": "Toda la Cadena de Hidrocarburos",
+                "Descripción": "Para Consultech se realizo el contenido del cursos Introducción para la Industria del Petróleo",
+                "Servicio_IsaGIS": null,
+                "Link_Applicacion": "https://storymaps.arcgis.com/stories/0db895f92704442daacf8bc6762c937c",
+                "Cliente": "Consultec",
+                "LinK_Video_Youtube": null,
+                "ORIG_FID": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "x": -8182949.3026,
+                "y": 1308487.2652000003,
+                "z": 0,
+                "spatialReference": {
+                    "wkid": 102100,
+                    "latestWkid": 3857
+                }
+            },
+            "properties": {
+                "Nombre_del_Proyecto": "Uchuva 2",
+                "Industria": "Offshore",
+                "Descripción": "Offhore Project executed by Noble Corp for Petrobras and Ecopetrol",
+                "Servicio_IsaGIS": "Traductor for Uchuva 2",
+                "Link_Applicacion": null,
+                "Cliente": "Noble",
+                "LinK_Video_Youtube": null,
+                "ORIG_FID": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "x": -7008846.297700001,
+                "y": 978516.3795999996,
+                "z": 0,
+                "spatialReference": {
+                    "wkid": 102100,
+                    "latestWkid": 3857
+                }
+            },
+            "properties": {
+                "Nombre_del_Proyecto": "Supervisor de Ingeniería de Producción",
+                "Industria": "Areas de Producción",
+                "Descripción": "Trabaje para PDVSA Morichal como supervisor de Ingenieria de Producción",
+                "Servicio_IsaGIS": "Ingenieria de Procesos, Diseño de Estaciones y plantas de tratamiento de crudo",
+                "Link_Applicacion": null,
+                "Cliente": "PDVSA",
+                "LinK_Video_Youtube": null,
+                "ORIG_FID": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "x": -8602458.239,
+                "y": 134064.4204000011,
+                "z": 0,
+                "spatialReference": {
+                    "wkid": 102100,
+                    "latestWkid": 3857
+                }
+            },
+            "properties": {
+                "Nombre_del_Proyecto": "Diseño del Sistema de Distribución de GN de Pasto, Colombia",
+                "Industria": "Redes de Gas",
+                "Descripción": "Diesño de las redes de gas de pasto usando Stoner Synergy y ArcGIS",
+                "Servicio_IsaGIS": "Ingenieria de Redes de Gas",
+                "Link_Applicacion": null,
+                "Cliente": "Comcombustible",
+                "LinK_Video_Youtube": null,
+                "ORIG_FID": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "x": -8249411.298699999,
+                "y": 516838.3685999997,
+                "z": 0,
+                "spatialReference": {
+                    "wkid": 102100,
+                    "latestWkid": 3857
+                }
+            },
+            "properties": {
+                "Nombre_del_Proyecto": "Gerente de Petróleo, Gas y Mineria de Esri Colombia",
+                "Industria": "SIG",
+                "Descripción": "Trabaje como Gerente de Petróleo, Gas y Mineria de Procalculo Prosis (Distribuidor de Esri en Colombia de esa epoca)",
+                "Servicio_IsaGIS": null,
+                "Link_Applicacion": null,
+                "Cliente": "Esri Colombia ",
+                "LinK_Video_Youtube": null,
+                "ORIG_FID": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "x": -8625922.0783,
+                "y": 105934.4112999998,
+                "z": 0,
+                "spatialReference": {
+                    "wkid": 102100,
+                    "latestWkid": 3857
+                }
+            },
+            "properties": {
+                "Nombre_del_Proyecto": "Gasoducto para Nariño",
+                "Industria": "Sistemas de Transporte de Gas Natural",
+                "Descripción": "Desarrollo de la ingeniería conceptual de un Gasoducto para Nariño (desde Jamundí, Pasto, hasta Quito, Ecuador). Adicionalmente se realizaron unas visualizaciones de posibles ramales a los principales centros poblados de Nariño y para llevar gas aun refinería en Esmeraldas, Ecuador. ",
+                "Servicio_IsaGIS": "Se presento el proyecto a 2 Ministros de Energía y Minas de Colombia, luego se recibió una solicitud formal de la UPME, para utilizar la capa del trazado del ducto para evaluar otras ingenierías de otras empresas del país que estaban ejecutando el mismo proyecto.",
+                "Link_Applicacion": null,
+                "Cliente": "Comcombustibles (Inversionistas de Nariño)",
+                "LinK_Video_Youtube": null,
+                "ORIG_FID": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "x": -8255687.6787,
+                "y": 530310.1050999984,
+                "z": 0,
+                "spatialReference": {
+                    "wkid": 102100,
+                    "latestWkid": 3857
+                }
+            },
+            "properties": {
+                "Nombre_del_Proyecto": "Curso Aplicaciones de MAchine Learning y Drones",
+                "Industria": "Inteligencia Artificial",
+                "Descripción": "Se dicto curso de Aplicaciones de Machine Learning enfocado en drones",
+                "Servicio_IsaGIS": "Curso de Inteligencia Artificial",
+                "Link_Applicacion": null,
+                "Cliente": "Anavia",
+                "LinK_Video_Youtube": null,
+                "ORIG_FID": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "x": -7965762.1479,
+                "y": 138940.20329999924,
+                "z": 0,
+                "spatialReference": {
+                    "wkid": 102100,
+                    "latestWkid": 3857
+                }
+            },
+            "properties": {
+                "Nombre_del_Proyecto": "Líder Técnico de la empresa estadounidense Geofields (Sistemas de Alerta Temprana para ductos (Ecopetrol))",
+                "Industria": "Integridad y GIS",
+                "Descripción": "Contratado por la empresa americana Geofields, Inc (localizada en Atlanta), ganar importante contrato para Geofields, el proyecto de Ecopetrol, llamado:  Alineación, Estructura, Integración, Análisis y Generación de Alarmas para la Gestión de Integridad de la VIT de Ecopetrol. Lider Tecnico de Colombia para ese proyecto.",
+                "Servicio_IsaGIS": "Integridad y GIS",
+                "Link_Applicacion": null,
+                "Cliente": "Ecopetrol (Geofields, inc)",
+                "LinK_Video_Youtube": null,
+                "ORIG_FID": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "x": 816248.6206,
+                "y": 6888389.0978000015,
+                "z": 0,
+                "spatialReference": {
+                    "wkid": 102100,
+                    "latestWkid": 3857
+                }
+            },
+            "properties": {
+                "Nombre_del_Proyecto": "Product Manager – RTRC (División Tecnológica de Rosen Group)",
+                "Industria": "Integridad de Ductos y software",
+                "Descripción": "Hacer parte del grupo de Gerentes de Producto del Proyecto NIMA.  (Software para la gestión de integridad de ductos y plantas). \r\n-Se desarrollaron las siguientes actividades durante el trabajo en Rosen: Experto técnico para el Desarrollo del software como Product Owner, crear casos de uso para las distintas funcionalidades del software tanto para la parte Data Management e integridad y reunión con los expertos de integridad y stakeholders para definir funcionalidades del software.",
+                "Servicio_IsaGIS": "Integridad e implementacion de aplicaciones GIS",
+                "Link_Applicacion": null,
+                "Cliente": "Rosen Grooup",
+                "LinK_Video_Youtube": null,
+                "ORIG_FID": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "x": -8745308.8359,
+                "y": -767790.193599999,
+                "z": 0,
+                "spatialReference": {
+                    "wkid": 102100,
+                    "latestWkid": 3857
+                }
+            },
+            "properties": {
+                "Nombre_del_Proyecto": "Director de Tecnología",
+                "Industria": "GIS ",
+                "Descripción": "Contratado por Tecna ICA como director de tecnología de Colombia, Peru, Ecuador y Venezuela",
+                "Servicio_IsaGIS": null,
+                "Link_Applicacion": null,
+                "Cliente": "Tecna ICE",
+                "LinK_Video_Youtube": null,
+                "ORIG_FID": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "x": -8249973.3562,
+                "y": 100814.30950000137,
+                "z": 0,
+                "spatialReference": {
+                    "wkid": 102100,
+                    "latestWkid": 3857
+                }
+            },
+            "properties": {
+                "Nombre_del_Proyecto": "Adquisión de Drones en Colombia",
+                "Industria": "Operaciones de Campo aereas",
+                "Descripción": "Adquirir los primero drones en Colombia y me certifique formalmente como piloto de drone",
+                "Servicio_IsaGIS": null,
+                "Link_Applicacion": "https://nuevaweb.isagis.com/images/Video Final Servicio de Drones LR.mp4",
+                "Cliente": "Multiples clientes",
+                "LinK_Video_Youtube": "https://nuevaweb.isagis.com/images/Video drones 2015 2.mp4",
+                "ORIG_FID": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "x": -7755359.7994,
+                "y": 1278897.5095999986,
+                "z": 0,
+                "spatialReference": {
+                    "wkid": 102100,
+                    "latestWkid": 3857
+                }
+            },
+            "properties": {
+                "Nombre_del_Proyecto": "Tesis Ingeniería del Sistema de Distribución de Gas Natural de Santa Ana de Coro",
+                "Industria": "Gas",
+                "Descripción": " Trabajo Especial de Grado: “Ingeniería Conceptual del Sistema de Distribución de Gas Metano para la ciudad de Santa de Coro, Estado Falcón”, bajo la supervisión de las Gerencias ICO y Gasificación Nacional de PDVSA GAS.    Nota Final: 20.  Gran reconocimiento por parte de las Gerencias supervisoras por ser la primera tesis aplicada a una ciudad, con el uso de Tecnología SIG y debido al alcance desarrollado se consideró que tenía resultados de Ingeniería Básica. ",
+                "Servicio_IsaGIS": "Diseño de Redes de Gas",
+                "Link_Applicacion": null,
+                "Cliente": "PDVSA GAS",
+                "LinK_Video_Youtube": null,
+                "ORIG_FID": null
+            }
+        }
+    ],
+    "updated_at": "2025-05-26 19:35:53"
+}
