@@ -4,7 +4,7 @@
     "crs": {
         "type": "name",
         "properties": {
-            "name": "urn:ogc:def:crs:EPSG::3857"
+            "name": "urn:ogc:def:crs:OGC::CRS84"
         }
     },
     "features": [
@@ -13,8 +13,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -8388023.3432,
-                    1111638.0667000003
+                    -75.35089572699997,
+                    9.935838379000074
                 ]
             },
             "properties": {
@@ -33,8 +33,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -8240633.406199999,
-                    542385.7624000013
+                    -74.02686939599994,
+                    4.866472409000039
                 ]
             },
             "properties": {
@@ -53,8 +53,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -7979302.5614,
-                    425029.99599999934
+                    -71.67929447499995,
+                    3.8152867030000266
                 ]
             },
             "properties": {
@@ -62,9 +62,9 @@
                 "Industria": "Oleoductos",
                 "Descripción": "icios SIG para la creacion de Productos de Drones para la Ingenieria Basica del Oleoducto en dicha zona, los productos se entregaro con Precision RMSER entre 6 y 10 cm y 6 cm por pixel",
                 "Servicio_IsaGIS": "Se crearon Ortofotos, Modelos 3D, DSM, DTM y Videos Aereo Georreferenciados y se entrego un GIS Conceptual",
-                "Link_Applicacion": null,
+                "Link_Applicacion": "",
                 "Cliente": "ODL (Ecodesign)",
-                "LinK_Video_Youtube": null,
+                "LinK_Video_Youtube": "",
                 "ORIG_FID": 4
             }
         },
@@ -73,8 +73,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -7444943.0178,
-                    1171483.056499999
+                    -66.87906102299996,
+                    10.46493603500005
                 ]
             },
             "properties": {
@@ -82,9 +82,9 @@
                 "Industria": "Sistemas de Transporte y Distribución de Gas Natural de Venezuela",
                 "Descripción": "El proyecto consistio en la implementación un SIG relacionado al Sistema de Transporte y Distribución de Gas Natural de la ciudad de 5 grandes ciudades. el proyecto gano el SAG AWARD.  ",
                 "Servicio_IsaGIS": "Se implemento un Visor Web, el GIS a nivel de escritorio y la extension ArcFM",
-                "Link_Applicacion": null,
+                "Link_Applicacion": "",
                 "Cliente": "PDVSA GAS",
-                "LinK_Video_Youtube": null,
+                "LinK_Video_Youtube": "",
                 "ORIG_FID": 5
             }
         },
@@ -93,8 +93,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -8245942.2458,
-                    529318.5333999991
+                    -74.07455951399999,
+                    4.749500570000066
                 ]
             },
             "properties": {
@@ -113,8 +113,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -8409375.1311,
-                    1149980.8398000002
+                    -75.54270210199996,
+                    10.274933455000053
                 ]
             },
             "properties": {
@@ -122,9 +122,9 @@
                 "Industria": "Ambiental",
                 "Descripción": "Evaluacion de Impacto Directo e Indirecto para licencia ambiental del ANLA",
                 "Servicio_IsaGIS": "GIS Concectual, analisis de PHD y creación de areas de impacto Directo e Indirecto para proyecto de gasoducto e introducir todos los requisitos para la Licencia ambiental. Proyecto para Ecopetrol",
-                "Link_Applicacion": null,
+                "Link_Applicacion": "",
                 "Cliente": "Promigas",
-                "LinK_Video_Youtube": null,
+                "LinK_Video_Youtube": "",
                 "ORIG_FID": 7
             }
         },
@@ -133,8 +133,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -13275843.8278,
-                    4353578.320600003
+                    -119.25893420099999,
+                    36.38392537400006
                 ]
             },
             "properties": {
@@ -144,7 +144,7 @@
                 "Servicio_IsaGIS": "Se construyo un Dashboard de seguimientos de Clientes",
                 "Link_Applicacion": "https://servintsiging.maps.arcgis.com/apps/dashboards/171c1e9bf4d44f29b6a6fc1478957d79",
                 "Cliente": "SUMMUM Projects",
-                "LinK_Video_Youtube": null,
+                "LinK_Video_Youtube": "",
                 "ORIG_FID": 8
             }
         },
@@ -153,19 +153,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -6179587.7479,
-                    655425.5262000002
+                    -55.51218123499996,
+                    5.877452561000041
                 ]
             },
             "properties": {
                 "Nombre_del_Proyecto": "GIS Consultant para Staatsolie",
                 "Industria": "Exploración y Producción de Hidrocarburos",
                 "Descripción": "Contratado por Dunia Technology y asigando a Staatsolie como Consultor GIS",
-                "Servicio_IsaGIS": null,
-                "Link_Applicacion": null,
+                "Servicio_IsaGIS": "",
+                "Link_Applicacion": "",
                 "Cliente": "Dunia Technology (Staatsolie)",
-                "LinK_Video_Youtube": null,
-                "ORIG_FID": null
+                "LinK_Video_Youtube": "",
+                "ORIG_FID": 0
             }
         },
         {
@@ -173,19 +173,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -8152332.381899999,
-                    255999.8227000013
+                    -73.23364779899998,
+                    2.2990683230000286
                 ]
             },
             "properties": {
                 "Nombre_del_Proyecto": "Aplicacion Geográfica para el curso Historia Colombiana del Pétroleo ",
                 "Industria": "Toda la Cadena de Hidrocarburos",
                 "Descripción": "Para Consultech se realizo el contenido del cursos Introducción para la Industria del Petróleo",
-                "Servicio_IsaGIS": null,
+                "Servicio_IsaGIS": "",
                 "Link_Applicacion": "https://storymaps.arcgis.com/stories/0db895f92704442daacf8bc6762c937c",
                 "Cliente": "Consultec",
-                "LinK_Video_Youtube": null,
-                "ORIG_FID": null
+                "LinK_Video_Youtube": "",
+                "ORIG_FID": 0
             }
         },
         {
@@ -193,8 +193,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -8182949.3026,
-                    1308487.2652000003
+                    -73.50868427699999,
+                    11.672746707000044
                 ]
             },
             "properties": {
@@ -202,10 +202,10 @@
                 "Industria": "Offshore",
                 "Descripción": "Offhore Project executed by Noble Corp for Petrobras and Ecopetrol",
                 "Servicio_IsaGIS": "Traductor for Uchuva 2",
-                "Link_Applicacion": null,
+                "Link_Applicacion": "",
                 "Cliente": "Noble",
-                "LinK_Video_Youtube": null,
-                "ORIG_FID": null
+                "LinK_Video_Youtube": "",
+                "ORIG_FID": 0
             }
         },
         {
@@ -213,8 +213,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -7008846.297700001,
-                    978516.3795999996
+                    -62.961537532999955,
+                    8.755881584000065
                 ]
             },
             "properties": {
@@ -222,10 +222,10 @@
                 "Industria": "Areas de Producción",
                 "Descripción": "Trabaje para PDVSA Morichal como supervisor de Ingenieria de Producción",
                 "Servicio_IsaGIS": "Ingenieria de Procesos, Diseño de Estaciones y plantas de tratamiento de crudo",
-                "Link_Applicacion": null,
+                "Link_Applicacion": "",
                 "Cliente": "PDVSA",
-                "LinK_Video_Youtube": null,
-                "ORIG_FID": null
+                "LinK_Video_Youtube": "",
+                "ORIG_FID": 0
             }
         },
         {
@@ -233,8 +233,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -8602458.239,
-                    134064.4204000011
+                    -77.27719717099995,
+                    1.204232508000075
                 ]
             },
             "properties": {
@@ -242,10 +242,10 @@
                 "Industria": "Redes de Gas",
                 "Descripción": "Diesño de las redes de gas de pasto usando Stoner Synergy y ArcGIS",
                 "Servicio_IsaGIS": "Ingenieria de Redes de Gas",
-                "Link_Applicacion": null,
+                "Link_Applicacion": "",
                 "Cliente": "Comcombustible",
-                "LinK_Video_Youtube": null,
-                "ORIG_FID": null
+                "LinK_Video_Youtube": "",
+                "ORIG_FID": 0
             }
         },
         {
@@ -253,19 +253,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -8249411.298699999,
-                    516838.3685999997
+                    -74.10572254599998,
+                    4.637765327000068
                 ]
             },
             "properties": {
                 "Nombre_del_Proyecto": "Gerente de Petróleo, Gas y Mineria de Esri Colombia",
                 "Industria": "SIG",
                 "Descripción": "Trabaje como Gerente de Petróleo, Gas y Mineria de Procalculo Prosis (Distribuidor de Esri en Colombia de esa epoca)",
-                "Servicio_IsaGIS": null,
-                "Link_Applicacion": null,
+                "Servicio_IsaGIS": "",
+                "Link_Applicacion": "",
                 "Cliente": "Esri Colombia ",
-                "LinK_Video_Youtube": null,
-                "ORIG_FID": null
+                "LinK_Video_Youtube": "",
+                "ORIG_FID": 0
             }
         },
         {
@@ -273,8 +273,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -8625922.0783,
-                    105934.4112999998
+                    -77.48797642599999,
+                    0.9515812590000223
                 ]
             },
             "properties": {
@@ -282,10 +282,10 @@
                 "Industria": "Sistemas de Transporte de Gas Natural",
                 "Descripción": "Desarrollo de la ingeniería conceptual de un Gasoducto para Nariño (desde Jamundí, Pasto, hasta Quito, Ecuador). Adicionalmente se realizaron unas visualizaciones de posibles ramales a los principales centros poblados de Nariño y para llevar gas aun refinería en Esmeraldas, Ecuador. ",
                 "Servicio_IsaGIS": "Se presento el proyecto a 2 Ministros de Energía y Minas de Colombia, luego se recibió una solicitud formal de la UPME, para utilizar la capa del trazado del ducto para evaluar otras ingenierías de otras empresas del país que estaban ejecutando el mismo proyecto.",
-                "Link_Applicacion": null,
+                "Link_Applicacion": "",
                 "Cliente": "Comcombustibles (Inversionistas de Nariño)",
-                "LinK_Video_Youtube": null,
-                "ORIG_FID": null
+                "LinK_Video_Youtube": "",
+                "ORIG_FID": 0
             }
         },
         {
@@ -293,8 +293,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -8255687.6787,
-                    530310.1050999984
+                    -74.16210422699999,
+                    4.758377367000037
                 ]
             },
             "properties": {
@@ -302,10 +302,10 @@
                 "Industria": "Inteligencia Artificial",
                 "Descripción": "Se dicto curso de Aplicaciones de Machine Learning enfocado en drones",
                 "Servicio_IsaGIS": "Curso de Inteligencia Artificial",
-                "Link_Applicacion": null,
+                "Link_Applicacion": "",
                 "Cliente": "Anavia",
-                "LinK_Video_Youtube": null,
-                "ORIG_FID": null
+                "LinK_Video_Youtube": "",
+                "ORIG_FID": 0
             }
         },
         {
@@ -313,8 +313,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -7965762.1479,
-                    138940.20329999924
+                    -71.55765887099994,
+                    1.2480223810000552
                 ]
             },
             "properties": {
@@ -322,10 +322,10 @@
                 "Industria": "Integridad y GIS",
                 "Descripción": "Contratado por la empresa americana Geofields, Inc (localizada en Atlanta), ganar importante contrato para Geofields, el proyecto de Ecopetrol, llamado:  Alineación, Estructura, Integración, Análisis y Generación de Alarmas para la Gestión de Integridad de la VIT de Ecopetrol. Lider Tecnico de Colombia para ese proyecto.",
                 "Servicio_IsaGIS": "Integridad y GIS",
-                "Link_Applicacion": null,
+                "Link_Applicacion": "",
                 "Cliente": "Ecopetrol (Geofields, inc)",
-                "LinK_Video_Youtube": null,
-                "ORIG_FID": null
+                "LinK_Video_Youtube": "",
+                "ORIG_FID": 0
             }
         },
         {
@@ -333,8 +333,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    816248.6206,
-                    6888389.0978000015
+                    7.3324861150000515,
+                    52.48549146400006
                 ]
             },
             "properties": {
@@ -342,10 +342,10 @@
                 "Industria": "Integridad de Ductos y software",
                 "Descripción": "Hacer parte del grupo de Gerentes de Producto del Proyecto NIMA.  (Software para la gestión de integridad de ductos y plantas). \r\n-Se desarrollaron las siguientes actividades durante el trabajo en Rosen: Experto técnico para el Desarrollo del software como Product Owner, crear casos de uso para las distintas funcionalidades del software tanto para la parte Data Management e integridad y reunión con los expertos de integridad y stakeholders para definir funcionalidades del software.",
                 "Servicio_IsaGIS": "Integridad e implementacion de aplicaciones GIS",
-                "Link_Applicacion": null,
+                "Link_Applicacion": "",
                 "Cliente": "Rosen Grooup",
-                "LinK_Video_Youtube": null,
-                "ORIG_FID": null
+                "LinK_Video_Youtube": "",
+                "ORIG_FID": 0
             }
         },
         {
@@ -353,19 +353,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -8745308.8359,
-                    -767790.193599999
+                    -78.56044591599994,
+                    -6.880578956999955
                 ]
             },
             "properties": {
                 "Nombre_del_Proyecto": "Director de Tecnología",
                 "Industria": "GIS ",
                 "Descripción": "Contratado por Tecna ICA como director de tecnología de Colombia, Peru, Ecuador y Venezuela",
-                "Servicio_IsaGIS": null,
-                "Link_Applicacion": null,
+                "Servicio_IsaGIS": "",
+                "Link_Applicacion": "",
                 "Cliente": "Tecna ICE",
-                "LinK_Video_Youtube": null,
-                "ORIG_FID": null
+                "LinK_Video_Youtube": "",
+                "ORIG_FID": 0
             }
         },
         {
@@ -373,19 +373,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -8249973.3562,
-                    100814.30950000137
+                    -74.11077159499996,
+                    0.9055926430000341
                 ]
             },
             "properties": {
                 "Nombre_del_Proyecto": "Adquisión de Drones en Colombia",
                 "Industria": "Operaciones de Campo aereas",
                 "Descripción": "Adquirir los primero drones en Colombia y me certifique formalmente como piloto de drone",
-                "Servicio_IsaGIS": null,
+                "Servicio_IsaGIS": "",
                 "Link_Applicacion": "https://nuevaweb.isagis.com/images/Video Final Servicio de Drones LR.mp4",
                 "Cliente": "Multiples clientes",
                 "LinK_Video_Youtube": "https://nuevaweb.isagis.com/images/Video drones 2015 2.mp4",
-                "ORIG_FID": null
+                "ORIG_FID": 0
             }
         },
         {
@@ -393,8 +393,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -7755359.7994,
-                    1278897.5095999986
+                    -69.66758241599996,
+                    11.412313261000065
                 ]
             },
             "properties": {
@@ -402,12 +402,12 @@
                 "Industria": "Gas",
                 "Descripción": " Trabajo Especial de Grado: “Ingeniería Conceptual del Sistema de Distribución de Gas Metano para la ciudad de Santa de Coro, Estado Falcón”, bajo la supervisión de las Gerencias ICO y Gasificación Nacional de PDVSA GAS.    Nota Final: 20.  Gran reconocimiento por parte de las Gerencias supervisoras por ser la primera tesis aplicada a una ciudad, con el uso de Tecnología SIG y debido al alcance desarrollado se consideró que tenía resultados de Ingeniería Básica. ",
                 "Servicio_IsaGIS": "Diseño de Redes de Gas",
-                "Link_Applicacion": null,
+                "Link_Applicacion": "",
                 "Cliente": "PDVSA GAS",
-                "LinK_Video_Youtube": null,
-                "ORIG_FID": null
+                "LinK_Video_Youtube": "",
+                "ORIG_FID": 0
             }
         }
     ],
-    "updated_at": "2025-05-26 19:49:04"
+    "updated_at": "2025-05-26 19:55:03"
 }
