@@ -11,13 +11,11 @@
         {
             "type": "Feature",
             "geometry": {
-                "x": -8388023.3432,
-                "y": 1111638.0667000003,
-                "z": 0,
-                "spatialReference": {
-                    "wkid": 102100,
-                    "latestWkid": 3857
-                }
+                "type": "Point",
+                "coordinates": [
+                    -8388023.3432,
+                    1111638.0667000003
+                ]
             },
             "properties": {
                 "Nombre_del_Proyecto": "Proyecto Cartagena Jobo",
@@ -33,13 +31,11 @@
         {
             "type": "Feature",
             "geometry": {
-                "x": -8240633.406199999,
-                "y": 542385.7624000013,
-                "z": 0,
-                "spatialReference": {
-                    "wkid": 102100,
-                    "latestWkid": 3857
-                }
+                "type": "Point",
+                "coordinates": [
+                    -8240633.406199999,
+                    542385.7624000013
+                ]
             },
             "properties": {
                 "Nombre_del_Proyecto": "Demo Encuentro de Usuarios de Petróleo 2022 y Conferencia Usuarios Esri 2022",
@@ -55,13 +51,11 @@
         {
             "type": "Feature",
             "geometry": {
-                "x": -7979302.5614,
-                "y": 425029.99599999934,
-                "z": 0,
-                "spatialReference": {
-                    "wkid": 102100,
-                    "latestWkid": 3857
-                }
+                "type": "Point",
+                "coordinates": [
+                    -7979302.5614,
+                    425029.99599999934
+                ]
             },
             "properties": {
                 "Nombre_del_Proyecto": "Proyecto de Topografia para ODL",
@@ -77,13 +71,11 @@
         {
             "type": "Feature",
             "geometry": {
-                "x": -7444943.0178,
-                "y": 1171483.056499999,
-                "z": 0,
-                "spatialReference": {
-                    "wkid": 102100,
-                    "latestWkid": 3857
-                }
+                "type": "Point",
+                "coordinates": [
+                    -7444943.0178,
+                    1171483.056499999
+                ]
             },
             "properties": {
                 "Nombre_del_Proyecto": "Proyecto Geogas",
@@ -99,13 +91,11 @@
         {
             "type": "Feature",
             "geometry": {
-                "x": -8245942.2458,
-                "y": 529318.5333999991,
-                "z": 0,
-                "spatialReference": {
-                    "wkid": 102100,
-                    "latestWkid": 3857
-                }
+                "type": "Point",
+                "coordinates": [
+                    -8245942.2458,
+                    529318.5333999991
+                ]
             },
             "properties": {
                 "Nombre_del_Proyecto": "Taller de Drones en el Liceo Boston",
@@ -121,13 +111,11 @@
         {
             "type": "Feature",
             "geometry": {
-                "x": -8409375.1311,
-                "y": 1149980.8398000002,
-                "z": 0,
-                "spatialReference": {
-                    "wkid": 102100,
-                    "latestWkid": 3857
-                }
+                "type": "Point",
+                "coordinates": [
+                    -8409375.1311,
+                    1149980.8398000002
+                ]
             },
             "properties": {
                 "Nombre_del_Proyecto": "Proyecto SPEC",
@@ -143,13 +131,11 @@
         {
             "type": "Feature",
             "geometry": {
-                "x": -13275843.8278,
-                "y": 4353578.320600003,
-                "z": 0,
-                "spatialReference": {
-                    "wkid": 102100,
-                    "latestWkid": 3857
-                }
+                "type": "Point",
+                "coordinates": [
+                    -13275843.8278,
+                    4353578.320600003
+                ]
             },
             "properties": {
                 "Nombre_del_Proyecto": "Desarrollo de Negocios SIG en California",
@@ -165,13 +151,11 @@
         {
             "type": "Feature",
             "geometry": {
-                "x": -6179587.7479,
-                "y": 655425.5262000002,
-                "z": 0,
-                "spatialReference": {
-                    "wkid": 102100,
-                    "latestWkid": 3857
-                }
+                "type": "Point",
+                "coordinates": [
+                    -6179587.7479,
+                    655425.5262000002
+                ]
             },
             "properties": {
                 "Nombre_del_Proyecto": "GIS Consultant para Staatsolie",
@@ -187,13 +171,11 @@
         {
             "type": "Feature",
             "geometry": {
-                "x": -8152332.381899999,
-                "y": 255999.8227000013,
-                "z": 0,
-                "spatialReference": {
-                    "wkid": 102100,
-                    "latestWkid": 3857
-                }
+                "type": "Point",
+                "coordinates": [
+                    -8152332.381899999,
+                    255999.8227000013
+                ]
             },
             "properties": {
                 "Nombre_del_Proyecto": "Aplicacion Geográfica para el curso Historia Colombiana del Pétroleo ",
@@ -209,13 +191,11 @@
         {
             "type": "Feature",
             "geometry": {
-                "x": -8182949.3026,
-                "y": 1308487.2652000003,
-                "z": 0,
-                "spatialReference": {
-                    "wkid": 102100,
-                    "latestWkid": 3857
-                }
+                "type": "Point",
+                "coordinates": [
+                    -8182949.3026,
+                    1308487.2652000003
+                ]
             },
             "properties": {
                 "Nombre_del_Proyecto": "Uchuva 2",
@@ -231,13 +211,11 @@
         {
             "type": "Feature",
             "geometry": {
-                "x": -7008846.297700001,
-                "y": 978516.3795999996,
-                "z": 0,
-                "spatialReference": {
-                    "wkid": 102100,
-                    "latestWkid": 3857
-                }
+                "type": "Point",
+                "coordinates": [
+                    -7008846.297700001,
+                    978516.3795999996
+                ]
             },
             "properties": {
                 "Nombre_del_Proyecto": "Supervisor de Ingeniería de Producción",
@@ -253,13 +231,11 @@
         {
             "type": "Feature",
             "geometry": {
-                "x": -8602458.239,
-                "y": 134064.4204000011,
-                "z": 0,
-                "spatialReference": {
-                    "wkid": 102100,
-                    "latestWkid": 3857
-                }
+                "type": "Point",
+                "coordinates": [
+                    -8602458.239,
+                    134064.4204000011
+                ]
             },
             "properties": {
                 "Nombre_del_Proyecto": "Diseño del Sistema de Distribución de GN de Pasto, Colombia",
@@ -275,13 +251,11 @@
         {
             "type": "Feature",
             "geometry": {
-                "x": -8249411.298699999,
-                "y": 516838.3685999997,
-                "z": 0,
-                "spatialReference": {
-                    "wkid": 102100,
-                    "latestWkid": 3857
-                }
+                "type": "Point",
+                "coordinates": [
+                    -8249411.298699999,
+                    516838.3685999997
+                ]
             },
             "properties": {
                 "Nombre_del_Proyecto": "Gerente de Petróleo, Gas y Mineria de Esri Colombia",
@@ -297,13 +271,11 @@
         {
             "type": "Feature",
             "geometry": {
-                "x": -8625922.0783,
-                "y": 105934.4112999998,
-                "z": 0,
-                "spatialReference": {
-                    "wkid": 102100,
-                    "latestWkid": 3857
-                }
+                "type": "Point",
+                "coordinates": [
+                    -8625922.0783,
+                    105934.4112999998
+                ]
             },
             "properties": {
                 "Nombre_del_Proyecto": "Gasoducto para Nariño",
@@ -319,13 +291,11 @@
         {
             "type": "Feature",
             "geometry": {
-                "x": -8255687.6787,
-                "y": 530310.1050999984,
-                "z": 0,
-                "spatialReference": {
-                    "wkid": 102100,
-                    "latestWkid": 3857
-                }
+                "type": "Point",
+                "coordinates": [
+                    -8255687.6787,
+                    530310.1050999984
+                ]
             },
             "properties": {
                 "Nombre_del_Proyecto": "Curso Aplicaciones de MAchine Learning y Drones",
@@ -341,13 +311,11 @@
         {
             "type": "Feature",
             "geometry": {
-                "x": -7965762.1479,
-                "y": 138940.20329999924,
-                "z": 0,
-                "spatialReference": {
-                    "wkid": 102100,
-                    "latestWkid": 3857
-                }
+                "type": "Point",
+                "coordinates": [
+                    -7965762.1479,
+                    138940.20329999924
+                ]
             },
             "properties": {
                 "Nombre_del_Proyecto": "Líder Técnico de la empresa estadounidense Geofields (Sistemas de Alerta Temprana para ductos (Ecopetrol))",
@@ -363,13 +331,11 @@
         {
             "type": "Feature",
             "geometry": {
-                "x": 816248.6206,
-                "y": 6888389.0978000015,
-                "z": 0,
-                "spatialReference": {
-                    "wkid": 102100,
-                    "latestWkid": 3857
-                }
+                "type": "Point",
+                "coordinates": [
+                    816248.6206,
+                    6888389.0978000015
+                ]
             },
             "properties": {
                 "Nombre_del_Proyecto": "Product Manager – RTRC (División Tecnológica de Rosen Group)",
@@ -385,13 +351,11 @@
         {
             "type": "Feature",
             "geometry": {
-                "x": -8745308.8359,
-                "y": -767790.193599999,
-                "z": 0,
-                "spatialReference": {
-                    "wkid": 102100,
-                    "latestWkid": 3857
-                }
+                "type": "Point",
+                "coordinates": [
+                    -8745308.8359,
+                    -767790.193599999
+                ]
             },
             "properties": {
                 "Nombre_del_Proyecto": "Director de Tecnología",
@@ -407,13 +371,11 @@
         {
             "type": "Feature",
             "geometry": {
-                "x": -8249973.3562,
-                "y": 100814.30950000137,
-                "z": 0,
-                "spatialReference": {
-                    "wkid": 102100,
-                    "latestWkid": 3857
-                }
+                "type": "Point",
+                "coordinates": [
+                    -8249973.3562,
+                    100814.30950000137
+                ]
             },
             "properties": {
                 "Nombre_del_Proyecto": "Adquisión de Drones en Colombia",
@@ -429,13 +391,11 @@
         {
             "type": "Feature",
             "geometry": {
-                "x": -7755359.7994,
-                "y": 1278897.5095999986,
-                "z": 0,
-                "spatialReference": {
-                    "wkid": 102100,
-                    "latestWkid": 3857
-                }
+                "type": "Point",
+                "coordinates": [
+                    -7755359.7994,
+                    1278897.5095999986
+                ]
             },
             "properties": {
                 "Nombre_del_Proyecto": "Tesis Ingeniería del Sistema de Distribución de Gas Natural de Santa Ana de Coro",
@@ -449,5 +409,5 @@
             }
         }
     ],
-    "updated_at": "2025-05-26 19:35:53"
+    "updated_at": "2025-05-26 19:45:33"
 }
