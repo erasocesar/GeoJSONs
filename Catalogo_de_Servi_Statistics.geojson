@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "schema": {
+        "Area_IsaGIS_Technologies": {
+            "type": "String",
+            "length": 255
+        },
+        "FREQUENCY": {
+            "type": "Integer",
+            "length": null
+        },
+        "COUNT_Area_IsaGIS_Technologies": {
+            "type": "Integer",
+            "length": null
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 1,
+                "COUNT_Area_IsaGIS_Technologies": 1
+            }
+        }
+    ],
+    "updated_at": "2025-06-14 15:26:19"
+}
