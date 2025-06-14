@@ -1330,7 +1330,7 @@
             },
             "properties": {
                 "Nro": 41,
-                "Area_IsaGIS_Technologies": "Uso interno IsaGIS ",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
                 "Grupo": "Software",
                 "Subgrupo": "Arriendo de Software",
                 "Nombre_del_Servicio": "Arriendo de Licenciamiento para usar aplicaciones Web 2D y aplicaciones de Moviles (solo consulta)",
@@ -7210,5 +7210,5 @@
             }
         }
     ],
-    "updated_at": "2025-06-14 15:33:03"
+    "updated_at": "2025-06-14 15:55:15"
 }
