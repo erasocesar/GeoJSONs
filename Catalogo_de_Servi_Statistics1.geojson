@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "schema": {
+        "Area_IsaGIS_Technologies": {
+            "type": "String",
+            "length": 255
+        },
+        "FREQUENCY": {
+            "type": "Integer",
+            "length": null
+        },
+        "COUNT_Area_IsaGIS_Technologies": {
+            "type": "Integer",
+            "length": null
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Area_IsaGIS_Technologies": "Multidepartamental",
+                "FREQUENCY": 20,
+                "COUNT_Area_IsaGIS_Technologies": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Area_IsaGIS_Technologies": "Operaciones de Campo",
+                "FREQUENCY": 22,
+                "COUNT_Area_IsaGIS_Technologies": 22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "FREQUENCY": 21,
+                "COUNT_Area_IsaGIS_Technologies": 21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Area_IsaGIS_Technologies": "Servicios de Ingeniería",
+                "FREQUENCY": 28,
+                "COUNT_Area_IsaGIS_Technologies": 28
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 124,
+                "COUNT_Area_IsaGIS_Technologies": 124
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Area_IsaGIS_Technologies": "Uso interno IsaGIS ",
+                "FREQUENCY": 15,
+                "COUNT_Area_IsaGIS_Technologies": 15
+            }
+        }
+    ],
+    "updated_at": "2025-06-14 15:26:20"
+}
