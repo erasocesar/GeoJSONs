@@ -1795,7 +1795,7 @@
             },
             "properties": {
                 "Nro": 56,
-                "Area_IsaGIS_Technologies": "Uso interno IsaGIS ",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
                 "Grupo": "Logistica",
                 "Subgrupo": "Viaticos, Hospedaje y Transporte",
                 "Nombre_del_Servicio": "Alimentación por día",
@@ -1857,7 +1857,7 @@
             },
             "properties": {
                 "Nro": 58,
-                "Area_IsaGIS_Technologies": "Uso interno IsaGIS ",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
                 "Grupo": "Logistica",
                 "Subgrupo": "Viaticos, Hospedaje y Transporte",
                 "Nombre_del_Servicio": "Traslados en taxis Aeropuertos",
@@ -1888,7 +1888,7 @@
             },
             "properties": {
                 "Nro": 59,
-                "Area_IsaGIS_Technologies": "Uso interno IsaGIS ",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
                 "Grupo": "Logistica",
                 "Subgrupo": "Viaticos, Hospedaje y Transporte",
                 "Nombre_del_Servicio": "Combustible por Dia",
@@ -1919,7 +1919,7 @@
             },
             "properties": {
                 "Nro": 60,
-                "Area_IsaGIS_Technologies": "Uso interno IsaGIS ",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
                 "Grupo": "Logistica",
                 "Subgrupo": "Viaticos, Hospedaje y Transporte",
                 "Nombre_del_Servicio": "Peajes",
@@ -2074,7 +2074,7 @@
             },
             "properties": {
                 "Nro": 65,
-                "Area_IsaGIS_Technologies": "Uso interno IsaGIS ",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
                 "Grupo": "Proyectos",
                 "Subgrupo": "Actividades Generales de Proyectos",
                 "Nombre_del_Servicio": "Preparación HSE Básico de proyectos",
@@ -2105,7 +2105,7 @@
             },
             "properties": {
                 "Nro": 66,
-                "Area_IsaGIS_Technologies": "Uso interno IsaGIS ",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
                 "Grupo": "Proyectos",
                 "Subgrupo": "Actividades Generales de Proyectos",
                 "Nombre_del_Servicio": "Cumplimiento Basico de requerimientos HSE durante la ejecusión de proyectos",
@@ -3221,7 +3221,7 @@
             },
             "properties": {
                 "Nro": 102,
-                "Area_IsaGIS_Technologies": "Uso interno IsaGIS ",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
                 "Grupo": "Software",
                 "Subgrupo": "Arriendo de Software",
                 "Nombre_del_Servicio": "Arriendo de las aplicaciones web 2D y aplicaciones móviles (Usuario visualizador y editor)",
@@ -3252,7 +3252,7 @@
             },
             "properties": {
                 "Nro": 103,
-                "Area_IsaGIS_Technologies": "Uso interno IsaGIS ",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
                 "Grupo": "Software",
                 "Subgrupo": "Arriendo de Software",
                 "Nombre_del_Servicio": "Arriendo de aplicaciones web 3D (Usuario Visualizador)",
@@ -3283,7 +3283,7 @@
             },
             "properties": {
                 "Nro": 104,
-                "Area_IsaGIS_Technologies": "Uso interno IsaGIS ",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
                 "Grupo": "Software",
                 "Subgrupo": "Arriendo de Software",
                 "Nombre_del_Servicio": "Arriendo de aplicaciones web 3D que sean de visualizar y Editar (Usuario visualizador y editor)",
@@ -3407,7 +3407,7 @@
             },
             "properties": {
                 "Nro": 108,
-                "Area_IsaGIS_Technologies": "Uso interno IsaGIS ",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
                 "Grupo": "Logistica",
                 "Subgrupo": "Viaticos, Hospedaje y Transporte",
                 "Nombre_del_Servicio": "Costo de Vehiculo por Dia",
@@ -3686,7 +3686,7 @@
             },
             "properties": {
                 "Nro": 117,
-                "Area_IsaGIS_Technologies": "Uso interno IsaGIS ",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
                 "Grupo": "Proyectos",
                 "Subgrupo": "Actividades Generales de Proyectos",
                 "Nombre_del_Servicio": "Preparación HSEQ intermedios de proyectos ",
@@ -3717,7 +3717,7 @@
             },
             "properties": {
                 "Nro": 118,
-                "Area_IsaGIS_Technologies": "Uso interno IsaGIS ",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
                 "Grupo": "Proyectos",
                 "Subgrupo": "Actividades Generales de Proyectos",
                 "Nombre_del_Servicio": "Cumplimiento Intermedio de requerimientos HSE durante la ejecusión de proyectos",
@@ -5236,7 +5236,7 @@
             },
             "properties": {
                 "Nro": 169,
-                "Area_IsaGIS_Technologies": "Uso interno IsaGIS ",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
                 "Grupo": "Proyectos",
                 "Subgrupo": "Actividades Generales de Proyectos",
                 "Nombre_del_Servicio": "Cumplimiento Avanzado de requerimientos HSE durante la ejecusión de proyectos",
@@ -5887,7 +5887,7 @@
             },
             "properties": {
                 "Nro": 193,
-                "Area_IsaGIS_Technologies": "Uso interno IsaGIS ",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
                 "Grupo": "Logistica",
                 "Subgrupo": "Viaticos, Hospedaje y Transporte",
                 "Nombre_del_Servicio": "Taxis en Bogotá",
@@ -7210,5 +7210,5 @@
             }
         }
     ],
-    "updated_at": "2025-06-14 15:10:53"
+    "updated_at": "2025-06-14 15:26:17"
 }
