@@ -1,0 +1,266 @@
+{
+    "type": "FeatureCollection",
+    "schema": {
+        "Nombre_del_Servicio": {
+            "type": "String",
+            "length": 255
+        },
+        "Descripcion_del_Servicio": {
+            "type": "String",
+            "length": 1000
+        },
+        "Partner": {
+            "type": "String",
+            "length": 255
+        },
+        "Visualizado_por_Demanda": {
+            "type": "String",
+            "length": 255
+        },
+        "Departamento_IsaGIS": {
+            "type": "String",
+            "length": 255
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_del_Servicio": "Modelación Derrames en Ductos",
+                "Descripcion_del_Servicio": "Es una simulación que se realiza en Oleoductos o Poliductos, con el fin de determinar si hubiera un derrame de crudo hay donde tomaria el derrame o pluma en el terreno, estasimulacion se realiza cada tantos metros o km en un ducto.",
+                "Partner": "Geonamic",
+                "Visualizado_por_Demanda": "Si",
+                "Departamento_IsaGIS": "Servicios de Ingeniería"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_del_Servicio": "Carta de Alineación de Ductos",
+                "Descripcion_del_Servicio": "Tambien llamado Alignment Sheets, ",
+                "Partner": "Geonamic",
+                "Visualizado_por_Demanda": "Si",
+                "Departamento_IsaGIS": "Servicios de Ingeniería"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_del_Servicio": "Proyectos SMART para Areas de Producción",
+                "Descripcion_del_Servicio": "Prediseño de Multiples Tecnologias para la implementación de Gemelos Digitales con funcionalidades modulares que integrar Plataforma ArcGIS, IA y Drones para empresas que operan Areas de Producción",
+                "Partner": "No definido aun",
+                "Visualizado_por_Demanda": "No",
+                "Departamento_IsaGIS": "Servicios SIG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_del_Servicio": "Proyectos SMART para Policia",
+                "Descripcion_del_Servicio": "Prediseño de Multiples Tecnologias para la implementación de Gemelos Digitales con funcionalidades modulares que integrar Plataforma ArcGIS, IA y Drones aplicado para Policia",
+                "Partner": "No definido aun",
+                "Visualizado_por_Demanda": "No",
+                "Departamento_IsaGIS": "Servicios SIG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_del_Servicio": "Proyectos SMART para Ciudades",
+                "Descripcion_del_Servicio": "Prediseño de Multiples Tecnologias para la implementación de Gemelos Digitales con funcionalidades modulares que integrar Plataforma ArcGIS, IA y Drones aplicado para Ciudades",
+                "Partner": "No definido aun",
+                "Visualizado_por_Demanda": "No",
+                "Departamento_IsaGIS": "Servicios SIG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_del_Servicio": "Proyectos SMART para Gasoductos",
+                "Descripcion_del_Servicio": "Prediseño de Multiples Tecnologias para la implementación de Gemelos Digitales con funcionalidades modulares que integrar Plataforma ArcGIS, IA y Drones aplicado para empresas que operan Gasoductos",
+                "Partner": "No definido aun",
+                "Visualizado_por_Demanda": "No",
+                "Departamento_IsaGIS": "Servicios SIG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_del_Servicio": "Proyectos SMART para Oleoductos",
+                "Descripcion_del_Servicio": "Prediseño de Multiples Tecnologias para la implementación de Gemelos Digitales con funcionalidades modulares que integrar Plataforma ArcGIS, IA y Drones aplicado para empresas que operan Oleoductos",
+                "Partner": "No definido aun",
+                "Visualizado_por_Demanda": "No",
+                "Departamento_IsaGIS": "Servicios SIG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_del_Servicio": "Servicio de Fitness for Service",
+                "Descripcion_del_Servicio": "El servicio de Fitness for Service para activos de oil and gas es un proceso técnico basado principalmente en la norma API 579-1/ASME FFS-1, complementada por estándares como API 510, 570 y 653. Su objetivo es evaluar la integridad de equipos con defectos para garantizar su operación segura, optimizar su vida útil y cumplir con regulaciones, utilizando inspecciones, datos operativos y análisis est",
+                "Partner": "Sharky Training",
+                "Visualizado_por_Demanda": "Si",
+                "Departamento_IsaGIS": "Servicios de Ingeniería"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_del_Servicio": "Ingenieria Conceptual para Gasoductos",
+                "Descripcion_del_Servicio": "El Servicio de Ingeniería Conceptual para Gasoductos consiste en la etapa inicial de diseño y planificación de un proyecto de gasoductos, donde se definen los conceptos técnicos, operativos y económicos fundamentales. Incluye:\n\n1. Análisis de viabilidad: Evaluación preliminar de rutas, capacidad, demanda de gas y costos estimados.\nDiseño conceptual: Definición de especificaciones básicas (diámetro, presión, materiales) y trazado preliminar del gasoducto.\n2. Simulación Hidraulica para determinar el diametro de operacion.\n3. Evaluación Financiera de Rentabilidad donde se calcularia el TIR y VPN.\nEste servicio establece la base para fases posteriores (ingeniería básica y detallada), asegurando un proyecto viable, seguro y eficiente.",
+                "Partner": "Ecodesign",
+                "Visualizado_por_Demanda": "Si",
+                "Departamento_IsaGIS": "Servicios de Ingeniería"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_del_Servicio": "Modelado BIM",
+                "Descripcion_del_Servicio": "Es un servicio de operacion de campo hibrido que consiste en realizar el modelo 3D de un activo e integrarle un modelo de datos de información de construcción, que pudiera aplicar para: infraestructura habitacional, vial, petrolera o energetica.",
+                "Partner": "No definido aun",
+                "Visualizado_por_Demanda": "Si",
+                "Departamento_IsaGIS": "Servicios SIG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_del_Servicio": "Analisis de Riesgos en Ductos",
+                "Descripcion_del_Servicio": "El Servicio de Análisis de Riesgos en Ductos con Tecnología SIG consiste en la evaluación sistemática de los riesgos asociados a la operación de ductos de oil and gas, integrando Sistemas de Información Geográfica (SIG) y normas de la industria como ASME B31.8, API 1160 y DNV-RP-F116. Utilizando SIG, se mapean y analizan factores geográficos, ambientales y operativos (como corrosión, fallas por terceros, sismicidad o cercanía a zonas pobladas) para identificar amenazas, evaluar su probabilidad e impacto, y priorizar medidas de mitigación. El servicio incluye modelado de riesgos, inspecciones basadas en datos geoespaciales y recomendaciones para garantizar la integridad, seguridad y cumplimiento normativo, optimizando la gestión de activos en ductos.",
+                "Partner": "Sharky Training",
+                "Visualizado_por_Demanda": "Si",
+                "Departamento_IsaGIS": "Servicios de Ingeniería"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_del_Servicio": "Servicios de RBI",
+                "Descripcion_del_Servicio": "El Servicio de Inspección Basada en Riesgos (RBI, por sus siglas en inglés: Risk-Based Inspection) para ductos en la industria del oil and gas es un enfoque sistemático que utiliza análisis de riesgos para optimizar los planes de inspección, priorizando recursos en equipos y áreas con mayor probabilidad e impacto de fallo. Basado en normas como API 580 y API 581, el servicio evalúa factores como corrosión, fatiga, condiciones operativas y consecuencias de fallas (económicas, ambientales, de seguridad), integrando datos operativos y de diseño para establecer frecuencias y métodos de inspección personalizados. Este enfoque maximiza la seguridad, cumple con regulaciones y reduce costos al enfocar esfuerzos en los activos más críticos.",
+                "Partner": "Sharky Training",
+                "Visualizado_por_Demanda": "Si",
+                "Departamento_IsaGIS": "Servicios de Ingeniería"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_del_Servicio": "Implementación de Utilly Network",
+                "Descripcion_del_Servicio": "El Servicio de Implementación de ArcGIS Utility Network en estaciones o plantas de tratamiento, refinerías, estaciones de rebombeo de oleoductos, plantas compresoras, áreas de producción y utilities en ciudades consiste en el despliegue de la solución ArcGIS Utility Network de Esri para gestionar, modelar y optimizar redes de infraestructura crítica. Este servicio integra datos geoespaciales para mapear y administrar activos (tuberías, válvulas, bombas, redes de distribución) en un modelo digital dinámico, facilitando la planificación, operación, mantenimiento y respuesta a emergencias. Cumple con estándares como ISO 19100 y normativas específicas de oil and gas (API, ASME), mejorando la trazabilidad, seguridad y eficiencia operativa mediante análisis en tiempo real y visualización avanzada.",
+                "Partner": "SSP Innovations, LLC",
+                "Visualizado_por_Demanda": "Si",
+                "Departamento_IsaGIS": "Servicios SIG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_del_Servicio": "Servicio de Mapeo LIDAR",
+                "Descripcion_del_Servicio": "El Servicio de Mapeo LiDAR con Drones en la industria del oil and gas consiste en el uso de drones equipados con tecnología LiDAR (Light Detection and Ranging) para generar modelos tridimensionales de alta precisión de terrenos, instalaciones y activos como ductos, refinerías, plantas compresoras o áreas de producción. Este servicio captura datos geoespaciales detallados, permitiendo la creación de mapas topográficos, monitoreo de infraestructura, detección de anomalías (erosión, vegetación invasiva) y soporte en la planificación y mantenimiento. Cumple con estándares como ASPRS y normativas de aviación, optimizando la seguridad, precisión y eficiencia en la gestión de activos.",
+                "Partner": "UAV Latam",
+                "Visualizado_por_Demanda": "No",
+                "Departamento_IsaGIS": "Operaciones de Campo"
+            }
+        }
+    ],
+    "updated_at": "2025-06-14 15:11:01"
+}
