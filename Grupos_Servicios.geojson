@@ -49,6 +49,90 @@
                 ]
             },
             "properties": {
+                "Grupo": "Asesorias",
+                "Area_Estrategica": "Multidepartamental"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Grupo": "Asistentes Virtuales",
+                "Area_Estrategica": "Servicios de IA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Grupo": "Capacitación",
+                "Area_Estrategica": "Operaciones de Campo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Grupo": "Capacitación",
+                "Area_Estrategica": "Servicios de IA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Grupo": "Capacitación",
+                "Area_Estrategica": "Servicios de Ingeniería"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Grupo": "Capacitación",
+                "Area_Estrategica": "Servicios SIG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
                 "Grupo": "Configuración de Aplicaciones",
                 "Area_Estrategica": "Servicios SIG"
             }
@@ -91,22 +175,8 @@
                 ]
             },
             "properties": {
-                "Grupo": "Procesamiento de Imágenes y Sensores Remotos",
-                "Area_Estrategica": "Servicios SIG"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Grupo": "Representación Cartográfica",
-                "Area_Estrategica": "Servicios SIG"
+                "Grupo": "GeoAI",
+                "Area_Estrategica": "Servicios de IA"
             }
         },
         {
@@ -133,8 +203,8 @@
                 ]
             },
             "properties": {
-                "Grupo": "Machine Learning",
-                "Area_Estrategica": "Servicios de IA"
+                "Grupo": "Logistica",
+                "Area_Estrategica": "Multidepartamental"
             }
         },
         {
@@ -147,8 +217,8 @@
                 ]
             },
             "properties": {
-                "Grupo": "GeoAI",
-                "Area_Estrategica": "Servicios de IA"
+                "Grupo": "Operaciones Hibridas",
+                "Area_Estrategica": "Operaciones de Campo"
             }
         },
         {
@@ -161,8 +231,8 @@
                 ]
             },
             "properties": {
-                "Grupo": "Asistentes Virtuales",
-                "Area_Estrategica": "Servicios de IA"
+                "Grupo": "Procesamiento de Imágenes y Sensores Remotos",
+                "Area_Estrategica": "Servicios SIG"
             }
         },
         {
@@ -175,8 +245,8 @@
                 ]
             },
             "properties": {
-                "Grupo": "Automatizaciones IA",
-                "Area_Estrategica": "Servicios de IA"
+                "Grupo": "Proyectos",
+                "Area_Estrategica": "Multidepartamental"
             }
         },
         {
@@ -189,8 +259,78 @@
                 ]
             },
             "properties": {
-                "Grupo": "Proyectos SMART",
+                "Grupo": "Proyectos",
                 "Area_Estrategica": "Servicios de Ingeniería"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Grupo": "Proyectos",
+                "Area_Estrategica": "Servicios SIG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Grupo": "Recolección de Datos en Tierra",
+                "Area_Estrategica": "Operaciones de Campo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Grupo": "Representación Cartográfica",
+                "Area_Estrategica": "Servicios SIG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Grupo": "Servicios de Drones",
+                "Area_Estrategica": "Operaciones de Campo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Grupo": "Servicios de Gestión Humana",
+                "Area_Estrategica": "Multidepartamental"
             }
         },
         {
@@ -259,8 +399,8 @@
                 ]
             },
             "properties": {
-                "Grupo": "Capacitación",
-                "Area_Estrategica": "Servicios de Ingeniería"
+                "Grupo": "Software",
+                "Area_Estrategica": "Multidepartamental"
             }
         },
         {
@@ -273,108 +413,10 @@
                 ]
             },
             "properties": {
-                "Grupo": "Capacitación",
-                "Area_Estrategica": "Servicios de IA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Grupo": "Capacitación",
+                "Grupo": "Software",
                 "Area_Estrategica": "Servicios SIG"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Grupo": "Proyectos",
-                "Area_Estrategica": "Otros Servicios"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Grupo": "Servicios de Gestión Humana",
-                "Area_Estrategica": "Otros Servicios"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Grupo": "Capacitación",
-                "Area_Estrategica": "Operaciones de Campo"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Grupo": "Operaciones Hibridas",
-                "Area_Estrategica": "Operaciones de Campo"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Grupo": "Recolección de Datos en Tierra",
-                "Area_Estrategica": "Operaciones de Campo"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Grupo": "Servicios de Drones",
-                "Area_Estrategica": "Operaciones de Campo"
             }
         }
     ],
-    "updated_at": "2025-06-14 15:33:09"
+    "updated_at": "2025-06-14 15:55:21"
 }
