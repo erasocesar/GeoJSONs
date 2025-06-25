@@ -1,0 +1,1150 @@
+{
+    "type": "FeatureCollection",
+    "schema": {
+        "Subgrupo": {
+            "type": "String",
+            "length": 255
+        },
+        "Grupo": {
+            "type": "String",
+            "length": 255
+        },
+        "Area_IsaGIS_Technologies": {
+            "type": "String",
+            "length": 255
+        },
+        "FREQUENCY": {
+            "type": "Integer",
+            "length": null
+        },
+        "COUNT_Subgrupo": {
+            "type": "Integer",
+            "length": null
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Actividades Generales de Proyectos",
+                "Grupo": "Ingeniería de Proyectos",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
+                "FREQUENCY": 9,
+                "COUNT_Subgrupo": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Administración de personal",
+                "Grupo": "Servicios de Gestión Humana",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Agentes de IA",
+                "Grupo": "Asistentes Virtuales",
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "FREQUENCY": 2,
+                "COUNT_Subgrupo": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Ambiental",
+                "Grupo": "Servicios de HSE",
+                "Area_IsaGIS_Technologies": "Servicios de Ingeniería",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Analisis Geospaciales",
+                "Grupo": "Análisis Espacial y Ciencia de los Datos",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 5,
+                "COUNT_Subgrupo": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "ArcGIS Pipeline Referencing Tools",
+                "Grupo": "Data Management",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "ArcGIS Solutions",
+                "Grupo": "Configuración de Aplicaciones",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Arriendo de Software",
+                "Grupo": "Software",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 4,
+                "COUNT_Subgrupo": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Asesorias",
+                "Grupo": "Asesorias",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Automatización con APIs",
+                "Grupo": "Desarrollo de Aplicaciones",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Automatización de Flujos de Trabajo",
+                "Grupo": "Configuración de Aplicaciones",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 3,
+                "COUNT_Subgrupo": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Automatización de Flujos de Trabajo con APIs",
+                "Grupo": "Desarrollo de Aplicaciones",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Bases de Datos Multiusuario",
+                "Grupo": "Data Management",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Capacitaciones Cortas IA",
+                "Grupo": "Capacitación IA",
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Capacitaciones Cortas Multidepartamental",
+                "Grupo": "Capacitación Multidepartamental",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
+                "FREQUENCY": 2,
+                "COUNT_Subgrupo": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Capacitaciones Cortas Oil and Gas",
+                "Grupo": "Capacitación de Ingeniería de Oil and Gas",
+                "Area_IsaGIS_Technologies": "Servicios de Ingeniería",
+                "FREQUENCY": 5,
+                "COUNT_Subgrupo": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Capacitaciones Cortas Servicios SIG",
+                "Grupo": "Capacitación Servicios SIG",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 3,
+                "COUNT_Subgrupo": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Capacitaciones Largas IA ",
+                "Grupo": "Capacitación IA",
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Capacitaciones Largas Oil and Gas",
+                "Grupo": "Capacitación de Ingeniería de Oil and Gas",
+                "Area_IsaGIS_Technologies": "Servicios de Ingeniería",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Capacitaciones Prácticas Operaciones de Campo",
+                "Grupo": "Capacitación Operaciones de Campo",
+                "Area_IsaGIS_Technologies": "Operaciones de Campo",
+                "FREQUENCY": 2,
+                "COUNT_Subgrupo": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Capacitaciones Prácticas Servicios SIG",
+                "Grupo": "Capacitación Servicios SIG",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Carga de Datos",
+                "Grupo": "Data Management",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 17,
+                "COUNT_Subgrupo": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Cartas de Alineación",
+                "Grupo": "Representación Cartográfica",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Configuación de Aplicaciones",
+                "Grupo": "Configuración de Aplicaciones",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Configuración (Análitica)",
+                "Grupo": "Análisis y Visualizacion en Tiempo Real",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Configuración (Iot y Sensores)",
+                "Grupo": "Análisis y Visualizacion en Tiempo Real",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Constructores de aplicaciones de Cero Codido/bajo codigo ",
+                "Grupo": "Configuración de Aplicaciones",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 8,
+                "COUNT_Subgrupo": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Conversión de Datos",
+                "Grupo": "Data Management",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 4,
+                "COUNT_Subgrupo": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Deep Learning",
+                "Grupo": "GeoAI",
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "FREQUENCY": 10,
+                "COUNT_Subgrupo": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Desarrollo de Aplicaciones Moviles Avanzadas",
+                "Grupo": "Desarrollo de Aplicaciones",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Desarrollo de Conectores",
+                "Grupo": "Análisis y Visualizacion en Tiempo Real",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Desarrollo de Paginas Web",
+                "Grupo": "Desarrollo de Aplicaciones",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 3,
+                "COUNT_Subgrupo": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Desarrollo Integraciones con otra tecnología",
+                "Grupo": "Análisis y Visualizacion en Tiempo Real",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Diseño de Gasoductos",
+                "Grupo": "Servicios de Ingeniería de Ductos",
+                "Area_IsaGIS_Technologies": "Servicios de Ingeniería",
+                "FREQUENCY": 16,
+                "COUNT_Subgrupo": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Documentación",
+                "Grupo": "Ingeniería de Proyectos",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
+                "FREQUENCY": 2,
+                "COUNT_Subgrupo": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Documentación de Proyectos SIG",
+                "Grupo": "Ingeniería de Proyectos",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Entrega de Datos",
+                "Grupo": "Data Management",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 4,
+                "COUNT_Subgrupo": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Excel",
+                "Grupo": "Data Management",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 2,
+                "COUNT_Subgrupo": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Facilidades Producción",
+                "Grupo": "Servicios de Ingenieria de Procesos",
+                "Area_IsaGIS_Technologies": "Servicios de Ingeniería",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Generación de Mapas y/o salidas gráficas",
+                "Grupo": "Representación Cartográfica",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 4,
+                "COUNT_Subgrupo": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Head Hunter",
+                "Grupo": "Servicios de Gestión Humana",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
+                "FREQUENCY": 6,
+                "COUNT_Subgrupo": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Implementación de GDB",
+                "Grupo": "Data Management",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 9,
+                "COUNT_Subgrupo": 9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Integridad",
+                "Grupo": "Servicios de integridad",
+                "Area_IsaGIS_Technologies": "Servicios de Ingeniería",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Licenciamiento",
+                "Grupo": "Capacitación Servicios SIG",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Licitaciones y Ofertas Sencillas",
+                "Grupo": "Ingeniería de Proyectos",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
+                "FREQUENCY": 4,
+                "COUNT_Subgrupo": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Logistica",
+                "Grupo": "Capacitación Operaciones de Campo",
+                "Area_IsaGIS_Technologies": "Operaciones de Campo",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Mantenimiento y Soporte",
+                "Grupo": "Desarrollo de Aplicaciones",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Mercadeo",
+                "Grupo": "IA Generativa",
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "FREQUENCY": 5,
+                "COUNT_Subgrupo": 5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Migración de Aplicaciones",
+                "Grupo": "Data Management",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 2,
+                "COUNT_Subgrupo": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Operación de Drones",
+                "Grupo": "Servicios de Drones",
+                "Area_IsaGIS_Technologies": "Operaciones de Campo",
+                "FREQUENCY": 6,
+                "COUNT_Subgrupo": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Optimización de datos",
+                "Grupo": "Data Management",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 13,
+                "COUNT_Subgrupo": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Planeación",
+                "Grupo": "Recolección de Datos en Tierra",
+                "Area_IsaGIS_Technologies": "Operaciones de Campo",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Presentaciones",
+                "Grupo": "IA Generativa",
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "FREQUENCY": 2,
+                "COUNT_Subgrupo": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Procesamiento Cartografico",
+                "Grupo": "Procesamiento de Imágenes y Sensores Remotos",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 2,
+                "COUNT_Subgrupo": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Procesamiento Fotogrametrico",
+                "Grupo": "Servicios de Drones",
+                "Area_IsaGIS_Technologies": "Operaciones de Campo",
+                "FREQUENCY": 4,
+                "COUNT_Subgrupo": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Procesamiento Geoespacial",
+                "Grupo": "Análisis Espacial y Ciencia de los Datos",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 12,
+                "COUNT_Subgrupo": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Procesamiento Raster",
+                "Grupo": "Procesamiento de Imágenes y Sensores Remotos",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Puntos de Control",
+                "Grupo": "Recolección de Datos en Tierra",
+                "Area_IsaGIS_Technologies": "Operaciones de Campo",
+                "FREQUENCY": 2,
+                "COUNT_Subgrupo": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Recolección",
+                "Grupo": "Recolección de Datos en Tierra",
+                "Area_IsaGIS_Technologies": "Operaciones de Campo",
+                "FREQUENCY": 6,
+                "COUNT_Subgrupo": 6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "SDKs",
+                "Grupo": "Desarrollo de Aplicaciones",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 2,
+                "COUNT_Subgrupo": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Servicios Aéreos y en Tierra",
+                "Grupo": "Operaciones Hibridas",
+                "Area_IsaGIS_Technologies": "Operaciones de Campo",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Servicios Web",
+                "Grupo": "Representación Cartográfica",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Software Libre",
+                "Grupo": "Desarrollo de Aplicaciones",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Utility Network",
+                "Grupo": "Data Management",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Viaticos, Hospedaje y Transporte",
+                "Grupo": "Logistica",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
+                "FREQUENCY": 8,
+                "COUNT_Subgrupo": 8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Videos Aéreos",
+                "Grupo": "Procesamiento de Imágenes y Sensores Remotos",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "FREQUENCY": 1,
+                "COUNT_Subgrupo": 1
+            }
+        }
+    ],
+    "updated_at": "2025-06-25 16:52:56"
+}
