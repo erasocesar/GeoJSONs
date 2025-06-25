@@ -5,7 +5,7 @@
             "type": "String",
             "length": 255
         },
-        "Area_Estrategica": {
+        "Area_IsaGIS_Technologies": {
             "type": "String",
             "length": 255
         }
@@ -22,7 +22,7 @@
             },
             "properties": {
                 "Grupo": "Análisis Espacial y Ciencia de los Datos",
-                "Area_Estrategica": "Servicios SIG"
+                "Area_IsaGIS_Technologies": "Servicios SIG"
             }
         },
         {
@@ -36,7 +36,7 @@
             },
             "properties": {
                 "Grupo": "Análisis y Visualizacion en Tiempo Real",
-                "Area_Estrategica": "Servicios SIG"
+                "Area_IsaGIS_Technologies": "Servicios SIG"
             }
         },
         {
@@ -50,7 +50,7 @@
             },
             "properties": {
                 "Grupo": "Asesorias",
-                "Area_Estrategica": "Multidepartamental"
+                "Area_IsaGIS_Technologies": "Multidepartamental"
             }
         },
         {
@@ -64,7 +64,7 @@
             },
             "properties": {
                 "Grupo": "Asistentes Virtuales",
-                "Area_Estrategica": "Servicios de IA"
+                "Area_IsaGIS_Technologies": "Servicios de IA"
             }
         },
         {
@@ -77,8 +77,8 @@
                 ]
             },
             "properties": {
-                "Grupo": "Capacitación",
-                "Area_Estrategica": "Operaciones de Campo"
+                "Grupo": "Capacitación de Ingeniería de Oil and Gas",
+                "Area_IsaGIS_Technologies": "Servicios de Ingeniería"
             }
         },
         {
@@ -91,8 +91,8 @@
                 ]
             },
             "properties": {
-                "Grupo": "Capacitación",
-                "Area_Estrategica": "Servicios de IA"
+                "Grupo": "Capacitación IA",
+                "Area_IsaGIS_Technologies": "Servicios de IA"
             }
         },
         {
@@ -105,8 +105,8 @@
                 ]
             },
             "properties": {
-                "Grupo": "Capacitación",
-                "Area_Estrategica": "Servicios de Ingeniería"
+                "Grupo": "Capacitación Multidepartamental",
+                "Area_IsaGIS_Technologies": "Multidepartamental"
             }
         },
         {
@@ -119,8 +119,22 @@
                 ]
             },
             "properties": {
-                "Grupo": "Capacitación",
-                "Area_Estrategica": "Servicios SIG"
+                "Grupo": "Capacitación Operaciones de Campo",
+                "Area_IsaGIS_Technologies": "Operaciones de Campo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Grupo": "Capacitación Servicios SIG",
+                "Area_IsaGIS_Technologies": "Servicios SIG"
             }
         },
         {
@@ -134,7 +148,7 @@
             },
             "properties": {
                 "Grupo": "Configuración de Aplicaciones",
-                "Area_Estrategica": "Servicios SIG"
+                "Area_IsaGIS_Technologies": "Servicios SIG"
             }
         },
         {
@@ -148,7 +162,7 @@
             },
             "properties": {
                 "Grupo": "Data Management",
-                "Area_Estrategica": "Servicios SIG"
+                "Area_IsaGIS_Technologies": "Servicios SIG"
             }
         },
         {
@@ -162,7 +176,7 @@
             },
             "properties": {
                 "Grupo": "Desarrollo de Aplicaciones",
-                "Area_Estrategica": "Servicios SIG"
+                "Area_IsaGIS_Technologies": "Servicios SIG"
             }
         },
         {
@@ -176,7 +190,7 @@
             },
             "properties": {
                 "Grupo": "GeoAI",
-                "Area_Estrategica": "Servicios de IA"
+                "Area_IsaGIS_Technologies": "Servicios de IA"
             }
         },
         {
@@ -190,7 +204,21 @@
             },
             "properties": {
                 "Grupo": "IA Generativa",
-                "Area_Estrategica": "Servicios de IA"
+                "Area_IsaGIS_Technologies": "Servicios de IA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Grupo": "Ingeniería de Proyectos",
+                "Area_IsaGIS_Technologies": "Multidepartamental"
             }
         },
         {
@@ -204,7 +232,7 @@
             },
             "properties": {
                 "Grupo": "Logistica",
-                "Area_Estrategica": "Multidepartamental"
+                "Area_IsaGIS_Technologies": "Multidepartamental"
             }
         },
         {
@@ -218,7 +246,7 @@
             },
             "properties": {
                 "Grupo": "Operaciones Hibridas",
-                "Area_Estrategica": "Operaciones de Campo"
+                "Area_IsaGIS_Technologies": "Operaciones de Campo"
             }
         },
         {
@@ -232,49 +260,7 @@
             },
             "properties": {
                 "Grupo": "Procesamiento de Imágenes y Sensores Remotos",
-                "Area_Estrategica": "Servicios SIG"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Grupo": "Proyectos",
-                "Area_Estrategica": "Multidepartamental"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Grupo": "Proyectos",
-                "Area_Estrategica": "Servicios de Ingeniería"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Grupo": "Proyectos",
-                "Area_Estrategica": "Servicios SIG"
+                "Area_IsaGIS_Technologies": "Servicios SIG"
             }
         },
         {
@@ -288,7 +274,7 @@
             },
             "properties": {
                 "Grupo": "Recolección de Datos en Tierra",
-                "Area_Estrategica": "Operaciones de Campo"
+                "Area_IsaGIS_Technologies": "Operaciones de Campo"
             }
         },
         {
@@ -302,7 +288,7 @@
             },
             "properties": {
                 "Grupo": "Representación Cartográfica",
-                "Area_Estrategica": "Servicios SIG"
+                "Area_IsaGIS_Technologies": "Servicios SIG"
             }
         },
         {
@@ -316,7 +302,7 @@
             },
             "properties": {
                 "Grupo": "Servicios de Drones",
-                "Area_Estrategica": "Operaciones de Campo"
+                "Area_IsaGIS_Technologies": "Operaciones de Campo"
             }
         },
         {
@@ -330,7 +316,7 @@
             },
             "properties": {
                 "Grupo": "Servicios de Gestión Humana",
-                "Area_Estrategica": "Multidepartamental"
+                "Area_IsaGIS_Technologies": "Multidepartamental"
             }
         },
         {
@@ -344,7 +330,7 @@
             },
             "properties": {
                 "Grupo": "Servicios de HSE",
-                "Area_Estrategica": "Servicios de Ingeniería"
+                "Area_IsaGIS_Technologies": "Servicios de Ingeniería"
             }
         },
         {
@@ -358,7 +344,7 @@
             },
             "properties": {
                 "Grupo": "Servicios de Ingeniería de Ductos",
-                "Area_Estrategica": "Servicios de Ingeniería"
+                "Area_IsaGIS_Technologies": "Servicios de Ingeniería"
             }
         },
         {
@@ -372,7 +358,7 @@
             },
             "properties": {
                 "Grupo": "Servicios de Ingenieria de Procesos",
-                "Area_Estrategica": "Servicios de Ingeniería"
+                "Area_IsaGIS_Technologies": "Servicios de Ingeniería"
             }
         },
         {
@@ -386,7 +372,7 @@
             },
             "properties": {
                 "Grupo": "Servicios de integridad",
-                "Area_Estrategica": "Servicios de Ingeniería"
+                "Area_IsaGIS_Technologies": "Servicios de Ingeniería"
             }
         },
         {
@@ -400,23 +386,9 @@
             },
             "properties": {
                 "Grupo": "Software",
-                "Area_Estrategica": "Multidepartamental"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Grupo": "Software",
-                "Area_Estrategica": "Servicios SIG"
+                "Area_IsaGIS_Technologies": "Servicios SIG"
             }
         }
     ],
-    "updated_at": "2025-06-14 15:55:21"
+    "updated_at": "2025-06-25 16:52:53"
 }
