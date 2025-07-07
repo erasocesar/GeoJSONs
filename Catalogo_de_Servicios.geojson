@@ -3102,12 +3102,12 @@
             "properties": {
                 "Nro": 101,
                 "Area_IsaGIS_Technologies": "Operaciones de Campo",
-                "Grupo": "Recolección de Datos en Tierra",
-                "Subgrupo": "Planeación",
+                "Grupo": "Servicios de Drones",
+                "Subgrupo": "Planeación Aérea",
                 "Nombre_del_Servicio": "Planeación de operaciones aereas usando Drones",
                 "Clasificación": "Servicio Básico",
                 "Descripción_Técnica_del_Servicio": "Este servicio consiste en la planificación integral de misiones aéreas con drones, utilizando ArcGIS Pro y otras herramientas de planeación para definir rutas, zonas de vuelo y parámetros operativos de acuerdo con las necesidades del proyecto. La misión se entrega en un proyecto de ArcGIS Pro; para integraciones en aplicaciones web o móviles se pueden solicitar servicios adicionales.",
-                "Detalles_Costo_Base": "1 Servicio SIG Básico (por día) que cubre el desarrollo y documentación de la misión aérea.",
+                "Detalles_Costo_Base": "1 Servicio SIG Básico cubre el desarrollo de a planeación de las misiones de drones",
                 "Notas_Adicionales": "Descripción detallada del proyecto, especificación de los equipos o drones a utilizar y, si aplica, información adicional como trazados o requerimientos particulares (por ejemplo, en proyectos de gasoductos, se debe contar con el GIS Conceptual Standard).",
                 "Tiempo__Dias_habiles_": "1",
                 "Tiempos_de_entrega": "1 a 2 dias",
@@ -3434,7 +3434,7 @@
                 "Area_IsaGIS_Technologies": "Servicios SIG",
                 "Grupo": "Procesamiento de Imágenes y Sensores Remotos",
                 "Subgrupo": "Videos Aéreos",
-                "Nombre_del_Servicio": "Multiplexación de Videos Aéreos",
+                "Nombre_del_Servicio": "Multiplexación de Videos Aéreos ( Full Motion Videos)",
                 "Clasificación": "Servicio Intermedio",
                 "Descripción_Técnica_del_Servicio": "Este servicio integra videos aéreos crudos con el registro de vuelo del dron para crear un video georeferenciado compatible con ArcGIS Full Motion Video. Se codifican los metadatos en una marca de tiempo sincronizada para generar un único archivo que une ambos elementos.",
                 "Detalles_Costo_Base": "1 Servicio SIG Intermedio cubre la multiplexación de 1 video aéreo.",
@@ -6765,7 +6765,7 @@
             "properties": {
                 "Nro": 217,
                 "Area_IsaGIS_Technologies": "Operaciones de Campo",
-                "Grupo": "Capacitación Operaciones de Campo",
+                "Grupo": "Servicios de Drones",
                 "Subgrupo": "Logistica",
                 "Nombre_del_Servicio": "Alquiler de pista de drones",
                 "Clasificación": "Servicio Intermedio",
@@ -6798,7 +6798,7 @@
             "properties": {
                 "Nro": 218,
                 "Area_IsaGIS_Technologies": "Operaciones de Campo",
-                "Grupo": "Capacitación Operaciones de Campo",
+                "Grupo": "Servicios de Drones",
                 "Subgrupo": "Capacitaciones Prácticas Operaciones de Campo",
                 "Nombre_del_Servicio": "Honorarios de profesional experto en misiones autonomas para dictar práctica de misiones de drones en pista de drones o infraestructura del cliente",
                 "Clasificación": "Servicio Intermedio",
@@ -6897,7 +6897,7 @@
             "properties": {
                 "Nro": 221,
                 "Area_IsaGIS_Technologies": "Operaciones de Campo",
-                "Grupo": "Capacitación Operaciones de Campo",
+                "Grupo": "Servicios de Drones",
                 "Subgrupo": "Capacitaciones Prácticas Operaciones de Campo",
                 "Nombre_del_Servicio": "Taller Teórico Practico de fotogrametria y vuelos autonomos usando tecnología SIG de Esri",
                 "Clasificación": "Servicio Avanzado",
@@ -7346,7 +7346,40 @@
                 "micro_guion_es": "En IsaGIS, optimizamos tus viajes con nuestro servicio de estadía de hotel por noche. Con la integración de nuestros softwares de gestión y reservas, garantizamos comodidad y eficiencia. Cada noche, transformamos tus gastos en una experiencia inolvidable. ¿Listos para disfrutar de una estadía sin preocupaciones?",
                 "Descripcion_Tecnica_Corta": "El servicio cubre los costos de alojamiento en hotel por noche y por persona."
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 237,
+                "Area_IsaGIS_Technologies": "Operaciones de Campo",
+                "Grupo": "Recolección de Datos en Tierra",
+                "Subgrupo": "Planeación en Tierra",
+                "Nombre_del_Servicio": "Planeación de operaciones de Recolección de Datos en Tierra",
+                "Clasificación": "Servicio Básico",
+                "Descripción_Técnica_del_Servicio": "Este servicio consiste en la planificación integralde los trabjos de campo asociados a la recoleccion de datos de campo en tierra, la planeación se realiza utilizando ArcGIS Pro y otras herramientas de planeación para definir rutas, areas de recolección y parámetros operativos de acuerdo con las necesidades del proyecto. La planeacion de los trabajos de campo se entrega en el visor geografico de isagis para recoleccione de datos de campo.",
+                "Detalles_Costo_Base": "1 Servicio SIG Básico cubre el desarrollo de a planeación de los trabajos de campo",
+                "Notas_Adicionales": "Descripción detallada del proyecto, la precision de la recoleccion de datos de campo que se requiere en el proyecto, información adicional como trazados o requerimientos particulares (por ejemplo, en proyectos de gasoductos, se debe contar con el GIS Conceptual Standard).",
+                "Tiempo__Dias_habiles_": "1",
+                "Tiempos_de_entrega": "1 a 2 dias",
+                "URL_Video_hosting": "",
+                "URL_con_información_adicional": "",
+                "Basicos": 1.0,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": 101,
+                "micro_guion_es": "En IsaGIS, optimizamos la planeación de operaciones aéreas con drones utilizando ArcGIS Pro y herramientas especializadas. Nuestro enfoque integral nos permite definir rutas y parámetros operativos precisos, adaptados a tus necesidades. Al finalizar, recibirás un proyecto detallado en ArcGIS Pro, listo para su implementación. ¿Estás listo para llevar tus operaciones aéreas al siguiente nivel?",
+                "Descripcion_Tecnica_Corta": "Servicio de planificación de trabajos de campo en tierra usando tecnologia GIS Mobile"
+            }
         }
     ],
-    "updated_at": "2025-06-25 16:52:50"
+    "updated_at": "2025-07-07 16:27:55"
 }
