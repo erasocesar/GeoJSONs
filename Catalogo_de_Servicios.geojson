@@ -7258,7 +7258,7 @@
                 ]
             },
             "properties": {
-                "Nro": 232,
+                "Nro": 234,
                 "Area_IsaGIS_Technologies": "Operaciones de Campo",
                 "Grupo": "Recolección de Datos en Tierra",
                 "Subgrupo": "Recolección",
@@ -7324,7 +7324,7 @@
                 ]
             },
             "properties": {
-                "Nro": 293,
+                "Nro": 236,
                 "Area_IsaGIS_Technologies": "Multidepartamental",
                 "Grupo": "Logistica",
                 "Subgrupo": "Viaticos, Hospedaje y Transporte",
@@ -7381,5 +7381,5 @@
             }
         }
     ],
-    "updated_at": "2025-07-07 16:27:55"
+    "updated_at": "2025-07-11 16:24:50"
 }
