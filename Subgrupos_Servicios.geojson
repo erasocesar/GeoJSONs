@@ -1,0 +1,1112 @@
+{
+    "type": "FeatureCollection",
+    "schema": {
+        "Subgrupo": {
+            "type": "String",
+            "length": 255
+        },
+        "Grupo": {
+            "type": "String",
+            "length": 255
+        },
+        "Area_IsaGIS_Technologies": {
+            "type": "String",
+            "length": 255
+        },
+        "Sinonimos": {
+            "type": "String",
+            "length": 255
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Actividades Generales de Proyectos",
+                "Grupo": "Ingeniería de Proyectos",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
+                "Sinonimos": "Tareas de proyecto; Gestión general; Actividades PMO; Labores de proyecto; Operaciones de proyecto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Administración de personal",
+                "Grupo": "Servicios de Gestión Humana",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
+                "Sinonimos": "Gestión de recursos humanos; RH administration; Manejo de personal; Gestión de nómina; Admin talento"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Agentes de IA",
+                "Grupo": "Asistentes Virtuales",
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Sinonimos": "Agentes inteligentes; IA autónoma; Intelligent agents; Bots de IA; Agentes cognitivos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Ambiental",
+                "Grupo": "Servicios de HSE",
+                "Area_IsaGIS_Technologies": "Servicios de Ingeniería",
+                "Sinonimos": "Medio ambiente; Gestión ambiental; Environmental services; Consultoría ambiental; Monitoreo ambiental"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Analisis Geospaciales",
+                "Grupo": "Análisis Espacial y Ciencia de los Datos",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Análisis GIS; Geospatial analysis; Geo‑analytics; Estudio geoespacial; Spatial analytics"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "ArcGIS Pipeline Referencing Tools",
+                "Grupo": "Data Management",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "APR tools; Herramientas APR; ArcGIS pipeline; Referenciamiento de ductos; Pipeline LRS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "ArcGIS Solutions",
+                "Grupo": "Configuración de Aplicaciones",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Soluciones ArcGIS; Plantillas ArcGIS; ArcGIS templates; Soluciones Esri; Apps preconfiguradas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Arriendo de Software",
+                "Grupo": "Software",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Alquiler de software; Software as a Service; Renta de licencias; Leasing de software; Licencias en alquiler"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Asesorias",
+                "Grupo": "Asesorias",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
+                "Sinonimos": "Consultoría; Acompañamiento; Soporte experto; Mentoring; Servicios de asesoramiento"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Automatización con APIs",
+                "Grupo": "Desarrollo de Aplicaciones",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "API automation; Integración API; Automatización vía API; Scripts API; Automatización programática"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Automatización de Flujos de Trabajo",
+                "Grupo": "Configuración de Aplicaciones",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Workflow automation; Automatización de procesos; RPA geoespacial; Automatización operativa; Optimización de flujos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Automatización de Flujos de Trabajo con APIs",
+                "Grupo": "Desarrollo de Aplicaciones",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Workflow API automation; Automatización proceso API; Process automation via API; Integración automatizada; Automatización + APIs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Bases de Datos Multiusuario",
+                "Grupo": "Data Management",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Geodatabases corporativas; Bases de datos enterprise; Multiuser DB; SDE databases; Bases colaborativas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Capacitaciones Cortas IA",
+                "Grupo": "Capacitación IA",
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Sinonimos": "Cursos exprés IA; Talleres rápidos IA; Short AI training; Bootcamp breve IA; Seminarios IA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Capacitaciones Cortas Multidepartamental",
+                "Grupo": "Capacitación Multidepartamental",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
+                "Sinonimos": "Cursos exprés corporativos; Talleres cross‑functional; Short multidisciplinary training; Bootcamps interáreas; Seminarios integrados"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Capacitaciones Cortas Oil and Gas",
+                "Grupo": "Capacitación de Ingeniería de Oil and Gas",
+                "Area_IsaGIS_Technologies": "Servicios de Ingeniería",
+                "Sinonimos": "Cursos rápidos Oil & Gas; Talleres petroleros exprés; Short O&G training; Bootcamp hidrocarburos; Seminarios Oil and Gas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Capacitaciones Cortas Servicios SIG",
+                "Grupo": "Capacitación Servicios SIG",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Cursos breves GIS; Talleres exprés SIG; Short GIS training; Bootcamp SIG; Seminarios ArcGIS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Capacitaciones Largas IA ",
+                "Grupo": "Capacitación IA",
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Sinonimos": "Diplomado IA; Programa intensivo IA; Long‑term AI training; Curso avanzado IA; Formación extensa IA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Capacitaciones Largas Oil and Gas",
+                "Grupo": "Capacitación de Ingeniería de Oil and Gas",
+                "Area_IsaGIS_Technologies": "Servicios de Ingeniería",
+                "Sinonimos": "Diplomado Oil & Gas; Programa intensivo O&G; Long‑term O&G training; Curso avanzado hidrocarburos; Formación extensa petróleo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Capacitaciones Prácticas Operaciones de Campo",
+                "Grupo": "Servicios de Drones",
+                "Area_IsaGIS_Technologies": "Operaciones de Campo",
+                "Sinonimos": "Talleres hands‑on campo; Prácticas de campo; Field ops workshops; Training on‑site; Entorno práctico campo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Capacitaciones Prácticas Servicios SIG",
+                "Grupo": "Capacitación Servicios SIG",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Talleres prácticos GIS; Hands‑on ArcGIS; GIS labs; Entrenamiento práctico SIG; Prácticas cartográficas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Carga de Datos",
+                "Grupo": "Data Management",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Data loading; Ingesta de datos; Importación de datos; ETL inicial; Upload de datasets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Cartas de Alineación",
+                "Grupo": "Representación Cartográfica",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Alignment sheets; Planos de alineación; Hojas de ruta ductos; Planimetría de ductos; Dibujos de alineación"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Configuación de Aplicaciones",
+                "Grupo": "Configuración de Aplicaciones",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Configuración de apps; Set‑up de aplicaciones; Parametrización; Ajuste de software; Deployment de apps"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Configuración (Análitica)",
+                "Grupo": "Análisis y Visualizacion en Tiempo Real",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Configuración analítica; Setup de analytics; Parametrización BI; Ajuste de reporting; Config dashboards"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Configuración (Iot y Sensores)",
+                "Grupo": "Análisis y Visualizacion en Tiempo Real",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Config IoT; Set‑up sensores; Parametrización IoT; Integración de sensores; IoT device setup"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Constructores de aplicaciones de Cero Codido/bajo codigo ",
+                "Grupo": "Configuración de Aplicaciones",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "App builders low‑code; Zero‑code app makers; Low‑code developers; AppStudio like; Constructores sin código"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Conversión  de Datos",
+                "Grupo": "Data Management",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Transformación de Datos, Cambio de Formato de Datos, Modificación del formato de Datos, Adaptación de formato de Datos, Transmutación de Datos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Conversión de Datos",
+                "Grupo": "Data Management",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Data conversion; Transformación de formatos; Data migration; Conversión GIS; Cambio de proyección"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Deep Learning",
+                "Grupo": "GeoAI",
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Sinonimos": "Aprendizaje profundo; Deep neural networks; Redes neuronales; DL geoespacial; Modelos profundos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Desarrollo de Aplicaciones Moviles Avanzadas",
+                "Grupo": "Desarrollo de Aplicaciones",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Mobile app dev; Desarrollo advanced mobile; Apps móviles GIS; Mobile solutions; Aplicaciones nativas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Desarrollo de Conectores",
+                "Grupo": "Análisis y Visualizacion en Tiempo Real",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "API connectors; Integradores; Desarrollo de integraciones; Connectors dev; Enlaces de sistemas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Desarrollo de Paginas Web",
+                "Grupo": "Desarrollo de Aplicaciones",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Web development; Diseño de sitios; Creación de páginas web; Desarrollo web; Websites"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Desarrollo Integraciones con otra tecnología",
+                "Grupo": "Análisis y Visualizacion en Tiempo Real",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Integraciones con terceros; Integración de sistemas externos; Conexión multiplataforma; Interfaces con software externo; Integraciones tecnológicas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Diseño de Gasoductos",
+                "Grupo": "Servicios de Ingeniería de Ductos",
+                "Area_IsaGIS_Technologies": "Servicios de Ingeniería",
+                "Sinonimos": "Pipeline design; Diseño de ductos; Ingeniería de gasoductos; Trazado de gasoductos; Diseño de tuberías de gas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Documentación",
+                "Grupo": "Ingeniería de Proyectos",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
+                "Sinonimos": "Documentación técnica; Manuales; Procedimientos; Especificaciones; Guías de proyecto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Documentación de Proyectos SIG",
+                "Grupo": "Ingeniería de Proyectos",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
+                "Sinonimos": "Documentación GIS; Entregables SIG; Informes GIS; Documentos de proyecto geoespacial; Reportes SIG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Entrega de Datos",
+                "Grupo": "Data Management",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Entrega de deliverables; Suministro de datos; Entrega de archivos; Transferencia de información; Data delivery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Excel",
+                "Grupo": "Data Management",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "MS Excel; Hojas de cálculo; Planillas; Archivos xlsx; Tablas Excel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Facilidades Producción",
+                "Grupo": "Servicios de Ingenieria de Procesos",
+                "Area_IsaGIS_Technologies": "Servicios de Ingeniería",
+                "Sinonimos": "Facilities; Instalaciones de producción; Infraestructura de producción; Plantas de proceso; Facilities O&G"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Generación de Mapas y/o salidas gráficas",
+                "Grupo": "Representación Cartográfica",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Mapas impresos; Map outputs; Productos cartográficos; Salidas de mapas; Mapas y layouts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Head Hunter",
+                "Grupo": "Servicios de Gestión Humana",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
+                "Sinonimos": "Cazatalentos; Reclutamiento especializado; Headhunting; Selección de talento; Búsqueda de ejecutivos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Implementación de GDB",
+                "Grupo": "Data Management",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Implementación geodatabase; Creación de GDB; Configuración de geodatabases; Montaje de bases GIS; Implementación SDE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Integridad",
+                "Grupo": "Servicios de integridad",
+                "Area_IsaGIS_Technologies": "Servicios de Ingeniería",
+                "Sinonimos": "Gestión de integridad; Integrity management; Integridad estructural; Integridad de activos; Asset integrity"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Licenciamiento",
+                "Grupo": "Capacitación Servicios SIG",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Licencias software; Venta de licencias; Suscripción software; Licenciamiento de aplicaciones; Licencias de uso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Licitaciones y Ofertas Sencillas",
+                "Grupo": "Ingeniería de Proyectos",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
+                "Sinonimos": "Propuestas simples; Ofertas básicas; Presentaciones licitatorias; Cotizaciones sencillas; Licitaciones menores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Logistica",
+                "Grupo": "Servicios de Drones",
+                "Area_IsaGIS_Technologies": "Operaciones de Campo",
+                "Sinonimos": "Logística de proyectos; Gestión logística; Operaciones logísticas; Coordinación logística; Servicios de logística"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Mantenimiento y Soporte",
+                "Grupo": "Desarrollo de Aplicaciones",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Mantenimiento & soporte; Soporte técnico; Sustentación postventa; Servicio de mantenimiento; Soporte y mantenimiento"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Mercadeo",
+                "Grupo": "IA Generativa",
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Sinonimos": "Marketing; Mercadotecnia; Publicidad; Promoción; Gestión de marketing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Migración de Aplicaciones",
+                "Grupo": "Data Management",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Migración de apps; Porting de aplicaciones; Traslado de software; Modernización de aplicaciones; Reubicación de apps"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Operación de Drones",
+                "Grupo": "Servicios de Drones",
+                "Area_IsaGIS_Technologies": "Operaciones de Campo",
+                "Sinonimos": "Operaciones UAV; Operación de RPAS; Vuelos de drones; Pilotaje de drones; Servicios drone operation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Optimización de datos",
+                "Grupo": "Data Management",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Optimización data; Data optimization; Mejora de datos; Refinamiento de datasets; Optimización de información"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Planeación Aérea",
+                "Grupo": "Servicios de Drones",
+                "Area_IsaGIS_Technologies": "Operaciones de Campo",
+                "Sinonimos": "Planificación Aeronáutica, Organización Aérea, Programación de la Misión Aérea, Diseño de Plan Aéreo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Planeación en Tierra",
+                "Grupo": "Recolección de Datos en Tierra",
+                "Area_IsaGIS_Technologies": "Operaciones de Campo",
+                "Sinonimos": "Planificación terrestre, Organización en el suelo, Planeación de Operaciones de Campo, Diseño de Operaciones en tierra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Presentaciones",
+                "Grupo": "IA Generativa",
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Sinonimos": "Presentaciones corporativas; Slides; Presentaciones en PowerPoint; Decks; Presentaciones de negocio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Procesamiento Cartografico",
+                "Grupo": "Procesamiento de Imágenes y Sensores Remotos",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Procesamiento cartográfico; Cartographic processing; Digitalización cartográfica; Procesado cartográfico; Tratamiento de mapas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Procesamiento Fotogrametrico",
+                "Grupo": "Servicios de Drones",
+                "Area_IsaGIS_Technologies": "Operaciones de Campo",
+                "Sinonimos": "Fotogrametría; Procesamiento de fotos aéreas; Photogrammetric processing; Ajuste aerotriangulación; Procesado fotogramétrico"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Procesamiento Geoespacial",
+                "Grupo": "Análisis Espacial y Ciencia de los Datos",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Procesamiento geospacial; Geospatial processing; Tratamiento de datos GIS; Geoprocesamiento; Geo‑processing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Procesamiento Raster",
+                "Grupo": "Procesamiento de Imágenes y Sensores Remotos",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Procesamiento raster; Raster processing; Tratamiento de imágenes raster; Raster analysis; Procesado raster"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Puntos de Control",
+                "Grupo": "Recolección de Datos en Tierra",
+                "Area_IsaGIS_Technologies": "Operaciones de Campo",
+                "Sinonimos": "Ground control points; Puntos GCP; Puntos de apoyo; Control terrestre; Puntos de amarre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Recolección",
+                "Grupo": "Recolección de Datos en Tierra",
+                "Area_IsaGIS_Technologies": "Operaciones de Campo",
+                "Sinonimos": "Data collection; Levantamiento; Captura de datos; Recolección de información; Adquisición de datos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "SDKs",
+                "Grupo": "Desarrollo de Aplicaciones",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Software Development Kits; SDK; Kit de desarrollo; Bibliotecas de desarrollo; APIs SDK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Servicios Aéreos y en Tierra",
+                "Grupo": "Operaciones Hibridas",
+                "Area_IsaGIS_Technologies": "Operaciones de Campo",
+                "Sinonimos": "Servicios aéreos y terrestres; Operaciones aéreas y campo; Servicios drone & ground; Servicios mixtos aire‑tierra; Aerial and ground services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Servicios Web",
+                "Grupo": "Representación Cartográfica",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Servicios web GIS; Web services; API web; Servicios en línea; WebGIS services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Software Libre",
+                "Grupo": "Desarrollo de Aplicaciones",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Software de código abierto; Open‑source software; Herramientas libres; Software libre GIS; Free software"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Utility Network",
+                "Grupo": "Data Management",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Red de utilidades; Utility network model; Modelo UN; Red de servicios; Utility Network GIS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Viaticos, Hospedaje y Transporte",
+                "Grupo": "Logistica",
+                "Area_IsaGIS_Technologies": "Multidepartamental",
+                "Sinonimos": "Viáticos; Gastos de viaje; Per diem; Alojamiento y transporte; Gastos de hospedaje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Videos Aéreos",
+                "Grupo": "Procesamiento de Imágenes y Sensores Remotos",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Sinonimos": "Videos drone; Filmaciones aéreas; Grabaciones aéreas; Video aéreo; Tomas aéreas"
+            }
+        }
+    ],
+    "updated_at": "2025-07-11 16:24:56"
+}
