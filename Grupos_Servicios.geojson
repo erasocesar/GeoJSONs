@@ -334,7 +334,7 @@
             },
             "properties": {
                 "Grupo": "Servicios de Drones",
-                "Sinonimos_Grupo": "Servicios UAV; Aeronaves no tripuladas; Dronografía; Operaciones drone; Servicios RPAS",
+                "Sinonimos_Grupo": "Servicios UAV; Aeronaves no tripuladas; Dronografía; Operaciones drone; Servicios RPAS; Drone; Drones",
                 "topK": 14,
                 "Filtro": "Grupo:Servicios de Drones"
             }
@@ -436,5 +436,5 @@
             }
         }
     ],
-    "updated_at": "2025-07-21 16:52:48"
+    "updated_at": "2025-07-21 17:02:05"
 }
