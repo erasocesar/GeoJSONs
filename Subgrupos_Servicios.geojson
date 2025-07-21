@@ -16,6 +16,14 @@
         "Sinonimos": {
             "type": "String",
             "length": 255
+        },
+        "topK": {
+            "type": "Integer",
+            "length": null
+        },
+        "Filtro": {
+            "type": "String",
+            "length": 255
         }
     },
     "features": [
@@ -32,7 +40,9 @@
                 "Subgrupo": "Actividades Generales de Proyectos",
                 "Grupo": "Ingeniería de Proyectos",
                 "Area_IsaGIS_Technologies": "Multidepartamental",
-                "Sinonimos": "Tareas de proyecto; Gestión general; Actividades PMO; Labores de proyecto; Operaciones de proyecto"
+                "Sinonimos": "Tareas de proyecto; Gestión general; Actividades PMO; Labores de proyecto; Operaciones de proyecto",
+                "topK": 9,
+                "Filtro": "Subgrupo:Actividades Generales de Proyectos"
             }
         },
         {
@@ -48,7 +58,9 @@
                 "Subgrupo": "Administración de personal",
                 "Grupo": "Servicios de Gestión Humana",
                 "Area_IsaGIS_Technologies": "Multidepartamental",
-                "Sinonimos": "Gestión de recursos humanos; RH administration; Manejo de personal; Gestión de nómina; Admin talento"
+                "Sinonimos": "Gestión de recursos humanos; RH administration; Manejo de personal; Gestión de nómina; Admin talento",
+                "topK": 1,
+                "Filtro": "Subgrupo:Administración de personal"
             }
         },
         {
@@ -64,7 +76,9 @@
                 "Subgrupo": "Agentes de IA",
                 "Grupo": "Asistentes Virtuales",
                 "Area_IsaGIS_Technologies": "Servicios de IA",
-                "Sinonimos": "Agentes inteligentes; IA autónoma; Intelligent agents; Bots de IA; Agentes cognitivos"
+                "Sinonimos": "Agentes inteligentes; IA autónoma; Intelligent agents; Bots de IA; Agentes cognitivos",
+                "topK": 2,
+                "Filtro": "Subgrupo:Agentes de IA"
             }
         },
         {
@@ -80,7 +94,9 @@
                 "Subgrupo": "Ambiental",
                 "Grupo": "Servicios de HSE",
                 "Area_IsaGIS_Technologies": "Servicios de Ingeniería",
-                "Sinonimos": "Medio ambiente; Gestión ambiental; Environmental services; Consultoría ambiental; Monitoreo ambiental"
+                "Sinonimos": "Medio ambiente; Gestión ambiental; Environmental services; Consultoría ambiental; Monitoreo ambiental",
+                "topK": 1,
+                "Filtro": "Subgrupo:Ambiental"
             }
         },
         {
@@ -96,7 +112,9 @@
                 "Subgrupo": "Analisis Geospaciales",
                 "Grupo": "Análisis Espacial y Ciencia de los Datos",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Análisis GIS; Geospatial analysis; Geo‑analytics; Estudio geoespacial; Spatial analytics"
+                "Sinonimos": "Análisis GIS; Geospatial analysis; Geo‑analytics; Estudio geoespacial; Spatial analytics",
+                "topK": 5,
+                "Filtro": "Subgrupo:Analisis Geospaciales"
             }
         },
         {
@@ -112,7 +130,9 @@
                 "Subgrupo": "ArcGIS Pipeline Referencing Tools",
                 "Grupo": "Data Management",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "APR tools; Herramientas APR; ArcGIS pipeline; Referenciamiento de ductos; Pipeline LRS"
+                "Sinonimos": "APR tools; Herramientas APR; ArcGIS pipeline; Referenciamiento de ductos; Pipeline LRS",
+                "topK": 1,
+                "Filtro": "Subgrupo:ArcGIS Pipeline Referencing Tools"
             }
         },
         {
@@ -128,7 +148,9 @@
                 "Subgrupo": "ArcGIS Solutions",
                 "Grupo": "Configuración de Aplicaciones",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Soluciones ArcGIS; Plantillas ArcGIS; ArcGIS templates; Soluciones Esri; Apps preconfiguradas"
+                "Sinonimos": "Soluciones ArcGIS; Plantillas ArcGIS; ArcGIS templates; Soluciones Esri; Apps preconfiguradas",
+                "topK": 1,
+                "Filtro": "Subgrupo:ArcGIS Solutions"
             }
         },
         {
@@ -144,7 +166,9 @@
                 "Subgrupo": "Arriendo de Software",
                 "Grupo": "Software",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Alquiler de software; Software as a Service; Renta de licencias; Leasing de software; Licencias en alquiler"
+                "Sinonimos": "Alquiler de software; Software as a Service; Renta de licencias; Leasing de software; Licencias en alquiler",
+                "topK": 4,
+                "Filtro": "Subgrupo:Arriendo de Software"
             }
         },
         {
@@ -160,7 +184,9 @@
                 "Subgrupo": "Asesorias",
                 "Grupo": "Asesorias",
                 "Area_IsaGIS_Technologies": "Multidepartamental",
-                "Sinonimos": "Consultoría; Acompañamiento; Soporte experto; Mentoring; Servicios de asesoramiento"
+                "Sinonimos": "Consultoría; Acompañamiento; Soporte experto; Mentoring; Servicios de asesoramiento",
+                "topK": 1,
+                "Filtro": "Subgrupo:Asesorias"
             }
         },
         {
@@ -176,7 +202,9 @@
                 "Subgrupo": "Automatización con APIs",
                 "Grupo": "Desarrollo de Aplicaciones",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "API automation; Integración API; Automatización vía API; Scripts API; Automatización programática"
+                "Sinonimos": "API automation; Integración API; Automatización vía API; Scripts API; Automatización programática",
+                "topK": 1,
+                "Filtro": "Subgrupo:Automatización con APIs"
             }
         },
         {
@@ -192,7 +220,9 @@
                 "Subgrupo": "Automatización de Flujos de Trabajo",
                 "Grupo": "Configuración de Aplicaciones",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Workflow automation; Automatización de procesos; RPA geoespacial; Automatización operativa; Optimización de flujos"
+                "Sinonimos": "Workflow automation; Automatización de procesos; RPA geoespacial; Automatización operativa; Optimización de flujos",
+                "topK": 3,
+                "Filtro": "Subgrupo:Automatización de Flujos de Trabajo"
             }
         },
         {
@@ -208,7 +238,9 @@
                 "Subgrupo": "Automatización de Flujos de Trabajo con APIs",
                 "Grupo": "Desarrollo de Aplicaciones",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Workflow API automation; Automatización proceso API; Process automation via API; Integración automatizada; Automatización + APIs"
+                "Sinonimos": "Workflow API automation; Automatización proceso API; Process automation via API; Integración automatizada; Automatización + APIs",
+                "topK": 1,
+                "Filtro": "Subgrupo:Automatización de Flujos de Trabajo con APIs"
             }
         },
         {
@@ -224,7 +256,9 @@
                 "Subgrupo": "Bases de Datos Multiusuario",
                 "Grupo": "Data Management",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Geodatabases corporativas; Bases de datos enterprise; Multiuser DB; SDE databases; Bases colaborativas"
+                "Sinonimos": "Geodatabases corporativas; Bases de datos enterprise; Multiuser DB; SDE databases; Bases colaborativas",
+                "topK": 1,
+                "Filtro": "Subgrupo:Bases de Datos Multiusuario"
             }
         },
         {
@@ -240,7 +274,9 @@
                 "Subgrupo": "Capacitaciones Cortas IA",
                 "Grupo": "Capacitación IA",
                 "Area_IsaGIS_Technologies": "Servicios de IA",
-                "Sinonimos": "Cursos exprés IA; Talleres rápidos IA; Short AI training; Bootcamp breve IA; Seminarios IA"
+                "Sinonimos": "Cursos exprés IA; Talleres rápidos IA; Short AI training; Bootcamp breve IA; Seminarios IA",
+                "topK": 1,
+                "Filtro": "Subgrupo:Capacitaciones Cortas IA"
             }
         },
         {
@@ -256,7 +292,9 @@
                 "Subgrupo": "Capacitaciones Cortas Multidepartamental",
                 "Grupo": "Capacitación Multidepartamental",
                 "Area_IsaGIS_Technologies": "Multidepartamental",
-                "Sinonimos": "Cursos exprés corporativos; Talleres cross‑functional; Short multidisciplinary training; Bootcamps interáreas; Seminarios integrados"
+                "Sinonimos": "Cursos exprés corporativos; Talleres cross‑functional; Short multidisciplinary training; Bootcamps interáreas; Seminarios integrados",
+                "topK": 2,
+                "Filtro": "Subgrupo:Capacitaciones Cortas Multidepartamental"
             }
         },
         {
@@ -272,7 +310,9 @@
                 "Subgrupo": "Capacitaciones Cortas Oil and Gas",
                 "Grupo": "Capacitación de Ingeniería de Oil and Gas",
                 "Area_IsaGIS_Technologies": "Servicios de Ingeniería",
-                "Sinonimos": "Cursos rápidos Oil & Gas; Talleres petroleros exprés; Short O&G training; Bootcamp hidrocarburos; Seminarios Oil and Gas"
+                "Sinonimos": "Cursos rápidos Oil & Gas; Talleres petroleros exprés; Short O&G training; Bootcamp hidrocarburos; Seminarios Oil and Gas",
+                "topK": 5,
+                "Filtro": "Subgrupo:Capacitaciones Cortas Oil and Gas"
             }
         },
         {
@@ -288,7 +328,9 @@
                 "Subgrupo": "Capacitaciones Cortas Servicios SIG",
                 "Grupo": "Capacitación Servicios SIG",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Cursos breves GIS; Talleres exprés SIG; Short GIS training; Bootcamp SIG; Seminarios ArcGIS"
+                "Sinonimos": "Cursos breves GIS; Talleres exprés SIG; Short GIS training; Bootcamp SIG; Seminarios ArcGIS",
+                "topK": 3,
+                "Filtro": "Subgrupo:Capacitaciones Cortas Servicios SIG"
             }
         },
         {
@@ -304,7 +346,9 @@
                 "Subgrupo": "Capacitaciones Largas IA ",
                 "Grupo": "Capacitación IA",
                 "Area_IsaGIS_Technologies": "Servicios de IA",
-                "Sinonimos": "Diplomado IA; Programa intensivo IA; Long‑term AI training; Curso avanzado IA; Formación extensa IA"
+                "Sinonimos": "Diplomado IA; Programa intensivo IA; Long‑term AI training; Curso avanzado IA; Formación extensa IA",
+                "topK": 1,
+                "Filtro": "Subgrupo:Capacitaciones Largas IA "
             }
         },
         {
@@ -320,7 +364,9 @@
                 "Subgrupo": "Capacitaciones Largas Oil and Gas",
                 "Grupo": "Capacitación de Ingeniería de Oil and Gas",
                 "Area_IsaGIS_Technologies": "Servicios de Ingeniería",
-                "Sinonimos": "Diplomado Oil & Gas; Programa intensivo O&G; Long‑term O&G training; Curso avanzado hidrocarburos; Formación extensa petróleo"
+                "Sinonimos": "Diplomado Oil & Gas; Programa intensivo O&G; Long‑term O&G training; Curso avanzado hidrocarburos; Formación extensa petróleo",
+                "topK": 1,
+                "Filtro": "Subgrupo:Capacitaciones Largas Oil and Gas"
             }
         },
         {
@@ -336,7 +382,9 @@
                 "Subgrupo": "Capacitaciones Prácticas Operaciones de Campo",
                 "Grupo": "Servicios de Drones",
                 "Area_IsaGIS_Technologies": "Operaciones de Campo",
-                "Sinonimos": "Talleres hands‑on campo; Prácticas de campo; Field ops workshops; Training on‑site; Entorno práctico campo"
+                "Sinonimos": "Talleres hands‑on campo; Prácticas de campo; Field ops workshops; Training on‑site; Entorno práctico campo",
+                "topK": 2,
+                "Filtro": "Subgrupo:Capacitaciones Prácticas Operaciones de Campo"
             }
         },
         {
@@ -352,7 +400,9 @@
                 "Subgrupo": "Capacitaciones Prácticas Servicios SIG",
                 "Grupo": "Capacitación Servicios SIG",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Talleres prácticos GIS; Hands‑on ArcGIS; GIS labs; Entrenamiento práctico SIG; Prácticas cartográficas"
+                "Sinonimos": "Talleres prácticos GIS; Hands‑on ArcGIS; GIS labs; Entrenamiento práctico SIG; Prácticas cartográficas",
+                "topK": 1,
+                "Filtro": "Subgrupo:Capacitaciones Prácticas Servicios SIG"
             }
         },
         {
@@ -368,7 +418,9 @@
                 "Subgrupo": "Carga de Datos",
                 "Grupo": "Data Management",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Data loading; Ingesta de datos; Importación de datos; ETL inicial; Upload de datasets"
+                "Sinonimos": "Data loading; Ingesta de datos; Importación de datos; ETL inicial; Upload de datasets",
+                "topK": 17,
+                "Filtro": "Subgrupo:Carga de Datos"
             }
         },
         {
@@ -384,7 +436,9 @@
                 "Subgrupo": "Cartas de Alineación",
                 "Grupo": "Representación Cartográfica",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Alignment sheets; Planos de alineación; Hojas de ruta ductos; Planimetría de ductos; Dibujos de alineación"
+                "Sinonimos": "Alignment sheets; Planos de alineación; Hojas de ruta ductos; Planimetría de ductos; Dibujos de alineación",
+                "topK": 1,
+                "Filtro": "Subgrupo:Cartas de Alineación"
             }
         },
         {
@@ -400,7 +454,9 @@
                 "Subgrupo": "Configuación de Aplicaciones",
                 "Grupo": "Configuración de Aplicaciones",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Configuración de apps; Set‑up de aplicaciones; Parametrización; Ajuste de software; Deployment de apps"
+                "Sinonimos": "Configuración de apps; Set‑up de aplicaciones; Parametrización; Ajuste de software; Deployment de apps",
+                "topK": 1,
+                "Filtro": "Subgrupo:Configuación de Aplicaciones"
             }
         },
         {
@@ -416,7 +472,9 @@
                 "Subgrupo": "Configuración (Análitica)",
                 "Grupo": "Análisis y Visualizacion en Tiempo Real",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Configuración analítica; Setup de analytics; Parametrización BI; Ajuste de reporting; Config dashboards"
+                "Sinonimos": "Configuración analítica; Setup de analytics; Parametrización BI; Ajuste de reporting; Config dashboards",
+                "topK": 1,
+                "Filtro": "Subgrupo:Configuración (Análitica)"
             }
         },
         {
@@ -432,7 +490,9 @@
                 "Subgrupo": "Configuración (Iot y Sensores)",
                 "Grupo": "Análisis y Visualizacion en Tiempo Real",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Config IoT; Set‑up sensores; Parametrización IoT; Integración de sensores; IoT device setup"
+                "Sinonimos": "Config IoT; Set‑up sensores; Parametrización IoT; Integración de sensores; IoT device setup",
+                "topK": 1,
+                "Filtro": "Subgrupo:Configuración (Iot y Sensores)"
             }
         },
         {
@@ -448,7 +508,9 @@
                 "Subgrupo": "Constructores de aplicaciones de Cero Codido/bajo codigo ",
                 "Grupo": "Configuración de Aplicaciones",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "App builders low‑code; Zero‑code app makers; Low‑code developers; AppStudio like; Constructores sin código"
+                "Sinonimos": "App builders low‑code; Zero‑code app makers; Low‑code developers; AppStudio like; Constructores sin código",
+                "topK": 8,
+                "Filtro": "Subgrupo:Constructores de aplicaciones de Cero Codido/bajo codigo "
             }
         },
         {
@@ -464,7 +526,9 @@
                 "Subgrupo": "Conversión  de Datos",
                 "Grupo": "Data Management",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Transformación de Datos, Cambio de Formato de Datos, Modificación del formato de Datos, Adaptación de formato de Datos, Transmutación de Datos"
+                "Sinonimos": "Transformación de Datos, Cambio de Formato de Datos, Modificación del formato de Datos, Adaptación de formato de Datos, Transmutación de Datos",
+                "topK": 1,
+                "Filtro": "Subgrupo:Conversión  de Datos"
             }
         },
         {
@@ -480,7 +544,9 @@
                 "Subgrupo": "Conversión de Datos",
                 "Grupo": "Data Management",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Data conversion; Transformación de formatos; Data migration; Conversión GIS; Cambio de proyección"
+                "Sinonimos": "Data conversion; Transformación de formatos; Data migration; Conversión GIS; Cambio de proyección",
+                "topK": 3,
+                "Filtro": "Subgrupo:Conversión de Datos"
             }
         },
         {
@@ -496,7 +562,9 @@
                 "Subgrupo": "Deep Learning",
                 "Grupo": "GeoAI",
                 "Area_IsaGIS_Technologies": "Servicios de IA",
-                "Sinonimos": "Aprendizaje profundo; Deep neural networks; Redes neuronales; DL geoespacial; Modelos profundos"
+                "Sinonimos": "Aprendizaje profundo; Deep neural networks; Redes neuronales; DL geoespacial; Modelos profundos",
+                "topK": 10,
+                "Filtro": "Subgrupo:Deep Learning"
             }
         },
         {
@@ -512,7 +580,9 @@
                 "Subgrupo": "Desarrollo de Aplicaciones Moviles Avanzadas",
                 "Grupo": "Desarrollo de Aplicaciones",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Mobile app dev; Desarrollo advanced mobile; Apps móviles GIS; Mobile solutions; Aplicaciones nativas"
+                "Sinonimos": "Mobile app dev; Desarrollo advanced mobile; Apps móviles GIS; Mobile solutions; Aplicaciones nativas",
+                "topK": 1,
+                "Filtro": "Subgrupo:Desarrollo de Aplicaciones Moviles Avanzadas"
             }
         },
         {
@@ -528,7 +598,9 @@
                 "Subgrupo": "Desarrollo de Conectores",
                 "Grupo": "Análisis y Visualizacion en Tiempo Real",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "API connectors; Integradores; Desarrollo de integraciones; Connectors dev; Enlaces de sistemas"
+                "Sinonimos": "API connectors; Integradores; Desarrollo de integraciones; Connectors dev; Enlaces de sistemas",
+                "topK": 1,
+                "Filtro": "Subgrupo:Desarrollo de Conectores"
             }
         },
         {
@@ -544,7 +616,9 @@
                 "Subgrupo": "Desarrollo de Paginas Web",
                 "Grupo": "Desarrollo de Aplicaciones",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Web development; Diseño de sitios; Creación de páginas web; Desarrollo web; Websites"
+                "Sinonimos": "Web development; Diseño de sitios; Creación de páginas web; Desarrollo web; Websites",
+                "topK": 3,
+                "Filtro": "Subgrupo:Desarrollo de Paginas Web"
             }
         },
         {
@@ -560,7 +634,9 @@
                 "Subgrupo": "Desarrollo Integraciones con otra tecnología",
                 "Grupo": "Análisis y Visualizacion en Tiempo Real",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Integraciones con terceros; Integración de sistemas externos; Conexión multiplataforma; Interfaces con software externo; Integraciones tecnológicas"
+                "Sinonimos": "Integraciones con terceros; Integración de sistemas externos; Conexión multiplataforma; Interfaces con software externo; Integraciones tecnológicas",
+                "topK": 1,
+                "Filtro": "Subgrupo:Desarrollo Integraciones con otra tecnología"
             }
         },
         {
@@ -576,7 +652,9 @@
                 "Subgrupo": "Diseño de Gasoductos",
                 "Grupo": "Servicios de Ingeniería de Ductos",
                 "Area_IsaGIS_Technologies": "Servicios de Ingeniería",
-                "Sinonimos": "Pipeline design; Diseño de ductos; Ingeniería de gasoductos; Trazado de gasoductos; Diseño de tuberías de gas"
+                "Sinonimos": "Pipeline design; Diseño de ductos; Ingeniería de gasoductos; Trazado de gasoductos; Diseño de tuberías de gas",
+                "topK": 16,
+                "Filtro": "Subgrupo:Diseño de Gasoductos"
             }
         },
         {
@@ -592,7 +670,9 @@
                 "Subgrupo": "Documentación",
                 "Grupo": "Ingeniería de Proyectos",
                 "Area_IsaGIS_Technologies": "Multidepartamental",
-                "Sinonimos": "Documentación técnica; Manuales; Procedimientos; Especificaciones; Guías de proyecto"
+                "Sinonimos": "Documentación técnica; Manuales; Procedimientos; Especificaciones; Guías de proyecto",
+                "topK": 2,
+                "Filtro": "Subgrupo:Documentación"
             }
         },
         {
@@ -608,7 +688,9 @@
                 "Subgrupo": "Documentación de Proyectos SIG",
                 "Grupo": "Ingeniería de Proyectos",
                 "Area_IsaGIS_Technologies": "Multidepartamental",
-                "Sinonimos": "Documentación GIS; Entregables SIG; Informes GIS; Documentos de proyecto geoespacial; Reportes SIG"
+                "Sinonimos": "Documentación GIS; Entregables SIG; Informes GIS; Documentos de proyecto geoespacial; Reportes SIG",
+                "topK": 1,
+                "Filtro": "Subgrupo:Documentación de Proyectos SIG"
             }
         },
         {
@@ -624,7 +706,9 @@
                 "Subgrupo": "Entrega de Datos",
                 "Grupo": "Data Management",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Entrega de deliverables; Suministro de datos; Entrega de archivos; Transferencia de información; Data delivery"
+                "Sinonimos": "Entrega de deliverables; Suministro de datos; Entrega de archivos; Transferencia de información; Data delivery",
+                "topK": 4,
+                "Filtro": "Subgrupo:Entrega de Datos"
             }
         },
         {
@@ -640,7 +724,9 @@
                 "Subgrupo": "Excel",
                 "Grupo": "Data Management",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "MS Excel; Hojas de cálculo; Planillas; Archivos xlsx; Tablas Excel"
+                "Sinonimos": "MS Excel; Hojas de cálculo; Planillas; Archivos xlsx; Tablas Excel",
+                "topK": 2,
+                "Filtro": "Subgrupo:Excel"
             }
         },
         {
@@ -656,7 +742,9 @@
                 "Subgrupo": "Facilidades Producción",
                 "Grupo": "Servicios de Ingenieria de Procesos",
                 "Area_IsaGIS_Technologies": "Servicios de Ingeniería",
-                "Sinonimos": "Facilities; Instalaciones de producción; Infraestructura de producción; Plantas de proceso; Facilities O&G"
+                "Sinonimos": "Facilities; Instalaciones de producción; Infraestructura de producción; Plantas de proceso; Facilities O&G",
+                "topK": 1,
+                "Filtro": "Subgrupo:Facilidades Producción"
             }
         },
         {
@@ -672,7 +760,9 @@
                 "Subgrupo": "Generación de Mapas y/o salidas gráficas",
                 "Grupo": "Representación Cartográfica",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Mapas impresos; Map outputs; Productos cartográficos; Salidas de mapas; Mapas y layouts"
+                "Sinonimos": "Mapas impresos; Map outputs; Productos cartográficos; Salidas de mapas; Mapas y layouts",
+                "topK": 4,
+                "Filtro": "Subgrupo:Generación de Mapas y/o salidas gráficas"
             }
         },
         {
@@ -688,7 +778,9 @@
                 "Subgrupo": "Head Hunter",
                 "Grupo": "Servicios de Gestión Humana",
                 "Area_IsaGIS_Technologies": "Multidepartamental",
-                "Sinonimos": "Cazatalentos; Reclutamiento especializado; Headhunting; Selección de talento; Búsqueda de ejecutivos"
+                "Sinonimos": "Cazatalentos; Reclutamiento especializado; Headhunting; Selección de talento; Búsqueda de ejecutivos",
+                "topK": 6,
+                "Filtro": "Subgrupo:Head Hunter"
             }
         },
         {
@@ -704,7 +796,9 @@
                 "Subgrupo": "Implementación de GDB",
                 "Grupo": "Data Management",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Implementación geodatabase; Creación de GDB; Configuración de geodatabases; Montaje de bases GIS; Implementación SDE"
+                "Sinonimos": "Implementación geodatabase; Creación de GDB; Configuración de geodatabases; Montaje de bases GIS; Implementación SDE",
+                "topK": 9,
+                "Filtro": "Subgrupo:Implementación de GDB"
             }
         },
         {
@@ -720,7 +814,9 @@
                 "Subgrupo": "Integridad",
                 "Grupo": "Servicios de integridad",
                 "Area_IsaGIS_Technologies": "Servicios de Ingeniería",
-                "Sinonimos": "Gestión de integridad; Integrity management; Integridad estructural; Integridad de activos; Asset integrity"
+                "Sinonimos": "Gestión de integridad; Integrity management; Integridad estructural; Integridad de activos; Asset integrity",
+                "topK": 1,
+                "Filtro": "Subgrupo:Integridad"
             }
         },
         {
@@ -736,7 +832,9 @@
                 "Subgrupo": "Licenciamiento",
                 "Grupo": "Capacitación Servicios SIG",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Licencias software; Venta de licencias; Suscripción software; Licenciamiento de aplicaciones; Licencias de uso"
+                "Sinonimos": "Licencias software; Venta de licencias; Suscripción software; Licenciamiento de aplicaciones; Licencias de uso",
+                "topK": 1,
+                "Filtro": "Subgrupo:Licenciamiento"
             }
         },
         {
@@ -752,7 +850,9 @@
                 "Subgrupo": "Licitaciones y Ofertas Sencillas",
                 "Grupo": "Ingeniería de Proyectos",
                 "Area_IsaGIS_Technologies": "Multidepartamental",
-                "Sinonimos": "Propuestas simples; Ofertas básicas; Presentaciones licitatorias; Cotizaciones sencillas; Licitaciones menores"
+                "Sinonimos": "Propuestas simples; Ofertas básicas; Presentaciones licitatorias; Cotizaciones sencillas; Licitaciones menores",
+                "topK": 4,
+                "Filtro": "Subgrupo:Licitaciones y Ofertas Sencillas"
             }
         },
         {
@@ -768,7 +868,9 @@
                 "Subgrupo": "Logistica",
                 "Grupo": "Servicios de Drones",
                 "Area_IsaGIS_Technologies": "Operaciones de Campo",
-                "Sinonimos": "Logística de proyectos; Gestión logística; Operaciones logísticas; Coordinación logística; Servicios de logística"
+                "Sinonimos": "Logística de proyectos; Gestión logística; Operaciones logísticas; Coordinación logística; Servicios de logística",
+                "topK": 1,
+                "Filtro": "Subgrupo:Logistica"
             }
         },
         {
@@ -784,7 +886,9 @@
                 "Subgrupo": "Mantenimiento y Soporte",
                 "Grupo": "Desarrollo de Aplicaciones",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Mantenimiento & soporte; Soporte técnico; Sustentación postventa; Servicio de mantenimiento; Soporte y mantenimiento"
+                "Sinonimos": "Mantenimiento & soporte; Soporte técnico; Sustentación postventa; Servicio de mantenimiento; Soporte y mantenimiento",
+                "topK": 1,
+                "Filtro": "Subgrupo:Mantenimiento y Soporte"
             }
         },
         {
@@ -800,7 +904,9 @@
                 "Subgrupo": "Mercadeo",
                 "Grupo": "IA Generativa",
                 "Area_IsaGIS_Technologies": "Servicios de IA",
-                "Sinonimos": "Marketing; Mercadotecnia; Publicidad; Promoción; Gestión de marketing"
+                "Sinonimos": "Marketing; Mercadotecnia; Publicidad; Promoción; Gestión de marketing",
+                "topK": 5,
+                "Filtro": "Subgrupo:Mercadeo"
             }
         },
         {
@@ -816,7 +922,9 @@
                 "Subgrupo": "Migración de Aplicaciones",
                 "Grupo": "Data Management",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Migración de apps; Porting de aplicaciones; Traslado de software; Modernización de aplicaciones; Reubicación de apps"
+                "Sinonimos": "Migración de apps; Porting de aplicaciones; Traslado de software; Modernización de aplicaciones; Reubicación de apps",
+                "topK": 2,
+                "Filtro": "Subgrupo:Migración de Aplicaciones"
             }
         },
         {
@@ -832,7 +940,9 @@
                 "Subgrupo": "Operación de Drones",
                 "Grupo": "Servicios de Drones",
                 "Area_IsaGIS_Technologies": "Operaciones de Campo",
-                "Sinonimos": "Operaciones UAV; Operación de RPAS; Vuelos de drones; Pilotaje de drones; Servicios drone operation"
+                "Sinonimos": "Operaciones UAV; Operación de RPAS; Vuelos de drones; Pilotaje de drones; Servicios drone operation",
+                "topK": 6,
+                "Filtro": "Subgrupo:Operación de Drones"
             }
         },
         {
@@ -848,7 +958,9 @@
                 "Subgrupo": "Optimización de datos",
                 "Grupo": "Data Management",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Optimización data; Data optimization; Mejora de datos; Refinamiento de datasets; Optimización de información"
+                "Sinonimos": "Optimización data; Data optimization; Mejora de datos; Refinamiento de datasets; Optimización de información",
+                "topK": 13,
+                "Filtro": "Subgrupo:Optimización de datos"
             }
         },
         {
@@ -864,7 +976,9 @@
                 "Subgrupo": "Planeación Aérea",
                 "Grupo": "Servicios de Drones",
                 "Area_IsaGIS_Technologies": "Operaciones de Campo",
-                "Sinonimos": "Planificación Aeronáutica, Organización Aérea, Programación de la Misión Aérea, Diseño de Plan Aéreo"
+                "Sinonimos": "Planificación Aeronáutica, Organización Aérea, Programación de la Misión Aérea, Diseño de Plan Aéreo",
+                "topK": 1,
+                "Filtro": "Subgrupo:Planeación Aérea"
             }
         },
         {
@@ -880,7 +994,9 @@
                 "Subgrupo": "Planeación en Tierra",
                 "Grupo": "Recolección de Datos en Tierra",
                 "Area_IsaGIS_Technologies": "Operaciones de Campo",
-                "Sinonimos": "Planificación terrestre, Organización en el suelo, Planeación de Operaciones de Campo, Diseño de Operaciones en tierra"
+                "Sinonimos": "Planificación terrestre, Organización en el suelo, Planeación de Operaciones de Campo, Diseño de Operaciones en tierra",
+                "topK": 1,
+                "Filtro": "Subgrupo:Planeación en Tierra"
             }
         },
         {
@@ -896,7 +1012,9 @@
                 "Subgrupo": "Presentaciones",
                 "Grupo": "IA Generativa",
                 "Area_IsaGIS_Technologies": "Servicios de IA",
-                "Sinonimos": "Presentaciones corporativas; Slides; Presentaciones en PowerPoint; Decks; Presentaciones de negocio"
+                "Sinonimos": "Presentaciones corporativas; Slides; Presentaciones en PowerPoint; Decks; Presentaciones de negocio",
+                "topK": 2,
+                "Filtro": "Subgrupo:Presentaciones"
             }
         },
         {
@@ -912,7 +1030,9 @@
                 "Subgrupo": "Procesamiento Cartografico",
                 "Grupo": "Procesamiento de Imágenes y Sensores Remotos",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Procesamiento cartográfico; Cartographic processing; Digitalización cartográfica; Procesado cartográfico; Tratamiento de mapas"
+                "Sinonimos": "Procesamiento cartográfico; Cartographic processing; Digitalización cartográfica; Procesado cartográfico; Tratamiento de mapas",
+                "topK": 2,
+                "Filtro": "Subgrupo:Procesamiento Cartografico"
             }
         },
         {
@@ -928,7 +1048,9 @@
                 "Subgrupo": "Procesamiento Fotogrametrico",
                 "Grupo": "Servicios de Drones",
                 "Area_IsaGIS_Technologies": "Operaciones de Campo",
-                "Sinonimos": "Fotogrametría; Procesamiento de fotos aéreas; Photogrammetric processing; Ajuste aerotriangulación; Procesado fotogramétrico"
+                "Sinonimos": "Fotogrametría; Procesamiento de fotos aéreas; Photogrammetric processing; Ajuste aerotriangulación; Procesado fotogramétrico",
+                "topK": 4,
+                "Filtro": "Subgrupo:Procesamiento Fotogrametrico"
             }
         },
         {
@@ -944,7 +1066,9 @@
                 "Subgrupo": "Procesamiento Geoespacial",
                 "Grupo": "Análisis Espacial y Ciencia de los Datos",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Procesamiento geospacial; Geospatial processing; Tratamiento de datos GIS; Geoprocesamiento; Geo‑processing"
+                "Sinonimos": "Procesamiento geospacial; Geospatial processing; Tratamiento de datos GIS; Geoprocesamiento; Geo‑processing",
+                "topK": 12,
+                "Filtro": "Subgrupo:Procesamiento Geoespacial"
             }
         },
         {
@@ -960,7 +1084,9 @@
                 "Subgrupo": "Procesamiento Raster",
                 "Grupo": "Procesamiento de Imágenes y Sensores Remotos",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Procesamiento raster; Raster processing; Tratamiento de imágenes raster; Raster analysis; Procesado raster"
+                "Sinonimos": "Procesamiento raster; Raster processing; Tratamiento de imágenes raster; Raster analysis; Procesado raster",
+                "topK": 1,
+                "Filtro": "Subgrupo:Procesamiento Raster"
             }
         },
         {
@@ -976,7 +1102,9 @@
                 "Subgrupo": "Puntos de Control",
                 "Grupo": "Recolección de Datos en Tierra",
                 "Area_IsaGIS_Technologies": "Operaciones de Campo",
-                "Sinonimos": "Ground control points; Puntos GCP; Puntos de apoyo; Control terrestre; Puntos de amarre"
+                "Sinonimos": "Ground control points; Puntos GCP; Puntos de apoyo; Control terrestre; Puntos de amarre",
+                "topK": 2,
+                "Filtro": "Subgrupo:Puntos de Control"
             }
         },
         {
@@ -992,7 +1120,9 @@
                 "Subgrupo": "Recolección",
                 "Grupo": "Recolección de Datos en Tierra",
                 "Area_IsaGIS_Technologies": "Operaciones de Campo",
-                "Sinonimos": "Data collection; Levantamiento; Captura de datos; Recolección de información; Adquisición de datos"
+                "Sinonimos": "Data collection; Levantamiento; Captura de datos; Recolección de información; Adquisición de datos",
+                "topK": 6,
+                "Filtro": "Subgrupo:Recolección"
             }
         },
         {
@@ -1008,7 +1138,9 @@
                 "Subgrupo": "SDKs",
                 "Grupo": "Desarrollo de Aplicaciones",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Software Development Kits; SDK; Kit de desarrollo; Bibliotecas de desarrollo; APIs SDK"
+                "Sinonimos": "Software Development Kits; SDK; Kit de desarrollo; Bibliotecas de desarrollo; APIs SDK",
+                "topK": 2,
+                "Filtro": "Subgrupo:SDKs"
             }
         },
         {
@@ -1024,7 +1156,9 @@
                 "Subgrupo": "Servicios Aéreos y en Tierra",
                 "Grupo": "Operaciones Hibridas",
                 "Area_IsaGIS_Technologies": "Operaciones de Campo",
-                "Sinonimos": "Servicios aéreos y terrestres; Operaciones aéreas y campo; Servicios drone & ground; Servicios mixtos aire‑tierra; Aerial and ground services"
+                "Sinonimos": "Servicios aéreos y terrestres; Operaciones aéreas y campo; Servicios drone & ground; Servicios mixtos aire‑tierra; Aerial and ground services",
+                "topK": 1,
+                "Filtro": "Subgrupo:Servicios Aéreos y en Tierra"
             }
         },
         {
@@ -1040,7 +1174,9 @@
                 "Subgrupo": "Servicios Web",
                 "Grupo": "Representación Cartográfica",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Servicios web GIS; Web services; API web; Servicios en línea; WebGIS services"
+                "Sinonimos": "Servicios web GIS; Web services; API web; Servicios en línea; WebGIS services",
+                "topK": 1,
+                "Filtro": "Subgrupo:Servicios Web"
             }
         },
         {
@@ -1056,7 +1192,9 @@
                 "Subgrupo": "Software Libre",
                 "Grupo": "Desarrollo de Aplicaciones",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Software de código abierto; Open‑source software; Herramientas libres; Software libre GIS; Free software"
+                "Sinonimos": "Software de código abierto; Open‑source software; Herramientas libres; Software libre GIS; Free software",
+                "topK": 1,
+                "Filtro": "Subgrupo:Software Libre"
             }
         },
         {
@@ -1072,7 +1210,9 @@
                 "Subgrupo": "Utility Network",
                 "Grupo": "Data Management",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Red de utilidades; Utility network model; Modelo UN; Red de servicios; Utility Network GIS"
+                "Sinonimos": "Red de utilidades; Utility network model; Modelo UN; Red de servicios; Utility Network GIS",
+                "topK": 1,
+                "Filtro": "Subgrupo:Utility Network"
             }
         },
         {
@@ -1088,7 +1228,9 @@
                 "Subgrupo": "Viaticos, Hospedaje y Transporte",
                 "Grupo": "Logistica",
                 "Area_IsaGIS_Technologies": "Multidepartamental",
-                "Sinonimos": "Viáticos; Gastos de viaje; Per diem; Alojamiento y transporte; Gastos de hospedaje"
+                "Sinonimos": "Viáticos; Gastos de viaje; Per diem; Alojamiento y transporte; Gastos de hospedaje",
+                "topK": 8,
+                "Filtro": "Subgrupo:Viaticos, Hospedaje y Transporte"
             }
         },
         {
@@ -1104,9 +1246,11 @@
                 "Subgrupo": "Videos Aéreos",
                 "Grupo": "Procesamiento de Imágenes y Sensores Remotos",
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Sinonimos": "Videos drone; Filmaciones aéreas; Grabaciones aéreas; Video aéreo; Tomas aéreas"
+                "Sinonimos": "Videos drone; Filmaciones aéreas; Grabaciones aéreas; Video aéreo; Tomas aéreas",
+                "topK": 1,
+                "Filtro": "Subgrupo:Videos Aéreos"
             }
         }
     ],
-    "updated_at": "2025-07-16 19:24:14"
+    "updated_at": "2025-07-20 20:31:29"
 }
