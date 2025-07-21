@@ -5,7 +5,7 @@
             "type": "String",
             "length": 255
         },
-        "Sinonimos": {
+        "Sinonimos_Subgrupo": {
             "type": "String",
             "length": 255
         },
@@ -30,7 +30,7 @@
             },
             "properties": {
                 "Subgrupo": "Actividades Generales de Proyectos",
-                "Sinonimos": "Tareas de proyecto; Gestión general; Actividades PMO; Labores de proyecto; Operaciones de proyecto",
+                "Sinonimos_Subgrupo": "Tareas de proyecto; Gestión general; Actividades PMO; Labores de proyecto; Operaciones de proyecto",
                 "topK": 9,
                 "Filtro": "Subgrupo:Actividades Generales de Proyectos"
             }
@@ -46,7 +46,7 @@
             },
             "properties": {
                 "Subgrupo": "Administración de personal",
-                "Sinonimos": "Gestión de recursos humanos; RH administration; Manejo de personal; Gestión de nómina; Admin talento",
+                "Sinonimos_Subgrupo": "Gestión de recursos humanos; RH administration; Manejo de personal; Gestión de nómina; Admin talento",
                 "topK": 1,
                 "Filtro": "Subgrupo:Administración de personal"
             }
@@ -62,7 +62,7 @@
             },
             "properties": {
                 "Subgrupo": "Agentes de IA",
-                "Sinonimos": "Agentes inteligentes; IA autónoma; Intelligent agents; Bots de IA; Agentes cognitivos",
+                "Sinonimos_Subgrupo": "Agentes inteligentes; IA autónoma; Intelligent agents; Bots de IA; Agentes cognitivos",
                 "topK": 2,
                 "Filtro": "Subgrupo:Agentes de IA"
             }
@@ -78,7 +78,7 @@
             },
             "properties": {
                 "Subgrupo": "Ambiental",
-                "Sinonimos": "Medio ambiente; Gestión ambiental; Environmental services; Consultoría ambiental; Monitoreo ambiental",
+                "Sinonimos_Subgrupo": "Medio ambiente; Gestión ambiental; Environmental services; Consultoría ambiental; Monitoreo ambiental",
                 "topK": 1,
                 "Filtro": "Subgrupo:Ambiental"
             }
@@ -94,7 +94,7 @@
             },
             "properties": {
                 "Subgrupo": "Analisis Geospaciales",
-                "Sinonimos": "Análisis GIS; Geospatial analysis; Geo‑analytics; Estudio geoespacial; Spatial analytics",
+                "Sinonimos_Subgrupo": "Análisis GIS; Geospatial analysis; Geo‑analytics; Estudio geoespacial; Spatial analytics",
                 "topK": 5,
                 "Filtro": "Subgrupo:Analisis Geospaciales"
             }
@@ -110,7 +110,7 @@
             },
             "properties": {
                 "Subgrupo": "ArcGIS Pipeline Referencing Tools",
-                "Sinonimos": "APR tools; Herramientas APR; ArcGIS pipeline; Referenciamiento de ductos; Pipeline LRS",
+                "Sinonimos_Subgrupo": "APR tools; Herramientas APR; ArcGIS pipeline; Referenciamiento de ductos; Pipeline LRS",
                 "topK": 1,
                 "Filtro": "Subgrupo:ArcGIS Pipeline Referencing Tools"
             }
@@ -126,7 +126,7 @@
             },
             "properties": {
                 "Subgrupo": "ArcGIS Solutions",
-                "Sinonimos": "Soluciones ArcGIS; Plantillas ArcGIS; ArcGIS templates; Soluciones Esri; Apps preconfiguradas",
+                "Sinonimos_Subgrupo": "Soluciones ArcGIS; Plantillas ArcGIS; ArcGIS templates; Soluciones Esri; Apps preconfiguradas",
                 "topK": 1,
                 "Filtro": "Subgrupo:ArcGIS Solutions"
             }
@@ -142,7 +142,7 @@
             },
             "properties": {
                 "Subgrupo": "Arriendo de Software",
-                "Sinonimos": "Alquiler de software; Software as a Service; Renta de licencias; Leasing de software; Licencias en alquiler",
+                "Sinonimos_Subgrupo": "Alquiler de software; Software as a Service; Renta de licencias; Leasing de software; Licencias en alquiler",
                 "topK": 4,
                 "Filtro": "Subgrupo:Arriendo de Software"
             }
@@ -158,7 +158,7 @@
             },
             "properties": {
                 "Subgrupo": "Asesorias",
-                "Sinonimos": "Consultoría; Acompañamiento; Soporte experto; Mentoring; Servicios de asesoramiento",
+                "Sinonimos_Subgrupo": "Consultoría; Acompañamiento; Soporte experto; Mentoring; Servicios de asesoramiento",
                 "topK": 1,
                 "Filtro": "Subgrupo:Asesorias"
             }
@@ -174,7 +174,7 @@
             },
             "properties": {
                 "Subgrupo": "Automatización con APIs",
-                "Sinonimos": "API automation; Integración API; Automatización vía API; Scripts API; Automatización programática",
+                "Sinonimos_Subgrupo": "API automation; Integración API; Automatización vía API; Scripts API; Automatización programática",
                 "topK": 1,
                 "Filtro": "Subgrupo:Automatización con APIs"
             }
@@ -190,7 +190,7 @@
             },
             "properties": {
                 "Subgrupo": "Automatización de Flujos de Trabajo",
-                "Sinonimos": "Workflow automation; Automatización de procesos; RPA geoespacial; Automatización operativa; Optimización de flujos",
+                "Sinonimos_Subgrupo": "Workflow automation; Automatización de procesos; RPA geoespacial; Automatización operativa; Optimización de flujos",
                 "topK": 3,
                 "Filtro": "Subgrupo:Automatización de Flujos de Trabajo"
             }
@@ -206,7 +206,7 @@
             },
             "properties": {
                 "Subgrupo": "Automatización de Flujos de Trabajo con APIs",
-                "Sinonimos": "Workflow API automation; Automatización proceso API; Process automation via API; Integración automatizada; Automatización + APIs",
+                "Sinonimos_Subgrupo": "Workflow API automation; Automatización proceso API; Process automation via API; Integración automatizada; Automatización + APIs",
                 "topK": 1,
                 "Filtro": "Subgrupo:Automatización de Flujos de Trabajo con APIs"
             }
@@ -222,7 +222,7 @@
             },
             "properties": {
                 "Subgrupo": "Bases de Datos Multiusuario",
-                "Sinonimos": "Geodatabases corporativas; Bases de datos enterprise; Multiuser DB; SDE databases; Bases colaborativas",
+                "Sinonimos_Subgrupo": "Geodatabases corporativas; Bases de datos enterprise; Multiuser DB; SDE databases; Bases colaborativas",
                 "topK": 1,
                 "Filtro": "Subgrupo:Bases de Datos Multiusuario"
             }
@@ -238,7 +238,7 @@
             },
             "properties": {
                 "Subgrupo": "Capacitaciones Cortas IA",
-                "Sinonimos": "Cursos exprés IA; Talleres rápidos IA; Short AI training; Bootcamp breve IA; Seminarios IA",
+                "Sinonimos_Subgrupo": "Cursos exprés IA; Talleres rápidos IA; Short AI training; Bootcamp breve IA; Seminarios IA",
                 "topK": 1,
                 "Filtro": "Subgrupo:Capacitaciones Cortas IA"
             }
@@ -254,7 +254,7 @@
             },
             "properties": {
                 "Subgrupo": "Capacitaciones Cortas Multidepartamental",
-                "Sinonimos": "Cursos exprés corporativos; Talleres cross‑functional; Short multidisciplinary training; Bootcamps interáreas; Seminarios integrados",
+                "Sinonimos_Subgrupo": "Cursos exprés corporativos; Talleres cross‑functional; Short multidisciplinary training; Bootcamps interáreas; Seminarios integrados",
                 "topK": 2,
                 "Filtro": "Subgrupo:Capacitaciones Cortas Multidepartamental"
             }
@@ -270,7 +270,7 @@
             },
             "properties": {
                 "Subgrupo": "Capacitaciones Cortas Oil and Gas",
-                "Sinonimos": "Cursos rápidos Oil & Gas; Talleres petroleros exprés; Short O&G training; Bootcamp hidrocarburos; Seminarios Oil and Gas",
+                "Sinonimos_Subgrupo": "Cursos rápidos Oil & Gas; Talleres petroleros exprés; Short O&G training; Bootcamp hidrocarburos; Seminarios Oil and Gas",
                 "topK": 5,
                 "Filtro": "Subgrupo:Capacitaciones Cortas Oil and Gas"
             }
@@ -286,7 +286,7 @@
             },
             "properties": {
                 "Subgrupo": "Capacitaciones Cortas Servicios SIG",
-                "Sinonimos": "Cursos breves GIS; Talleres exprés SIG; Short GIS training; Bootcamp SIG; Seminarios ArcGIS",
+                "Sinonimos_Subgrupo": "Cursos breves GIS; Talleres exprés SIG; Short GIS training; Bootcamp SIG; Seminarios ArcGIS",
                 "topK": 3,
                 "Filtro": "Subgrupo:Capacitaciones Cortas Servicios SIG"
             }
@@ -302,7 +302,7 @@
             },
             "properties": {
                 "Subgrupo": "Capacitaciones Largas IA ",
-                "Sinonimos": "Diplomado IA; Programa intensivo IA; Long‑term AI training; Curso avanzado IA; Formación extensa IA",
+                "Sinonimos_Subgrupo": "Diplomado IA; Programa intensivo IA; Long‑term AI training; Curso avanzado IA; Formación extensa IA",
                 "topK": 1,
                 "Filtro": "Subgrupo:Capacitaciones Largas IA "
             }
@@ -318,7 +318,7 @@
             },
             "properties": {
                 "Subgrupo": "Capacitaciones Largas Oil and Gas",
-                "Sinonimos": "Diplomado Oil & Gas; Programa intensivo O&G; Long‑term O&G training; Curso avanzado hidrocarburos; Formación extensa petróleo",
+                "Sinonimos_Subgrupo": "Diplomado Oil & Gas; Programa intensivo O&G; Long‑term O&G training; Curso avanzado hidrocarburos; Formación extensa petróleo",
                 "topK": 1,
                 "Filtro": "Subgrupo:Capacitaciones Largas Oil and Gas"
             }
@@ -334,7 +334,7 @@
             },
             "properties": {
                 "Subgrupo": "Capacitaciones Prácticas Operaciones de Campo",
-                "Sinonimos": "Talleres hands‑on campo; Prácticas de campo; Field ops workshops; Training on‑site; Entorno práctico campo",
+                "Sinonimos_Subgrupo": "Talleres hands‑on campo; Prácticas de campo; Field ops workshops; Training on‑site; Entorno práctico campo",
                 "topK": 2,
                 "Filtro": "Subgrupo:Capacitaciones Prácticas Operaciones de Campo"
             }
@@ -350,7 +350,7 @@
             },
             "properties": {
                 "Subgrupo": "Capacitaciones Prácticas Servicios SIG",
-                "Sinonimos": "Talleres prácticos GIS; Hands‑on ArcGIS; GIS labs; Entrenamiento práctico SIG; Prácticas cartográficas",
+                "Sinonimos_Subgrupo": "Talleres prácticos GIS; Hands‑on ArcGIS; GIS labs; Entrenamiento práctico SIG; Prácticas cartográficas",
                 "topK": 1,
                 "Filtro": "Subgrupo:Capacitaciones Prácticas Servicios SIG"
             }
@@ -366,7 +366,7 @@
             },
             "properties": {
                 "Subgrupo": "Carga de Datos",
-                "Sinonimos": "Data loading; Ingesta de datos; Importación de datos; ETL inicial; Upload de datasets",
+                "Sinonimos_Subgrupo": "Data loading; Ingesta de datos; Importación de datos; ETL inicial; Upload de datasets",
                 "topK": 17,
                 "Filtro": "Subgrupo:Carga de Datos"
             }
@@ -382,7 +382,7 @@
             },
             "properties": {
                 "Subgrupo": "Cartas de Alineación",
-                "Sinonimos": "Alignment sheets; Planos de alineación; Hojas de ruta ductos; Planimetría de ductos; Dibujos de alineación",
+                "Sinonimos_Subgrupo": "Alignment sheets; Planos de alineación; Hojas de ruta ductos; Planimetría de ductos; Dibujos de alineación",
                 "topK": 1,
                 "Filtro": "Subgrupo:Cartas de Alineación"
             }
@@ -398,7 +398,7 @@
             },
             "properties": {
                 "Subgrupo": "Configuación de Aplicaciones",
-                "Sinonimos": "Configuración de apps; Set‑up de aplicaciones; Parametrización; Ajuste de software; Deployment de apps",
+                "Sinonimos_Subgrupo": "Configuración de apps; Set‑up de aplicaciones; Parametrización; Ajuste de software; Deployment de apps",
                 "topK": 1,
                 "Filtro": "Subgrupo:Configuación de Aplicaciones"
             }
@@ -414,7 +414,7 @@
             },
             "properties": {
                 "Subgrupo": "Configuración (Análitica)",
-                "Sinonimos": "Configuración analítica; Setup de analytics; Parametrización BI; Ajuste de reporting; Config dashboards",
+                "Sinonimos_Subgrupo": "Configuración analítica; Setup de analytics; Parametrización BI; Ajuste de reporting; Config dashboards",
                 "topK": 1,
                 "Filtro": "Subgrupo:Configuración (Análitica)"
             }
@@ -430,7 +430,7 @@
             },
             "properties": {
                 "Subgrupo": "Configuración (Iot y Sensores)",
-                "Sinonimos": "Config IoT; Set‑up sensores; Parametrización IoT; Integración de sensores; IoT device setup",
+                "Sinonimos_Subgrupo": "Config IoT; Set‑up sensores; Parametrización IoT; Integración de sensores; IoT device setup",
                 "topK": 1,
                 "Filtro": "Subgrupo:Configuración (Iot y Sensores)"
             }
@@ -446,7 +446,7 @@
             },
             "properties": {
                 "Subgrupo": "Constructores de aplicaciones de Cero Codido/bajo codigo ",
-                "Sinonimos": "App builders low‑code; Zero‑code app makers; Low‑code developers; AppStudio like; Constructores sin código",
+                "Sinonimos_Subgrupo": "App builders low‑code; Zero‑code app makers; Low‑code developers; AppStudio like; Constructores sin código",
                 "topK": 8,
                 "Filtro": "Subgrupo:Constructores de aplicaciones de Cero Codido/bajo codigo "
             }
@@ -462,7 +462,7 @@
             },
             "properties": {
                 "Subgrupo": "Conversión  de Datos",
-                "Sinonimos": "Transformación de Datos, Cambio de Formato de Datos, Modificación del formato de Datos, Adaptación de formato de Datos, Transmutación de Datos",
+                "Sinonimos_Subgrupo": "Transformación de Datos, Cambio de Formato de Datos, Modificación del formato de Datos, Adaptación de formato de Datos, Transmutación de Datos",
                 "topK": 1,
                 "Filtro": "Subgrupo:Conversión  de Datos"
             }
@@ -478,7 +478,7 @@
             },
             "properties": {
                 "Subgrupo": "Conversión de Datos",
-                "Sinonimos": "Data conversion; Transformación de formatos; Data migration; Conversión GIS; Cambio de proyección",
+                "Sinonimos_Subgrupo": "Data conversion; Transformación de formatos; Data migration; Conversión GIS; Cambio de proyección",
                 "topK": 3,
                 "Filtro": "Subgrupo:Conversión de Datos"
             }
@@ -494,7 +494,7 @@
             },
             "properties": {
                 "Subgrupo": "Deep Learning",
-                "Sinonimos": "Aprendizaje profundo; Deep neural networks; Redes neuronales; DL geoespacial; Modelos profundos",
+                "Sinonimos_Subgrupo": "Aprendizaje profundo; Deep neural networks; Redes neuronales; DL geoespacial; Modelos profundos",
                 "topK": 10,
                 "Filtro": "Subgrupo:Deep Learning"
             }
@@ -510,7 +510,7 @@
             },
             "properties": {
                 "Subgrupo": "Desarrollo de Aplicaciones Moviles Avanzadas",
-                "Sinonimos": "Mobile app dev; Desarrollo advanced mobile; Apps móviles GIS; Mobile solutions; Aplicaciones nativas",
+                "Sinonimos_Subgrupo": "Mobile app dev; Desarrollo advanced mobile; Apps móviles GIS; Mobile solutions; Aplicaciones nativas",
                 "topK": 1,
                 "Filtro": "Subgrupo:Desarrollo de Aplicaciones Moviles Avanzadas"
             }
@@ -526,7 +526,7 @@
             },
             "properties": {
                 "Subgrupo": "Desarrollo de Conectores",
-                "Sinonimos": "API connectors; Integradores; Desarrollo de integraciones; Connectors dev; Enlaces de sistemas",
+                "Sinonimos_Subgrupo": "API connectors; Integradores; Desarrollo de integraciones; Connectors dev; Enlaces de sistemas",
                 "topK": 1,
                 "Filtro": "Subgrupo:Desarrollo de Conectores"
             }
@@ -542,7 +542,7 @@
             },
             "properties": {
                 "Subgrupo": "Desarrollo de Paginas Web",
-                "Sinonimos": "Web development; Diseño de sitios; Creación de páginas web; Desarrollo web; Websites",
+                "Sinonimos_Subgrupo": "Web development; Diseño de sitios; Creación de páginas web; Desarrollo web; Websites",
                 "topK": 3,
                 "Filtro": "Subgrupo:Desarrollo de Paginas Web"
             }
@@ -558,7 +558,7 @@
             },
             "properties": {
                 "Subgrupo": "Desarrollo Integraciones con otra tecnología",
-                "Sinonimos": "Integraciones con terceros; Integración de sistemas externos; Conexión multiplataforma; Interfaces con software externo; Integraciones tecnológicas",
+                "Sinonimos_Subgrupo": "Integraciones con terceros; Integración de sistemas externos; Conexión multiplataforma; Interfaces con software externo; Integraciones tecnológicas",
                 "topK": 1,
                 "Filtro": "Subgrupo:Desarrollo Integraciones con otra tecnología"
             }
@@ -574,7 +574,7 @@
             },
             "properties": {
                 "Subgrupo": "Diseño de Gasoductos",
-                "Sinonimos": "Pipeline design; Diseño de ductos; Ingeniería de gasoductos; Trazado de gasoductos; Diseño de tuberías de gas",
+                "Sinonimos_Subgrupo": "Pipeline design; Diseño de ductos; Ingeniería de gasoductos; Trazado de gasoductos; Diseño de tuberías de gas",
                 "topK": 16,
                 "Filtro": "Subgrupo:Diseño de Gasoductos"
             }
@@ -590,7 +590,7 @@
             },
             "properties": {
                 "Subgrupo": "Documentación",
-                "Sinonimos": "Documentación técnica; Manuales; Procedimientos; Especificaciones; Guías de proyecto",
+                "Sinonimos_Subgrupo": "Documentación técnica; Manuales; Procedimientos; Especificaciones; Guías de proyecto",
                 "topK": 2,
                 "Filtro": "Subgrupo:Documentación"
             }
@@ -606,7 +606,7 @@
             },
             "properties": {
                 "Subgrupo": "Documentación de Proyectos SIG",
-                "Sinonimos": "Documentación GIS; Entregables SIG; Informes GIS; Documentos de proyecto geoespacial; Reportes SIG",
+                "Sinonimos_Subgrupo": "Documentación GIS; Entregables SIG; Informes GIS; Documentos de proyecto geoespacial; Reportes SIG",
                 "topK": 1,
                 "Filtro": "Subgrupo:Documentación de Proyectos SIG"
             }
@@ -622,7 +622,7 @@
             },
             "properties": {
                 "Subgrupo": "Entrega de Datos",
-                "Sinonimos": "Entrega de deliverables; Suministro de datos; Entrega de archivos; Transferencia de información; Data delivery",
+                "Sinonimos_Subgrupo": "Entrega de deliverables; Suministro de datos; Entrega de archivos; Transferencia de información; Data delivery",
                 "topK": 4,
                 "Filtro": "Subgrupo:Entrega de Datos"
             }
@@ -638,7 +638,7 @@
             },
             "properties": {
                 "Subgrupo": "Excel",
-                "Sinonimos": "MS Excel; Hojas de cálculo; Planillas; Archivos xlsx; Tablas Excel",
+                "Sinonimos_Subgrupo": "MS Excel; Hojas de cálculo; Planillas; Archivos xlsx; Tablas Excel",
                 "topK": 2,
                 "Filtro": "Subgrupo:Excel"
             }
@@ -654,7 +654,7 @@
             },
             "properties": {
                 "Subgrupo": "Facilidades Producción",
-                "Sinonimos": "Facilities; Instalaciones de producción; Infraestructura de producción; Plantas de proceso; Facilities O&G",
+                "Sinonimos_Subgrupo": "Facilities; Instalaciones de producción; Infraestructura de producción; Plantas de proceso; Facilities O&G",
                 "topK": 1,
                 "Filtro": "Subgrupo:Facilidades Producción"
             }
@@ -670,7 +670,7 @@
             },
             "properties": {
                 "Subgrupo": "Generación de Mapas y/o salidas gráficas",
-                "Sinonimos": "Mapas impresos; Map outputs; Productos cartográficos; Salidas de mapas; Mapas y layouts",
+                "Sinonimos_Subgrupo": "Mapas impresos; Map outputs; Productos cartográficos; Salidas de mapas; Mapas y layouts",
                 "topK": 4,
                 "Filtro": "Subgrupo:Generación de Mapas y/o salidas gráficas"
             }
@@ -686,7 +686,7 @@
             },
             "properties": {
                 "Subgrupo": "Head Hunter",
-                "Sinonimos": "Cazatalentos; Reclutamiento especializado; Headhunting; Selección de talento; Búsqueda de ejecutivos",
+                "Sinonimos_Subgrupo": "Cazatalentos; Reclutamiento especializado; Headhunting; Selección de talento; Búsqueda de ejecutivos",
                 "topK": 6,
                 "Filtro": "Subgrupo:Head Hunter"
             }
@@ -702,7 +702,7 @@
             },
             "properties": {
                 "Subgrupo": "Implementación de GDB",
-                "Sinonimos": "Implementación geodatabase; Creación de GDB; Configuración de geodatabases; Montaje de bases GIS; Implementación SDE",
+                "Sinonimos_Subgrupo": "Implementación geodatabase; Creación de GDB; Configuración de geodatabases; Montaje de bases GIS; Implementación SDE",
                 "topK": 9,
                 "Filtro": "Subgrupo:Implementación de GDB"
             }
@@ -718,7 +718,7 @@
             },
             "properties": {
                 "Subgrupo": "Integridad",
-                "Sinonimos": "Gestión de integridad; Integrity management; Integridad estructural; Integridad de activos; Asset integrity",
+                "Sinonimos_Subgrupo": "Gestión de integridad; Integrity management; Integridad estructural; Integridad de activos; Asset integrity",
                 "topK": 1,
                 "Filtro": "Subgrupo:Integridad"
             }
@@ -734,7 +734,7 @@
             },
             "properties": {
                 "Subgrupo": "Licenciamiento",
-                "Sinonimos": "Licencias software; Venta de licencias; Suscripción software; Licenciamiento de aplicaciones; Licencias de uso",
+                "Sinonimos_Subgrupo": "Licencias software; Venta de licencias; Suscripción software; Licenciamiento de aplicaciones; Licencias de uso",
                 "topK": 1,
                 "Filtro": "Subgrupo:Licenciamiento"
             }
@@ -750,7 +750,7 @@
             },
             "properties": {
                 "Subgrupo": "Licitaciones y Ofertas Sencillas",
-                "Sinonimos": "Propuestas simples; Ofertas básicas; Presentaciones licitatorias; Cotizaciones sencillas; Licitaciones menores",
+                "Sinonimos_Subgrupo": "Propuestas simples; Ofertas básicas; Presentaciones licitatorias; Cotizaciones sencillas; Licitaciones menores",
                 "topK": 4,
                 "Filtro": "Subgrupo:Licitaciones y Ofertas Sencillas"
             }
@@ -766,7 +766,7 @@
             },
             "properties": {
                 "Subgrupo": "Logistica",
-                "Sinonimos": "Logística de proyectos; Gestión logística; Operaciones logísticas; Coordinación logística; Servicios de logística",
+                "Sinonimos_Subgrupo": "Logística de proyectos; Gestión logística; Operaciones logísticas; Coordinación logística; Servicios de logística",
                 "topK": 1,
                 "Filtro": "Subgrupo:Logistica"
             }
@@ -782,7 +782,7 @@
             },
             "properties": {
                 "Subgrupo": "Mantenimiento y Soporte",
-                "Sinonimos": "Mantenimiento & soporte; Soporte técnico; Sustentación postventa; Servicio de mantenimiento; Soporte y mantenimiento",
+                "Sinonimos_Subgrupo": "Mantenimiento & soporte; Soporte técnico; Sustentación postventa; Servicio de mantenimiento; Soporte y mantenimiento",
                 "topK": 1,
                 "Filtro": "Subgrupo:Mantenimiento y Soporte"
             }
@@ -798,7 +798,7 @@
             },
             "properties": {
                 "Subgrupo": "Mercadeo",
-                "Sinonimos": "Marketing; Mercadotecnia; Publicidad; Promoción; Gestión de marketing",
+                "Sinonimos_Subgrupo": "Marketing; Mercadotecnia; Publicidad; Promoción; Gestión de marketing",
                 "topK": 5,
                 "Filtro": "Subgrupo:Mercadeo"
             }
@@ -814,7 +814,7 @@
             },
             "properties": {
                 "Subgrupo": "Migración de Aplicaciones",
-                "Sinonimos": "Migración de apps; Porting de aplicaciones; Traslado de software; Modernización de aplicaciones; Reubicación de apps",
+                "Sinonimos_Subgrupo": "Migración de apps; Porting de aplicaciones; Traslado de software; Modernización de aplicaciones; Reubicación de apps",
                 "topK": 2,
                 "Filtro": "Subgrupo:Migración de Aplicaciones"
             }
@@ -830,7 +830,7 @@
             },
             "properties": {
                 "Subgrupo": "Operación de Drones",
-                "Sinonimos": "Operaciones UAV; Operación de RPAS; Vuelos de drones; Pilotaje de drones; Servicios drone operation",
+                "Sinonimos_Subgrupo": "Operaciones UAV; Operación de RPAS; Vuelos de drones; Pilotaje de drones; Servicios drone operation",
                 "topK": 6,
                 "Filtro": "Subgrupo:Operación de Drones"
             }
@@ -846,7 +846,7 @@
             },
             "properties": {
                 "Subgrupo": "Optimización de datos",
-                "Sinonimos": "Optimización data; Data optimization; Mejora de datos; Refinamiento de datasets; Optimización de información",
+                "Sinonimos_Subgrupo": "Optimización data; Data optimization; Mejora de datos; Refinamiento de datasets; Optimización de información",
                 "topK": 13,
                 "Filtro": "Subgrupo:Optimización de datos"
             }
@@ -862,7 +862,7 @@
             },
             "properties": {
                 "Subgrupo": "Planeación Aérea",
-                "Sinonimos": "Planificación Aeronáutica, Organización Aérea, Programación de la Misión Aérea, Diseño de Plan Aéreo",
+                "Sinonimos_Subgrupo": "Planificación Aeronáutica, Organización Aérea, Programación de la Misión Aérea, Diseño de Plan Aéreo",
                 "topK": 1,
                 "Filtro": "Subgrupo:Planeación Aérea"
             }
@@ -878,7 +878,7 @@
             },
             "properties": {
                 "Subgrupo": "Planeación en Tierra",
-                "Sinonimos": "Planificación terrestre, Organización en el suelo, Planeación de Operaciones de Campo, Diseño de Operaciones en tierra",
+                "Sinonimos_Subgrupo": "Planificación terrestre, Organización en el suelo, Planeación de Operaciones de Campo, Diseño de Operaciones en tierra",
                 "topK": 1,
                 "Filtro": "Subgrupo:Planeación en Tierra"
             }
@@ -894,7 +894,7 @@
             },
             "properties": {
                 "Subgrupo": "Presentaciones",
-                "Sinonimos": "Presentaciones corporativas; Slides; Presentaciones en PowerPoint; Decks; Presentaciones de negocio",
+                "Sinonimos_Subgrupo": "Presentaciones corporativas; Slides; Presentaciones en PowerPoint; Decks; Presentaciones de negocio",
                 "topK": 2,
                 "Filtro": "Subgrupo:Presentaciones"
             }
@@ -910,7 +910,7 @@
             },
             "properties": {
                 "Subgrupo": "Procesamiento Cartografico",
-                "Sinonimos": "Procesamiento cartográfico; Cartographic processing; Digitalización cartográfica; Procesado cartográfico; Tratamiento de mapas",
+                "Sinonimos_Subgrupo": "Procesamiento cartográfico; Cartographic processing; Digitalización cartográfica; Procesado cartográfico; Tratamiento de mapas",
                 "topK": 2,
                 "Filtro": "Subgrupo:Procesamiento Cartografico"
             }
@@ -926,7 +926,7 @@
             },
             "properties": {
                 "Subgrupo": "Procesamiento Fotogrametrico",
-                "Sinonimos": "Fotogrametría; Procesamiento de fotos aéreas; Photogrammetric processing; Ajuste aerotriangulación; Procesado fotogramétrico",
+                "Sinonimos_Subgrupo": "Fotogrametría; Procesamiento de fotos aéreas; Photogrammetric processing; Ajuste aerotriangulación; Procesado fotogramétrico",
                 "topK": 4,
                 "Filtro": "Subgrupo:Procesamiento Fotogrametrico"
             }
@@ -942,7 +942,7 @@
             },
             "properties": {
                 "Subgrupo": "Procesamiento Geoespacial",
-                "Sinonimos": "Procesamiento geospacial; Geospatial processing; Tratamiento de datos GIS; Geoprocesamiento; Geo‑processing",
+                "Sinonimos_Subgrupo": "Procesamiento geospacial; Geospatial processing; Tratamiento de datos GIS; Geoprocesamiento; Geo‑processing",
                 "topK": 12,
                 "Filtro": "Subgrupo:Procesamiento Geoespacial"
             }
@@ -958,7 +958,7 @@
             },
             "properties": {
                 "Subgrupo": "Procesamiento Raster",
-                "Sinonimos": "Procesamiento raster; Raster processing; Tratamiento de imágenes raster; Raster analysis; Procesado raster",
+                "Sinonimos_Subgrupo": "Procesamiento raster; Raster processing; Tratamiento de imágenes raster; Raster analysis; Procesado raster",
                 "topK": 1,
                 "Filtro": "Subgrupo:Procesamiento Raster"
             }
@@ -974,7 +974,7 @@
             },
             "properties": {
                 "Subgrupo": "Puntos de Control",
-                "Sinonimos": "Ground control points; Puntos GCP; Puntos de apoyo; Control terrestre; Puntos de amarre",
+                "Sinonimos_Subgrupo": "Ground control points; Puntos GCP; Puntos de apoyo; Control terrestre; Puntos de amarre",
                 "topK": 2,
                 "Filtro": "Subgrupo:Puntos de Control"
             }
@@ -990,7 +990,7 @@
             },
             "properties": {
                 "Subgrupo": "Recolección",
-                "Sinonimos": "Data collection; Levantamiento; Captura de datos; Recolección de información; Adquisición de datos",
+                "Sinonimos_Subgrupo": "Data collection; Levantamiento; Captura de datos; Recolección de información; Adquisición de datos",
                 "topK": 6,
                 "Filtro": "Subgrupo:Recolección"
             }
@@ -1006,7 +1006,7 @@
             },
             "properties": {
                 "Subgrupo": "SDKs",
-                "Sinonimos": "Software Development Kits; SDK; Kit de desarrollo; Bibliotecas de desarrollo; APIs SDK",
+                "Sinonimos_Subgrupo": "Software Development Kits; SDK; Kit de desarrollo; Bibliotecas de desarrollo; APIs SDK",
                 "topK": 2,
                 "Filtro": "Subgrupo:SDKs"
             }
@@ -1022,7 +1022,7 @@
             },
             "properties": {
                 "Subgrupo": "Servicios Aéreos y en Tierra",
-                "Sinonimos": "Servicios aéreos y terrestres; Operaciones aéreas y campo; Servicios drone & ground; Servicios mixtos aire‑tierra; Aerial and ground services",
+                "Sinonimos_Subgrupo": "Servicios aéreos y terrestres; Operaciones aéreas y campo; Servicios drone & ground; Servicios mixtos aire‑tierra; Aerial and ground services",
                 "topK": 1,
                 "Filtro": "Subgrupo:Servicios Aéreos y en Tierra"
             }
@@ -1038,7 +1038,7 @@
             },
             "properties": {
                 "Subgrupo": "Servicios Web",
-                "Sinonimos": "Servicios web GIS; Web services; API web; Servicios en línea; WebGIS services",
+                "Sinonimos_Subgrupo": "Servicios web GIS; Web services; API web; Servicios en línea; WebGIS services",
                 "topK": 1,
                 "Filtro": "Subgrupo:Servicios Web"
             }
@@ -1054,7 +1054,7 @@
             },
             "properties": {
                 "Subgrupo": "Software Libre",
-                "Sinonimos": "Software de código abierto; Open‑source software; Herramientas libres; Software libre GIS; Free software",
+                "Sinonimos_Subgrupo": "Software de código abierto; Open‑source software; Herramientas libres; Software libre GIS; Free software",
                 "topK": 1,
                 "Filtro": "Subgrupo:Software Libre"
             }
@@ -1070,7 +1070,7 @@
             },
             "properties": {
                 "Subgrupo": "Utility Network",
-                "Sinonimos": "Red de utilidades; Utility network model; Modelo UN; Red de servicios; Utility Network GIS",
+                "Sinonimos_Subgrupo": "Red de utilidades; Utility network model; Modelo UN; Red de servicios; Utility Network GIS",
                 "topK": 1,
                 "Filtro": "Subgrupo:Utility Network"
             }
@@ -1086,7 +1086,7 @@
             },
             "properties": {
                 "Subgrupo": "Viaticos, Hospedaje y Transporte",
-                "Sinonimos": "Viáticos; Gastos de viaje; Per diem; Alojamiento y transporte; Gastos de hospedaje",
+                "Sinonimos_Subgrupo": "Viáticos; Gastos de viaje; Per diem; Alojamiento y transporte; Gastos de hospedaje",
                 "topK": 8,
                 "Filtro": "Subgrupo:Viaticos, Hospedaje y Transporte"
             }
@@ -1102,11 +1102,11 @@
             },
             "properties": {
                 "Subgrupo": "Videos Aéreos",
-                "Sinonimos": "Videos drone; Filmaciones aéreas; Grabaciones aéreas; Video aéreo; Tomas aéreas",
+                "Sinonimos_Subgrupo": "Videos drone; Filmaciones aéreas; Grabaciones aéreas; Video aéreo; Tomas aéreas",
                 "topK": 1,
                 "Filtro": "Subgrupo:Videos Aéreos"
             }
         }
     ],
-    "updated_at": "2025-07-21 09:06:17"
+    "updated_at": "2025-07-21 16:52:52"
 }
