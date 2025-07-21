@@ -1,0 +1,104 @@
+{
+    "type": "FeatureCollection",
+    "schema": {
+        "Area_IsaGIS_Technologies": {
+            "type": "String",
+            "length": 255
+        },
+        "topK": {
+            "type": "Integer",
+            "length": null
+        },
+        "Filtro": {
+            "type": "String",
+            "length": 255
+        },
+        "Sinonimos": {
+            "type": "String",
+            "length": 255
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Area_IsaGIS_Technologies": "Multidepartamental",
+                "topK": 34,
+                "Filtro": "",
+                "Sinonimos": "Multidepartamentales, Servicios para todas las areas, Servicios multidiciplinarios, Servicios transversales"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Area_IsaGIS_Technologies": "Operaciones de Campo",
+                "topK": 24,
+                "Filtro": "",
+                "Sinonimos": "Actividades de campo, trabajos de campo, labores de campo, intervenciones de campo, acciones de campo."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "topK": 21,
+                "Filtro": "",
+                "Sinonimos": "servicios de inteligencia artificial, soluciones de IA, servicios basados en IA, inteligencia artifical aplicada, tecnología cognitiva, Inteligencia Artificial IA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Area_IsaGIS_Technologies": "Servicios de Ingeniería",
+                "topK": 25,
+                "Filtro": "",
+                "Sinonimos": "Servicios de Ingenieria de Petroleo, Servicios de Ingenieria de Gas, Servicios de Ingenieria de Petróleo y Gas, Soluciones de ingeniería, Soluciones de Ingeniería aplicada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "topK": 117,
+                "Filtro": "",
+                "Sinonimos": "Servicios de Información Geográfica, Servicios de Sistemas de Información Geográfica, Servicios de Geoinformática, Servicios Geoespaciales"
+            }
+        }
+    ],
+    "updated_at": "2025-07-21 09:00:43"
+}
