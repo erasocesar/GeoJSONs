@@ -13,7 +13,7 @@
             "type": "String",
             "length": 255
         },
-        "Sinonimos": {
+        "Sinonimos_Areas": {
             "type": "String",
             "length": 255
         }
@@ -32,7 +32,7 @@
                 "Area_IsaGIS_Technologies": "Multidepartamental",
                 "topK": 34,
                 "Filtro": "Area_IsaGIS_Technologies:Multidepartamental",
-                "Sinonimos": "Multidepartamentales, Servicios para todas las areas, Servicios multidiciplinarios, Servicios transversales"
+                "Sinonimos_Areas": "Multidepartamentales, Servicios para todas las areas, Servicios multidiciplinarios, Servicios transversales"
             }
         },
         {
@@ -48,7 +48,7 @@
                 "Area_IsaGIS_Technologies": "Operaciones de Campo",
                 "topK": 24,
                 "Filtro": "Area_IsaGIS_Technologies:Operaciones de Campo",
-                "Sinonimos": "Actividades de campo, trabajos de campo, labores de campo, intervenciones de campo, acciones de campo."
+                "Sinonimos_Areas": "Actividades de campo, trabajos de campo, labores de campo, intervenciones de campo, acciones de campo."
             }
         },
         {
@@ -64,7 +64,7 @@
                 "Area_IsaGIS_Technologies": "Servicios de IA",
                 "topK": 21,
                 "Filtro": "Area_IsaGIS_Technologies:Servicios de IA",
-                "Sinonimos": "servicios de inteligencia artificial, soluciones de IA, servicios basados en IA, inteligencia artifical aplicada, tecnología cognitiva, Inteligencia Artificial IA"
+                "Sinonimos_Areas": "servicios de inteligencia artificial, soluciones de IA, servicios basados en IA, inteligencia artifical aplicada, tecnología cognitiva, Inteligencia Artificial IA"
             }
         },
         {
@@ -80,7 +80,7 @@
                 "Area_IsaGIS_Technologies": "Servicios de Ingeniería",
                 "topK": 25,
                 "Filtro": "Area_IsaGIS_Technologies:Servicios de Ingeniería",
-                "Sinonimos": "Servicios de Ingenieria de Petroleo, Servicios de Ingenieria de Gas, Servicios de Ingenieria de Petróleo y Gas, Soluciones de ingeniería, Soluciones de Ingeniería aplicada"
+                "Sinonimos_Areas": "Servicios de Ingenieria de Petroleo, Servicios de Ingenieria de Gas, Servicios de Ingenieria de Petróleo y Gas, Soluciones de ingeniería, Soluciones de Ingeniería aplicada"
             }
         },
         {
@@ -96,9 +96,9 @@
                 "Area_IsaGIS_Technologies": "Servicios SIG",
                 "topK": 117,
                 "Filtro": "Area_IsaGIS_Technologies:Servicios SIG",
-                "Sinonimos": "Servicios de Información Geográfica, Servicios de Sistemas de Información Geográfica, Servicios de Geoinformática, Servicios Geoespaciales"
+                "Sinonimos_Areas": "Servicios de Información Geográfica, Servicios de Sistemas de Información Geográfica, Servicios de Geoinformática, Servicios Geoespaciales"
             }
         }
     ],
-    "updated_at": "2025-07-21 09:06:06"
+    "updated_at": "2025-07-21 16:52:42"
 }
