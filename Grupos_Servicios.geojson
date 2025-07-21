@@ -12,6 +12,14 @@
         "Sinonimos": {
             "type": "String",
             "length": 255
+        },
+        "topK": {
+            "type": "Integer",
+            "length": null
+        },
+        "Filtro": {
+            "type": "String",
+            "length": 255
         }
     },
     "features": [
@@ -27,7 +35,9 @@
             "properties": {
                 "Grupo": "Análisis Espacial y Ciencia de los Datos",
                 "Area_Estrategica": "Servicios SIG",
-                "Sinonimos": "Analítica geoespacial; Ciencia de datos espaciales; Geo‑analytics; Spatial data science; Análisis GIS avanzado"
+                "Sinonimos": "Analítica geoespacial; Ciencia de datos espaciales; Geo‑analytics; Spatial data science; Análisis GIS avanzado",
+                "topK": 17,
+                "Filtro": "Grupo:Análisis Espacial y Ciencia de los Datos"
             }
         },
         {
@@ -42,7 +52,9 @@
             "properties": {
                 "Grupo": "Análisis y Visualizacion en Tiempo Real",
                 "Area_Estrategica": "Servicios SIG",
-                "Sinonimos": "GIS tiempo real; Streaming geoespacial; Visualización en vivo; Real‑time mapping; Dashboards en tiempo real"
+                "Sinonimos": "GIS tiempo real; Streaming geoespacial; Visualización en vivo; Real‑time mapping; Dashboards en tiempo real",
+                "topK": 4,
+                "Filtro": "Grupo:Análisis y Visualizacion en Tiempo Real"
             }
         },
         {
@@ -57,7 +69,9 @@
             "properties": {
                 "Grupo": "Asesorias",
                 "Area_Estrategica": "Multidepartamental",
-                "Sinonimos": "Consultoría; Acompañamiento técnico; Servicios de asesoramiento; Soporte experto; Mentoría"
+                "Sinonimos": "Consultoría; Acompañamiento técnico; Servicios de asesoramiento; Soporte experto; Mentoría",
+                "topK": 1,
+                "Filtro": "Grupo:Asesorias"
             }
         },
         {
@@ -72,7 +86,9 @@
             "properties": {
                 "Grupo": "Asistentes Virtuales",
                 "Area_Estrategica": "Servicios de IA",
-                "Sinonimos": "Chatbots; Agentes conversacionales; Asistentes inteligentes; Voice bots; IA conversacional"
+                "Sinonimos": "Chatbots; Agentes conversacionales; Asistentes inteligentes; Voice bots; IA conversacional",
+                "topK": 2,
+                "Filtro": "Grupo:Asistentes Virtuales"
             }
         },
         {
@@ -87,7 +103,9 @@
             "properties": {
                 "Grupo": "Capacitación de Ingeniería de Oil and Gas",
                 "Area_Estrategica": "Servicios de Ingeniería",
-                "Sinonimos": "Formación Oil & Gas; Entrenamiento petrolero; Cursos industria energética; Capacitación hidrocarburos; Talleres ingeniería de petróleo"
+                "Sinonimos": "Formación Oil & Gas; Entrenamiento petrolero; Cursos industria energética; Capacitación hidrocarburos; Talleres ingeniería de petróleo",
+                "topK": 6,
+                "Filtro": "Grupo:Capacitación de Ingeniería de Oil and Gas"
             }
         },
         {
@@ -102,7 +120,9 @@
             "properties": {
                 "Grupo": "Capacitación IA",
                 "Area_Estrategica": "Servicios de IA",
-                "Sinonimos": "Cursos de inteligencia artificial; Formación en IA; Entrenamiento de machine learning; Talleres IA aplicada; Bootcamp IA"
+                "Sinonimos": "Cursos de inteligencia artificial; Formación en IA; Entrenamiento de machine learning; Talleres IA aplicada; Bootcamp IA",
+                "topK": 2,
+                "Filtro": "Grupo:Capacitación IA"
             }
         },
         {
@@ -117,22 +137,9 @@
             "properties": {
                 "Grupo": "Capacitación Multidepartamental",
                 "Area_Estrategica": "Multidepartamental",
-                "Sinonimos": "Formación corporativa; Capacitación cross‑functional; Entrenamiento multidisciplinario; Cursos interáreas; Workshops integrados"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Grupo": "Capacitación Operaciones de Campo",
-                "Area_Estrategica": "Operaciones de Campo",
-                "Sinonimos": "Entrenamiento de campo; Formación operativa; Capacitación on‑site; Talleres de operaciones; Cursos de campo"
+                "Sinonimos": "Formación corporativa; Capacitación cross‑functional; Entrenamiento multidisciplinario; Cursos interáreas; Workshops integrados",
+                "topK": 2,
+                "Filtro": "Grupo:Capacitación Multidepartamental"
             }
         },
         {
@@ -147,7 +154,9 @@
             "properties": {
                 "Grupo": "Capacitación Servicios SIG",
                 "Area_Estrategica": "Servicios SIG",
-                "Sinonimos": "Cursos GIS; Formación en ArcGIS; Entrenamiento geoespacial; Talleres SIG; Capacitación cartográfica"
+                "Sinonimos": "Cursos GIS; Formación en ArcGIS; Entrenamiento geoespacial; Talleres SIG; Capacitación cartográfica",
+                "topK": 5,
+                "Filtro": "Grupo:Capacitación Servicios SIG"
             }
         },
         {
@@ -162,7 +171,9 @@
             "properties": {
                 "Grupo": "Configuración de Aplicaciones",
                 "Area_Estrategica": "Servicios SIG",
-                "Sinonimos": "Parametrización de apps; Set‑up de software; Implementación de aplicaciones; Configuración de sistemas; Deployment de apps"
+                "Sinonimos": "Parametrización de apps; Set‑up de software; Implementación de aplicaciones; Configuración de sistemas; Deployment de apps",
+                "topK": 13,
+                "Filtro": "Grupo:Configuración de Aplicaciones"
             }
         },
         {
@@ -177,7 +188,9 @@
             "properties": {
                 "Grupo": "Data Management",
                 "Area_Estrategica": "Servicios SIG",
-                "Sinonimos": "Gestión de datos; Administración de datos; Data governance; Manejo de bases de datos; Gestión de información"
+                "Sinonimos": "Gestión de datos; Administración de datos; Data governance; Manejo de bases de datos; Gestión de información",
+                "topK": 54,
+                "Filtro": "Grupo:Data Management"
             }
         },
         {
@@ -192,7 +205,9 @@
             "properties": {
                 "Grupo": "Desarrollo de Aplicaciones",
                 "Area_Estrategica": "Servicios SIG",
-                "Sinonimos": "Desarrollo software; Programación de apps; Software a medida; App development; Ingeniería de software"
+                "Sinonimos": "Desarrollo software; Programación de apps; Software a medida; App development; Ingeniería de software",
+                "topK": 10,
+                "Filtro": "Grupo:Desarrollo de Aplicaciones"
             }
         },
         {
@@ -207,7 +222,9 @@
             "properties": {
                 "Grupo": "GeoAI",
                 "Area_Estrategica": "Servicios de IA",
-                "Sinonimos": "IA geoespacial; Geo‑machine learning; AI for GIS; Inteligencia artificial espacial; Geo deep learning"
+                "Sinonimos": "IA geoespacial; Geo‑machine learning; AI for GIS; Inteligencia artificial espacial; Geo deep learning",
+                "topK": 10,
+                "Filtro": "Grupo:GeoAI"
             }
         },
         {
@@ -222,7 +239,9 @@
             "properties": {
                 "Grupo": "IA Generativa",
                 "Area_Estrategica": "Servicios de IA",
-                "Sinonimos": "Generative AI; IA creativa; Modelos generativos; GenAI; Inteligencia artificial generativa"
+                "Sinonimos": "Generative AI; IA creativa; Modelos generativos; GenAI; Inteligencia artificial generativa",
+                "topK": 7,
+                "Filtro": "Grupo:IA Generativa"
             }
         },
         {
@@ -237,7 +256,9 @@
             "properties": {
                 "Grupo": "Ingeniería de Proyectos",
                 "Area_Estrategica": "Multidepartamental",
-                "Sinonimos": "Gestión de proyectos; Project engineering; Dirección de proyectos; Ingeniería de ejecución; PMO técnica"
+                "Sinonimos": "Gestión de proyectos; Project engineering; Dirección de proyectos; Ingeniería de ejecución; PMO técnica",
+                "topK": 16,
+                "Filtro": "Grupo:Ingeniería de Proyectos"
             }
         },
         {
@@ -252,7 +273,9 @@
             "properties": {
                 "Grupo": "Logistica",
                 "Area_Estrategica": "Multidepartamental",
-                "Sinonimos": "Gestión logística; Supply chain; Operaciones logísticas; Logística de campo; Cadena de suministro"
+                "Sinonimos": "Gestión logística; Supply chain; Operaciones logísticas; Logística de campo; Cadena de suministro",
+                "topK": 8,
+                "Filtro": "Grupo:Logistica"
             }
         },
         {
@@ -267,7 +290,9 @@
             "properties": {
                 "Grupo": "Operaciones Hibridas",
                 "Area_Estrategica": "Operaciones de Campo",
-                "Sinonimos": "Operaciones mixtas; Hybrid field ops; Trabajo híbrido terreno‑dron; Operaciones integradas; Servicios híbridos"
+                "Sinonimos": "Operaciones mixtas; Hybrid field ops; Trabajo híbrido terreno‑dron; Operaciones integradas; Servicios híbridos",
+                "topK": 1,
+                "Filtro": "Grupo:Operaciones Hibridas"
             }
         },
         {
@@ -282,7 +307,9 @@
             "properties": {
                 "Grupo": "Procesamiento de Imágenes y Sensores Remotos",
                 "Area_Estrategica": "Servicios SIG",
-                "Sinonimos": "Teledetección; Remote sensing; Procesamiento de imágenes satelitales; Análisis de sensores; Fotogrametría digital"
+                "Sinonimos": "Teledetección; Remote sensing; Procesamiento de imágenes satelitales; Análisis de sensores; Fotogrametría digital",
+                "topK": 4,
+                "Filtro": "Grupo:Procesamiento de Imágenes y Sensores Remotos"
             }
         },
         {
@@ -297,7 +324,9 @@
             "properties": {
                 "Grupo": "Recolección de Datos en Tierra",
                 "Area_Estrategica": "Operaciones de Campo",
-                "Sinonimos": "Levantamiento de campo; Captura de datos terrestres; Field data collection; Recolección in‑situ; Muestreo en terreno"
+                "Sinonimos": "Levantamiento de campo; Captura de datos terrestres; Field data collection; Recolección in‑situ; Muestreo en terreno",
+                "topK": 9,
+                "Filtro": "Grupo:Recolección de Datos en Tierra"
             }
         },
         {
@@ -312,7 +341,9 @@
             "properties": {
                 "Grupo": "Representación Cartográfica",
                 "Area_Estrategica": "Servicios SIG",
-                "Sinonimos": "Cartografía; Mapificación; Map design; Diseño cartográfico; Cartografía digital"
+                "Sinonimos": "Cartografía; Mapificación; Map design; Diseño cartográfico; Cartografía digital",
+                "topK": 6,
+                "Filtro": "Grupo:Representación Cartográfica"
             }
         },
         {
@@ -327,7 +358,9 @@
             "properties": {
                 "Grupo": "Servicios de Drones",
                 "Area_Estrategica": "Operaciones de Campo",
-                "Sinonimos": "Servicios UAV; Aeronaves no tripuladas; Dronografía; Operaciones drone; Servicios RPAS"
+                "Sinonimos": "Servicios UAV; Aeronaves no tripuladas; Dronografía; Operaciones drone; Servicios RPAS",
+                "topK": 14,
+                "Filtro": "Grupo:Servicios de Drones"
             }
         },
         {
@@ -342,7 +375,9 @@
             "properties": {
                 "Grupo": "Servicios de Gestión Humana",
                 "Area_Estrategica": "Multidepartamental",
-                "Sinonimos": "Recursos humanos; Gestión de talento; HR services; Administración de personal; Capital humano"
+                "Sinonimos": "Recursos humanos; Gestión de talento; HR services; Administración de personal; Capital humano",
+                "topK": 7,
+                "Filtro": "Grupo:Servicios de Gestión Humana"
             }
         },
         {
@@ -357,7 +392,9 @@
             "properties": {
                 "Grupo": "Servicios de HSE",
                 "Area_Estrategica": "Servicios de Ingeniería",
-                "Sinonimos": "Salud, Seguridad y Ambiente; HSEQ; Seguridad industrial; Gestión HSE; HS&E services"
+                "Sinonimos": "Salud, Seguridad y Ambiente; HSEQ; Seguridad industrial; Gestión HSE; HS&E services",
+                "topK": 1,
+                "Filtro": "Grupo:Servicios de HSE"
             }
         },
         {
@@ -372,7 +409,9 @@
             "properties": {
                 "Grupo": "Servicios de Ingeniería de Ductos",
                 "Area_Estrategica": "Servicios de Ingeniería",
-                "Sinonimos": "Ingeniería de tuberías; Pipeline engineering; Diseño de ductos; Servicios de pipeline; Ingeniería de oleoductos"
+                "Sinonimos": "Ingeniería de tuberías; Pipeline engineering; Diseño de ductos; Servicios de pipeline; Ingeniería de oleoductos",
+                "topK": 16,
+                "Filtro": "Grupo:Servicios de Ingeniería de Ductos"
             }
         },
         {
@@ -387,7 +426,9 @@
             "properties": {
                 "Grupo": "Servicios de Ingenieria de Procesos",
                 "Area_Estrategica": "Servicios de Ingeniería",
-                "Sinonimos": "Ingeniería de procesos; Process engineering; Optimización de procesos; Diseño de procesos; Servicios de procesos industriales"
+                "Sinonimos": "Ingeniería de procesos; Process engineering; Optimización de procesos; Diseño de procesos; Servicios de procesos industriales",
+                "topK": 1,
+                "Filtro": "Grupo:Servicios de Ingenieria de Procesos"
             }
         },
         {
@@ -402,7 +443,9 @@
             "properties": {
                 "Grupo": "Servicios de integridad",
                 "Area_Estrategica": "Servicios de Ingeniería",
-                "Sinonimos": "Integridad de activos; Asset integrity; Integridad estructural; Integrity management; Servicios de integridad operacional"
+                "Sinonimos": "Integridad de activos; Asset integrity; Integridad estructural; Integrity management; Servicios de integridad operacional",
+                "topK": 1,
+                "Filtro": "Grupo:Servicios de integridad"
             }
         },
         {
@@ -417,9 +460,11 @@
             "properties": {
                 "Grupo": "Software",
                 "Area_Estrategica": "Servicios SIG",
-                "Sinonimos": "Licenciamiento de software; Soluciones de software; Paquetes informáticos; Plataformas digitales; Herramientas de software"
+                "Sinonimos": "Licenciamiento de software; Soluciones de software; Paquetes informáticos; Plataformas digitales; Herramientas de software",
+                "topK": 4,
+                "Filtro": "Grupo:Software"
             }
         }
     ],
-    "updated_at": "2025-07-16 19:24:10"
+    "updated_at": "2025-07-20 20:31:26"
 }
