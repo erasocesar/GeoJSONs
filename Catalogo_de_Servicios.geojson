@@ -7295,9 +7295,9 @@
                 "Area_IsaGIS_Technologies": "Operaciones de Campo",
                 "Grupo": "Servicios de Drones",
                 "Subgrupo": "Procesamiento Fotogrametrico",
-                "Nombre_del_Servicio": "Adquisión de Licencia Mensual de Aplicación para ejecución de  Vuelos Autonomos",
+                "Nombre_del_Servicio": "Licencia Interna para ejecución de Vuelos Autonomos.",
                 "Clasificación": "Servicio Básico",
-                "Descripción_Técnica_del_Servicio": "Este servicio de arriendo se incluye la adquisión del licencimiento para la aplicación de Map Pilot Pro para ejecutar misiones autonomas.",
+                "Descripción_Técnica_del_Servicio": "Este ítem no corresponde a la entrega de una licencia de software al cliente. Se incluye en el marco de nuestra metodología de prestación de servicios por demanda, con el fin de cubrir internamente el costo asociado al uso temporal de la aplicación Map Pilot Pro, requerida para la ejecución de misiones autónomas con drones en campo.\n\nLa inclusión de este ítem en proyectos que involucren servicios de fotogrametría aérea autónoma permite garantizar la disponibilidad y operación del software necesario, el cual es arrendado por IsaGIS Technologies exclusivamente para cumplir con la ejecución técnica de dichos vuelos.\n\nEste costo es parte de la operación y no constituye ni implica una transferencia de derechos de uso o distribución de la herramienta Map Pilot Pro al cliente.",
                 "Detalles_Costo_Base": "2/3 Servicio Básico cubre el arriendo del software por mes",
                 "Notas_Adicionales": "Lo minimo que se arrienda es por mes",
                 "Tiempo__Dias_habiles_": "0",
@@ -7311,7 +7311,7 @@
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 109,
                 "micro_guion_es": "En IsaGIS, potenciamos tus proyectos con la adquisición mensual de licencias para Map Pilot Pro, permitiéndonos ejecutar vuelos autónomos de manera eficiente y precisa. Gracias a esta herramienta, optimizamos la captura de datos geoespaciales, generando mapas y modelos 3D de alta calidad. ¿Estás listo para llevar tu trabajo al siguiente nivel con nuestra tecnología?",
-                "Descripcion_Tecnica_Corta": "El servicio de arriendo incluye la adquisición del licenciamiento para la aplicación Map Pilot Pro, permitiendo ejecutar misiones autónomas."
+                "Descripcion_Tecnica_Corta": "Costo interno por uso temporal de Map Pilot Pro para ejecutar vuelos autónomos. No implica entrega de licencia al cliente, solo aplica en proyectos con misiones autonomas de drones."
             }
         },
         {
@@ -7381,5 +7381,5 @@
             }
         }
     ],
-    "updated_at": "2025-07-16 19:24:07"
+    "updated_at": "2025-07-20 20:31:23"
 }
