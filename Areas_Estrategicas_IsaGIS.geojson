@@ -31,7 +31,7 @@
             "properties": {
                 "Area_IsaGIS_Technologies": "Multidepartamental",
                 "topK": 34,
-                "Filtro": "",
+                "Filtro": "Area_IsaGIS_Technologies:Multidepartamental",
                 "Sinonimos": "Multidepartamentales, Servicios para todas las areas, Servicios multidiciplinarios, Servicios transversales"
             }
         },
@@ -47,7 +47,7 @@
             "properties": {
                 "Area_IsaGIS_Technologies": "Operaciones de Campo",
                 "topK": 24,
-                "Filtro": "",
+                "Filtro": "Area_IsaGIS_Technologies:Operaciones de Campo",
                 "Sinonimos": "Actividades de campo, trabajos de campo, labores de campo, intervenciones de campo, acciones de campo."
             }
         },
@@ -63,7 +63,7 @@
             "properties": {
                 "Area_IsaGIS_Technologies": "Servicios de IA",
                 "topK": 21,
-                "Filtro": "",
+                "Filtro": "Area_IsaGIS_Technologies:Servicios de IA",
                 "Sinonimos": "servicios de inteligencia artificial, soluciones de IA, servicios basados en IA, inteligencia artifical aplicada, tecnología cognitiva, Inteligencia Artificial IA"
             }
         },
@@ -79,7 +79,7 @@
             "properties": {
                 "Area_IsaGIS_Technologies": "Servicios de Ingeniería",
                 "topK": 25,
-                "Filtro": "",
+                "Filtro": "Area_IsaGIS_Technologies:Servicios de Ingeniería",
                 "Sinonimos": "Servicios de Ingenieria de Petroleo, Servicios de Ingenieria de Gas, Servicios de Ingenieria de Petróleo y Gas, Soluciones de ingeniería, Soluciones de Ingeniería aplicada"
             }
         },
@@ -95,10 +95,10 @@
             "properties": {
                 "Area_IsaGIS_Technologies": "Servicios SIG",
                 "topK": 117,
-                "Filtro": "",
+                "Filtro": "Area_IsaGIS_Technologies:Servicios SIG",
                 "Sinonimos": "Servicios de Información Geográfica, Servicios de Sistemas de Información Geográfica, Servicios de Geoinformática, Servicios Geoespaciales"
             }
         }
     ],
-    "updated_at": "2025-07-21 09:00:43"
+    "updated_at": "2025-07-21 09:06:06"
 }
