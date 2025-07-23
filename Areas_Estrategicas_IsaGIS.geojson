@@ -29,7 +29,7 @@
                 ]
             },
             "properties": {
-                "Area_IsaGIS_Technologies": "Multidepartamental",
+                "Area_IsaGIS_Technologies": "Servicios SIG",
                 "topK": 34,
                 "Filtro": "Area_IsaGIS_Technologies:Multidepartamental",
                 "Sinonimos_Areas": "Multidepartamentales, Servicios para todas las areas, Servicios multidiciplinarios, Servicios transversales"
@@ -100,5 +100,5 @@
             }
         }
     ],
-    "updated_at": "2025-07-21 19:23:11"
+    "updated_at": "2025-07-23 12:16:17"
 }
