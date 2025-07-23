@@ -3237,7 +3237,7 @@
                 "Grupo": "Desarrollo de Aplicaciones",
                 "Subgrupo": "Desarrollo de Paginas Web",
                 "Nombre_del_Servicio": "Implementación de Paginas Web Geoespaciales por sección",
-                "Clasificación": "Servicio Intermedio",
+                "Clasificación": "Servicio Avanzado",
                 "Descripción_Técnica_del_Servicio": "Este servicio desarrolla secciones de una página web geoespacial inmersiva utilizando ArcGIS Experience Builder Developer. Se integran mapas web, aplicaciones, widgets y datos en 2D/3D mediante una interfaz de arrastre y colocación, entregando el código JavaScript para su implementación en el servidor del cliente. El costo se ajusta según el número de secciones a desarrollar.",
                 "Detalles_Costo_Base": "1 Servicio SIG Intermedio + 2 Servicios SIG Básico (la combinación cubre el desarrollo de 1 sección; el costo se ajusta en función del número de secciones).",
                 "Notas_Adicionales": "Contenido a incluir en la página: imágenes, videos, textos y mapas; especificaciones de cada sección a desarrollar.",
@@ -3245,9 +3245,9 @@
                 "Tiempos_de_entrega": "2 dias - 1 semana",
                 "URL_Video_hosting": "",
                 "URL_con_información_adicional": "",
-                "Basicos": 2.0,
-                "Intermedios": 1.0,
-                "Avanzados": 0.0,
+                "Basicos": 0.0,
+                "Intermedios": 0.0,
+                "Avanzados": 1.0,
                 "Pregunta": "",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 105,
@@ -4507,39 +4507,6 @@
                 "Codig_Nuevo": 143,
                 "micro_guion_es": "En IsaGIS, desarrollamos algoritmos avanzados utilizando Arcpy y ArcGIS Pro, superando las limitaciones del Model Builder. Nuestra experiencia nos permite crear soluciones personalizadas para el análisis de riesgo y la modelación de derrames, integrando herramientas geoespaciales de manera efectiva. El resultado es un software robusto diseñado específicamente para tus necesidades. ¿Listos para optimizar tus procesos complejos?",
                 "Descripcion_Tecnica_Corta": "Se desarrollan algoritmos avanzados en ArcGIS Pro con Python (Arcpy) para análisis de riesgo y modelación de derrames, integrando múltiples herramientas geoespaciales y levantando información detallad"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Nro": 144,
-                "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Grupo": "Configuración de Aplicaciones",
-                "Subgrupo": "Constructores de aplicaciones de Cero Codido/bajo codigo ",
-                "Nombre_del_Servicio": "Desarrollo de Paginas Web Geoespaciales con ArcGIS.",
-                "Clasificación": "Servicio Avanzado",
-                "Descripción_Técnica_del_Servicio": "Este servicio desarrolla una página web geoespacial utilizando ArcGIS Experience, que permite integrar imágenes, videos, mapas y elementos dinámicos a través de plantillas predefinidas. Se entrega el código JavaScript para su implementación en el servidor del cliente, ofreciendo una experiencia inmersiva y moderna.",
-                "Detalles_Costo_Base": "1 Servicio SIG Avanzado cubre el desarrollo de una sección de una página web.",
-                "Notas_Adicionales": "El cliente debe proporcionar datos, mapas, imágenes, videos y detalles de los servicios web que se deseen integrar. En caso de faltar algún elemento, se podrán contratar servicios complementarios (por ejemplo, Diseño Integral de Páginas Web Geoespaciales).",
-                "Tiempo__Dias_habiles_": "10",
-                "Tiempos_de_entrega": "1 - 2 semanas",
-                "URL_Video_hosting": "",
-                "URL_con_información_adicional": "",
-                "Basicos": 0.0,
-                "Intermedios": 0.0,
-                "Avanzados": 1.0,
-                "Pregunta": "",
-                "Factor_Corrección": 1.0,
-                "Codig_Nuevo": 144,
-                "micro_guion_es": "En IsaGIS, transformamos tus ideas en impactantes páginas web geoespaciales con ArcGIS Experience. Utilizando las potentes herramientas de ArcGIS, integramos imágenes, videos y mapas en plantillas atractivas. Al finalizar, te entregamos el código JavaScript listo para que lo implementes en tu servidor. ¿Estás listo para llevar tu presencia online al siguiente nivel?",
-                "Descripcion_Tecnica_Corta": "Se ofrece un servicio para crear una página web geoespacial con ArcGIS Experience, integrando multimedia y mapas mediante plantillas, y se entrega el código JavaScript para su implementación."
             }
         },
         {
@@ -6937,8 +6904,8 @@
                 "Descripción_Técnica_del_Servicio": "Es te servicio consiste en cubrir los honorarios del profesional que dictara la capacitación denominada: Drones Inteligentes Aplicaciones de IA y Aprendizaje Automático, esta grandiosa capacitación se dictaria con tecnología SIG de Esri usando varios story maps, tableros de control, ArcGIS Pro y algoritmos de Deep Learning.\n\nIdeal para que las empresas tengan una idea global de los avances de la Inteligencia Artificial en la actualidad y como esta se integra a drones. \n\nLa capacitación que se propone tendrá 8 horas teoricas y sera virtual, pudiera dividirse en 2 sesiones de 4 horas o como disponga el cliente.\n\nEl contenido del curso teórico es el siguiente: \n\n- Introducción a la Inteligencia Artificial y Drones (Que es, un showcase de usos,  Historia de la IA, Clasificaciones) \n- Términos, diciplinas y tipos de Aplicaciones de la IA\n- Machine Learning o Aprendizaje Automático (subcategorías, elementos y conceptos importantes)\n- Inteligencia Artificial aplicada a Aeronaves No Tripuladas (Usos generales de la IA en Drones, Machine Learning para drones (técnicas clásicas y aprendizaje profundo), entrenamiento de algoritmos)\n- Integración de Drones, IA y ArcGIS\n- Como se implementa la IA en Drones.\n- Conclusiones, recomendaciones y Futuro de la IA y Drones. \n\n",
                 "Detalles_Costo_Base": "Equivale a 1 unidades de Servicio SIG avanzado para cubrir los honorarios del profesional que dictara las horas teóricas del curso. Se  pudiera  dictar presencialmente, pero habria que agregar costos de logistica. ",
                 "Notas_Adicionales": "Solicitud formal del servicio, aprobacion del alcance y costos del servicio y según modalidad de contratación con IsaGIS Technologies se cancelaria anticipadamente o al final del mes.",
-                "Tiempo__Dias_habiles_": "1",
-                "Tiempos_de_entrega": "8 horas",
+                "Tiempo__Dias_habiles_": "3",
+                "Tiempos_de_entrega": "12 horas",
                 "URL_Video_hosting": "",
                 "URL_con_información_adicional": "",
                 "Basicos": 0.0,
@@ -7379,7 +7346,73 @@
                 "micro_guion_es": "En IsaGIS, optimizamos la planeación de operaciones aéreas con drones utilizando ArcGIS Pro y herramientas especializadas. Nuestro enfoque integral nos permite definir rutas y parámetros operativos precisos, adaptados a tus necesidades. Al finalizar, recibirás un proyecto detallado en ArcGIS Pro, listo para su implementación. ¿Estás listo para llevar tus operaciones aéreas al siguiente nivel?",
                 "Descripcion_Tecnica_Corta": "Servicio de planificación de trabajos de campo en tierra usando tecnologia GIS Mobile"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 238,
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Grupo": "Data Management",
+                "Subgrupo": "Carga de Datos",
+                "Nombre_del_Servicio": "AutoFill AI - Relleno Inteligente de Atributos con IA Generativa",
+                "Clasificación": "Servicio Basico",
+                "Descripción_Técnica_del_Servicio": "AutoFill AI, nuestro servicio innovador de IA generativa diseñado para automatizar el relleno de atributos en tablas GIS con precisión y eficiencia inigualables. Utilizando modelos avanzados de OpenAI (como GPT-4o), este servicio analiza campos existentes en tu tabla —como descripciones, categorías o valores relacionados— para generar contenido inteligente y contextualizado en campos nuevos o vacíos. Imagina transformar datos crudos en insights accionables en segundos: por ejemplo, generar resúmenes concisos, traducciones automáticas, sinónimos enriquecidos o clasificaciones predictivas, todo integrado directamente en tu flujo de trabajo GIS. El modelo permite poner prompts largos y detallados, servicio ideal para procesar tablas con registros de hasta 10 mil lineas y la generación del atributo de la tabla se puede hacer con base a 1 o 2 campos conocidos de la tabla, Aplica por ahora a solo la generación de atributos alfanumericos.",
+                "Detalles_Costo_Base": "El servicio se puede ofrecer para tablas con minimo 10 registros y se cobraria 0.01 Servicios Basico por cada registro de la tabla por 1 campo. Se entregara la tabla en formato excel o en formato GDB.",
+                "Notas_Adicionales": "El cliente debe entregar la tabla con los registros y  con al menos 1 campo diligenciado y adicionalmente un documento con la explicacion del campo que se va a actualizar. Este servicio solo aplica para tablas alfanumericas.",
+                "Tiempo__Dias_habiles_": "1",
+                "Tiempos_de_entrega": "1 dia",
+                "URL_Video_hosting": "",
+                "URL_con_información_adicional": "",
+                "Basicos": 0.01,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "Cuantos registros o filas tiene la tabla?",
+                "Factor_Corrección": 0.01,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "",
+                "Descripcion_Tecnica_Corta": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 239,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "IA Generativa",
+                "Subgrupo": "Mercadeo",
+                "Nombre_del_Servicio": "SocialBoost AI - Estrategia de Marketing y Contenido para Redes Sociales con IA",
+                "Clasificación": "Servicio Básico",
+                "Descripción_Técnica_del_Servicio": "SocialBoost AI es un servicio impulsado por IA generativa que emplea modelos avanzados como GPT para procesar documentos del cliente (detallando negocio, audiencia, dolores, beneficios e historia). El algoritmo diseña estrategias de marketing personalizadas, distribuidas en pilares (ej. inspiración, educación, entretenimiento, venta), y genera contenido para Instagram: específicamente 5 reels (videos cortos de hasta 1:30 minutos, con ganchos, conceptos, descripciones para IA de video y textos) y 5 carruseles (máximo 5 slides cada uno, con títulos, descripciones de slides, imágenes sugeridas y prompts para generación IA). Para cada reel y carrusel, incluye elementos del documento proporcionado (como ganchos, conceptos y textos), más prompts optimizados para herramientas como DALL-E/Midjourney para imágenes o videos. El entregable principal es un documento detallado (ej. DOCX) con el calendario de contenido, descripciones y prompts, acompañado de una tabla de Excel que resume prompts para fácil generación IA, permitiendo automatización, escalabilidad y engagement auténtico sin ventas directas. En IsaGIS, el algoritmo está desarrollado e integrado, asegurando outputs frescos y conectivos.",
+                "Detalles_Costo_Base": "2 servicios básicos cubren la generación de estrategia de marketing segun el alcance de la descripción de 5 reels (videos cortos de no mas de minuto y medio) y 5 carruseles (de maximo 5 slides para cada uno), teniendo los entregables que se describen en la descripcion tecnica del servicio,",
+                "Notas_Adicionales": "El cliente debe entregar un documento con la informaciónd de la empresa, segun plantilla que entrega isagis. Si no tiene toda la informacion de la empresa se debe contratar un serviciio de generacion de plantilla para la ejecución del servicio de Social Boost AI.",
+                "Tiempo__Dias_habiles_": "3",
+                "Tiempos_de_entrega": "3 dias",
+                "URL_Video_hosting": "",
+                "URL_con_información_adicional": "",
+                "Basicos": 2.0,
+                "Intermedios": "",
+                "Avanzados": "",
+                "Pregunta": "Cuantos Social Boost AI desea?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "Revoluciona tu presencia en redes con SocialBoost AI, nuestro servicio de IA generativa que crea estrategias de marketing personalizadas y contenido mensual engaging, basado en pilares como inspiración, educación, entretenimiento y venta. El cliente entrega un documento similar (detallando negocio, clientes, dolores, beneficios e historia), y generamos una tabla de Excel con prompts optimizados para IA, facilitando la creación de reels, carruseles e historias en Instagram. En IsaGIS, hemos desar",
+                "Descripcion_Tecnica_Corta": ""
+            }
         }
     ],
-    "updated_at": "2025-07-21 19:23:14"
+    "updated_at": "2025-07-23 12:16:20"
 }
