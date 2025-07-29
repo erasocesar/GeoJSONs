@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "schema": {
+        "Nombre_Servicio_Combinado": {
+            "type": "String",
+            "length": 255
+        },
+        "Descripción_Técnica_del_Servicio_Combinado": {
+            "type": "String",
+            "length": 3000
+        },
+        "Tipo_de_Servicio": {
+            "type": "String",
+            "length": 255
+        },
+        "Unidades_Basicos_totales": {
+            "type": "Double",
+            "length": null
+        },
+        "Unidades_Intermedias_totales": {
+            "type": "Double",
+            "length": null
+        },
+        "Unidades_Avanzadas_totales": {
+            "type": "Double",
+            "length": null
+        },
+        "Servicios_por_demand_incluidos": {
+            "type": "String",
+            "length": 255
+        },
+        "Sinonimos": {
+            "type": "String",
+            "length": 500
+        },
+        "Objetivo": {
+            "type": "String",
+            "length": 500
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Crear Pagina web Basica con guion e imagenes",
+                "Descripción_Técnica_del_Servicio_Combinado": "Este servicio combinado desarrolla una página web básica utilizando IA para generar contenido interactivo, incluyendo guiones para videos y creación de imágenes personalizadas. Se basa en los servicios sencillos: Desarrollo de Paginas Web con IA (106), Guion (Script) para Videos (52) y Creación de Imágenes (50). El proceso integra propuestas de contenido generadas por IA, guiones adaptados en formato Word y imágenes de alta calidad para presentaciones o videos, asegurando una solución de bajo costo y visualmente atractiva con tecnologías como Esri.",
+                "Tipo_de_Servicio": "Servicio Combinado",
+                "Unidades_Basicos_totales": 2.0,
+                "Unidades_Intermedias_totales": 1.0,
+                "Unidades_Avanzadas_totales": 0.0,
+                "Servicios_por_demand_incluidos": "106, 52, 50",
+                "Sinonimos": "Página Web Sencilla con Contenido IA, Sitio Web Básico con Guion e Ilustraciones, Desarrollo Web Simple con Scripts e Imágenes, Portal Web Inicial con Narrativa y Gráficos, Website Básico con Texto y Visuales Generados",
+                "Objetivo": "Página Web Sencilla con Contenido IA, Sitio Web Básico con Guion e Ilustraciones, Desarrollo Web Simple con Scripts e Imágenes, Portal Web Inicial con Narrativa y Gráficos, Website Básico con Texto y Visuales Generados"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Creación de Videos para Redes Sociales con Avatar",
+                "Descripción_Técnica_del_Servicio_Combinado": "Este servicio combinado crea videos promocionales para redes sociales utilizando avatares narradores generados por IA, integrando guiones, estrategias de mercadeo y desarrollo de videos. Se basa en los servicios sencillos: Avatar programado para narración de Videos (51), Guion (Script) para Videos (52), Desarrollo General de Estrategias de Mercadeo (53) y Videos Promocionales (158). El avatar puede ser público o hiperrealista basado en videos o fotos del cliente, con guiones en Word, hasta 10 estrategias en Excel y videos de hasta 2 minutos usando IA, SIG de Esri y recursos propios.",
+                "Tipo_de_Servicio": "Servicio Combinado",
+                "Unidades_Basicos_totales": 2.0,
+                "Unidades_Intermedias_totales": 1.0,
+                "Unidades_Avanzadas_totales": 0.0,
+                "Servicios_por_demand_incluidos": "51, 52, 53, 158",
+                "Sinonimos": "Videos Sociales con Avatar Narrador, Contenido Audiovisual para RRSS con Personaje IA, Producción de Clips para Redes con Figura Virtual, Videos Promocionales en Social Media con Avatar, Creación de Material Visual para Plataformas con Narrador Digital",
+                "Objetivo": "Videos Sociales con Avatar Narrador, Contenido Audiovisual para RRSS con Personaje IA, Producción de Clips para Redes con Figura Virtual, Videos Promocionales en Social Media con Avatar, Creación de Material Visual para Plataformas con Narrador Digital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control",
+                "Descripción_Técnica_del_Servicio_Combinado": "Este servicio combinado ejecuta misiones autónomas de fotogrametría con drones en doble grilla, incluyendo planeación, recolección de puntos de control, procesamiento y actividades de proyecto. Se basa en los servicios sencillos: Planeación de operaciones aereas usando Drones (101), Recolección de coordenadas de Puntos de Control usando Technología GIS Mobile (39), Construcción de Puntos de Control temporales (40), Procesamiento de Fotogrametria (109), Vuelos Autonomos de drones para fotogrametria por Ha (191), Revision de alcance, Información y KOM del proyecto (64), Preparación HSE Básico de proyectos (65), Compilacion de entregables (67), Creación de documentación o manuales (45), Analisis Técnico de Proyectos GIS o Tecnologia o Ingeniería (48) y Elaboración de PDT o Cronograma de Actividades (49). Utiliza ArcGIS Pro para rutas, puntos de control temporales, vuelos con DJI Phantom 4 Pro fuera de Bogotá, procesamiento por hectárea y gestión de proyecto integral.",
+                "Tipo_de_Servicio": "Servicio Combinado",
+                "Unidades_Basicos_totales": 9.166667,
+                "Unidades_Intermedias_totales": 0.0,
+                "Unidades_Avanzadas_totales": 0.0,
+                "Servicios_por_demand_incluidos": "101, 39, 40, 109, 191, 64, 65, 67, 45, 48, 49",
+                "Sinonimos": "Misiones Aéreas Autónomas con Grilla Doble y Controles, Vuelos Dron Doble Cuadrícula con Puntos de Referencia, Operaciones Fotogramétricas Autónomas con Red Doble y Marcadores, Vuelos Automatizados en Doble Malla con Puntos de Verificación, Mapeo Aéreo Autónomo con Grilla Dual y Controles Terrestres",
+                "Objetivo": "Realizar fotogrametría precisa con drones en misiones autónomas doble grilla, incluyendo planeación, puntos de control y procesamiento para proyectos de ingeniería."
+            }
+        }
+    ],
+    "updated_at": "2025-07-29 10:40:42"
+}
