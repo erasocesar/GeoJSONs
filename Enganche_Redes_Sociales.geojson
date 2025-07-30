@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "schema": {
+        "Keyword_Redes_Sociales": {
+            "type": "String",
+            "length": 255
+        },
+        "Objetivo_promocional": {
+            "type": "String",
+            "length": 255
+        },
+        "Link_Regalo": {
+            "type": "String",
+            "length": 255
+        },
+        "Tipo_Servicio": {
+            "type": "String",
+            "length": 255
+        },
+        "ID_Servicio": {
+            "type": "SmallInteger",
+            "length": null
+        },
+        "Herramienta_n8n": {
+            "type": "String",
+            "length": 255
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Keyword_Redes_Sociales": "",
+                "Objetivo_promocional": "",
+                "Link_Regalo": "",
+                "Tipo_Servicio": "",
+                "ID_Servicio": "",
+                "Herramienta_n8n": ""
+            }
+        }
+    ],
+    "updated_at": "2025-07-30 15:18:08"
+}
