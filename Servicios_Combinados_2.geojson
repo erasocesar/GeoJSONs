@@ -3,7 +3,7 @@
     "schema": {
         "Nombre_Servicio_Combinado": {
             "type": "String",
-            "length": 255
+            "length": 1000
         },
         "Descripción_Técnica_del_Servicio_Combinado": {
             "type": "String",
@@ -25,17 +25,17 @@
             "type": "Double",
             "length": null
         },
-        "Servicios_por_demand_incluidos": {
+        "Servicios_por_demanda_incluidos": {
             "type": "String",
-            "length": 255
+            "length": 1000
         },
         "Sinonimos": {
             "type": "String",
-            "length": 500
+            "length": 1000
         },
         "Objetivo": {
             "type": "String",
-            "length": 500
+            "length": 1000
         }
     },
     "features": [
@@ -55,7 +55,7 @@
                 "Unidades_Basicos_totales": 2.0,
                 "Unidades_Intermedias_totales": 1.0,
                 "Unidades_Avanzadas_totales": 0.0,
-                "Servicios_por_demand_incluidos": "106, 52, 50",
+                "Servicios_por_demanda_incluidos": "106, 52, 50",
                 "Sinonimos": "Página Web Sencilla con Contenido IA, Sitio Web Básico con Guion e Ilustraciones, Desarrollo Web Simple con Scripts e Imágenes, Portal Web Inicial con Narrativa y Gráficos, Website Básico con Texto y Visuales Generados",
                 "Objetivo": "Página Web Sencilla con Contenido IA, Sitio Web Básico con Guion e Ilustraciones, Desarrollo Web Simple con Scripts e Imágenes, Portal Web Inicial con Narrativa y Gráficos, Website Básico con Texto y Visuales Generados"
             }
@@ -76,7 +76,7 @@
                 "Unidades_Basicos_totales": 2.0,
                 "Unidades_Intermedias_totales": 1.0,
                 "Unidades_Avanzadas_totales": 0.0,
-                "Servicios_por_demand_incluidos": "51, 52, 53, 158",
+                "Servicios_por_demanda_incluidos": "51, 52, 53, 158",
                 "Sinonimos": "Videos Sociales con Avatar Narrador, Contenido Audiovisual para RRSS con Personaje IA, Producción de Clips para Redes con Figura Virtual, Videos Promocionales en Social Media con Avatar, Creación de Material Visual para Plataformas con Narrador Digital",
                 "Objetivo": "Videos Sociales con Avatar Narrador, Contenido Audiovisual para RRSS con Personaje IA, Producción de Clips para Redes con Figura Virtual, Videos Promocionales en Social Media con Avatar, Creación de Material Visual para Plataformas con Narrador Digital"
             }
@@ -96,12 +96,33 @@
                 "Tipo_de_Servicio": "Servicio Combinado",
                 "Unidades_Basicos_totales": 9.166667,
                 "Unidades_Intermedias_totales": 0.0,
-                "Unidades_Avanzadas_totales": 0.0,
-                "Servicios_por_demand_incluidos": "101, 39, 40, 109, 191, 64, 65, 67, 45, 48, 49",
+                "Unidades_Avanzadas_totales": 14.0,
+                "Servicios_por_demanda_incluidos": "101, 39, 40, 109, 191, 64, 65, 67, 45, 48, 49",
                 "Sinonimos": "Misiones Aéreas Autónomas con Grilla Doble y Controles, Vuelos Dron Doble Cuadrícula con Puntos de Referencia, Operaciones Fotogramétricas Autónomas con Red Doble y Marcadores, Vuelos Automatizados en Doble Malla con Puntos de Verificación, Mapeo Aéreo Autónomo con Grilla Dual y Controles Terrestres",
                 "Objetivo": "Realizar fotogrametría precisa con drones en misiones autónomas doble grilla, incluyendo planeación, puntos de control y procesamiento para proyectos de ingeniería."
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla Sin Puntos de Control fuera de Bogota (RMSErr=7 metros)",
+                "Descripción_Técnica_del_Servicio_Combinado": "Este servicio combinado ejecuta misiones autónomas de fotogrametría con una doble grilla fuera de Bogotá, logrando una precisión de 7 metros RMSE sin necesidad de puntos de control. Se fundamenta en la planificación de operaciones aéreas utilizando drones (Código 101), lo que permite definir rutas y parámetros operativos de manera eficiente. La revisión de alcance y KOM del proyecto (Código 64) establece las bases del mismo, asegurando que se recopile y analice la documentación necesaria. Además, se contempla la preparación de requisitos básicos de HSE (Código 65), garantizando un manejo adecuado de los aspectos de salud, seguridad y medio ambiente desde el inicio del proyecto. \n\nLa creación de documentación técnica (Código 45) asegura que se generen manuales claros y concisos sobre los productos y procesos implementados. Este servicio también incluye la compilación de entregables (Código 67), que organiza y presenta la información final de manera eficiente. Se integra con el servicio de análisis técnico (Código 48) y elaboración de cronogramas de actividades (Código 49) para facilitar la planificación y ejecución del proyecto. El vuelo se realiza con un dron DJI Phantom 4 Pro, optimizando la captura de datos en terrenos no planos, asegurando resultados precisos y eficientes para diversos proyectos de fotogrametría en áreas fuera de Bogotá.",
+                "Tipo_de_Servicio": "Servicio Combinado",
+                "Unidades_Basicos_totales": 7.83,
+                "Unidades_Intermedias_totales": 0.0,
+                "Unidades_Avanzadas_totales": 0.0,
+                "Servicios_por_demanda_incluidos": "45,48,49,64,65,67,101,109,191",
+                "Sinonimos": "Vuelos Autónomos Doble Red Sin Puntos de Control fuera de Bogotá (RMSErr=7 metros), Vuelos Autónomos Doble Malla Sin Puntos de Control fuera de Bogotá (RMSErr=7 metros), Drones Autónomos Doble Grilla Sin Puntos de Control fuera de Bogotá (RMSErr=7 metros), Vuelos Autónomos Doble Estructura Sin Puntos de Control fuera de Bogotá (RMSErr=7 metros), Vuelos Autónomos Doble Patrón Sin Puntos de Control fuera de Bogotá (RMSErr=7 metros)",
+                "Objetivo": "Optimizar la ejecución de vuelos autónomos mediante una doble grilla sin puntos de control fuera de Bogotá, garantizando una precisión de posicionamiento con un RMSErr de 7 metros, para la recolección eficiente de datos geoespaciales. Este servicio permite realizar misiones aéreas con drones, facilitando la captura de información precisa en áreas de difícil acceso y contribuyendo a la mejora de proyectos de fotogrametría y SIG."
+            }
         }
     ],
-    "updated_at": "2025-07-29 10:40:42"
+    "updated_at": "2025-07-30 09:59:53"
 }
