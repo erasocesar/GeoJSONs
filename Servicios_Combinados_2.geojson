@@ -36,6 +36,10 @@
         "Objetivo": {
             "type": "String",
             "length": 1000
+        },
+        "Link_Info_Promocional": {
+            "type": "String",
+            "length": 500
         }
     },
     "features": [
@@ -57,7 +61,8 @@
                 "Unidades_Avanzadas_totales": 0.0,
                 "Servicios_por_demanda_incluidos": "106, 52, 50",
                 "Sinonimos": "Página Web Sencilla con Contenido IA, Sitio Web Básico con Guion e Ilustraciones, Desarrollo Web Simple con Scripts e Imágenes, Portal Web Inicial con Narrativa y Gráficos, Website Básico con Texto y Visuales Generados",
-                "Objetivo": "Página Web Sencilla con Contenido IA, Sitio Web Básico con Guion e Ilustraciones, Desarrollo Web Simple con Scripts e Imágenes, Portal Web Inicial con Narrativa y Gráficos, Website Básico con Texto y Visuales Generados"
+                "Objetivo": "Página Web Sencilla con Contenido IA, Sitio Web Básico con Guion e Ilustraciones, Desarrollo Web Simple con Scripts e Imágenes, Portal Web Inicial con Narrativa y Gráficos, Website Básico con Texto y Visuales Generados",
+                "Link_Info_Promocional": ""
             }
         },
         {
@@ -78,7 +83,8 @@
                 "Unidades_Avanzadas_totales": 0.0,
                 "Servicios_por_demanda_incluidos": "51, 52, 53, 158",
                 "Sinonimos": "Videos Sociales con Avatar Narrador, Contenido Audiovisual para RRSS con Personaje IA, Producción de Clips para Redes con Figura Virtual, Videos Promocionales en Social Media con Avatar, Creación de Material Visual para Plataformas con Narrador Digital",
-                "Objetivo": "Videos Sociales con Avatar Narrador, Contenido Audiovisual para RRSS con Personaje IA, Producción de Clips para Redes con Figura Virtual, Videos Promocionales en Social Media con Avatar, Creación de Material Visual para Plataformas con Narrador Digital"
+                "Objetivo": "Videos Sociales con Avatar Narrador, Contenido Audiovisual para RRSS con Personaje IA, Producción de Clips para Redes con Figura Virtual, Videos Promocionales en Social Media con Avatar, Creación de Material Visual para Plataformas con Narrador Digital",
+                "Link_Info_Promocional": ""
             }
         },
         {
@@ -99,7 +105,8 @@
                 "Unidades_Avanzadas_totales": 14.0,
                 "Servicios_por_demanda_incluidos": "101, 39, 40, 109, 191, 64, 65, 67, 45, 48, 49",
                 "Sinonimos": "Misiones Aéreas Autónomas con Grilla Doble y Controles, Vuelos Dron Doble Cuadrícula con Puntos de Referencia, Operaciones Fotogramétricas Autónomas con Red Doble y Marcadores, Vuelos Automatizados en Doble Malla con Puntos de Verificación, Mapeo Aéreo Autónomo con Grilla Dual y Controles Terrestres",
-                "Objetivo": "Realizar fotogrametría precisa con drones en misiones autónomas doble grilla, incluyendo planeación, puntos de control y procesamiento para proyectos de ingeniería."
+                "Objetivo": "Realizar fotogrametría precisa con drones en misiones autónomas doble grilla, incluyendo planeación, puntos de control y procesamiento para proyectos de ingeniería.",
+                "Link_Info_Promocional": ""
             }
         },
         {
@@ -120,7 +127,8 @@
                 "Unidades_Avanzadas_totales": 0.0,
                 "Servicios_por_demanda_incluidos": "45,48,49,64,65,67,101,109,191",
                 "Sinonimos": "Vuelos Autónomos Doble Red Sin Puntos de Control fuera de Bogotá (RMSErr=7 metros), Vuelos Autónomos Doble Malla Sin Puntos de Control fuera de Bogotá (RMSErr=7 metros), Drones Autónomos Doble Grilla Sin Puntos de Control fuera de Bogotá (RMSErr=7 metros), Vuelos Autónomos Doble Estructura Sin Puntos de Control fuera de Bogotá (RMSErr=7 metros), Vuelos Autónomos Doble Patrón Sin Puntos de Control fuera de Bogotá (RMSErr=7 metros)",
-                "Objetivo": "Optimizar la ejecución de vuelos autónomos mediante una doble grilla sin puntos de control fuera de Bogotá, garantizando una precisión de posicionamiento con un RMSErr de 7 metros, para la recolección eficiente de datos geoespaciales. Este servicio permite realizar misiones aéreas con drones, facilitando la captura de información precisa en áreas de difícil acceso y contribuyendo a la mejora de proyectos de fotogrametría y SIG."
+                "Objetivo": "Optimizar la ejecución de vuelos autónomos mediante una doble grilla sin puntos de control fuera de Bogotá, garantizando una precisión de posicionamiento con un RMSErr de 7 metros, para la recolección eficiente de datos geoespaciales. Este servicio permite realizar misiones aéreas con drones, facilitando la captura de información precisa en áreas de difícil acceso y contribuyendo a la mejora de proyectos de fotogrametría y SIG.",
+                "Link_Info_Promocional": ""
             }
         },
         {
@@ -141,9 +149,10 @@
                 "Unidades_Avanzadas_totales": 2.0,
                 "Servicios_por_demanda_incluidos": "210,213,214,215,216,218,219,221,222,223,224,225,231",
                 "Sinonimos": "Formación y Seminarios para Esri y sus clientes, Capacitación y Webinars para usuarios de Esri, Talleres y Webinars para clientes de Esri, Sesiones de Capacitación y Webinars para Esri, Cursos y Seminarios para clientes de Esri.",
-                "Objetivo": "El objetivo de \"Capacitaciones y Webinars para Esri y sus clientes\" es proporcionar formación especializada y accesible en el uso de tecnologías GIS, drones e inteligencia artificial, a través de sesiones interactivas y prácticas, que permitan a los participantes adquirir habilidades clave para implementar soluciones innovadoras en sus proyectos y maximizar el aprovechamiento de la plataforma ArcGIS en diversas industrias."
+                "Objetivo": "El objetivo de \"Capacitaciones y Webinars para Esri y sus clientes\" es proporcionar formación especializada y accesible en el uso de tecnologías GIS, drones e inteligencia artificial, a través de sesiones interactivas y prácticas, que permitan a los participantes adquirir habilidades clave para implementar soluciones innovadoras en sus proyectos y maximizar el aprovechamiento de la plataforma ArcGIS en diversas industrias.",
+                "Link_Info_Promocional": ""
             }
         }
     ],
-    "updated_at": "2025-08-04 11:06:34"
+    "updated_at": "2025-08-04 14:11:52"
 }
