@@ -5355,7 +5355,7 @@
                 "Notas_Adicionales": "El cliente debe proporcionar un pre-trazado, participar en un taller para definir criterios de trazado y entregar el GIS Conceptual.",
                 "Tiempo__Dias_habiles_": "5",
                 "Tiempos_de_entrega": "3 - 5 dias",
-                "URL_Video_hosting": "",
+                "URL_Video_hosting": "https://youtu.be/_vuTQrIxFj0",
                 "URL_con_información_adicional": "",
                 "Basicos": 0.0,
                 "Intermedios": 2.0,
@@ -5586,7 +5586,7 @@
                 "Notas_Adicionales": "Pre-trazado entregado por el cliente, taller de definición de criterios y GIS Conceptual.",
                 "Tiempo__Dias_habiles_": "3",
                 "Tiempos_de_entrega": "3 - 5 dias",
-                "URL_Video_hosting": "",
+                "URL_Video_hosting": "https://youtu.be/_vuTQrIxFj0",
                 "URL_con_información_adicional": "",
                 "Basicos": 0.0,
                 "Intermedios": 0.0,
@@ -7414,5 +7414,5 @@
             }
         }
     ],
-    "updated_at": "2025-08-04 11:06:25"
+    "updated_at": "2025-08-04 14:11:44"
 }
