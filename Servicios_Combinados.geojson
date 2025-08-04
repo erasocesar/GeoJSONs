@@ -636,7 +636,293 @@
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Capacitaciones y Webinars para Esri y sus clientes",
+                "Codigo_Servicio_SIG": 224,
+                "Nombre_del_Servicio": "Capacitación básica de ArcGIS  para universidades",
+                "Descripción_Técnica_del_Servici": "Este servicio ofrece webinars o capacitaciones cortas (1 a 2 horas) virtuales que hemos desarrollado sobre distintos temas asociados uso de la plataforma de ArcGIS. Los temas disponibles son: Introduccion al uso de la  plataforma de ArcGIS, diseño de plataformas corporativas, aplicaciones de campo, Data Management, uso de tableros de control, uso de drones y ArcGIS, entre otros.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios SIG",
+                "Grupo": "Capacitación Servicios SIG",
+                "Subgrupo": "Capacitaciones Cortas Servicios SIG",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Capacitaciones y Webinars para Esri y sus clientes",
+                "Codigo_Servicio_SIG": 225,
+                "Nombre_del_Servicio": "Capacitación básica de ArcGIS  para colegios",
+                "Descripción_Técnica_del_Servici": "Este servicio incluye el desarrollo de webinars o capacitaciones cortas (1 a 2 horas), adaptados a la materia del colegio o a la inducción en tecnología SIG, drones e IA. Los contenidos se ajustan a las edades escolares (desde 3er grado hasta el último de secundaria) y pueden incluir temas como uso básico de ArcGIS, orientación en aplicaciones SIG y demostraciones de drones.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios SIG",
+                "Grupo": "Capacitación Servicios SIG",
+                "Subgrupo": "Capacitaciones Cortas Servicios SIG",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Capacitaciones y Webinars para Esri y sus clientes",
+                "Codigo_Servicio_SIG": 231,
+                "Nombre_del_Servicio": "Una Mirada al uso de la Plataforma ArcGIS",
+                "Descripción_Técnica_del_Servici": "Esta es una capacitación corta de tipo teorico, la finalidad es dar a conocer a los participantes: que son los SIG, para que sirven, ventajas, quien es Esri y se muestra un show case de los usos de arcgis en distintas industrias.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios SIG",
+                "Grupo": "Capacitación Servicios SIG",
+                "Subgrupo": "Capacitaciones Cortas Servicios SIG",
+                "Unidades_Basicos": 2.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Capacitaciones y Webinars para Esri y sus clientes",
+                "Codigo_Servicio_SIG": 210,
+                "Nombre_del_Servicio": "Historia Global del Petróleo",
+                "Descripción_Técnica_del_Servici": "Esta es una capacitación virtual de tipo Teórico , sobre la Historia Global del Petroleo, el estudiante aprederia la historia mundial del petroleo usando aplicaciones geográficas. Se pudiera dar acceso al estudiante a la aplicación geográfica por 1 mes, pero la aplicación no se entrega.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de Ingeniería",
+                "Grupo": "Capacitación de Ingeniería de Oil and Gas",
+                "Subgrupo": "Capacitaciones Cortas Oil and Gas",
+                "Unidades_Basicos": 2.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Capacitaciones y Webinars para Esri y sus clientes",
+                "Codigo_Servicio_SIG": 213,
+                "Nombre_del_Servicio": "Top ten de usos de aplicaciones  geográficas, IA y Drones para la industria del petroleo",
+                "Descripción_Técnica_del_Servici": "Esta es una capacitación virtual de tipo Teórico , en la cual se realiza un conteo de los 10 mejor usos de aplicaciones geográficas, IA y Drones en la industria del petroleo",
+                "Area_estrategica_IsaGIS_Technol": "Multidepartamental",
+                "Grupo": "Capacitación Multidepartamental",
+                "Subgrupo": "Capacitaciones Cortas Multidepartamental",
+                "Unidades_Basicos": 2.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Capacitaciones y Webinars para Esri y sus clientes",
+                "Codigo_Servicio_SIG": 214,
+                "Nombre_del_Servicio": "Usos de Drones en la industria de Oil and Gas",
+                "Descripción_Técnica_del_Servici": "Esta es una capacitación virtual de tipo Teórico , sobre los usos de drones en la industria del petroleo",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de Ingeniería",
+                "Grupo": "Capacitación de Ingeniería de Oil and Gas",
+                "Subgrupo": "Capacitaciones Cortas Oil and Gas",
+                "Unidades_Basicos": 2.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Capacitaciones y Webinars para Esri y sus clientes",
+                "Codigo_Servicio_SIG": 215,
+                "Nombre_del_Servicio": "Webinar Proyectos Smart para Areas de Producción",
+                "Descripción_Técnica_del_Servici": "Esta es una capacitación virtual de tipo Teórico , sobre Los proyectos SMART son prediseños de plataformas geoespaciales que integran el uso de Drones, IA y GIS, este curso o webinar muestra el para que de la implementación de un proyecto SMART para la produccion de hidrocarburos",
+                "Area_estrategica_IsaGIS_Technol": "Multidepartamental",
+                "Grupo": "Capacitación Multidepartamental",
+                "Subgrupo": "Capacitaciones Cortas Multidepartamental",
+                "Unidades_Basicos": 2.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Capacitaciones y Webinars para Esri y sus clientes",
+                "Codigo_Servicio_SIG": 216,
+                "Nombre_del_Servicio": "Webinar teorico virtual sobre Metodologia Integrada Drones y ArcGIS en puntos especificos para la mejora de datos secundarios o abiertos para el diseño de gasoductos",
+                "Descripción_Técnica_del_Servici": "Con este curso los estudiantes de las empresas aprenderian la implementación de la Metodologia Integrada Drones y ArcGIS en puntos especificos para la mejora de datos secundarios o abiertos para el diseño de gasoductos, ideal para ingenierias conceptuales en el diseño de gasoductos y oleoductos y usando las tecnología GIS Mobile de Esri para la recolección de datos en tierra, ArcGIS Pro para planear la misión y ArcGIS Full Motion Video para presentar los resultados y mejorar el diseño del gasoducto u oleoducto. Se usara un proyecto de IsaGIS como ejemplo. Es 100% teórica y virtual, no incluye ejercicios practicos para que los estudiantes hagan. Si esto se requiere se pudiera agregar un servicio de dia de práctica en pista de drones y adicionalmente un servicio de ejercicios prácticos usando ArcGIS.  Maximo 10 participantes en el webinar.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de Ingeniería",
+                "Grupo": "Capacitación de Ingeniería de Oil and Gas",
+                "Subgrupo": "Capacitaciones Cortas Oil and Gas",
+                "Unidades_Basicos": 0.0,
+                "Unidades_Intermedias": 3.0,
+                "Unidades_Avanzadas": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Capacitaciones y Webinars para Esri y sus clientes",
+                "Codigo_Servicio_SIG": 218,
+                "Nombre_del_Servicio": "Honorarios de profesional experto en misiones autonomas para dictar práctica de misiones de drones en pista de drones o infraestructura del cliente",
+                "Descripción_Técnica_del_Servici": "Este servicio se pudiera adicionar a algunos servicios de capacitacion virtuales para complementar y hacer prácticas de misiones de drones en una pista de UAVs. Consiste en el pago del profesional de IsaGIS Technologies para dictar las prácticas de vuelos de drones, que pudieran ser en la pista de drones del partner de IsaGIS o en las instalaciones del cliente siempre y cuando se cumplan con los requerimientos tecnicos y legales para dictar este tipo de capacitaciones de drones. Este servicio se dictaria con el uso de un Drone Phantom 4 pro, se pudieran usar las aeronaves del cliente.  Este servicio no incluye el traslado de los participantes a la pista de drones.",
+                "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo",
+                "Grupo": "Servicios de Drones",
+                "Subgrupo": "Capacitaciones Prácticas Operaciones de Campo",
+                "Unidades_Basicos": 0.0,
+                "Unidades_Intermedias": 1.0,
+                "Unidades_Avanzadas": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Capacitaciones y Webinars para Esri y sus clientes",
+                "Codigo_Servicio_SIG": 219,
+                "Nombre_del_Servicio": "Honorarios de profesional experto para ejecutar 1 hora de  práctica usando la tecnología SIG de Esri",
+                "Descripción_Técnica_del_Servici": "Este servicio se debe adicionar  cuando una capacitacion virtuales tiene partes  practicas de uso de ArcGIS. Consiste en el pago del profesional de IsaGIS Technologies para dictar las prácticas del uso de cualquier producto de ArcGIS por hora. No incluye el licenciamiento de ArcGIS para el curso, para esto se debe incluir el Servicio \"Licenciamiento de ArcGIS Personal Use para capacitaciones prácticas\".",
+                "Area_estrategica_IsaGIS_Technol": "Servicios SIG",
+                "Grupo": "Capacitación Servicios SIG",
+                "Subgrupo": "Capacitaciones Prácticas Servicios SIG",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Capacitaciones y Webinars para Esri y sus clientes",
+                "Codigo_Servicio_SIG": 221,
+                "Nombre_del_Servicio": "Taller Teórico Practico de fotogrametria y vuelos autonomos usando tecnología SIG de Esri",
+                "Descripción_Técnica_del_Servici": "Es te servicio consiste en cubrir los honorarios del profesional que dictara el Taller Teórico Practico de fotogrametria y vuelos autonomos usando tecnología SIG de Esri.  \n\nLa capacitación que se propone tendrá unas horas teóricas y otras prácticas, divido en dos grandes partes: una en que los participantes aprendan aspectos importantes de la industria de las aeronaves no tripuladas, aspectos básicos para la toma de videos y fotografías aéreas y en la 2da parte sobre las tecnologías de software existentes para realizar vuelos autónomos y procesar productos fotogramétricos de alta y mediana precisión. \n\nLos drones que se utilizaran son cuadricopteros y el sensor RGB, por tal motivo los productos fotogramétricos que se procesaran son: Ortofotomosaico, Modelos 3D y Modelos Digitales de Superficie. En cuanto a la precisión se dará la capacitación de cómo construir y usar Puntos de Control en tierra para que puedan ser usados en productos fotogramétricos de alta precisión.",
+                "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo",
+                "Grupo": "Servicios de Drones",
+                "Subgrupo": "Capacitaciones Prácticas Operaciones de Campo",
+                "Unidades_Basicos": 0.0,
+                "Unidades_Intermedias": 1.0,
+                "Unidades_Avanzadas": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Capacitaciones y Webinars para Esri y sus clientes",
+                "Codigo_Servicio_SIG": 222,
+                "Nombre_del_Servicio": "Drones Inteligentes Aplicaciones de IA y Aprendizaje Automático",
+                "Descripción_Técnica_del_Servici": "Es te servicio consiste en cubrir los honorarios del profesional que dictara la capacitación denominada: Drones Inteligentes Aplicaciones de IA y Aprendizaje Automático, esta grandiosa capacitación se dictaria con tecnología SIG de Esri usando varios story maps, tableros de control, ArcGIS Pro y algoritmos de Deep Learning.\n\nIdeal para que las empresas tengan una idea global de los avances de la Inteligencia Artificial en la actualidad y como esta se integra a drones. \n\nLa capacitación que se propone tendrá 8 horas teoricas y sera virtual, pudiera dividirse en 2 sesiones de 4 horas o como disponga el cliente.\n\nEl contenido del curso teórico es el siguiente: \n\n- Introducción a la Inteligencia Artificial y Drones (Que es, un showcase de usos,  Historia de la IA, Clasificaciones) \n- Términos, diciplinas y tipos de Aplicaciones de la IA\n- Machine Learning o Aprendizaje Automático (subcategorías, elementos y conceptos importantes)\n- Inteligencia Artificial aplicada a Aeronaves No Tripuladas (Usos generales de la IA en Drones, Machine Learning para drones (técnicas clásicas y aprendizaje profundo), entrenamiento de algoritmos)\n- Integración de Drones, IA y ArcGIS\n- Como se implementa la IA en Drones.\n- Conclusiones, recomendaciones y Futuro de la IA y Drones. \n\n",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "Capacitación IA",
+                "Subgrupo": "Capacitaciones Largas IA ",
+                "Unidades_Basicos": 0.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Capacitaciones y Webinars para Esri y sus clientes",
+                "Codigo_Servicio_SIG": 223,
+                "Nombre_del_Servicio": "Introducción a la Inteligencia Artificial y Drones (Que es, un showcase de usos,  Historia de la IA, Clasificaciones)",
+                "Descripción_Técnica_del_Servici": "Es te servicio consiste en cubrir los honorarios del profesional que dictara la capacitación denominada: Introducción a la Inteligencia Artificial y Drones (Que es, un showcase de usos,  Historia de la IA, Clasificaciones) , esta grandiosa capacitación se dictaria con tecnología SIG de Esri usando varios story maps y  tableros de control.\n\nIdeal para que las empresas tengan una idea global de los avances de la Inteligencia Artificial en la actualidad y como esta se integra a drones. \n\nLa capacitación que se propone tendrá 2 horas teoricas y sera virtual.\n\nEl contenido del curso teórico es el siguiente: \n\n- Que es la Inteligencia Artificial\n- Usos de la IA\n- Historia de la IA y Drones\n- Tipos de IA\n- Eras de la IA ",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "Capacitación IA",
+                "Subgrupo": "Capacitaciones Cortas IA",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0
+            }
         }
     ],
-    "updated_at": "2025-07-30 15:18:11"
+    "updated_at": "2025-08-04 11:06:32"
 }
