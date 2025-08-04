@@ -122,7 +122,28 @@
                 "Sinonimos": "Vuelos Autónomos Doble Red Sin Puntos de Control fuera de Bogotá (RMSErr=7 metros), Vuelos Autónomos Doble Malla Sin Puntos de Control fuera de Bogotá (RMSErr=7 metros), Drones Autónomos Doble Grilla Sin Puntos de Control fuera de Bogotá (RMSErr=7 metros), Vuelos Autónomos Doble Estructura Sin Puntos de Control fuera de Bogotá (RMSErr=7 metros), Vuelos Autónomos Doble Patrón Sin Puntos de Control fuera de Bogotá (RMSErr=7 metros)",
                 "Objetivo": "Optimizar la ejecución de vuelos autónomos mediante una doble grilla sin puntos de control fuera de Bogotá, garantizando una precisión de posicionamiento con un RMSErr de 7 metros, para la recolección eficiente de datos geoespaciales. Este servicio permite realizar misiones aéreas con drones, facilitando la captura de información precisa en áreas de difícil acceso y contribuyendo a la mejora de proyectos de fotogrametría y SIG."
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Capacitaciones y Webinars para Esri y sus clientes",
+                "Descripción_Técnica_del_Servicio_Combinado": "El servicio \"Capacitaciones y Webinars para Esri y sus clientes\" tiene como objetivo proporcionar formación especializada en el uso de la plataforma ArcGIS y tecnologías asociadas, facilitando el aprendizaje a través de diversas modalidades de capacitación virtual. Este servicio combina una serie de webinars y capacitaciones cortas, que abarcan desde introducciones básicas hasta aplicaciones más avanzadas en el contexto de Sistemas de Información Geográfica (SIG), drones e inteligencia artificial (IA).\n\nEntre los servicios incluidos se encuentran: Capacitación básica de ArcGIS para universidades (Código 224), que ofrece una introducción a temas como diseño de plataformas y gestión de datos; Capacitación básica de ArcGIS para colegios (Código 225), adaptada a niveles educativos; y \"Una Mirada al uso de la Plataforma ArcGIS\" (Código 231), que presenta los beneficios de los SIG en diversas industrias. También se abordan aplicaciones específicas en la industria del petróleo a través de capacitaciones sobre la Historia Global del Petróleo (Código 210) y los usos de drones en este sector (Código 214).\n\nLos cursos se estructuran en formatos teóricos y prácticos, permitiendo que los participantes adquieran conocimientos aplicables en proyectos reales. Se incluyen sesiones sobre proyectos SMART (Código 215) y metodologías integradas de drones y ArcGIS (Código 216), así como capacitaciones sobre el uso de IA y aprendizaje automático en drones (Código 222). Este enfoque integral asegura que tanto profesionales como estudiantes puedan maximizar su potencial en el uso de tecnologías geoespaciales, promoviendo la innovación y la eficiencia en sus respectivos campos.",
+                "Tipo_de_Servicio": "Servicio Combinado",
+                "Unidades_Basicos_totales": 14.0,
+                "Unidades_Intermedias_totales": 5.0,
+                "Unidades_Avanzadas_totales": 2.0,
+                "Servicios_por_demanda_incluidos": "210,213,214,215,216,218,219,221,222,223,224,225,231",
+                "Sinonimos": "Formación y Seminarios para Esri y sus clientes, Capacitación y Webinars para usuarios de Esri, Talleres y Webinars para clientes de Esri, Sesiones de Capacitación y Webinars para Esri, Cursos y Seminarios para clientes de Esri.",
+                "Objetivo": "El objetivo de \"Capacitaciones y Webinars para Esri y sus clientes\" es proporcionar formación especializada y accesible en el uso de tecnologías GIS, drones e inteligencia artificial, a través de sesiones interactivas y prácticas, que permitan a los participantes adquirir habilidades clave para implementar soluciones innovadoras en sus proyectos y maximizar el aprovechamiento de la plataforma ArcGIS en diversas industrias."
+            }
         }
     ],
-    "updated_at": "2025-07-30 15:18:12"
+    "updated_at": "2025-08-04 11:06:34"
 }
