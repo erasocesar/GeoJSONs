@@ -141,18 +141,40 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Capacitaciones y Webinars para Esri y sus clientes",
-                "Descripción_Técnica_del_Servicio_Combinado": "El servicio \"Capacitaciones y Webinars para Esri y sus clientes\" tiene como objetivo proporcionar formación especializada en el uso de la plataforma ArcGIS y tecnologías asociadas, facilitando el aprendizaje a través de diversas modalidades de capacitación virtual. Este servicio combina una serie de webinars y capacitaciones cortas, que abarcan desde introducciones básicas hasta aplicaciones más avanzadas en el contexto de Sistemas de Información Geográfica (SIG), drones e inteligencia artificial (IA).\n\nEntre los servicios incluidos se encuentran: Capacitación básica de ArcGIS para universidades (Código 224), que ofrece una introducción a temas como diseño de plataformas y gestión de datos; Capacitación básica de ArcGIS para colegios (Código 225), adaptada a niveles educativos; y \"Una Mirada al uso de la Plataforma ArcGIS\" (Código 231), que presenta los beneficios de los SIG en diversas industrias. También se abordan aplicaciones específicas en la industria del petróleo a través de capacitaciones sobre la Historia Global del Petróleo (Código 210) y los usos de drones en este sector (Código 214).\n\nLos cursos se estructuran en formatos teóricos y prácticos, permitiendo que los participantes adquieran conocimientos aplicables en proyectos reales. Se incluyen sesiones sobre proyectos SMART (Código 215) y metodologías integradas de drones y ArcGIS (Código 216), así como capacitaciones sobre el uso de IA y aprendizaje automático en drones (Código 222). Este enfoque integral asegura que tanto profesionales como estudiantes puedan maximizar su potencial en el uso de tecnologías geoespaciales, promoviendo la innovación y la eficiencia en sus respectivos campos.",
+                "Nombre_Servicio_Combinado": "Capacitaciones Cortas para Promocionar la Tecnologia SIG de Esri",
+                "Descripción_Técnica_del_Servicio_Combinado": "Este servicio combinado ofrece capacitaciones cortas diseñadas para promover la tecnología SIG de Esri, enfocándose en su aplicación práctica y teórica en diversas industrias. Incluye sesiones como \"Una Mirada al uso de la Plataforma ArcGIS\" (Código 231), que introduce a los participantes en los conceptos fundamentales de los SIG y su relevancia en el entorno actual. También se abordan temáticas específicas como la \"Historia Global del Petróleo\" (Código 210) y \"Historia Colombiana del Petróleo\" (Código 211), que utilizan aplicaciones geográficas para ilustrar el impacto de los SIG en la industria petrolera.\n\nLas capacitaciones se complementan con el \"Top ten de usos de aplicaciones geográficas, IA y Drones para la industria del petróleo\" (Código 213) y \"Usos de Drones en la industria de Oil and Gas\" (Código 214), que destacan las tendencias actuales en la integración de tecnologías avanzadas. Además, se ofrece un \"Webinar sobre Proyectos Smart para Áreas de Producción\" (Código 215) y un curso sobre \"Metodología Integrada Drones y ArcGIS\" (Código 216), que enfatizan el uso de drones y análisis geoespaciales en la optimización de procesos.\n\nEl servicio también permite la inclusión de prácticas guiadas con profesionales expertos (Código 218 y 219), asegurando que los participantes no solo comprendan la teoría, sino que también adquieran experiencia práctica en el uso de la tecnología SIG de Esri. Estas capacitaciones están diseñadas para ser accesibles y eficaces, con un enfoque en resultados aplicables en el campo.",
                 "Tipo_de_Servicio": "Servicio Combinado",
                 "Unidades_Basicos_totales": 14.0,
-                "Unidades_Intermedias_totales": 5.0,
+                "Unidades_Intermedias_totales": 4.0,
+                "Unidades_Avanzadas_totales": 0.0,
+                "Servicios_por_demanda_incluidos": "210,211,213,214,215,216,218,219,223,231",
+                "Sinonimos": "Capacitaciones Breves para Difundir la Tecnología SIG de Esri, Talleres Cortos sobre la Tecnología SIG de Esri, Cursos Rápidos para Promover la Tecnología SIG de Esri, Sesiones Cortas para Fomentar el Uso de la Tecnología SIG de Esri, Capacitación Express en Tecnología SIG de Esri",
+                "Objetivo": "El objetivo de las \"Capacitaciones Cortas para Promocionar la Tecnología SIG de Esri\" es proporcionar a los participantes una comprensión fundamental de los Sistemas de Información Geográfica, sus aplicaciones y beneficios en diversas industrias, a través de sesiones teóricas que destacan la plataforma ArcGIS y sus herramientas. Esto busca empoderar a los profesionales con conocimientos prácticos sobre la integración de la tecnología SIG en sus procesos, fomentando la innovación y la eficiencia en la toma de decisiones geoespaciales.",
+                "Link_Info_Promocional": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Capacitaciones Largas para dictarlas en conjunto a Esri Colombia",
+                "Descripción_Técnica_del_Servicio_Combinado": "El servicio \"Capacitaciones Largas para dictarlas en conjunto a Esri Colombia\" tiene como propósito ofrecer formaciones extensivas en el ámbito de la fotogrametría y el uso de drones, integrando tecnología SIG de Esri. Esta capacitación combina dos talleres fundamentales: el \"Taller Teórico Práctico de Fotogrametría y Vuelos Autónomos usando Tecnología SIG de Esri\" (Código 221) y \"Drones Inteligentes: Aplicaciones de IA y Aprendizaje Automático\" (Código 222).\n\nEl taller de fotogrametría abarca tanto aspectos teóricos como prácticos, enfocándose en la industria de aeronaves no tripuladas, técnicas de captura de imágenes aéreas, y el uso de puntos de control para alcanzar alta precisión en productos fotogramétricos, tales como ortofotomosaicos y modelos 3D. Los participantes aprenderán a operar cuadricópteros equipados con sensores RGB, enfatizando la importancia de la correcta planificación y ejecución de vuelos autónomos.\n\nPor otro lado, el curso sobre Drones Inteligentes introduce a los asistentes en el uso de la inteligencia artificial y el aprendizaje automático en el contexto de drones, utilizando herramientas de ArcGIS Pro y story maps. Se explorarán conceptos clave de IA, su aplicación en aeronaves no tripuladas, y cómo se integran estas tecnologías en soluciones SIG.\n\nAmbas capacitaciones promueven un aprendizaje integral que permite a los participantes adquirir habilidades prácticas y teóricas, preparándolos para afrontar retos en el uso de drones y tecnologías SIG, y fomentando la innovación a través de la inteligencia artificial en sus proyectos.",
+                "Tipo_de_Servicio": "Servicio Combinado",
+                "Unidades_Basicos_totales": 0.0,
+                "Unidades_Intermedias_totales": 1.0,
                 "Unidades_Avanzadas_totales": 2.0,
-                "Servicios_por_demanda_incluidos": "210,213,214,215,216,218,219,221,222,223,224,225,231",
-                "Sinonimos": "Formación y Seminarios para Esri y sus clientes, Capacitación y Webinars para usuarios de Esri, Talleres y Webinars para clientes de Esri, Sesiones de Capacitación y Webinars para Esri, Cursos y Seminarios para clientes de Esri.",
-                "Objetivo": "El objetivo de \"Capacitaciones y Webinars para Esri y sus clientes\" es proporcionar formación especializada y accesible en el uso de tecnologías GIS, drones e inteligencia artificial, a través de sesiones interactivas y prácticas, que permitan a los participantes adquirir habilidades clave para implementar soluciones innovadoras en sus proyectos y maximizar el aprovechamiento de la plataforma ArcGIS en diversas industrias.",
+                "Servicios_por_demanda_incluidos": "221,222",
+                "Sinonimos": "Capacitación Extendida en Colaboración con Esri Colombia, Formación Prolongada en Asociación con Esri Colombia, Cursos Amplios en Conjunto con Esri Colombia, Talleres Extensivos junto a Esri Colombia, Capacitación Integral en Alianza con Esri Colombia",
+                "Objetivo": "El objetivo de las \"Capacitaciones Largas para dictarlas en conjunto a Esri Colombia\" es proporcionar formación integral y especializada en el uso de tecnologías SIG y drones, combinando teoría y práctica para capacitar a los participantes en fotogrametría, vuelos autónomos y aplicaciones de inteligencia artificial, asegurando así un aprendizaje profundo y aplicado que impulse la innovación y eficiencia en sus respectivas industrias.",
                 "Link_Info_Promocional": "Aun no tiene Video o Imagen Promocional"
             }
         }
     ],
-    "updated_at": "2025-08-04 16:47:19"
+    "updated_at": "2025-08-04 18:46:46"
 }
