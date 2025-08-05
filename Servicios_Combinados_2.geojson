@@ -194,7 +194,7 @@
                 "Servicios_por_demanda_incluidos": "251,252,261",
                 "Sinonimos": "Asistente de Atención al Cliente Básico, Agente de Soporte Informativo Básico, Asesor de Atención al Cliente Inicial, Representante de Información al Cliente Básico, Consultor de Atención al Cliente Fundamental",
                 "Objetivo": "El objetivo del servicio \"Agente de Atención al Cliente Informativo Básico\" es proporcionar a los usuarios un asistente virtual accesible que responda de manera efectiva a preguntas frecuentes, ofrezca información relevante sobre productos y servicios, y mejore la experiencia del cliente en plataformas digitales, todo ello sin necesidad de herramientas externas, facilitando así la integración y optimización del servicio al cliente.",
-                "Link_Info_Promocional": ""
+                "Link_Info_Promocional": "Aun no tiene Video o Imagen Promocional"
             }
         },
         {
@@ -216,7 +216,7 @@
                 "Servicios_por_demanda_incluidos": "240,244,251,252,253,254,259,263,266,267",
                 "Sinonimos": "Asistente de Soporte al Cliente Informativo Intermedio integrado a Pinecone, Representante de Atención al Cliente Informativo Intermedio vinculado a Pinecone, Facilitador de Atención al Cliente Informativo Intermedio conectado a Pinecone, Consultor de Atención al Cliente Informativo Intermedio asociado a Pinecone, Operador de Atención al Cliente Informativo Intermedio integrado a Pinecone",
                 "Objetivo": "El objetivo del \"Agente de Atención al Cliente Informativo Intermedio integrado a Pinecone\" es proporcionar una solución automatizada que facilite la atención al cliente mediante un agente de IA capaz de realizar búsquedas semánticas en bases de datos vectoriales, como Pinecone. Este agente ofrecerá respuestas contextualizadas y precisas a las consultas de los usuarios, mejorando la experiencia del cliente y optimizando la gestión de información relevante, todo ello integrado en un flujo de trabajo eficiente que potencie la interacción y satisfacción del usuario.",
-                "Link_Info_Promocional": ""
+                "Link_Info_Promocional": "Aun no tiene Video o Imagen Promocional"
             }
         },
         {
@@ -238,7 +238,7 @@
                 "Servicios_por_demanda_incluidos": "220,241,244,251,252,253,254,259,263,266,267",
                 "Sinonimos": "Asistente de Atención al Cliente Informativo Integrado a ArcGIS, Agente de Soporte al Cliente Informativo Intermedio en ArcGIS, Asistente Informativo de Atención al Cliente Integrado a ArcGIS, Agente de Información al Cliente Integrado en ArcGIS, Soporte Informativo al Cliente Integrado a ArcGIS",
                 "Objetivo": "El objetivo del servicio \"Agente Atención al Cliente Informativo Intermedio integrado a ArcGIS\" es proporcionar una solución automatizada que combina la inteligencia artificial con capacidades geoespaciales, permitiendo a los usuarios acceder a información crítica y asistencia en tiempo real a través de plataformas digitales. Este agente informativo está diseñado para interactuar de manera efectiva con los clientes, ofreciendo respuestas precisas y contextualizadas, integrando datos geográficos de ArcGIS para mejorar la toma de decisiones y optimizar la atención al cliente en diversos sectores.",
-                "Link_Info_Promocional": ""
+                "Link_Info_Promocional": "Aun no tiene Video o Imagen Promocional"
             }
         },
         {
@@ -260,7 +260,7 @@
                 "Servicios_por_demanda_incluidos": "220,240,241,242,243,244,252,253,254,259,263,266,267",
                 "Sinonimos": "Agente de Ventas Prospectivo e Informativo Básico con integración a ArcGIS, Github y Pinecone, Asistente Comercial Prospectivo e Informativo Básico integrado con ArcGIS, Github y Pinecone, Solución de Ventas Prospectiva e Informativa Básica conectada a ArcGIS, Github y Pinecone, Sistema de Ventas Prospectivo e Informativo Básico integrado a ArcGIS, Github y Pinecone, Agente de Ventas Básico Prospectivo y de Información con integración a ArcGIS, Github y Pinecone",
                 "Objetivo": "El objetivo del \"Agente Ventas (Prospectivo y Informativo) Básico integrado a ArcGIS, Github y Pinecone\" es proporcionar una solución automatizada que optimice los procesos de prospección y ventas, integrando capacidades geoespaciales y de búsqueda semántica. Este agente inteligente guiará a los clientes potenciales a través de interacciones personalizadas y contextualizadas, utilizando datos geográficos y vectoriales para ofrecer respuestas precisas y relevantes, mejorando así la conversión y la eficiencia en la gestión de ventas.",
-                "Link_Info_Promocional": ""
+                "Link_Info_Promocional": "Aun no tiene Video o Imagen Promocional"
             }
         },
         {
@@ -282,7 +282,7 @@
                 "Servicios_por_demanda_incluidos": "220,240,241,242,243,244,247,252,253,254,255,259,263,266,268",
                 "Sinonimos": "Agente de Ventas Prospectivo e Informativo Intermedio conectado a ArcGIS, Github y Pinecone, Asistente de Ventas (Prospectivo e Informativo) Intermedio integrado con ArcGIS, Github y Pinecone, Representante de Ventas (Prospectivo e Informativo) Intermedio vinculado a ArcGIS, Github y Pinecone, Agente Comercial (Prospectivo e Informativo) Intermedio asociado a ArcGIS, Github y Pinecone, Consultor de Ventas (Prospectivo e Informativo) Intermedio enlazado a ArcGIS, Github y Pinecone",
                 "Objetivo": "El objetivo del servicio \"Agente Ventas (Prospectivo e Informativo) Intermedio integrado a ArcGIS, Github y Pinecone\" es potenciar los procesos de ventas mediante la automatización de interacciones personalizadas con clientes potenciales, utilizando inteligencia artificial para guiar conversaciones estratégicas. Este agente integra datos geoespaciales de ArcGIS, información almacenada en Github y capacidades de búsqueda semántica de Pinecone, permitiendo respuestas contextualizadas y enriquecidas, optimizando la prospección y mejorando la conversión de leads en ventas efectivas.",
-                "Link_Info_Promocional": ""
+                "Link_Info_Promocional": "Aun no tiene Video o Imagen Promocional"
             }
         },
         {
@@ -304,9 +304,9 @@
                 "Servicios_por_demanda_incluidos": "220,240,241,242,243,244,245,246,247,248,249,252,253,254,255,256,259,263,266,268",
                 "Sinonimos": "Agente de Ventas Prospectivo e Informativo Avanzado con Integración a ArcGIS, Github y Pinecone, Asistente Comercial Prospectivo e Informativo Avanzado Integrado a ArcGIS, Github y Pinecone, Agente de Ventas Avanzado con Conexión a ArcGIS, Github y Pinecone, Asistente de Ventas Prospectivo e Informativo Avanzado Integrado a ArcGIS, Github y Pinecone, Agente Comercial Prospectivo y Informativo Avanzado Integrado a ArcGIS, Github y Pinecone",
                 "Objetivo": "El objetivo del servicio \"Agente Ventas (Prospectivo e Informativo) Avanzado integrado a ArcGIS, Github y Pinecone\" es proporcionar una solución integral que optimice el proceso de ventas mediante la automatización inteligente de interacciones con clientes potenciales. Al integrar herramientas avanzadas como ArcGIS para análisis geoespacial, Github para gestión de datos y Pinecone para búsquedas semánticas, el agente es capaz de ofrecer información contextual y relevante, guiando a los usuarios a través de flujos conversacionales efectivos que mejoran la conversión y la experiencia del cliente.",
-                "Link_Info_Promocional": ""
+                "Link_Info_Promocional": "Aun no tiene Video o Imagen Promocional"
             }
         }
     ],
-    "updated_at": "2025-08-05 15:58:48"
+    "updated_at": "2025-08-05 16:01:21"
 }
