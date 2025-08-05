@@ -61,8 +61,8 @@
                 ]
             },
             "properties": {
-                "Subgrupo": "Agentes de IA",
-                "Sinonimos_Subgrupo": "Agentes inteligentes; IA autónoma; Intelligent agents; Bots de IA; Agentes cognitivos",
+                "Subgrupo": "Agentes IA",
+                "Sinonimos_Subgrupo": "Agentes inteligentes; IA autónoma; Intelligent agents; Bots de IA; Agentes cognitivos; Automatización n8n; Módulo n8n",
                 "topK": 2,
                 "Filtro": "Subgrupo:Agentes de IA"
             }
@@ -1108,5 +1108,5 @@
             }
         }
     ],
-    "updated_at": "2025-08-04 18:46:49"
+    "updated_at": "2025-08-05 15:58:51"
 }
