@@ -174,7 +174,139 @@
                 "Objetivo": "El objetivo de las \"Capacitaciones Largas para dictarlas en conjunto a Esri Colombia\" es proporcionar formación integral y especializada en el uso de tecnologías SIG y drones, combinando teoría y práctica para capacitar a los participantes en fotogrametría, vuelos autónomos y aplicaciones de inteligencia artificial, asegurando así un aprendizaje profundo y aplicado que impulse la innovación y eficiencia en sus respectivas industrias.",
                 "Link_Info_Promocional": "Aun no tiene Video o Imagen Promocional"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Agente de Atención al Cliente Informativo Basico",
+                "Descripción_Técnica_del_Servicio_Combinado": "El \"Agente de Atención al Cliente Informativo Básico\" es un servicio combinado que proporciona asistencia automatizada a usuarios mediante un agente de inteligencia artificial diseñado para responder preguntas frecuentes y ofrecer información clave sobre productos y servicios. Este servicio se basa en la integración de varias capacidades, incluyendo el \"Bot Informativo Web (SPM)\" (Código 251), que actúa como un asistente virtual accesible en sitios web sin necesidad de herramientas externas o bases de datos, asegurando una experiencia fluida para los usuarios. Además, el servicio incluye el \"Licenciamiento de Plataforma n8n\" (Código 252), que permite la gestión y provisión del licenciamiento necesario para ejecutar agentes IA, ya sea en una instancia autogestionada o en la nube, garantizando un entorno operativo eficiente. También se contempla el \"Licenciamiento y Configuración de 1 Cuenta de Desarrolladores de OpenAI\" (Código 261), que facilita la integración de modelos avanzados de IA para enriquecer las interacciones del agente. Este servicio combinado está diseñado para ser fácil de implementar y escalar, proporcionando a las empresas una solución efectiva para mejorar la atención al cliente y optimizar la comunicación con los usuarios.",
+                "Tipo_de_Servicio": "Servicio Combinado",
+                "Unidades_Basicos_totales": 2.5,
+                "Unidades_Intermedias_totales": 1.0,
+                "Unidades_Avanzadas_totales": 0.0,
+                "Servicios_por_demanda_incluidos": "251,252,261",
+                "Sinonimos": "Asistente de Atención al Cliente Básico, Agente de Soporte Informativo Básico, Asesor de Atención al Cliente Inicial, Representante de Información al Cliente Básico, Consultor de Atención al Cliente Fundamental",
+                "Objetivo": "El objetivo del servicio \"Agente de Atención al Cliente Informativo Básico\" es proporcionar a los usuarios un asistente virtual accesible que responda de manera efectiva a preguntas frecuentes, ofrezca información relevante sobre productos y servicios, y mejore la experiencia del cliente en plataformas digitales, todo ello sin necesidad de herramientas externas, facilitando así la integración y optimización del servicio al cliente.",
+                "Link_Info_Promocional": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Agente de Atención al Cliente Informativo Intermedio integrado a Pinecone",
+                "Descripción_Técnica_del_Servicio_Combinado": "El \"Agente de Atención al Cliente Informativo Intermedio integrado a Pinecone\" es un servicio combinado que proporciona una solución avanzada de atención al cliente mediante inteligencia artificial, optimizando la interacción con los usuarios a través de un sistema robusto que integra múltiples módulos. Este servicio permite la implementación de un bot informativo que responde preguntas frecuentes y entrega información clave sobre productos y servicios, utilizando la infraestructura del \"Bot Informativo Web (Código 251)\" y garantizando una atención automatizada y accesible.\n\nLa integración con \"Pinecone (Código 254)\" permite al agente realizar búsquedas semánticas en grandes volúmenes de información, lo que enriquece las respuestas y mejora la experiencia del usuario. Además, se incluye el \"Módulo de Integración Básico a Cal.com (Código 267)\", facilitando la gestión de agendamiento de reuniones y disponibilidad, lo que es ideal para empresas que requieren coordinar citas de manera eficiente.\n\nEl servicio también contempla el \"Plan Integral de Mantenimiento para Agentes IA con Múltiples Módulos (Código 259)\", asegurando un monitoreo activo y actualizaciones regulares para mantener el rendimiento óptimo del sistema. Esto se complementa con la \"Configuración Inicial de Cuenta Cal.com (Código 266)\" y \"Licenciamiento de Plataforma n8n (Código 252)\" para garantizar una implementación fluida.\n\nEste agente no solo actúa como un punto de contacto informativo, sino que también se adapta continuamente a las necesidades del cliente, convirtiéndose en una herramienta esencial para la atención al cliente moderna.",
+                "Tipo_de_Servicio": "Servicio Combinado",
+                "Unidades_Basicos_totales": 9.5,
+                "Unidades_Intermedias_totales": 3.0,
+                "Unidades_Avanzadas_totales": 0.0,
+                "Servicios_por_demanda_incluidos": "240,244,251,252,253,254,259,263,266,267",
+                "Sinonimos": "Asistente de Soporte al Cliente Informativo Intermedio integrado a Pinecone, Representante de Atención al Cliente Informativo Intermedio vinculado a Pinecone, Facilitador de Atención al Cliente Informativo Intermedio conectado a Pinecone, Consultor de Atención al Cliente Informativo Intermedio asociado a Pinecone, Operador de Atención al Cliente Informativo Intermedio integrado a Pinecone",
+                "Objetivo": "El objetivo del \"Agente de Atención al Cliente Informativo Intermedio integrado a Pinecone\" es proporcionar una solución automatizada que facilite la atención al cliente mediante un agente de IA capaz de realizar búsquedas semánticas en bases de datos vectoriales, como Pinecone. Este agente ofrecerá respuestas contextualizadas y precisas a las consultas de los usuarios, mejorando la experiencia del cliente y optimizando la gestión de información relevante, todo ello integrado en un flujo de trabajo eficiente que potencie la interacción y satisfacción del usuario.",
+                "Link_Info_Promocional": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Agente Atencion al Cliente Informativo Intermedio integrado a ArcGIS",
+                "Descripción_Técnica_del_Servicio_Combinado": "El servicio \"Agente Atención al Cliente Informativo Intermedio integrado a ArcGIS\" proporciona una solución avanzada de atención al cliente mediante un agente de inteligencia artificial que integra funcionalidades geoespaciales a través de ArcGIS. Este servicio combina varios módulos especializados para ofrecer una experiencia interactiva y eficiente al usuario final.\n\nEl servicio incluye el \"Módulo de Integración Básico a Cal.com para Reuniones Virtuales o Presenciales\" (Código 267), que permite gestionar el agendamiento de reuniones, asegurando la disponibilidad y la automatización en la reserva. También incorpora el \"Módulo de Conexión a un Servicio Web de ArcGIS\" (Código 241), que facilita la conexión con servicios geoespaciales en tiempo real, permitiendo a los agentes consultar y visualizar datos geográficos relevantes para mejorar la atención al cliente.\n\nAdicionalmente, el \"Bot Informativo Web (SPM)\" (Código 251) se integra para responder preguntas frecuentes y proporcionar información clave de manera autónoma, mejorando la accesibilidad a los servicios ofrecidos. El servicio se complementa con el \"Licenciamiento de ArcGIS Personal Use para capacitaciones prácticas\" (Código 220), habilitando el uso de herramientas avanzadas de ArcGIS en la formación del personal.\n\nEste enfoque integral asegura una atención al cliente proactiva, permitiendo la interacción a través de múltiples canales y la gestión eficaz de consultas en tiempo real, optimizando la experiencia del usuario y la operatividad del negocio.",
+                "Tipo_de_Servicio": "Servicio Combinado",
+                "Unidades_Basicos_totales": 12.5,
+                "Unidades_Intermedias_totales": 3.0,
+                "Unidades_Avanzadas_totales": 0.0,
+                "Servicios_por_demanda_incluidos": "220,241,244,251,252,253,254,259,263,266,267",
+                "Sinonimos": "Asistente de Atención al Cliente Informativo Integrado a ArcGIS, Agente de Soporte al Cliente Informativo Intermedio en ArcGIS, Asistente Informativo de Atención al Cliente Integrado a ArcGIS, Agente de Información al Cliente Integrado en ArcGIS, Soporte Informativo al Cliente Integrado a ArcGIS",
+                "Objetivo": "El objetivo del servicio \"Agente Atención al Cliente Informativo Intermedio integrado a ArcGIS\" es proporcionar una solución automatizada que combina la inteligencia artificial con capacidades geoespaciales, permitiendo a los usuarios acceder a información crítica y asistencia en tiempo real a través de plataformas digitales. Este agente informativo está diseñado para interactuar de manera efectiva con los clientes, ofreciendo respuestas precisas y contextualizadas, integrando datos geográficos de ArcGIS para mejorar la toma de decisiones y optimizar la atención al cliente en diversos sectores.",
+                "Link_Info_Promocional": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Agente Ventas (Prospectivo y Informativo) Basico integrado a ArcGIS, Github y Pinecone",
+                "Descripción_Técnica_del_Servicio_Combinado": "El servicio \"Agente Ventas (Prospectivo y Informativo) Básico integrado a ArcGIS, Github y Pinecone\" está diseñado para optimizar los procesos de ventas mediante la automatización de interacciones con clientes potenciales. Este agente inteligente utiliza un Sistema de Preguntas y Mensajes (SPM) prospectivo para guiar a los usuarios a través de flujos conversacionales, facilitando la conversión de prospectos en clientes. La integración con Pinecone (Código 240) permite realizar búsquedas semánticas en grandes volúmenes de información, proporcionando respuestas contextualizadas y enriquecidas, lo que mejora la experiencia del usuario.\n\nAdemás, el agente se conecta a servicios web de ArcGIS (Código 241), permitiendo la consulta y visualización de datos geoespaciales en tiempo real, lo que es crucial para organizaciones que operan en sectores donde la localización es un factor clave. La capacidad de integrar datos en formato GeoJSON desde Github (Código 242) facilita el acceso a información geográfica, optimizando la toma de decisiones basadas en datos espaciales.\n\nEl servicio también se apoya en el Módulo de Integración de Agentes IA con WhatsApp o Telegram (Código 244), permitiendo la comunicación directa con los usuarios a través de canales populares de mensajería, lo que amplía el alcance y la accesibilidad del agente. Con el respaldo de un Plan Integral de Mantenimiento para Agentes IA (Código 259), se asegura un rendimiento óptimo mediante monitoreo y actualizaciones regulares.\n\nEn conjunto, este servicio combina inteligencia artificial, geolocalización y conectividad a plataformas de mensajería para ofrecer una solución integral que potencia las capacidades comerciales de las organizaciones.",
+                "Tipo_de_Servicio": "Servicio Combinado",
+                "Unidades_Basicos_totales": 14.5,
+                "Unidades_Intermedias_totales": 3.0,
+                "Unidades_Avanzadas_totales": 1.0,
+                "Servicios_por_demanda_incluidos": "220,240,241,242,243,244,252,253,254,259,263,266,267",
+                "Sinonimos": "Agente de Ventas Prospectivo e Informativo Básico con integración a ArcGIS, Github y Pinecone, Asistente Comercial Prospectivo e Informativo Básico integrado con ArcGIS, Github y Pinecone, Solución de Ventas Prospectiva e Informativa Básica conectada a ArcGIS, Github y Pinecone, Sistema de Ventas Prospectivo e Informativo Básico integrado a ArcGIS, Github y Pinecone, Agente de Ventas Básico Prospectivo y de Información con integración a ArcGIS, Github y Pinecone",
+                "Objetivo": "El objetivo del \"Agente Ventas (Prospectivo y Informativo) Básico integrado a ArcGIS, Github y Pinecone\" es proporcionar una solución automatizada que optimice los procesos de prospección y ventas, integrando capacidades geoespaciales y de búsqueda semántica. Este agente inteligente guiará a los clientes potenciales a través de interacciones personalizadas y contextualizadas, utilizando datos geográficos y vectoriales para ofrecer respuestas precisas y relevantes, mejorando así la conversión y la eficiencia en la gestión de ventas.",
+                "Link_Info_Promocional": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Agente Ventas (Prospectivo e Informativo) Intermedio integrado a ArcGIS, Github y Pinecone",
+                "Descripción_Técnica_del_Servicio_Combinado": "El servicio \"Agente Ventas (Prospectivo e Informativo) Intermedio integrado a ArcGIS, Github y Pinecone\" optimiza los procesos de prospección y ventas a través de la automatización inteligente y la integración de tecnologías avanzadas. Este agente inteligente combina la funcionalidad de un Sistema de Preguntas y Mensajes (SPM) prospectivo (Código 243), que guía a los clientes potenciales con preguntas estratégicas, con módulos de conexión a bases de datos vectoriales como Pinecone (Código 240), permitiendo búsquedas semánticas y respuestas contextualizadas.\n\nLa integración con ArcGIS (Código 241) facilita el acceso y la actualización en tiempo real de información geoespacial, lo cual es crucial para personalizar las interacciones de ventas basadas en datos geográficos. Además, el uso de tablas GeoJSON alojadas en Github (Código 242) permite la visualización y análisis de datos geográficos en entornos ligeros, mejorando la toma de decisiones.\n\nEl servicio también incluye la automatización de reuniones mediante el Módulo de Integración Avanzada a Cal.com (Código 268), que gestiona la disponibilidad y programación de citas, así como la interacción con plataformas de mensajería como WhatsApp y Telegram (Código 244) para una atención al cliente más efectiva.\n\nEste enfoque integral permite a las organizaciones escalar sus procesos de ventas mediante inteligencia artificial, garantizando una experiencia de usuario fluida y eficiente, y maximizando el valor de sus datos mediante una integración efectiva de herramientas como ArcGIS, Pinecone y Github.",
+                "Tipo_de_Servicio": "Servicio Combinado",
+                "Unidades_Basicos_totales": 14.5,
+                "Unidades_Intermedias_totales": 5.0,
+                "Unidades_Avanzadas_totales": 1.0,
+                "Servicios_por_demanda_incluidos": "220,240,241,242,243,244,247,252,253,254,255,259,263,266,268",
+                "Sinonimos": "Agente de Ventas Prospectivo e Informativo Intermedio conectado a ArcGIS, Github y Pinecone, Asistente de Ventas (Prospectivo e Informativo) Intermedio integrado con ArcGIS, Github y Pinecone, Representante de Ventas (Prospectivo e Informativo) Intermedio vinculado a ArcGIS, Github y Pinecone, Agente Comercial (Prospectivo e Informativo) Intermedio asociado a ArcGIS, Github y Pinecone, Consultor de Ventas (Prospectivo e Informativo) Intermedio enlazado a ArcGIS, Github y Pinecone",
+                "Objetivo": "El objetivo del servicio \"Agente Ventas (Prospectivo e Informativo) Intermedio integrado a ArcGIS, Github y Pinecone\" es potenciar los procesos de ventas mediante la automatización de interacciones personalizadas con clientes potenciales, utilizando inteligencia artificial para guiar conversaciones estratégicas. Este agente integra datos geoespaciales de ArcGIS, información almacenada en Github y capacidades de búsqueda semántica de Pinecone, permitiendo respuestas contextualizadas y enriquecidas, optimizando la prospección y mejorando la conversión de leads en ventas efectivas.",
+                "Link_Info_Promocional": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Agente Ventas (Prospectivo e Informativo) Avanzado integrado a ArcGIS, Github y Pinecone",
+                "Descripción_Técnica_del_Servicio_Combinado": "Este servicio combinado, \"Agente Ventas (Prospectivo e Informativo) Avanzado integrado a ArcGIS, Github y Pinecone\", está diseñado para optimizar procesos de prospección y ventas mediante la automatización de flujos conversacionales. Utiliza el Agente Inteligente de Ventas (Código 243), que guía a clientes potenciales con un enfoque comercial, integrando respuestas estratégicas y conectores a bases de datos vectoriales como Pinecone (Código 254) para búsquedas semánticas contextualizadas. La integración con servicios web de ArcGIS (Código 241) permite acceder a información geoespacial en tiempo real, mientras que la conexión a tablas GeoJSON alojadas en Github (Código 242) facilita el uso de datos geográficos en flujos automatizados.\n\nEl servicio incluye el Licenciamiento de Plataformas CRM con API (Código 256), asegurando que el agente pueda actualizar información en sistemas de gestión de relaciones con clientes, y la implementación de módulos avanzados para gestión de reuniones (Código 268) y comunicación multicanal (Código 244) a través de plataformas como WhatsApp y Telegram. Además, se contempla un Plan Integral de Mantenimiento para Agentes IA (Código 259), garantizando el funcionamiento óptimo del sistema, y la Calibración del Módulo de Agente IA (Código 263) para personalizar su desempeño según las necesidades del cliente.\n\nEste enfoque integral permite a las organizaciones escalar sus procesos de ventas con inteligencia artificial, asegurando interacciones más efectivas y personalizadas con los prospectos.",
+                "Tipo_de_Servicio": "Servicio Combinado",
+                "Unidades_Basicos_totales": 17.5,
+                "Unidades_Intermedias_totales": 8.0,
+                "Unidades_Avanzadas_totales": 1.0,
+                "Servicios_por_demanda_incluidos": "220,240,241,242,243,244,245,246,247,248,249,252,253,254,255,256,259,263,266,268",
+                "Sinonimos": "Agente de Ventas Prospectivo e Informativo Avanzado con Integración a ArcGIS, Github y Pinecone, Asistente Comercial Prospectivo e Informativo Avanzado Integrado a ArcGIS, Github y Pinecone, Agente de Ventas Avanzado con Conexión a ArcGIS, Github y Pinecone, Asistente de Ventas Prospectivo e Informativo Avanzado Integrado a ArcGIS, Github y Pinecone, Agente Comercial Prospectivo y Informativo Avanzado Integrado a ArcGIS, Github y Pinecone",
+                "Objetivo": "El objetivo del servicio \"Agente Ventas (Prospectivo e Informativo) Avanzado integrado a ArcGIS, Github y Pinecone\" es proporcionar una solución integral que optimice el proceso de ventas mediante la automatización inteligente de interacciones con clientes potenciales. Al integrar herramientas avanzadas como ArcGIS para análisis geoespacial, Github para gestión de datos y Pinecone para búsquedas semánticas, el agente es capaz de ofrecer información contextual y relevante, guiando a los usuarios a través de flujos conversacionales efectivos que mejoran la conversión y la experiencia del cliente.",
+                "Link_Info_Promocional": ""
+            }
         }
     ],
-    "updated_at": "2025-08-04 18:46:46"
+    "updated_at": "2025-08-05 15:58:48"
 }
