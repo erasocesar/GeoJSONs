@@ -6835,8 +6835,8 @@
                 "Subgrupo": "Licenciamiento",
                 "Nombre_del_Servicio": "Licenciamiento de ArcGIS Personal Use para capacitaciones prácticas",
                 "Clasificación": "Servicio Intermedio, Servicio Básico",
-                "Descripción_Técnica_del_Servicio": "Este servicio inlcuye la activación de un licenciamiento de 1 licencia de ArcGIS Personal Use que quedaria a nombre del cliente. Este servicio puede ser utilizado en cursos que tengan una parte práctica en donde se debe usar las herramientas que se incluyen en este licenciamiento. Este servicio incluye la instalación en 1 maquina de modo virtual, es decir, tomando el control de la maquina. Si se requiere traslado a las oficinas del cliente se agregarias servicios de logistica.",
-                "Detalles_Costo_Base": "Equivale a 1 unidad de Servicio Intermedio y 1 unidad  de Servicio SIG Básico. Se pudiera presencial pero habria que agregar costos de logistica.  El licenciamiento quedaria a nombre del participante del curso.",
+                "Descripción_Técnica_del_Servicio": "Este servicio inlcuye la activación de un licenciamiento de 1 licencia de ArcGIS Personal Use por el primer año y que quedaria a nombre del cliente. Este servicio puede ser utilizado en cursos que tengan una parte práctica en donde se debe usar las herramientas que se incluyen en este licenciamiento y tambien pudiera darse cuando se requiera operacion de aplicaciones desarrolladas usando ArcGIS. Este servicio incluye la instalación en 1 maquina de modo virtual, es decir, tomando el control de la maquina. Si se requiere traslado a las oficinas del cliente se agregarias servicios de logistica.",
+                "Detalles_Costo_Base": "Equivale a 1 unidad de Servicio Intermedio y 1 unidad  de Servicio SIG Básico. Este se paga anualmente, los gieuientes años los cubriria el cliente. Se pudiera presencial pero habria que agregar costos de logistica.  El licenciamiento quedaria a nombre del participante del curso o aplicacion en donde se va a utilizar y esto tambien incluye la configuración de la Licencia, pero no capacitacion en el uso",
                 "Notas_Adicionales": "Solicitud formal del servicio, confirmando que es virtual el servicio. Pudiera ser presencial, pero se tendria que agregar servicios de logistica, dependiendo de la ubicación del cliente.",
                 "Tiempo__Dias_habiles_": "0,25",
                 "Tiempos_de_entrega": "2 Horas",
@@ -6845,11 +6845,11 @@
                 "Basicos": 1.0,
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
-                "Pregunta": "",
+                "Pregunta": "Cuantos Usuarios desea tener?",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 220,
                 "micro_guion_es": "En IsaGIS, activamos tu licencia de ArcGIS Personal Use, permitiendo que nuestros cursos sean verdaderamente prácticos. Con esta herramienta, podrás aplicar lo aprendido directamente en tu proyecto. Además, ofrecemos la instalación de software de manera virtual para tu comodidad. ¿Estás listo para transformar tu aprendizaje en resultados tangibles?",
-                "Descripcion_Tecnica_Corta": "El servicio ofrece una licencia de ArcGIS Personal Use para el cliente, con instalación virtual en una máquina. Ideal para cursos prácticos. Se puede incluir logística para traslado."
+                "Descripcion_Tecnica_Corta": "El servicio ofrece una licencia de ArcGIS Personal Use para el cliente, con instalación virtual en una máquina. Ideal para cursos práctico,"
             }
         },
         {
@@ -7048,72 +7048,6 @@
                 "Codig_Nuevo": 226,
                 "micro_guion_es": "En nuestro Curso Teórico para el diseño de Gasoductos, utilizamos la metodología integrada de SIG e Ingeniería de IsaGIS, junto con herramientas avanzadas como drones y sistemas de información geográfica. Al finalizar, obtendremos un diseño completo de gasoducto, alineado con la norma ASME B31.8. ¿Estás listo para llevar tus habilidades al siguiente nivel?",
                 "Descripcion_Tecnica_Corta": "Curso teórico-práctico de 2 días sobre diseño de gasoductos, basado en ASME B31.8 y utilizando tecnología SIG, drones e IA. Disponible online o presencial (con costo adicional)."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Nro": 229,
-                "Area_IsaGIS_Technologies": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes de IA",
-                "Nombre_del_Servicio": "Set up de Agentes de IA (Reservar Citas, Marketing y Contenido, Ventas, Atencion al Cliente)",
-                "Clasificación": "Servicio Avanzado",
-                "Descripción_Técnica_del_Servicio": "Un empleado digital que pueda ejecutar actividades virtuales humanas de las 4 areas",
-                "Detalles_Costo_Base": "3 Unidades de Servicios Avanzados",
-                "Notas_Adicionales": "Datos de tu negocio",
-                "Tiempo__Dias_habiles_": "10",
-                "Tiempos_de_entrega": "10 dias",
-                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
-                "URL_con_información_adicional": "",
-                "Basicos": 0.0,
-                "Intermedios": 0.0,
-                "Avanzados": 3.0,
-                "Pregunta": "",
-                "Factor_Corrección": 1.0,
-                "Codig_Nuevo": 229,
-                "micro_guion_es": "En IsaGIS, transformamos la manera en que trabajamos con nuestro servicio de Set up de Agentes de IA. Con herramientas como ChatGPT y Zapier, creamos un empleado digital que optimiza la gestión de Reservas, Marketing y Atención al Cliente. El resultado: un flujo de trabajo más ágil y eficiente. ¿Listos para llevar su negocio al siguiente nivel?",
-                "Descripcion_Tecnica_Corta": "Un empleado digital puede realizar tareas virtuales en cuatro áreas clave, optimizando procesos y mejorando la eficiencia en diversas actividades humanas."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Nro": 230,
-                "Area_IsaGIS_Technologies": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes de IA",
-                "Nombre_del_Servicio": "Mantenimiento mensual del Agente de IA",
-                "Clasificación": "Servicio Básico",
-                "Descripción_Técnica_del_Servicio": "Mantener el agente de IA dar soporte mensual al cliente",
-                "Detalles_Costo_Base": "3 Unidades Basicas",
-                "Notas_Adicionales": "Dar acceso al Agente de IA o tener las creadenciales del cliente",
-                "Tiempo__Dias_habiles_": "5 ",
-                "Tiempos_de_entrega": "5 dias",
-                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
-                "URL_con_información_adicional": "",
-                "Basicos": 3.0,
-                "Intermedios": 0.0,
-                "Avanzados": 0.0,
-                "Pregunta": "",
-                "Factor_Corrección": 1.0,
-                "Codig_Nuevo": 230,
-                "micro_guion_es": "En IsaGIS, nuestro servicio de Mantenimiento mensual del Agente de IA asegura que tu herramienta de análisis siga funcionando de manera óptima. Utilizamos potentes softwares de monitoreo y optimización para brindarte un soporte constante. Al final del mes, recibirás un informe completo con mejoras y recomendaciones. ¿Estás listo para potenciar tu inteligencia artificial y maximizar su rendimiento?",
-                "Descripcion_Tecnica_Corta": "El agente de IA proporciona soporte mensual al cliente, asegurando asistencia continua y actualizada hasta octubre de 2023."
             }
         },
         {
@@ -7412,7 +7346,832 @@
                 "micro_guion_es": "Revoluciona tu presencia en redes con SocialBoost AI, nuestro servicio de IA generativa que crea estrategias de marketing personalizadas y contenido mensual engaging, basado en pilares como inspiración, educación, entretenimiento y venta. El cliente entrega un documento similar (detallando negocio, clientes, dolores, beneficios e historia), y generamos una tabla de Excel con prompts optimizados para IA, facilitando la creación de reels, carruseles e historias en Instagram. En IsaGIS, hemos desar",
                 "Descripcion_Tecnica_Corta": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 240,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Agentes IA",
+                "Nombre_del_Servicio": "Módulo de Conexión a Pinecone",
+                "Clasificación": "",
+                "Descripción_Técnica_del_Servicio": "Este módulo permite ampliar las capacidades de agentes de IA desarrollados con n8n, habilitando la conexión a bases de datos vectoriales como Pinecone. Con esta integración, el agente puede realizar búsquedas semánticas en documentos o registros almacenados, permitiendo respuestas contextualizadas y enriquecidas. El módulo es ideal para escenarios donde se requiere memoria de largo plazo o interpretación de grandes volúmenes de información. Puede integrarse con bots existentes o futuros desarrollos de IA dentro del ecosistema IsaGIS. Tambien el servicio incluye la configuracion de una cuenta de Pinecone, si es que el cliente no la tiene.",
+                "Detalles_Costo_Base": "La conexion y configuracion de una vector database de Pinecone (1 index)  y se cubre con 1 unidad de Servicio Intermedio. Esto incluye la conexion automatica a bases de datos que pudieran estar en google sheets, Servicios Web de ArcGIS y GDB de ArcGIS, si es otro formato habria que evaluar la conexion automatica a esa base de datos. No incluye la configuracion de un sistema automatico entre la base de datos y el index de Pinecone, si esto se requiere se debe contratar el servicio adicional llamado: Implementación de sistema automático de integración de Base de Datos de ArcGIS con Pinecone.",
+                "Notas_Adicionales": "El cliente debe proporcionar acceso a la cuenta de Pinecone, estructura de datos vectoriales (embedding) ya cargada o archivos/documentos para vectorizar, y especificar qué campos desea consultar desde el agente IA. Tambien e servicio incluye la configuración de una cuenta de Pinecone del Cliente, pero teniendo en cuenta los REQUISITOS DE LICENCIAMIENTO: cuenta activa en Pinecone con suscripción apropiada; instancia funcional de n8n (self-hosted o en nube); si se usa versión cloud, contar con plan profesional. ",
+                "Tiempo__Dias_habiles_": "1.5",
+                "Tiempos_de_entrega": "1.5 dias",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "",
+                "Basicos": 0.0,
+                "Intermedios": 1.0,
+                "Avanzados": 0.0,
+                "Pregunta": "Cuantas Vector Database quisieras conectar?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "",
+                "Descripcion_Tecnica_Corta": "Extensión para agentes IA que permite conexión con bases de datos vectoriales como Pinecone para búsquedas semánticas."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 241,
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Agentes IA",
+                "Nombre_del_Servicio": "Módulo de Conexión a un Servicio Web de ArcGIS",
+                "Clasificación": "",
+                "Descripción_Técnica_del_Servicio": "Este módulo permite conectar aplicaciones, dashboards o agentes inteligentes con servicios web publicados en la plataforma ArcGIS Online o ArcGIS Enterprise. La conexión puede ser a capas de entidades (Feature Services), mapas web, imágenes, geoprocesos o cualquier otro recurso REST. Este servicio es clave para lograr la integración geoespacial de sistemas o asistentes que requieren consultar, visualizar o actualizar información geográfica en tiempo real.",
+                "Detalles_Costo_Base": "2 unidades de Servicio Básico, cubren la implementación de un modulo que extrae informacion de hasta 3 servicio web de ArcGIS Online o ArcGIS Server, Los modulos pudieran consumir multiples servicios web y se cobraria por servicio web.",
+                "Notas_Adicionales": "El cliente debe proporcionar: URL de los servicios web de ArcGIS, credenciales de acceso (si aplica), estructura de atributos relevantes y tipo de operación deseada (consulta, edición, etc.).\n\nREQUISITOS DE LICENCIAMIENTO: instancia funcional de n8n (self-hosted o en nube); si se usa versión cloud, contar con plan profesional y asicionalmente debe tener 1 licenciamiento de ArcGIS activo que puede ser ArcGIS Online o ArcGIS Server.",
+                "Tiempo__Dias_habiles_": "1",
+                "Tiempos_de_entrega": "2 dias",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "",
+                "Basicos": 2.0,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "Cuantos Modulos extraccion de Servicios Web de ArcGIS desea implementar?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "",
+                "Descripcion_Tecnica_Corta": "Conexión de aplicaciones o bots a servicios web de ArcGIS (Online o Enterprise) para consumir datos geográficos."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 242,
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Agentes IA",
+                "Nombre_del_Servicio": "Módulo de Conexión a hasta 3 Tablas GeoJSON alojadas en Github",
+                "Clasificación": "",
+                "Descripción_Técnica_del_Servicio": "Este módulo permite integrar tablas o datos en formato GeoJSON dentro de aplicaciones personalizadas, agentes de IA o flujos automatizados. Facilita la lectura, interpretación y visualización de información geográfica contenida en estructuras GeoJSON, permitiendo su uso en dashboards, bots o scripts de análisis espacial. El módulo puede consumir GeoJSON estáticos o publicados mediante enlaces URL, ideal para proyectos ligeros o entornos sin infraestructura GIS robusta. EL Geojson debe estar alojado en Github.",
+                "Detalles_Costo_Base": "2 unidades de Servicio Básico, cubren la implementacion de un modulo que extrae informacion de hasta 3 tablas de GeoJSON desde Github.",
+                "Notas_Adicionales": "El cliente debe suministrar: archivo o URL del GeoJSON alojado en Github, estructura de los atributos, definición del propósito de uso (consulta, visualización, análisis, etc.).\nREQUISITOS DE LICENCIAMIENTO: instancia funcional de n8n (self-hosted o en nube); si se usa versión cloud, contar con plan profesional; Contar con la cuenta de  Github donde esta alojada la tabla GeoJSON, previamente configurada. Se pudiera adquiriri un Sistema de ArcGIS que permita administrar la tablas en un GDB y sincronizarlas a Github.",
+                "Tiempo__Dias_habiles_": "1",
+                "Tiempos_de_entrega": "1 dia",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "",
+                "Basicos": 2.0,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "Cuantos Modulos de extraccion de datos de GeoJSON en Github desea Implementar?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "",
+                "Descripcion_Tecnica_Corta": "Módulo que permite leer y usar tablas en formato GeoJSON dentro de aplicaciones o flujos automatizados con enfoque geoespacial."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 243,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Agentes IA",
+                "Nombre_del_Servicio": "Agente Inteligente de Ventas (SPM Prospectivo + Conectores IA)",
+                "Clasificación": "",
+                "Descripción_Técnica_del_Servicio": "Este agente inteligente está diseñado para apoyar procesos de prospección y ventas mediante la automatización de flujos conversacionales con enfoque comercial. Integra un SPM (Sistema de Preguntas y Mensajes) prospectivo, entrenado para guiar a clientes potenciales a través de preguntas estratégicas y respuestas orientadas a la conversión. El agente se potencia mediante conectores a servicios externos como bases de datos vectoriales (Pinecone), servicios web de ArcGIS y GeoJSON, permitiéndole extraer información contextual de portafolios, territorios o necesidades específicas del cliente. Ideal para organizaciones que buscan escalar sus procesos de ventas con inteligencia artificial y automatización personalizada.",
+                "Detalles_Costo_Base": "1 unidad de Servicio Avanzado, cubre la implementación del modulo avanzado Agente Inteligente de Ventas (SPM Prospectivo + Conectores IA), para solo 1 portafolio de negocios de 1 empresa.",
+                "Notas_Adicionales": "El cliente debe proporcionar: definición de servicios/productos a vender, perfil de cliente objetivo, estructura de respuestas clave, y acceso a las fuentes de datos (Pinecone, GeoJSON, ArcGIS u otros) que se usarán para alimentar el flujo de ventas.\n\nREQUISITOS DE LICENCIAMIENTO: instancia funcional de n8n (self-hosted o en nube); si se usa versión cloud, contar con plan profesional.",
+                "Tiempo__Dias_habiles_": "3",
+                "Tiempos_de_entrega": "3 dias",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "",
+                "Basicos": 0.0,
+                "Intermedios": 0.0,
+                "Avanzados": 1.0,
+                "Pregunta": "Cuantos portafolio de productos quieres implementar?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "",
+                "Descripcion_Tecnica_Corta": "Agente IA con SPM prospectivo, diseñado para ventas automatizadas y alimentado con conectores de datos geográficos y vectoriales."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 244,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Agentes IA",
+                "Nombre_del_Servicio": "Módulo de Integración de Agentes IA con WhatsApp o Telegram",
+                "Clasificación": "",
+                "Descripción_Técnica_del_Servicio": "Este módulo permite la integración de agentes inteligentes desarrollados con n8n o plataformas equivalentes con canales de mensajería como WhatsApp y Telegram. Facilita la interacción directa con usuarios finales a través de estas plataformas, permitiendo extender flujos conversacionales, atención automatizada, ventas o soporte en tiempo real. El módulo configura los webhooks y autenticaciones necesarias para habilitar la mensajería bidireccional, y puede conectarse a bots ya existentes o agentes nuevos desarrollados por IsaGIS.",
+                "Detalles_Costo_Base": "2 unidades de Servicio Básicos, cubren la implementación de 1 modulo de Agentes de IA que se integre a WhatsApp o Telegram, que posea 1 solo numero de celular y es a Whats app o Telegram",
+                "Notas_Adicionales": "El cliente debe definir el canal deseado (WhatsApp o Telegram), crear la cuenta oficial asociada y pagar las licencias o servicios de terceros requeridos (ej. API de Twilio, Meta Cloud API, etc.) para operar en entorno de producción. También debe proveer credenciales o accesos a dichos servicios.\n\nREQUISITOS DE LICENCIAMIENTO: El API de Twilio, Meta Cloud API o similar para canal WhatsApp/Telegram; instancia funcional de n8n (self-hosted o en nube); si se usa versión cloud, contar con plan profesional.",
+                "Tiempo__Dias_habiles_": "2",
+                "Tiempos_de_entrega": "2 dias",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "",
+                "Basicos": 2.0,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "Cuantas Modulos de whatapp o telegram con 1 lineas deseas implementar?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "",
+                "Descripcion_Tecnica_Corta": "Extensión que conecta agentes IA con canales de mensajería como WhatsApp o Telegram para interacción directa con usuarios."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 245,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Agentes IA",
+                "Nombre_del_Servicio": "Módulo de envio masivo de emails en frio",
+                "Clasificación": "",
+                "Descripción_Técnica_del_Servicio": "Este módulo permite que un agente inteligente pueda enviar y recibir correos electrónicos como parte de sus flujos automatizados. Ideal para notificaciones, respuestas automáticas o envío de informes personalizados. Compatible con servicios como Gmail, Outlook, SMTP y IMAP mediante integraciones en n8n.",
+                "Detalles_Costo_Base": "2 unidades de servicios Básicos, cubre la implementación del 1 Modulo de Agentes IA de envio de Correos en frio. Este servicio cubre el envio de emails proveniente de 1 email de la empresa.",
+                "Notas_Adicionales": "El cliente debe proporcionar las credenciales y configuración del servidor de correo (SMTP/IMAP) y aceptar el uso de servicios de terceros, cuya licencia o suscripción debe ser asumida por el cliente.\n\nREQUISITOS DE LICENCIAMIENTO: cuenta de correo electrónico habilitada con acceso IMAP/SMTP y configuraciones de seguridad; instancia funcional de n8n (self-hosted o en nube); si se usa versión cloud, contar con plan profesional.",
+                "Tiempo__Dias_habiles_": "1",
+                "Tiempos_de_entrega": "1 dia",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "",
+                "Basicos": 2.0,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "Cuantos Modulos de Agentes de IA de envio de Correos en frio se desean implementar?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "",
+                "Descripcion_Tecnica_Corta": "Conecta agentes IA con servicios de correo electrónico para enviar, recibir o automatizar flujos de comunicación."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 246,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Agentes IA",
+                "Nombre_del_Servicio": "Módulo de Conexión de Agentes IA a CRM",
+                "Clasificación": "",
+                "Descripción_Técnica_del_Servicio": "Este módulo permite que un agente IA consulte, cree o actualice información directamente en plataformas CRM como HubSpot, Zoho, Salesforce u otras disponibles vía API. Facilita la automatización de procesos comerciales, actualización de leads, asignación de tareas o seguimiento de oportunidades en tiempo real.",
+                "Detalles_Costo_Base": "1 Unidad Intermedia de Servicio, cubre la implemetacion de un modulo conexion de Agentes de IA a 1 CRM",
+                "Notas_Adicionales": "El cliente debe proporcionar credenciales de acceso y entorno del CRM (API Key, OAuth, etc.), así como asumir los costos de licencias o servicios de terceros requeridos para operar.\n\nREQUISITOS DE LICENCIAMIENTO: licencia activa del CRM correspondiente (Zoho, Salesforce, HubSpot, etc.) con acceso vía API; instancia funcional de n8n (self-hosted o en nube); si se usa versión cloud, contar con plan profesional.",
+                "Tiempo__Dias_habiles_": "5",
+                "Tiempos_de_entrega": "5 dias",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "",
+                "Basicos": 0.0,
+                "Intermedios": 1.0,
+                "Avanzados": 0.0,
+                "Pregunta": "Cuantos CRM deseas integrar tu agente de IA?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "",
+                "Descripcion_Tecnica_Corta": "Permite integrar agentes IA con plataformas CRM para automatizar gestión de leads, contactos y tareas."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 247,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Agentes IA",
+                "Nombre_del_Servicio": "Módulo de Conexión de Agentes IA a Redes Sociales (Manychat)",
+                "Clasificación": "",
+                "Descripción_Técnica_del_Servicio": "Este módulo conecta agentes IA con plataformas de automatización de redes sociales como Manychat, permitiendo flujos conversacionales en Facebook Messenger, Instagram o WhatsApp Business. Permite automatizar respuestas, calificación de prospectos, envío de contenidos y acciones personalizadas a través de redes sociales.",
+                "Detalles_Costo_Base": "1 Unidad Intermedia de Servicio, cubre la implemetacion de un modulo conexion de Agentes de IA a 1 cuenta de Manychat para 1 red social.",
+                "Notas_Adicionales": "El cliente debe tener una cuenta activa en Manychat y vincular su red social. El costo de suscripción y servicios de terceros requeridos corre por cuenta del cliente.\n\nREQUISITOS DE LICENCIAMIENTO: cuenta activa y suscripción de Manychat o plataforma de automatización equivalente; instancia funcional de n8n (self-hosted o en nube); si se usa versión cloud, contar con plan profesional.",
+                "Tiempo__Dias_habiles_": "1.5",
+                "Tiempos_de_entrega": "1.5 dias",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "",
+                "Basicos": 0.0,
+                "Intermedios": 1.0,
+                "Avanzados": 0.0,
+                "Pregunta": "Cuantas redes sociales deses integrar a tu Agente IA?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "",
+                "Descripcion_Tecnica_Corta": "Extiende agentes IA a redes sociales mediante integración con Manychat para automatización conversacional."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 248,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Agentes IA",
+                "Nombre_del_Servicio": "Módulo de Promoción e Inscripción a Eventos o Webinars",
+                "Clasificación": "",
+                "Descripción_Técnica_del_Servicio": "Este módulo permite automatizar la promoción, difusión y gestión de inscripciones a eventos, cursos o webinars a través de canales de mensajería como WhatsApp, Telegram, Facebook Messenger, Instagram o chatbots en páginas web. El agente puede contactar leads de manera proactiva, proporcionar información clave del evento, resolver dudas frecuentes y redirigir al canal de inscripción habilitado. Ideal para fortalecer campañas de posicionamiento, generar comunidad y aumentar la tasa de conversión de interesados en actividades organizadas por la empresa.",
+                "Detalles_Costo_Base": "1 Unidad Intermedia de Servicio, cubre la implemetacion de un modulo conexion de Agentes de IA para Promoción e Inscripcion en eventos o Webinars en donde participe el cliente.",
+                "Notas_Adicionales": "El cliente debe definir el evento, canal de inscripción disponible, mensajes promocionales y segmentación del público objetivo. Además, debe asumir los costos de integración y licencias de terceros necesarios para operar en canales como WhatsApp, Instagram o Facebook (ej. Twilio, Meta, Manychat, etc.).\n\nREQUISITOS DE LICENCIAMIENTO: instancia funcional de n8n (self-hosted o en nube); si se usa versión cloud, contar con plan profesional.",
+                "Tiempo__Dias_habiles_": "1.5",
+                "Tiempos_de_entrega": "1.5 dias",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "",
+                "Basicos": 0.0,
+                "Intermedios": 1.0,
+                "Avanzados": 0.0,
+                "Pregunta": "Cuantos Modulos de Integracion de Eventos desas implementar?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "",
+                "Descripcion_Tecnica_Corta": "Funcionalidad de agente IA para promover eventos y gestionar inscripciones por múltiples canales de mensajería."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 249,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Agentes IA",
+                "Nombre_del_Servicio": "Módulo de Recepción de Notas de Voz, llamadas e Imágenes en Chat de Agentes IA",
+                "Clasificación": "",
+                "Descripción_Técnica_del_Servicio": "Este módulo permite a los agentes inteligentes recibir, almacenar y procesar contenido multimedia enviado por los usuarios durante una conversación a través de canales como WhatsApp, Telegram, Facebook Messenger o chat web. Los tipos de contenido admitidos incluyen notas de voz, imágenes (fotos, capturas), e incluso archivos adjuntos si el canal lo permite. Adicionalmente puede hacer llamadas de voz. Esta funcionalidad es útil para validar identidad, recibir documentos de soporte, ubicar imágenes de campo o recoger observaciones en voz de los usuarios. Puede integrarse a flujos de análisis o almacenamiento adicional según el caso.",
+                "Detalles_Costo_Base": "1 Unidad Intermedia de Servicio, cubre la implemetacion de un modulo que permita darle la habilidad al Agente de IA de poder recibir Notas de Voz e imagenes por chat.",
+                "Notas_Adicionales": "El cliente debe definir el canal de mensajería y tipo de archivo permitido. Se requiere integración con plataformas de terceros como Twilio o Manychat, cuyas licencias deben ser adquiridas por el cliente para operar en producción. También debe definirse el tratamiento o destino del contenido recibido (almacenamiento, análisis, etc.).\n\nREQUISITOS DE LICENCIAMIENTO: instancia funcional de n8n (self-hosted o en nube); si se usa versión cloud, contar con plan profesional.",
+                "Tiempo__Dias_habiles_": "1.5",
+                "Tiempos_de_entrega": "1.5 dias",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "",
+                "Basicos": 0.0,
+                "Intermedios": 1.0,
+                "Avanzados": 0.0,
+                "Pregunta": "Cuantos Modulos de manejo multimodal deseas implementar?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "",
+                "Descripcion_Tecnica_Corta": "Permite a los agentes IA recibir y procesar notas de voz e imágenes desde canales de mensajería durante la conversación."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 250,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Agentes IA",
+                "Nombre_del_Servicio": "Mantenimiento Básico de Módulo IA",
+                "Clasificación": "",
+                "Descripción_Técnica_del_Servicio": "Este servicio incluye el mantenimiento preventivo y correctivo de un módulo IA previamente implementado por IsaGIS Technologies. Cubre la revisión periódica de funcionamiento, detección de fallas, reinicio de flujos si es necesario, aplicación de actualizaciones menores, y validación de conexión con servicios de terceros. Está diseñado para asegurar la estabilidad de la solución en el entorno del cliente. Aplica a cualquier módulo sencillo por demanda implementado (ej: conexión a Pinecone, redes sociales, formularios, etc.).",
+                "Detalles_Costo_Base": "1 unidad basica de mantenimiento basico mensual se cobraria por modulo implmentado",
+                "Notas_Adicionales": "El cliente debe permitir el acceso al entorno donde se encuentra implementado el módulo. Las actualizaciones mayores o rediseños no están incluidos. Este servicio aplica a un (1) módulo individual. Para múltiples módulos se sugiere contratar el Plan Integral de Mantenimiento. Este servicio aplica solo a los modulos implmentados por IsaGIS.\n\nREQUISITOS DE LICENCIAMIENTO: instancia funcional de n8n (self-hosted o en nube); si se usa versión cloud, contar con plan profesional.",
+                "Tiempo__Dias_habiles_": "20",
+                "Tiempos_de_entrega": "6 horas/mes (estimadas)",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "",
+                "Basicos": 1.0,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "Cuantos Modulos tienes implemetados o planeas imlementar con IsaGIS?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "",
+                "Descripcion_Tecnica_Corta": "Servicio de mantenimiento asociado a un módulo IA para garantizar su funcionamiento continuo y actualizado."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 251,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Agentes IA",
+                "Nombre_del_Servicio": "Bot Informativo Web (SPM)",
+                "Clasificación": "",
+                "Descripción_Técnica_del_Servicio": "Este servicio corresponde a un agente de inteligencia artificial informativo que opera en sitios web utilizando una estructura de SPM (Sistema de Preguntas y Mensajes) básica. El bot puede responder preguntas frecuentes, entregar información clave del negocio, productos o servicios, y asistir a usuarios sin depender de herramientas externas ni conexión con bases de datos. Está diseñado como punto de partida para asistentes inteligentes accesibles y fáciles de integrar. El bot se puede integrar en la pagina web del cliente.",
+                "Detalles_Costo_Base": "1 unidad intermedia cubriria la implementacion 1 Bot Informativo Web (SPM) por empresa",
+                "Notas_Adicionales": "El cliente debe entregar la estructura base del conocimiento a publicar (preguntas y respuestas frecuentes, textos guía, enlaces, etc.), informacion basica de la empresa y permitir la integración del widget del bot en su sitio web.",
+                "Tiempo__Dias_habiles_": "1",
+                "Tiempos_de_entrega": "1 dia",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "",
+                "Basicos": 0.0,
+                "Intermedios": 1.0,
+                "Avanzados": 0.0,
+                "Pregunta": "Cuantos Modulos Bot Informativo Web (SPM) para 1 empresa deseas implementar?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "",
+                "Descripcion_Tecnica_Corta": "Agente IA informativo con SPM básico, ideal para responder preguntas frecuentes en un sitio web sin conexión a herramientas externas."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 252,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Licenciamiento",
+                "Nombre_del_Servicio": "Licenciamiento de Plataforma n8n (Self-hosted o Cloud)",
+                "Clasificación": "",
+                "Descripción_Técnica_del_Servicio": "Incluye la provisión y gestión del licenciamiento requerido para ejecutar agentes IA en la plataforma n8n, ya sea mediante instancia autogestionada (self-hosted) o suscripción a la nube (n8n.io). Se puede incluir aprovisionamiento técnico, configuración, hosting, monitoreo y renovación de licencia según necesidades del cliente.",
+                "Detalles_Costo_Base": "1,5 basicos permiten realizar la adquisición y pago del licenciamiento de n8n cloud por el primer mes, para un plan Starter.",
+                "Notas_Adicionales": "Se debe definir el tipo de despliegue (cloud o local), cantidad de usuarios y volumen estimado de automatizaciones para calcular el plan adecuado.",
+                "Tiempo__Dias_habiles_": "1",
+                "Tiempos_de_entrega": "1 dia",
+                "URL_Video_hosting": "https://n8n.io/pricing/",
+                "URL_con_información_adicional": "",
+                "Basicos": 1.5,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "Cuantos Planes Starter quisieras adquirir?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "",
+                "Descripcion_Tecnica_Corta": "Licenciamiento y gestión de plataforma n8n para flujos automatizados con agentes IA."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 253,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Licenciamiento",
+                "Nombre_del_Servicio": "Licenciamiento Twilio/Authkey",
+                "Clasificación": "",
+                "Descripción_Técnica_del_Servicio": "Este servicio cubre la gestión del licenciamiento y configuración de servicios de mensajería en canales como WhatsApp Business o Telegram, mediante proveedores como Twilio o Meta Cloud API. Incluye la creación del número comercial, vinculación a la cuenta del cliente, envío de mensajes de prueba y configuración de sandbox o producción.",
+                "Detalles_Costo_Base": "1 unidad basica, permite hacer una recarga de 10 dolares para activar un plan de desarrollo con las empresas que proveen APIs para integrar whats app al agente de IA. Tambien cubre la configuración de la cuenta de desarrolladores e incluye una capacitacion basica de como monitorear el saldo y como hacer las futuras recargas",
+                "Notas_Adicionales": "El cliente debe definir el canal y caso de uso. Se gestionan costos asociados a la mensajería por separado, según proveedor.",
+                "Tiempo__Dias_habiles_": "1",
+                "Tiempos_de_entrega": "1 dia",
+                "URL_Video_hosting": "https://www.twilio.com/es-mx/whatsapp/pricing",
+                "URL_con_información_adicional": "",
+                "Basicos": 1.0,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "Cuantas cuentas deseas configurar?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "",
+                "Descripcion_Tecnica_Corta": "Activación y gestión de licencias de mensajería (WhatsApp, Telegram) con Twilio o Meta API."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 254,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Licenciamiento",
+                "Nombre_del_Servicio": "Licenciamiento de Pinecone (Vector Database)",
+                "Clasificación": "",
+                "Descripción_Técnica_del_Servicio": "Incluye el aprovisionamiento, configuración y gestión del licenciamiento de Pinecone como base de datos vectorial para búsquedas semánticas. Permite almacenar embeddings y habilitar consultas contextuales por parte de agentes IA.",
+                "Detalles_Costo_Base": "1 unidad basica, permite hacer la configurar de una cuenta de pinecone para obtener el API y la configuracion de la cuenta para integrarla con el modulo de Pinecone.",
+                "Notas_Adicionales": "Debe definirse volumen esperado de almacenamiento y tipo de embeddings. Se calculan costos mensuales según plan de Pinecone elegido.",
+                "Tiempo__Dias_habiles_": "0.5",
+                "Tiempos_de_entrega": "medio dia",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "",
+                "Basicos": 1.0,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "Cuantas cuentas deseas configurar?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "",
+                "Descripcion_Tecnica_Corta": "Provisión de licencias y acceso gestionado a Pinecone para almacenamiento vectorial."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 255,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Licenciamiento",
+                "Nombre_del_Servicio": "Licenciamiento y Configuración de Manychat",
+                "Clasificación": "",
+                "Descripción_Técnica_del_Servicio": "Este servicio permite gestionar la suscripción y configuración de una cuenta profesional de Manychat para su uso en agentes IA conectados con Facebook Messenger, Instagram o WhatsApp. Incluye conexión con la página, creación de flujos base y configuración del bot de bienvenida.",
+                "Detalles_Costo_Base": "1 unidad basica, permite hacer la configurar de una cuenta de manychat y obtener el licenciamiento basico para obtener el API y la configuracion de la cuenta para integrarla con el modulo de Manychat",
+                "Notas_Adicionales": "El cliente debe autorizar el acceso a sus redes sociales y definir objetivos del flujo conversacional inicial.",
+                "Tiempo__Dias_habiles_": "1",
+                "Tiempos_de_entrega": "1 dia",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "",
+                "Basicos": 1.0,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "Cuantas cuentas de Manychat deseas configurar?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "",
+                "Descripcion_Tecnica_Corta": "Gestión de licencias Manychat para automatización de redes sociales con agentes IA."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 256,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Licenciamiento",
+                "Nombre_del_Servicio": "Licenciamiento de Plataformas CRM con API",
+                "Clasificación": "",
+                "Descripción_Técnica_del_Servicio": "Servicio para adquirir, configurar y habilitar la licencia de un CRM (Salesforce, HubSpot, Zoho) compatible con integraciones API para agentes IA. Incluye activación de entorno, carga inicial de datos (si aplica) y soporte en conexión con el agente inteligente de ventas.",
+                "Detalles_Costo_Base": "1 unidad basica, permite hacer la configurar de una cuenta del CRM y obtener el licenciamiento basico para obtener el API y la configuracion de la cuenta para integrarla con el modulo de CRM",
+                "Notas_Adicionales": "Se requiere definir el CRM deseado, el tipo de plan y usuarios. Los costos de suscripción mensual o anual del proveedor van por cuenta del cliente.",
+                "Tiempo__Dias_habiles_": "1.5",
+                "Tiempos_de_entrega": "1.5 dias",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "",
+                "Basicos": 1.0,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "Cuantas cuentas de CRM quieres implementar?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "",
+                "Descripcion_Tecnica_Corta": "Adquisición y activación de licencia CRM con capacidad API para integración con IA."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 259,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Agentes IA",
+                "Nombre_del_Servicio": "Plan Integral de Mantenimiento para Agentes IA con Múltiples Módulos",
+                "Clasificación": "",
+                "Descripción_Técnica_del_Servicio": "Este servicio combinado ofrece mantenimiento mensual para soluciones que integran varios módulos IA conectados a herramientas externas, incluyendo agentes inteligentes de ventas, conectores, canales multicanal y bases vectoriales. El plan incluye monitoreo activo, aplicación de actualizaciones menores, validación de flujos y respuesta a errores, además de revisión mensual del desempeño general del sistema y recomendaciones de mejora. Ideal para clientes con soluciones IA avanzadas.",
+                "Detalles_Costo_Base": "1 Unidad Intermedia, permite hacer el mantenimiento mensual de mas de 3 modulos de IA que se hayan adquirido con IsaGIS",
+                "Notas_Adicionales": "El cliente debe permitir acceso al entorno donde se ejecutan los módulos y definir un responsable técnico. Incluye revisión mensual proactiva. No incluye rediseño de módulos ni desarrollo de nuevos flujos.",
+                "Tiempo__Dias_habiles_": "20",
+                "Tiempos_de_entrega": "16 horas/mes (estimadas)",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "",
+                "Basicos": 0.0,
+                "Intermedios": 1.0,
+                "Avanzados": 0.0,
+                "Pregunta": "Cuantos meses de mantenimiento integral deseas adquirir? ",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "",
+                "Descripcion_Tecnica_Corta": "Mantenimiento mensual de agentes IA con múltiples módulos y conectores activos."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 260,
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Agentes IA",
+                "Nombre_del_Servicio": "Implementación de Sistemas Automatico de sincronización entre una gdb de ArcGIS y Pinecone",
+                "Clasificación": "",
+                "Descripción_Técnica_del_Servicio": "Estes servicio que consiste en la implementación de un algoritmo GIS desarrollado por IsaGIS para poder sincronizar con un boton una base de datos tabular que debe estar en ArcGIS Pro, con Pinecone.",
+                "Detalles_Costo_Base": "1 unidad intermedia, cubre la implementación de algoritmo GIS que permite la sincronización entre una base de datos alfanumerica de arcgis y pinecone, se entrega el algoritmo GIS impementado Localmente en ArcGIS Pro.",
+                "Notas_Adicionales": "El cliente debe tener activa una licencia de Pinecone y dar la credenciales, inlcuyendo el API para poder  hacer la implementación, tambien se requiere un Licencimiento activo de Open AI para desarrollodaros y hacer entrega del API para poder configurar el sistema y adicionalmente se requiere un licenciamiento de ArcGIS que permita tener ArcGIS Pro. En caso de no tener el Licenciamiento, se debe agregar el servicio de Licenciamiento respectivo.",
+                "Tiempo__Dias_habiles_": "1",
+                "Tiempos_de_entrega": "1 dia",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "",
+                "Basicos": 0.0,
+                "Intermedios": 1.0,
+                "Avanzados": 0.0,
+                "Pregunta": "Cuantas bases de datos deseas implementar en el sistema de integración de ArcGIS y Pinecone?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "",
+                "Descripcion_Tecnica_Corta": "Estes servicio que consiste en la implementación de un algoritmo GIS desarrollado por IsaGIS para poder sincronizar con un boton una base de datos tabular que debe estar en ArcGIS Pro, con Pinecone. "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 261,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Licenciamiento",
+                "Nombre_del_Servicio": "Licenciamiento y Configuracion de 1 Cuenta de Desarrolladores de OpenAI",
+                "Clasificación": "",
+                "Descripción_Técnica_del_Servicio": "Este servicio cubre la configuracion de una cuenta de desarrolladores de Open AI y una sola recarga de 20 dolares de la cuenta. Ideal para servicios que requieran la integración con modelos de Open AI.",
+                "Detalles_Costo_Base": "1 unidad Basica cubre la confirguracion de cuenta de desarrolladores de OpenAI y tambien cubre una sola recarga de 20 dolares en la cuenta de desarrolladores de Open AI. Cubre 30 min para una capacitacion basica de las ventajas de tener una cuenta de desarrolladores de Open AI, como usar el API y en que producto de IsaGIS se va a utilizar.",
+                "Notas_Adicionales": "El cliente se le dara una capacitacion basica del uso de la cuenta de desarrolladores y se entregaran las pruebas de las recarga de 20 dolares, como monitorear el saldo de la cuenta y como recargar las cuenta, en futuras ocasiones.",
+                "Tiempo__Dias_habiles_": "1",
+                "Tiempos_de_entrega": "1 dia",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "",
+                "Basicos": 1.0,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "Cuantas cuentas de Desarrollador quiere implementar?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "",
+                "Descripcion_Tecnica_Corta": "Este servicio cubre la configuracion de una cuenta de desarrolladores de Open AI y una sola recarga de 20 dolares de la cuenta. Ideal para servicios que requieran la integración con modelos de Open AI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 262,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Agentes IA",
+                "Nombre_del_Servicio": "Módulo de Llamadas Automatizadas para Seguimiento de Leads y Eventos",
+                "Clasificación": "",
+                "Descripción_Técnica_del_Servicio": "Este módulo permite que un agente inteligente realice llamadas automatizadas a potenciales clientes cuando se detectan acciones clave, como: llenado de formularios web, comentarios solicitando más información en redes sociales, registro en landing pages o eventos, o desde bases de datos existentes. El objetivo es contactar de manera inmediata para confirmar inscripciones a eventos, resolver dudas o cerrar una oportunidad comercial. Las llamadas pueden ser realizadas mediante servicios de terceros y configuradas con mensajes dinámicos o transferencia a agentes humanos.Este módulo requiere haber implementado previamente el servicio 'Agente Inteligente de Ventas (SPM Prospectivo + Conectores IA)'.",
+                "Detalles_Costo_Base": "1 unidad intermedia, cubre la implementación de 1 Módulo de Llamadas Automatizadas para Seguimiento de Leads y Eventos",
+                "Notas_Adicionales": "El cliente debe contar con: acceso a su formulario web, cuentas conectadas en redes sociales (Facebook, Instagram, etc.), y/o base de datos de leads. Debe adquirir las licencias necesarias para el servicio de llamadas automatizadas (ej. Twilio, Vonage). Se debe haber implementado previamente el servicio 'Agente Inteligente de Ventas (SPM Prospectivo + Conectores IA)'.\n\nREQUISITOS DE LICENCIAMIENTO: servicio de llamadas como Twilio o Vonage con saldo o plan vigente; instancia funcional de n8n (self-hosted o en nube); si se u",
+                "Tiempo__Dias_habiles_": "5",
+                "Tiempos_de_entrega": "5 dias",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "",
+                "Basicos": 0.0,
+                "Intermedios": 1.0,
+                "Avanzados": 0.0,
+                "Pregunta": "Cuantos Modulos de Llamadas Automatizadas para Seguimiento de Leads y Eventos, desea implementar?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "",
+                "Descripcion_Tecnica_Corta": "Funcionalidad de llamada automatizada basada en triggers como formularios web, redes sociales o bases de datos."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 263,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Agentes IA",
+                "Nombre_del_Servicio": "Calibración del Módulo de Agente IA",
+                "Clasificación": "",
+                "Descripción_Técnica_del_Servicio": "Este servicio permite adaptar a la necesidades del Modulo que se este implementando a las necesidades la empresa",
+                "Detalles_Costo_Base": "1 unidad basica, cubre la calibración de cada modelo que se implemente.",
+                "Notas_Adicionales": "Se debe tener acceso a cada modulo implementado",
+                "Tiempo__Dias_habiles_": "2",
+                "Tiempos_de_entrega": "2 dias",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 1.0,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "Cuantos modulos implementaron o planean implementar?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "",
+                "Descripcion_Tecnica_Corta": "Este servicio permite adaptar a la necesidades del Modulo que se este implementando a las necesidades la empresa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 266,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Agentes IA",
+                "Nombre_del_Servicio": "Configuración Inicial de Cuenta Cal.com (Licencia Gratuita)",
+                "Clasificación": "",
+                "Descripción_Técnica_del_Servicio": "Este servicio contempla la creación y configuración inicial de una cuenta Cal.com bajo el plan gratuito, el cual incluye: 1 usuario, calendarios y tipos de eventos ilimitados, automatización mediante workflows, integración con aplicaciones y posibilidad de pagos vía Stripe. Al finalizar, se entrega la API Key y el ID del calendario necesario para integrar con el Módulo de Conexión a Cal.com.",
+                "Detalles_Costo_Base": "1 unidad basica, cubre la configuracion de 1 cuenta de cal.com",
+                "Notas_Adicionales": "El cliente debe definir: nombre comercial, email de registro, integración deseada (Stripe, Google Calendar, etc.) y personalización del perfil. Incluye entrega del API Key y calendar ID configurado. La licencia gratuita es gestionada directamente por IsaGIS en nombre del cliente.",
+                "Tiempo__Dias_habiles_": "0,5",
+                "Tiempos_de_entrega": "4 horas",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 1.0,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "Cuantas cuentas de Cal.com desea el cliente?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "",
+                "Descripcion_Tecnica_Corta": "Alta y configuración de cuenta Cal.com gratuita, con entrega de credenciales para integración IA."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 267,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Agentes IA",
+                "Nombre_del_Servicio": "Módulo de Integración Básico a Cal.com para Reuniones Virtuales o Presenciales",
+                "Clasificación": "",
+                "Descripción_Técnica_del_Servicio": "Este módulo básico permite a un agente IA integrarse con Cal.com para gestionar el flujo de agendamiento de reuniones, incluyendo la verificación de disponibilidad en calendario, propuesta de horarios al cliente y reserva automática de reuniones virtuales o presenciales. Ideal para empresas o negocios que requieren coordinar citas, reservas o reuniones sin funcionalidades extendidas de recordatorio.\r\n",
+                "Detalles_Costo_Base": "2 Unidades basicas, cubren la implementación e integracion del modulo en el flujo de n8n principal del cliente, en cual le desee agrear la funcionalidad basica de agendamiento de citas.",
+                "Notas_Adicionales": "El cliente debe entregar las credenciales API de Cal.com y definir parámetros de disponibilidad y tipo de reuniones a gestionar. REQUISITOS DE LICENCIAMIENTO: Cuenta activa en Cal.com con integración mínima configurada.",
+                "Tiempo__Dias_habiles_": "1",
+                "Tiempos_de_entrega": "1 dia",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 2.0,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "Cuantos modulos basicos de agendamiento de citas se desean implementar?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "",
+                "Descripcion_Tecnica_Corta": "Agendamiento automático con Cal.com para citas virtuales o presenciales desde agente IA."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 268,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Agentes IA",
+                "Nombre_del_Servicio": "Módulo de Integración Avanzada a Cal.com para Reuniones Virtuales o Presenciales",
+                "Clasificación": "",
+                "Descripción_Técnica_del_Servicio": "Este módulo avanzado extiende la integración de un agente IA con Cal.com para gestionar reuniones virtuales o presenciales con mayor inteligencia. Incluye consulta de disponibilidad, propuesta de horarios, reserva automática, generación de enlaces de videollamada (Zoom, Meet, Teams, etc.), envío de recordatorios automáticos por múltiples canales (WhatsApp, email, Telegram) y funcionalidad de reagendamiento automático en caso de cancelación o inasistencia del cliente.\r\n",
+                "Detalles_Costo_Base": "1 unidad basica y 1 unidad intermedia cubre la implementación e integracion del modulo en el flujo de n8n principal del cliente, en cual le desee agrear la funcionalidad avanzada de agendamiento de citas.",
+                "Notas_Adicionales": "El cliente debe proporcionar acceso a Cal.com, activar las integraciones necesarias (videollamada, mensajería, etc.) y definir el flujo de comunicación deseado. REQUISITOS DE LICENCIAMIENTO: Cuenta Cal.com + servicios adicionales como Twilio, SendGrid o Zoom si se requieren funciones extendidas.\r\n",
+                "Tiempo__Dias_habiles_": "4",
+                "Tiempos_de_entrega": "4 dias",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 1.0,
+                "Intermedios": 1.0,
+                "Avanzados": 0.0,
+                "Pregunta": "Cuantos modulos avanzados de agendamiento de citas se desean implementar?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "",
+                "Descripcion_Tecnica_Corta": "Agendamiento inteligente con recordatorios y reagendamiento automático desde Cal.com."
+            }
         }
     ],
-    "updated_at": "2025-08-04 18:46:38"
+    "updated_at": "2025-08-05 15:58:40"
 }
