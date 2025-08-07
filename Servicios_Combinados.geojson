@@ -954,17 +954,17 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Atención al Cliente Informativo Básico",
+                "Nombre_Servicio_Combinado": "Agente de Atención al Cliente Informativo Basico",
                 "Codigo_Servicio_SIG": 267,
                 "Nombre_del_Servicio": "Módulo de Integración Básico a Cal.com para Reuniones Virtuales o Presenciales",
                 "Descripción_Técnica_del_Servici": "Este módulo básico permite a un agente IA integrarse con Cal.com para gestionar el flujo de agendamiento de reuniones, incluyendo la verificación de disponibilidad en calendario, propuesta de horarios al cliente y reserva automática de reuniones virtuales o presenciales. Ideal para empresas o negocios que requieren coordinar citas, reservas o reuniones sin funcionalidades extendidas de recordatorio.\r\n",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
                 "Grupo": "Asistentes Virtuales",
                 "Subgrupo": "Agentes IA",
-                "Unidades_Basicos": 2.0,
+                "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -977,7 +977,7 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Atención al Cliente Informativo Básico",
+                "Nombre_Servicio_Combinado": "Agente de Atención al Cliente Informativo Basico",
                 "Codigo_Servicio_SIG": 251,
                 "Nombre_del_Servicio": "Bot Informativo Web (SPM)",
                 "Descripción_Técnica_del_Servici": "Este servicio corresponde a un agente de inteligencia artificial informativo que opera en sitios web utilizando una estructura de SPM (Sistema de Preguntas y Mensajes) básica. El bot puede responder preguntas frecuentes, entregar información clave del negocio, productos o servicios, y asistir a usuarios sin depender de herramientas externas ni conexión con bases de datos. Está diseñado como punto de partida para asistentes inteligentes accesibles y fáciles de integrar. El bot se puede integrar en la pagina web del cliente.",
@@ -985,9 +985,9 @@
                 "Grupo": "Asistentes Virtuales",
                 "Subgrupo": "Agentes IA",
                 "Unidades_Basicos": 0.0,
-                "Unidades_Intermedias": 1.0,
+                "Unidades_Intermedias": 0.5,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1000,7 +1000,7 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Atención al Cliente Informativo Básico",
+                "Nombre_Servicio_Combinado": "Agente de Atención al Cliente Informativo Basico",
                 "Codigo_Servicio_SIG": 252,
                 "Nombre_del_Servicio": "Licenciamiento y Configuración de Plataforma n8n (Cloud)",
                 "Descripción_Técnica_del_Servici": "Incluye la provisión de un licenciamiento nivel starter y gestión del licenciamiento requerido para ejecutar agentes IA en la plataforma n8n, recomendando usar la versión de la nube (n8n.io). Incluye un pequeña capacitacion de 1 hora maximo del uso de la licencia starter. Este tipo de licenciamiento incluye: 1 shared project, maximo 5 flujos activos, unlimited users y acceso al forum de soporte. Si pasas de 5 flujos activos, se recomienda adquirir el plan Pro directamente con n8n.",
@@ -1010,7 +1010,7 @@
                 "Unidades_Basicos": 1.5,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1023,7 +1023,7 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Atención al Cliente Informativo Básico",
+                "Nombre_Servicio_Combinado": "Agente de Atención al Cliente Informativo Basico",
                 "Codigo_Servicio_SIG": 261,
                 "Nombre_del_Servicio": "Licenciamiento y Configuracion de 1 Cuenta de Desarrolladores de OpenAI",
                 "Descripción_Técnica_del_Servici": "Este servicio cubre la configuracion de una cuenta de desarrolladores de Open AI y una sola recarga de 20 dolares de la cuenta. Ideal para servicios que requieran la integración con modelos de Open AI. A el cliente se le dara una capacitacion basica del uso de la cuenta de desarrolladores y se entregaran las pruebas de las recarga de 20 dolares, como monitorear el saldo de la cuenta y como recargar las cuenta, en futuras ocasiones.",
@@ -1033,99 +1033,7 @@
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Básico",
-                "Codigo_Servicio_SIG": 252,
-                "Nombre_del_Servicio": "Licenciamiento y Configuración de Plataforma n8n (Cloud)",
-                "Descripción_Técnica_del_Servici": "Incluye la provisión de un licenciamiento nivel starter y gestión del licenciamiento requerido para ejecutar agentes IA en la plataforma n8n, recomendando usar la versión de la nube (n8n.io). Incluye un pequeña capacitacion de 1 hora maximo del uso de la licencia starter. Este tipo de licenciamiento incluye: 1 shared project, maximo 5 flujos activos, unlimited users y acceso al forum de soporte. Si pasas de 5 flujos activos, se recomienda adquirir el plan Pro directamente con n8n.",
-                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Licenciamiento y Configuración",
-                "Unidades_Basicos": 1.5,
-                "Unidades_Intermedias": 0.0,
-                "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Básico",
-                "Codigo_Servicio_SIG": 267,
-                "Nombre_del_Servicio": "Módulo de Integración Básico a Cal.com para Reuniones Virtuales o Presenciales",
-                "Descripción_Técnica_del_Servici": "Este módulo básico permite a un agente IA integrarse con Cal.com para gestionar el flujo de agendamiento de reuniones, incluyendo la verificación de disponibilidad en calendario, propuesta de horarios al cliente y reserva automática de reuniones virtuales o presenciales. Ideal para empresas o negocios que requieren coordinar citas, reservas o reuniones sin funcionalidades extendidas de recordatorio.\r\n",
-                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes IA",
-                "Unidades_Basicos": 2.0,
-                "Unidades_Intermedias": 0.0,
-                "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Básico",
-                "Codigo_Servicio_SIG": 266,
-                "Nombre_del_Servicio": "Configuración Inicial de Cuenta Cal.com (Licencia Gratuita)",
-                "Descripción_Técnica_del_Servici": "Este servicio contempla la creación y configuración inicial de una cuenta Cal.com bajo el plan gratuito, el cual incluye: 1 usuario, calendarios y tipos de eventos ilimitados, automatización mediante workflows, integración con aplicaciones y posibilidad de pagos vía Stripe. Al finalizar, se entrega la API Key y el ID del calendario necesario para integrar con el Módulo de Conexión a Cal.com.",
-                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Licenciamiento y Configuración",
-                "Unidades_Basicos": 1.0,
-                "Unidades_Intermedias": 0.0,
-                "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Básico",
-                "Codigo_Servicio_SIG": 243,
-                "Nombre_del_Servicio": "Modulo Inteligente de Ventas (SPM Prospectivo + Informativo)",
-                "Descripción_Técnica_del_Servici": "Este módulo otorga al Agente de IA la capacidad de ejecutar flujos conversacionales con enfoque comercial y prospectivo, integrando un SPM (System Prompt Message) especialmente diseñado para guiar de manera estratégica a potenciales clientes, brindando información clara y conduciéndolos hacia decisiones de negocio.\n\nA través de modelos avanzados de lenguaje como GPT-4o, GPT-4o Mini o GPT-3.5 Turbo, el agente IA puede generar interacciones personalizadas, identificar necesidades y ofrecer respuestas orientadas al cierre de oportunidades comerciales.\n\nEl módulo incluye:\n\n- La creación de un SPM prospectivo + informativo, adaptado a los objetivos comerciales del cliente.\n\n- Integración con Manychat, permitiendo al agente operar directamente desde canales como Facebook Messenger, Instagram o sitios web, facilitando el contacto fluido desde redes sociales.\n\n- Integración a un chatbot de IsaGIS que puede ser implementado alineado a la necesidades del cliente en su pagina web, para atender preguntas informativas y pudiendo volverlas propectivas.\n\nAdemás, el módulo puede potenciarse aún más con funcionalidades adicionales, que pueden ser contratadas,  tales como:\n\n-🔍 Acceso a bases de datos vectoriales como Pinecone para extraer información contextual relevante del cliente o producto.\n\n- 🌍 Conexión con servicios web de ArcGIS y/o tablas GeoJSON alojadas en GitHub, permitiendo al agente comprender mejor el entorno geográfico, los territorios o el portafolio de servicios aplicables.\n- Operar CRM, Eventos, acceso a emails, modulo de disponibilidad y reserva de citas.\n",
-                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes IA",
-                "Unidades_Basicos": 3.0,
-                "Unidades_Intermedias": 1.0,
-                "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1148,7 +1056,99 @@
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Básico",
+                "Codigo_Servicio_SIG": 266,
+                "Nombre_del_Servicio": "Configuración Inicial de Cuenta Cal.com (Licencia Gratuita)",
+                "Descripción_Técnica_del_Servici": "Este servicio contempla la creación y configuración inicial de una cuenta Cal.com bajo el plan gratuito, el cual incluye: 1 usuario, calendarios y tipos de eventos ilimitados, automatización mediante workflows, integración con aplicaciones y posibilidad de pagos vía Stripe. Al finalizar, se entrega la API Key y el ID del calendario necesario para integrar con el Módulo de Conexión a Cal.com.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Licenciamiento y Configuración",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Básico",
+                "Codigo_Servicio_SIG": 267,
+                "Nombre_del_Servicio": "Módulo de Integración Básico a Cal.com para Reuniones Virtuales o Presenciales",
+                "Descripción_Técnica_del_Servici": "Este módulo básico permite a un agente IA integrarse con Cal.com para gestionar el flujo de agendamiento de reuniones, incluyendo la verificación de disponibilidad en calendario, propuesta de horarios al cliente y reserva automática de reuniones virtuales o presenciales. Ideal para empresas o negocios que requieren coordinar citas, reservas o reuniones sin funcionalidades extendidas de recordatorio.\r\n",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Agentes IA",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Básico",
+                "Codigo_Servicio_SIG": 243,
+                "Nombre_del_Servicio": "Modulo Inteligente de Ventas (SPM Prospectivo + Informativo)",
+                "Descripción_Técnica_del_Servici": "Este módulo otorga al Agente de IA la capacidad de ejecutar flujos conversacionales con enfoque comercial y prospectivo, integrando un SPM (System Prompt Message) especialmente diseñado para guiar de manera estratégica a potenciales clientes, brindando información clara y conduciéndolos hacia decisiones de negocio.\n\nA través de modelos avanzados de lenguaje como GPT-4o, GPT-4o Mini o GPT-3.5 Turbo, el agente IA puede generar interacciones personalizadas, identificar necesidades y ofrecer respuestas orientadas al cierre de oportunidades comerciales.\n\nEl módulo incluye:\n\n- La creación de un SPM prospectivo + informativo, adaptado a los objetivos comerciales del cliente.\n\n- Integración con Manychat, permitiendo al agente operar directamente desde canales como Facebook Messenger, Instagram o sitios web, facilitando el contacto fluido desde redes sociales.\n\n- Integración a un chatbot de IsaGIS que puede ser implementado alineado a la necesidades del cliente en su pagina web, para atender preguntas informativas y pudiendo volverlas propectivas.\n\nAdemás, el módulo puede potenciarse aún más con funcionalidades adicionales, que pueden ser contratadas,  tales como:\n\n-🔍 Acceso a bases de datos vectoriales como Pinecone para extraer información contextual relevante del cliente o producto.\n\n- 🌍 Conexión con servicios web de ArcGIS y/o tablas GeoJSON alojadas en GitHub, permitiendo al agente comprender mejor el entorno geográfico, los territorios o el portafolio de servicios aplicables.\n- Operar CRM, Eventos, acceso a emails, modulo de disponibilidad y reserva de citas.\n",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Agentes IA",
+                "Unidades_Basicos": 1.5,
+                "Unidades_Intermedias": 0.5,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Básico",
+                "Codigo_Servicio_SIG": 252,
+                "Nombre_del_Servicio": "Licenciamiento y Configuración de Plataforma n8n (Cloud)",
+                "Descripción_Técnica_del_Servici": "Incluye la provisión de un licenciamiento nivel starter y gestión del licenciamiento requerido para ejecutar agentes IA en la plataforma n8n, recomendando usar la versión de la nube (n8n.io). Incluye un pequeña capacitacion de 1 hora maximo del uso de la licencia starter. Este tipo de licenciamiento incluye: 1 shared project, maximo 5 flujos activos, unlimited users y acceso al forum de soporte. Si pasas de 5 flujos activos, se recomienda adquirir el plan Pro directamente con n8n.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "Asistentes Virtuales",
+                "Subgrupo": "Licenciamiento y Configuración",
+                "Unidades_Basicos": 1.5,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1171,7 +1171,7 @@
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1191,10 +1191,10 @@
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
                 "Grupo": "Asistentes Virtuales",
                 "Subgrupo": "Agentes IA",
-                "Unidades_Basicos": 2.0,
+                "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1214,10 +1214,10 @@
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
                 "Grupo": "Asistentes Virtuales",
                 "Subgrupo": "Agentes IA",
-                "Unidades_Basicos": 3.0,
-                "Unidades_Intermedias": 1.0,
+                "Unidades_Basicos": 1.5,
+                "Unidades_Intermedias": 0.5,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1237,10 +1237,10 @@
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
                 "Grupo": "Asistentes Virtuales",
                 "Subgrupo": "Agentes IA",
-                "Unidades_Basicos": 2.0,
+                "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1261,9 +1261,9 @@
                 "Grupo": "Asistentes Virtuales",
                 "Subgrupo": "Agentes IA",
                 "Unidades_Basicos": 0.0,
-                "Unidades_Intermedias": 1.0,
+                "Unidades_Intermedias": 0.5,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1286,7 +1286,7 @@
                 "Unidades_Basicos": 1.5,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1309,7 +1309,7 @@
                 "Unidades_Basicos": 2.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1332,7 +1332,7 @@
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1355,7 +1355,7 @@
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1376,9 +1376,9 @@
                 "Grupo": "Asistentes Virtuales",
                 "Subgrupo": "Agentes IA",
                 "Unidades_Basicos": 0.0,
-                "Unidades_Intermedias": 1.0,
+                "Unidades_Intermedias": 0.5,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1401,7 +1401,7 @@
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1421,10 +1421,10 @@
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
                 "Grupo": "Asistentes Virtuales",
                 "Subgrupo": "Agentes IA",
-                "Unidades_Basicos": 2.0,
+                "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1444,10 +1444,10 @@
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
                 "Grupo": "Asistentes Virtuales",
                 "Subgrupo": "Agentes IA",
-                "Unidades_Basicos": 3.0,
-                "Unidades_Intermedias": 0.5,
+                "Unidades_Basicos": 1.5,
+                "Unidades_Intermedias": 0.25,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1467,10 +1467,10 @@
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
                 "Grupo": "Asistentes Virtuales",
                 "Subgrupo": "Agentes IA",
-                "Unidades_Basicos": 3.0,
-                "Unidades_Intermedias": 1.0,
+                "Unidades_Basicos": 1.5,
+                "Unidades_Intermedias": 0.5,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1490,10 +1490,10 @@
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
                 "Grupo": "Asistentes Virtuales",
                 "Subgrupo": "Agentes IA",
-                "Unidades_Basicos": 2.0,
+                "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1514,9 +1514,9 @@
                 "Grupo": "Asistentes Virtuales",
                 "Subgrupo": "Agentes IA",
                 "Unidades_Basicos": 0.0,
-                "Unidades_Intermedias": 1.0,
+                "Unidades_Intermedias": 0.5,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1537,9 +1537,9 @@
                 "Grupo": "Asistentes Virtuales",
                 "Subgrupo": "Agentes IA",
                 "Unidades_Basicos": 0.0,
-                "Unidades_Intermedias": 1.0,
+                "Unidades_Intermedias": 0.5,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1560,9 +1560,9 @@
                 "Grupo": "Asistentes Virtuales",
                 "Subgrupo": "Agentes IA",
                 "Unidades_Basicos": 0.0,
-                "Unidades_Intermedias": 1.0,
+                "Unidades_Intermedias": 0.5,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1583,9 +1583,9 @@
                 "Grupo": "Asistentes Virtuales",
                 "Subgrupo": "Agentes IA",
                 "Unidades_Basicos": 0.0,
-                "Unidades_Intermedias": 1.0,
+                "Unidades_Intermedias": 0.5,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1608,7 +1608,7 @@
                 "Unidades_Basicos": 1.5,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1631,7 +1631,7 @@
                 "Unidades_Basicos": 2.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1654,7 +1654,7 @@
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1677,7 +1677,7 @@
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1698,9 +1698,9 @@
                 "Grupo": "Asistentes Virtuales",
                 "Subgrupo": "Agentes IA",
                 "Unidades_Basicos": 0.0,
-                "Unidades_Intermedias": 1.0,
+                "Unidades_Intermedias": 0.5,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1723,7 +1723,7 @@
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1743,10 +1743,10 @@
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
                 "Grupo": "Asistentes Virtuales",
                 "Subgrupo": "Agentes IA",
-                "Unidades_Basicos": 2.0,
+                "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1766,10 +1766,10 @@
                 "Area_estrategica_IsaGIS_Technol": "Servicios SIG",
                 "Grupo": "Asistentes Virtuales",
                 "Subgrupo": "Agentes IA",
-                "Unidades_Basicos": 2.0,
+                "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1789,10 +1789,10 @@
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
                 "Grupo": "Asistentes Virtuales",
                 "Subgrupo": "Agentes IA",
-                "Unidades_Basicos": 3.0,
-                "Unidades_Intermedias": 1.0,
+                "Unidades_Basicos": 1.5,
+                "Unidades_Intermedias": 0.5,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1812,10 +1812,10 @@
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
                 "Grupo": "Asistentes Virtuales",
                 "Subgrupo": "Agentes IA",
-                "Unidades_Basicos": 2.0,
+                "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1838,7 +1838,7 @@
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1859,9 +1859,9 @@
                 "Grupo": "Asistentes Virtuales",
                 "Subgrupo": "Agentes IA",
                 "Unidades_Basicos": 0.0,
-                "Unidades_Intermedias": 1.0,
+                "Unidades_Intermedias": 0.5,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1882,9 +1882,9 @@
                 "Grupo": "Asistentes Virtuales",
                 "Subgrupo": "Agentes IA",
                 "Unidades_Basicos": 0.0,
-                "Unidades_Intermedias": 1.0,
+                "Unidades_Intermedias": 0.5,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1905,9 +1905,9 @@
                 "Grupo": "Asistentes Virtuales",
                 "Subgrupo": "Agentes IA",
                 "Unidades_Basicos": 0.0,
-                "Unidades_Intermedias": 1.0,
+                "Unidades_Intermedias": 0.5,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1928,9 +1928,9 @@
                 "Grupo": "Asistentes Virtuales",
                 "Subgrupo": "Agentes IA",
                 "Unidades_Basicos": 0.0,
-                "Unidades_Intermedias": 1.0,
+                "Unidades_Intermedias": 0.5,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1953,7 +1953,7 @@
                 "Unidades_Basicos": 1.5,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1976,7 +1976,7 @@
                 "Unidades_Basicos": 2.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         },
         {
@@ -1999,9 +1999,9 @@
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+                "Link_Videos_Promocionales": ""
             }
         }
     ],
-    "updated_at": "2025-08-06 19:56:16"
+    "updated_at": "2025-08-06 21:18:06"
 }
