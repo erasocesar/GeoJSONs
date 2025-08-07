@@ -397,10 +397,10 @@
                 ]
             },
             "properties": {
-                "Subgrupo": "Configuación de Aplicaciones",
+                "Subgrupo": "Configuración de Aplicaciones",
                 "Sinonimos_Subgrupo": "Configuración de apps; Set‑up de aplicaciones; Parametrización; Ajuste de software; Deployment de apps",
                 "topK": 1,
-                "Filtro": "Subgrupo:Configuación de Aplicaciones"
+                "Filtro": "Subgrupo:Configuración de Aplicaciones"
             }
         },
         {
@@ -733,8 +733,8 @@
                 ]
             },
             "properties": {
-                "Subgrupo": "Licenciamiento",
-                "Sinonimos_Subgrupo": "Licencias software; Venta de licencias; Suscripción software; Licenciamiento de aplicaciones; Licencias de uso",
+                "Subgrupo": "Licenciamiento y Configuración",
+                "Sinonimos_Subgrupo": "Licencias software; Venta de licencias; Suscripción software; Licenciamiento de aplicaciones; Licencias de uso; Configuración de Licencias; Configuración de Cuentas; Creación de Cuentas; Configuración de Cuentas",
                 "topK": 1,
                 "Filtro": "Subgrupo:Licenciamiento"
             }
@@ -1108,5 +1108,5 @@
             }
         }
     ],
-    "updated_at": "2025-08-05 16:01:24"
+    "updated_at": "2025-08-06 19:56:20"
 }
