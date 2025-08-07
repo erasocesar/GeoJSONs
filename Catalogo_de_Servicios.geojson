@@ -7310,8 +7310,8 @@
                 "Pregunta": "Cuantos registros o filas tiene la tabla?",
                 "Factor_Corrección": 0.01,
                 "Codig_Nuevo": "",
-                "micro_guion_es": "",
-                "Descripcion_Tecnica_Corta": ""
+                "micro_guion_es": "¿Cansado de perder tiempo en tareas repetitivas? Con **AutoFill AI**, transforma tu flujo de trabajo. Nuestro servicio de **Relleno Inteligente de Atributos con IA Generativa** optimiza la entrada de datos, ahorrándote horas de esfuerzo. Imagina completar formularios y bases de datos en un instante, con precisión y sin errores. ¡Deja que la inteligencia artificial trabaje por ti! Aumenta tu productividad y enfócate en lo que realmente importa. Prueba **AutoFill AI** y revoluciona tu manera de tr",
+                "Descripcion_Tecnica_Corta": "Autofill AI automatiza el llenado de atributos alfanuméricos en tablas GIS con GPT-4o, completando hasta 10 000 registros con resúmenes, traducciones o clasificaciones generadas a partir de 1-2 campos"
             }
         },
         {
@@ -7338,13 +7338,13 @@
                 "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
                 "URL_con_información_adicional": "",
                 "Basicos": 2.0,
-                "Intermedios": "",
-                "Avanzados": "",
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
                 "Pregunta": "Cuantos Social Boost AI desea?",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": "",
                 "micro_guion_es": "Revoluciona tu presencia en redes con SocialBoost AI, nuestro servicio de IA generativa que crea estrategias de marketing personalizadas y contenido mensual engaging, basado en pilares como inspiración, educación, entretenimiento y venta. El cliente entrega un documento similar (detallando negocio, clientes, dolores, beneficios e historia), y generamos una tabla de Excel con prompts optimizados para IA, facilitando la creación de reels, carruseles e historias en Instagram. En IsaGIS, hemos desar",
-                "Descripcion_Tecnica_Corta": ""
+                "Descripcion_Tecnica_Corta": "SocialBoost AI crea estrategias de contenido para Instagram con GPT-4: procesa la documentación del cliente, define pilares temáticos y genera 5 reels y 5 carruseles completos (ganchos, "
             }
         },
         {
@@ -7376,7 +7376,7 @@
                 "Pregunta": "Cuantas Vector Database quisieras conectar?",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": "",
-                "micro_guion_es": "",
+                "micro_guion_es": "¡Descubre el futuro del acceso a datos con nuestra nueva herramienta de implementación de bases de datos vectoriales! Con Pinecone, transforma la forma en que gestionas y consultas información. Optimiza tus búsquedas, mejora la precisión y acelera el rendimiento de tus aplicaciones. Ya no más limitaciones, solo resultados impactantes. Conéctate con tus datos de manera intuitiva y eficiente. ¡No te quedes atrás! Potencia tu negocio hoy mismo con nuestra solución innovadora. ¡Contáctanos y da el p",
                 "Descripcion_Tecnica_Corta": "Funcionalidad para agentes IA que permite conexión con bases de datos vectoriales como Pinecone para búsquedas semánticas."
             }
         },
@@ -7409,7 +7409,7 @@
                 "Pregunta": "Cuantos Modulos extraccion de Servicios Web de ArcGIS desea implementar?",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": "",
-                "micro_guion_es": "",
+                "micro_guion_es": "¡Transforma tu gestión geoespacial! Con nuestra **Implementación de Herramienta de AI Agent**, optimiza el consumo de servicios web en ArcGIS Online y ArcGIS Enterprise. Acelera tus decisiones, mejora la precisión y potencia tu análisis con inteligencia artificial. ¡Descubre el futuro de la geoinformación hoy!",
                 "Descripcion_Tecnica_Corta": "Conexión de aplicaciones o bots a servicios web de ArcGIS (Online o Enterprise) para consumir datos geográficos."
             }
         },
@@ -7442,7 +7442,7 @@
                 "Pregunta": "Cuantos Modulos de extraccion de datos de GeoJSON en Github desea Implementar?",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": "",
-                "micro_guion_es": "",
+                "micro_guion_es": "¡Transforma tu acceso a datos! Con nuestra **Implementación de Herramienta de AI Agent**, podrás acceder fácilmente a datos en tablas de GeoJSON en GitHub. Optimiza tu flujo de trabajo y toma decisiones informadas al instante. ¡No te quedes atrás, impulsa tu proyecto con tecnología de vanguardia!",
                 "Descripcion_Tecnica_Corta": "Módulo que permite leer y usar tablas en formato GeoJSON dentro de aplicaciones o flujos automatizados con enfoque geoespacial."
             }
         },
@@ -7475,7 +7475,7 @@
                 "Pregunta": "Cuantos Modulos quieres implementar?",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": "",
-                "micro_guion_es": "",
+                "micro_guion_es": "¡Impulsa tus ventas al siguiente nivel con nuestro Módulo Inteligente de Ventas! Combina SPM Prospectivo e Informativo para ofrecerte análisis de mercado en tiempo real y estrategias personalizadas. Toma decisiones informadas, maximiza tus oportunidades y transforma cada prospecto en una venta exitosa. ¡Descubre el futuro de tus ventas hoy!",
                 "Descripcion_Tecnica_Corta": "Este módulo habilita a un Agente de IA con un SPM prospectivo + informativo para gestionar flujos conversacionales inteligentes, guiando a potenciales clientes desde redes sociales o web hacia decisio"
             }
         },
@@ -7508,7 +7508,7 @@
                 "Pregunta": "Cuantas Modulos de whatapp o telegram con 1 lineas deseas implementar?",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": "",
-                "micro_guion_es": "",
+                "micro_guion_es": "¡Conéctate al futuro! Potencia tu comunicación con nuestro servicio de integración a WhatsApp y Telegram. Responde al instante, automatiza tus mensajes y mejora la experiencia de tus clientes. No dejes que la distancia te detenga, ¡transforma tu negocio hoy mismo! 📲✨",
                 "Descripcion_Tecnica_Corta": "Extensión que conecta agentes IA con canales de mensajería como WhatsApp o Telegram para interacción directa con usuarios."
             }
         },
@@ -7541,7 +7541,7 @@
                 "Pregunta": "Cuantos Modulos de Agentes de IA de envio de Correos en frio se desean implementar?",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": "",
-                "micro_guion_es": "",
+                "micro_guion_es": "¡Potencia tu negocio con nuestra herramienta de envío masivo de emails en frío! Llega a miles de clientes potenciales de manera efectiva y personalizada. Aumenta tus conversiones y haz que tu mensaje resuene. No dejes pasar la oportunidad de conectar. ¡Prueba nuestra funcionalidad hoy y transforma tus resultados!",
                 "Descripcion_Tecnica_Corta": "Conecta agentes IA con servicios de correo electrónico para enviar, recibir o automatizar flujos de comunicación."
             }
         },
@@ -7574,7 +7574,7 @@
                 "Pregunta": "Cuantos CRM deseas integrar tu agente de IA?",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": "",
-                "micro_guion_es": "",
+                "micro_guion_es": "¡Potencia tu negocio con nuestro servicio de Operación de CRMs! Optimiza la gestión de tus clientes, mejora la comunicación y aumenta tus ventas. Con nuestra experiencia, transformarás datos en decisiones estratégicas. No dejes que tu competencia te supere. ¡Contáctanos y lleva tu empresa al siguiente nivel!",
                 "Descripcion_Tecnica_Corta": "Permite integrar agentes IA con plataformas CRM para automatizar gestión de leads, contactos y tareas."
             }
         },
@@ -7607,7 +7607,7 @@
                 "Pregunta": "Cuantas redes sociales deses integrar a tu Agente IA?",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": "",
-                "micro_guion_es": "",
+                "micro_guion_es": "¡Conéctate con tu audiencia como nunca antes! Con nuestra Funcionalidad de Integración de Redes Sociales (Manychat), transforma tus interacciones en ventas. Automatiza respuestas, personaliza experiencias y mantén a tus clientes enganchados. ¡No dejes pasar la oportunidad de llevar tu negocio al siguiente nivel!",
                 "Descripcion_Tecnica_Corta": "Extiende agentes IA a redes sociales mediante integración con Manychat para automatización conversacional."
             }
         },
@@ -7640,7 +7640,7 @@
                 "Pregunta": "Cuantos Modulos de Integracion de Eventos desas implementar?",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": "",
-                "micro_guion_es": "",
+                "micro_guion_es": "¡Transforma tu evento en un éxito rotundo! Con nuestro Módulo de Promoción e Inscripción a Eventos o Webinars, atraerás a más participantes y gestionarás inscripciones de manera sencilla. Aumenta tu visibilidad y conecta con tu audiencia. ¡No dejes pasar la oportunidad de brillar! ¡Inscríbete ahora!",
                 "Descripcion_Tecnica_Corta": "Funcionalidad de agente IA para promover eventos y gestionar inscripciones por múltiples canales de mensajería."
             }
         },
@@ -7673,7 +7673,7 @@
                 "Pregunta": "Cuantos Modulos de manejo multimodal deseas implementar?",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": "",
-                "micro_guion_es": "",
+                "micro_guion_es": "¡Transforma tu atención al cliente! Con nuestro Módulo de Recepción de Notas de Voz e Imágenes en Chat de Agentes IA, optimiza la comunicación y mejora la experiencia del usuario. Escucha, visualiza y responde en tiempo real. ¡Haz que cada interacción cuente! ¡Descubre la revolución en atención al cliente hoy!",
                 "Descripcion_Tecnica_Corta": "Permite a los agentes IA recibir y procesar notas de voz e imágenes desde canales de mensajería durante la conversación."
             }
         },
@@ -7706,7 +7706,7 @@
                 "Pregunta": "Cuantos Modulos tienes implemetados o planeas imlementar con IsaGIS?",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": "",
-                "micro_guion_es": "",
+                "micro_guion_es": "¡Potencia tu negocio con nuestro Mantenimiento Básico de Módulo IA! Optimiza el rendimiento de tus sistemas y asegura su funcionamiento continuo. Con nuestra experiencia técnica, garantizamos que tu inteligencia artificial esté siempre en su mejor forma. ¡No dejes que los problemas te frenen! Contáctanos hoy.",
                 "Descripcion_Tecnica_Corta": "Servicio de mantenimiento asociado a un módulo IA para garantizar su funcionamiento continuo y actualizado."
             }
         },
@@ -7739,7 +7739,7 @@
                 "Pregunta": "Cuantos Modulos Bot Informativo Web (SPM) para 1 empresa deseas implementar?",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": "",
-                "micro_guion_es": "",
+                "micro_guion_es": "¡Transforma tu atención al cliente con nuestro Bot Informativo Web (SPM)! Responde preguntas frecuentes, guía a tus usuarios y mejora la experiencia en tu sitio. Aumenta la satisfacción y reduce tiempos de espera. ¡Haz que tu negocio brille 24/7! Contáctanos y descubre cómo podemos ayudarte.",
                 "Descripcion_Tecnica_Corta": "Agente IA informativo con SPM básico, ideal para responder preguntas frecuentes en un sitio web sin conexión a herramientas externas."
             }
         },
@@ -7772,7 +7772,7 @@
                 "Pregunta": "Cuantos Flujos o automatizaciones activas vas a necesitar? (Plan Starter 1 a 5 activos)",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": "",
-                "micro_guion_es": "",
+                "micro_guion_es": "¡Transforma tu negocio con nuestro servicio de Licenciamiento y Configuración de Plataforma n8n (Cloud)! Automatiza procesos, optimiza flujos de trabajo y ahorra tiempo. Te ofrecemos una configuración personalizada y soporte continuo. ¡Desata el potencial de tu empresa hoy mismo! 🚀 #Automatización #n8n #Eficiencia",
                 "Descripcion_Tecnica_Corta": "Licenciamiento Nivel Starter y gestión de plataforma n8n para flujos automatizados con agentes IA."
             }
         },
@@ -7805,7 +7805,7 @@
                 "Pregunta": "Cuantos numeros de whatsapp deseas configurar?",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": "",
-                "micro_guion_es": "",
+                "micro_guion_es": "¡Potencia tu comunicación con nuestra Configuración de Cuenta Twilio/Authkey! Conéctate con tus clientes de manera efectiva y segura. Te ayudamos a configurar todo para que puedas enviar mensajes y realizar llamadas sin complicaciones. ¡No esperes más, transforma tu negocio hoy!",
                 "Descripcion_Tecnica_Corta": "Activación y gestión de licencias de mensajería (WhatsApp) con Twilio Authkey y cuenta Meta Developers"
             }
         },
@@ -7838,7 +7838,7 @@
                 "Pregunta": "Cuantas cuentas deseas configurar?",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": "",
-                "micro_guion_es": "",
+                "micro_guion_es": "¡Desata el poder de tus datos con nuestra Configuración Inicial de Cuenta Pinecone! Conéctate a un mundo de rendimiento y escalabilidad. Te guiamos paso a paso para que tu cuenta esté lista en minutos. Optimiza tus proyectos y lleva tu negocio al siguiente nivel. ¡Comienza hoy y transforma tu experiencia!",
                 "Descripcion_Tecnica_Corta": "Creación y activación de cuenta Pinecone para acceso a base vectorial."
             }
         },
@@ -7871,7 +7871,7 @@
                 "Pregunta": "Cuantas cuentas de Manychat deseas configurar?",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": "",
-                "micro_guion_es": "",
+                "micro_guion_es": "¡Transforma tu comunicación! Con nuestro servicio de Configuración de Meta Developers y Manychat, optimiza tus interacciones automatizadas. Conecta con tus clientes de manera efectiva y personaliza su experiencia. ¡No dejes pasar la oportunidad de llevar tu negocio al siguiente nivel! ¡Contáctanos hoy!",
                 "Descripcion_Tecnica_Corta": "Configuración de la app en Meta for Developers y vinculación con Manychat para habilitar chatbots en Facebook o Instagram."
             }
         },
@@ -7904,7 +7904,7 @@
                 "Pregunta": "Cuantas cuentas de CRM quieres implementar?",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": "",
-                "micro_guion_es": "",
+                "micro_guion_es": "¡Transforma tu gestión de clientes! Con nuestra **Configuración de una plataforma CRM apta para pruebas y desarrollo**, optimiza tus procesos y potencia tu equipo. Prueba, ajusta y mejora sin límites. ¡Desarrolla estrategias efectivas y lleva tu negocio al siguiente nivel! Contáctanos y comienza hoy.",
                 "Descripcion_Tecnica_Corta": "Activación y configuración de una de licencia gratuita CRM con capacidad API para integración con IA."
             }
         },
@@ -7937,7 +7937,7 @@
                 "Pregunta": "Cuantos meses de mantenimiento integral deseas adquirir? ",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": "",
-                "micro_guion_es": "",
+                "micro_guion_es": "¡Transforma tu experiencia con nuestro Plan Integral de Mantenimiento para Agentes IA! Optimiza el rendimiento de tus sistemas con múltiples módulos diseñados para adaptarse a tus necesidades. Asegura la eficiencia, reduce costos y maximiza resultados. ¡No dejes que tu IA se detenga, mantén su potencial al máximo!",
                 "Descripcion_Tecnica_Corta": "Mantenimiento mensual de agentes IA con múltiples módulos y conectores activos."
             }
         },
@@ -7970,7 +7970,7 @@
                 "Pregunta": "Cuantas bases de datos deseas implementar en el sistema de integración de ArcGIS y Pinecone?",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": "",
-                "micro_guion_es": "",
+                "micro_guion_es": "¡Transforma tus datos geoespaciales! Con nuestro servicio de **Implementación de Sistemas Automático de Sincronización** entre ArcGIS y Pinecone, optimiza la gestión de información en tiempo real. Acelera tus proyectos, mejora la precisión y toma decisiones más rápidas. ¡Conéctate al futuro de la geoinformación hoy!",
                 "Descripcion_Tecnica_Corta": "Estes servicio que consiste en la implementación de un algoritmo GIS desarrollado por IsaGIS para poder sincronizar con un boton una base de datos tabular que debe estar en ArcGIS Pro, con Pinecone. "
             }
         },
@@ -8003,7 +8003,7 @@
                 "Pregunta": "Cuantas cuentas de Desarrollador quiere implementar?",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": "",
-                "micro_guion_es": "",
+                "micro_guion_es": "¡Desata el poder de la inteligencia artificial! Con nuestro servicio de Licenciamiento y Configuración de 1 Cuenta de Desarrolladores de OpenAI, tendrás acceso a herramientas avanzadas que transformarán tus ideas en realidad. Optimiza tus proyectos y lleva tu innovación al siguiente nivel. ¡Contáctanos y comienza hoy!",
                 "Descripcion_Tecnica_Corta": "Este servicio cubre la configuracion de una cuenta de desarrolladores de Open AI y una sola recarga de 20 dolares de la cuenta. Ideal para servicios que requieran la integración con modelos de Open AI"
             }
         },
@@ -8036,7 +8036,7 @@
                 "Pregunta": "Cuantos Modulos de Llamadas Automatizadas para Seguimiento de Leads y Eventos, desea implementar?",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": "",
-                "micro_guion_es": "",
+                "micro_guion_es": "¡Transforma tu estrategia de ventas con nuestro Módulo de Llamadas Automatizadas! Optimiza el seguimiento de leads y eventos, ahorrando tiempo y maximizando resultados. Con tecnología avanzada, conecta con tus clientes de manera efectiva y nunca pierdas una oportunidad. ¡Impulsa tu negocio hoy!",
                 "Descripcion_Tecnica_Corta": "Funcionalidad de llamada automatizada basada en triggers como formularios web, redes sociales o bases de datos."
             }
         },
@@ -8069,7 +8069,7 @@
                 "Pregunta": "Cuantos modulos implementaron o planean implementar?",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": "",
-                "micro_guion_es": "",
+                "micro_guion_es": "¡Potencia tu negocio con la Calibración del Módulo de Agente IA! Optimiza la interacción con tus clientes y mejora la eficiencia de tus operaciones. Nuestro servicio garantiza que tu agente IA hable el idioma de tu marca, brindando respuestas precisas y personalizadas. ¡Transforma la experiencia del cliente hoy!",
                 "Descripcion_Tecnica_Corta": "Este servicio permite adaptar a la necesidades del Modulo que se este implementando a las necesidades la empresa"
             }
         },
@@ -8102,7 +8102,7 @@
                 "Pregunta": "Cuantas cuentas de Cal.com desea el cliente?",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": "",
-                "micro_guion_es": "",
+                "micro_guion_es": "¡Impulsa tu productividad con la Configuración Inicial de Cuenta Cal.com! Obtén tu licencia gratuita y descubre cómo optimizar tu agenda. Conéctate fácilmente con tus clientes y organiza tus citas en un solo lugar. ¡No dejes pasar esta oportunidad! Regístrate hoy y transforma tu manera de gestionar el tiempo.",
                 "Descripcion_Tecnica_Corta": "Alta y configuración de cuenta Cal.com gratuita, con entrega de credenciales para integración IA."
             }
         },
@@ -8135,7 +8135,7 @@
                 "Pregunta": "Cuantos modulos basicos de agendamiento de citas se desean implementar?",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": "",
-                "micro_guion_es": "",
+                "micro_guion_es": "¡Transforma tus reuniones con nuestro Módulo de Integración Básico a Cal.com! Conéctate sin esfuerzo, ya sea virtual o presencial. Organiza, coordina y optimiza tu tiempo como nunca antes. ¡Haz que cada encuentro cuente! Descubre la simplicidad de la integración y lleva tu productividad al siguiente nivel.",
                 "Descripcion_Tecnica_Corta": "Agendamiento automático con Cal.com para citas virtuales o presenciales desde agente IA."
             }
         },
@@ -8168,10 +8168,10 @@
                 "Pregunta": "Cuantos modulos avanzados de agendamiento de citas se desean implementar?",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": "",
-                "micro_guion_es": "",
+                "micro_guion_es": "¡Transforma tus reuniones con nuestro Módulo de Integración Avanzada a Cal.com! Conéctate de manera fluida, ya sea virtual o presencial. Optimiza tu agenda, mejora la colaboración y haz que cada encuentro cuente. ¡No dejes que la logística te detenga! Integra y simplifica hoy mismo.",
                 "Descripcion_Tecnica_Corta": "Agendamiento inteligente con recordatorios y reagendamiento automático desde Cal.com."
             }
         }
     ],
-    "updated_at": "2025-08-06 21:29:16"
+    "updated_at": "2025-08-06 22:01:46"
 }
