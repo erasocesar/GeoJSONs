@@ -1,0 +1,80 @@
+{
+    "type": "FeatureCollection",
+    "schema": {
+        "Nombre_del_Standard": {
+            "type": "String",
+            "length": 255
+        },
+        "Nombre_del_Examen": {
+            "type": "String",
+            "length": 255
+        },
+        "Estructura_del_Examen": {
+            "type": "String",
+            "length": 415
+        },
+        "Áreas_de_Conocimiento_1__Cálculos_de_Ingeniería__Sección_I_": {
+            "type": "String",
+            "length": 1461
+        },
+        "Áreas_de_Conocimiento_2__Soldadura_y_Calificaciones__Sección_II_": {
+            "type": "String",
+            "length": 836
+        },
+        "Áreas_de_Conocimiento_3__Examen_No_Destructivo__Sección_III_": {
+            "type": "String",
+            "length": 1053
+        },
+        "Áreas_de_Conocimiento_4__Conocimiento_Práctico_General__Secciones_IV_V_": {
+            "type": "String",
+            "length": 813
+        },
+        "Publicaciones_de_Referencia_Clave": {
+            "type": "String",
+            "length": 1131
+        },
+        "Exclusiones_Importantes": {
+            "type": "String",
+            "length": 1344
+        },
+        "Recomendaciones_para_la_Preparación": {
+            "type": "String",
+            "length": 813
+        },
+        "Link_de_Documento": {
+            "type": "String",
+            "length": 255
+        },
+        "Link_Informacion": {
+            "type": "String",
+            "length": 255
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_del_Standard": "API 570",
+                "Nombre_del_Examen": "API 570 PIPING INSPECTOR CERTIFICATION EXAM",
+                "Estructura_del_Examen": "Dos partes: 1) Parte de libro cerrado - evalúa conocimientos básicos y tareas que requieren conocimiento práctico diario de API 570 y documentos de referencia aplicables. 2) Parte de libro abierto - requiere uso de información detallada que el inspector debe saber encontrar en los documentos pero no necesariamente memorizar. Los candidatos deben elegir la mejor respuesta de las opciones proporcionadas.",
+                "Áreas_de_Conocimiento_1__Cálculos_de_Ingeniería__Sección_I_": "8 categorías principales: 1) Tasas de Corrosión e Intervalos de Inspección - calcular tasas de corrosión (API 570 7.1.2), vida útil remanente (API 570 7.2), intervalos de inspección (API 570 6.3.3 & Tabla 1). 2) Factores de Calidad de Soldadura y Fundición - determinar factor Ej para soldaduras longitudinales, factor Ec según ASME B31.3 302.3.3(b) y Tabla A-1A, factores de soldadura según ASME B31.3 302.3.4 y Tabla A-1B. 3) Presión Interna/Espesor Mínimo - determinar espesor mínimo requerido para presión interna (ASME B31.3 304.1.1 y 304.1.2), espesor mínimo de bridas permanentes (ASME B31.3 304.5.3), MAWP de tuberías corroídas compensando pérdida de corrosión esperada (API 570 7.5). 4) Pruebas de Presión - conocimiento de pruebas hidrostáticas y neumáticas (ASME B31.3 345.4 y 345.5), calcular presiones de prueba. 5) Pruebas de Impacto - determinar temperatura mínima exenta de pruebas de impacto (ASME B31.3 323.2.2), valores mínimos requeridos Charpy V-notch (ASME B31.3 323.3). 6) Precalentamiento y Tratamiento Térmico - determinar tamaños de soldadura que requieren precalentamiento/tratamiento térmico, temperaturas requeridas (ASME B31.3 330). 7) Expansión Térmica - determinar expansión térmica total entre temperaturas (ASME B31.3 Apéndice C). 8) Espesor Mínimo y Presiones de Trabajo para Bridas - determinar espesores mínimos y presiones de trabajo, presiones máximas según material y temperatura, dimensiones mínimas de bridas.",
+                "Áreas_de_Conocimiento_2__Soldadura_y_Calificaciones__Sección_II_": "Conocimientos y habilidades para revisar: 1) Especificación de Procedimiento de Soldadura (WPS), 2) Registro de Calificación de Procedimiento (PQR), 3) Calificación de Rendimiento del Soldador (WPQ). Determinar cumplimiento con ASME BPVC y API 570, verificar variables esenciales y no esenciales, evaluar pruebas mecánicas y resultados, confirmar calificación del soldador. Procesos cubiertos: SMAW, GTAW, GMAW, SAW (limitado a un proceso por WPS/PQR/WPQ, metales base limitados a P-No. 1, 3, 4, 5, 8). Conocimiento de reglas generales de soldadura ASME B31.3 Capítulo V: juntas típicas, tamaños de soldadura, restricciones, refuerzo máximo, requisitos de inspección, precalentamiento y tratamiento térmico. Familiaridad con reglas de soldadura API 570 (toma precedencia sobre ASME B31.3). Conocimiento completo de API RP 577.",
+                "Áreas_de_Conocimiento_3__Examen_No_Destructivo__Sección_III_": "Conocimiento de ASME Sección V: 1) Artículo 1 - Requisitos Generales: alcance, reglas de uso, responsabilidades, calibración, definiciones, registros. 2) Artículo 2 - Examen Radiográfico: alcance, reglas para radiografía en soldaduras a tope, marcado requerido, IQI's, densidad permitida, control de radiación dispersa, registros. 3) Artículo 6 - Examen por Líquidos Penetrantes: reglas generales, procedimientos, contaminantes, técnicas, examen, interpretación, documentación. 4) Artículo 7 - Examen por Partículas Magnéticas (solo técnicas Yoke y Prod): alcance, procedimientos, técnicas, calibración, examen, interpretación, documentación. 5) Artículo 9 - Examen Visual: alcance, procedimientos, requisitos físicos, técnicas, evaluación, documentación. 6) Artículo 10 - Pruebas de Fuga: alcance, procedimientos, equipo, calibración, pruebas, evaluación, documentación. 7) Artículo 23 SE-797 - Medición de Espesor por Ultrasonido: alcance, reglas generales, procedimientos específicos. Requisitos generales de NDE según ASME B31.3 y API 570.",
+                "Áreas_de_Conocimiento_4__Conocimiento_Práctico_General__Secciones_IV_V_": "19 temas principales: 1) Requisitos de Organización y Certificación, 2) Tipos y Definiciones de Inspecciones de Mantenimiento, 3) Soldadura en Tuberías, 4) Evaluación de Corrosión y Espesor Mínimo, 5) Estimación de Vida Útil Remanente, 6) Determinación de Intervalos de Inspección, 7) Prácticas de Seguridad en Inspección de Mantenimiento, 8) Registros e Informes de Inspección, 9) Reparaciones/Alteraciones/Re-clasificaciones de Tuberías, 10) Re-clasificación de Tuberías, 11) Pruebas de Presión después de Reparaciones, 12) Clasificaciones Presión-Temperatura, 13) Marcado, 14) Materiales, 15) Dimensiones, 16) Pruebas, 17) Dimensiones Límite de Juntas, 18) Métodos para Establecer Clasificaciones Presión-Temperatura, 19) Métodos de Identificación Positiva de Materiales y mantenimiento de registros.",
+                "Publicaciones_de_Referencia_Clave": "API 570 (documento completo), API RP 571 (secciones específicas: Definiciones Sección 2, Par. 3.3 Agrietamiento por Esfuerzo en Aminas, 3.8 Corrosión Atmosférica, 3.9 Corrosión por Agua de Caldera, 3.14 Corrosión Cáustica, 3.15 Agrietamiento por Esfuerzo Cáustico, 3.17 Agrietamiento por Esfuerzo de Cloruros, 3.22 Corrosión Bajo Aislamiento, 3.27 Erosión/Erosión-Corrosión, 3.31 Corrosión Galvánica, 3.37 Corrosión por Ácido Clorhídrico, 3.43 Fatiga Mecánica, 3.45 Corrosión Influenciada Microbiológicamente, 3.57 Corrosión del Suelo, 3.58 Corrosión por Agua Agria, 3.61 Sulfuración), API RP 574 (documento completo), API RP 576 (Secciones 5, 6.1-6.3, 8, 10.1-10.3), API RP 577 (documento completo), API RP 578 (documento completo), ASME B16.5 (alcance, clasificaciones presión-temperatura, marcado, materiales, dimensiones, pruebas, dimensiones límite de juntas, métodos para establecer clasificaciones), ASME Sección V (Examen No Destructivo), ASME Sección IX (Calificación de Soldadura), ASME B31.3 (Tuberías de Proceso), ASME PCC-2 (Artículos específicos: 101, 201, 206, 209, 210, 211, 212, 304, 305, 306, 501, 502).",
+                "Exclusiones_Importantes": "Exclusiones de ASME B31.3: 1) 302 Criterios de diseño (excepto 302.3.3 y 302.3.4), 2) 304.1.3 Tubería recta bajo presión externa, 3) 304.2 Segmentos curvos y con inglete, 4) 304.3 Conexiones de ramales, 5) 304.4 Cierres, 6) 304.5 Diseño de presión de bridas y tapas ciegas (excepto 304.5.3), 7) 304.6 Reductores, 8) 304.7 Diseño de presión de otros componentes, 9) 315 Juntas de tubos, 10) 316 Juntas calafateadas, 11) 317 Juntas soldadas y brazadas, 12) 318 Juntas especiales, 13) 319.4 Análisis de flexibilidad, 14) 319.5 Reacciones, 15) 319.6 Cálculo de movimientos, 16) 319.7 Medios para aumentar flexibilidad, 17) 322.3 Tuberías de instrumentos, 18) Capítulo VII Tuberías no metálicas, 19) Capítulo VIII Tuberías para servicio de fluido Categoría M, 20) Capítulo IX Tuberías de alta presión, 21) Apéndice B Tablas de esfuerzo y presión para no metales, 22) Apéndice D Factores de flexibilidad e intensificación de esfuerzo, 23) Apéndice E Estándares de referencia, 24) Apéndice G Salvaguardas, 25) Apéndice H Cálculos de muestra para refuerzo de ramales, 26) Apéndice J Nomenclatura, 27) Apéndice K Esfuerzos permitidos para tuberías de alta presión, 28) Apéndice R Uso de criterios alternativos de aceptación ultrasónica, 29) Apéndice X Juntas de expansión de fuelles metálicos, 30) Apéndice Z Preparación de consultas técnicas.",
+                "Recomendaciones_para_la_Preparación": "1) Dominar tanto unidades del sistema estadounidense (pulgadas, pies, PSI) como sistema métrico (SI), 2) Practicar extensivamente cálculos de tasas de corrosión y vida útil remanente, 3) Familiarizarse completamente con procedimientos de soldadura y sus calificaciones, 4) Estudiar a fondo los métodos de examen no destructivo y sus aplicaciones específicas, 5) Conocer detalladamente los requisitos específicos de cada publicación de referencia listada, 6) Enfocarse en aplicaciones de tuberías en servicio más que en tuberías nuevas, 7) Practicar la búsqueda eficiente de información en los documentos para la parte de libro abierto, 8) Revisar las hoja de efectividad de publicaciones en el sitio web de API (www.api.org/ICP) para conocer las ediciones específicas efectivas para la fecha del examen.",
+                "Link_de_Documento": "https://isagis.com/cAPI/Documents/BOK_570_Feburary 2025_final.pdf",
+                "Link_Informacion": ""
+            }
+        }
+    ],
+    "updated_at": "2025-09-02 16:28:49"
+}
