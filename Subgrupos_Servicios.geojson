@@ -61,22 +61,6 @@
                 ]
             },
             "properties": {
-                "Subgrupo": "Agentes IA",
-                "Sinonimos_Subgrupo": "Agentes inteligentes; IA autónoma; Intelligent agents; Bots de IA; Agentes cognitivos; Automatización n8n; Módulo n8n",
-                "topK": 2,
-                "Filtro": "Subgrupo:Agentes de IA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
                 "Subgrupo": "Ambiental",
                 "Sinonimos_Subgrupo": "Medio ambiente; Gestión ambiental; Environmental services; Consultoría ambiental; Monitoreo ambiental",
                 "topK": 1,
@@ -367,7 +351,7 @@
             "properties": {
                 "Subgrupo": "Carga de Datos",
                 "Sinonimos_Subgrupo": "Data loading; Ingesta de datos; Importación de datos; ETL inicial; Upload de datasets",
-                "topK": 17,
+                "topK": 18,
                 "Filtro": "Subgrupo:Carga de Datos"
             }
         },
@@ -447,7 +431,7 @@
             "properties": {
                 "Subgrupo": "Constructores de aplicaciones de Cero Codido/bajo codigo ",
                 "Sinonimos_Subgrupo": "App builders low‑code; Zero‑code app makers; Low‑code developers; AppStudio like; Constructores sin código",
-                "topK": 8,
+                "topK": 7,
                 "Filtro": "Subgrupo:Constructores de aplicaciones de Cero Codido/bajo codigo "
             }
         },
@@ -735,7 +719,7 @@
             "properties": {
                 "Subgrupo": "Licenciamiento y Configuración",
                 "Sinonimos_Subgrupo": "Licencias software; Venta de licencias; Suscripción software; Licenciamiento de aplicaciones; Licencias de uso; Configuración de Licencias; Configuración de Cuentas; Creación de Cuentas; Configuración de Cuentas",
-                "topK": 1,
+                "topK": 9,
                 "Filtro": "Subgrupo:Licenciamiento"
             }
         },
@@ -1106,7 +1090,87 @@
                 "topK": 1,
                 "Filtro": "Subgrupo:Videos Aéreos"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Canales de Comunicación",
+                "Sinonimos_Subgrupo": "Forma de Comunicación; Canal; Via de Comunicación",
+                "topK": 7,
+                "Filtro": "Subgrupo:Canales de Comunicación"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Conectividad de Datos",
+                "Sinonimos_Subgrupo": "Datos; Consumo de Datos; Fuentes",
+                "topK": 3,
+                "Filtro": "Subgrupo:Conectividad de Datos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Funcionalidad Avanzada",
+                "Sinonimos_Subgrupo": "Herramienta Avanzada",
+                "topK": 4,
+                "Filtro": "Subgrupo:Funcionalidad Avanzada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Funcionalidad Basica",
+                "Sinonimos_Subgrupo": "Herramienta Basica",
+                "topK": 1,
+                "Filtro": "Subgrupo:Funcionalidad Basica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Modulo Base",
+                "Sinonimos_Subgrupo": "Funcionalidad Base; Rol",
+                "topK": 2,
+                "Filtro": "Subgrupo:Modulo Base"
+            }
         }
     ],
-    "updated_at": "2025-09-02 16:29:09"
+    "updated_at": "2025-09-26 20:16:23"
 }
