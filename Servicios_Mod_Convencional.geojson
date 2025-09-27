@@ -314,7 +314,67 @@
                 "Link_informacion": "https://youtu.be/Yrlk9rTb6Gk",
                 "Entregables": "🧱 1. Nube de Puntos Georreferenciada (Point Cloud)\r\n- Con millones de puntos por segundo, representa la geometría 3D del terreno y activos.\r\n- Compatible con formatos LAS, LAZ, E57 para uso en CAD, GIS y BIM.\r\n🗺️ 2. Modelos Digitales del Terreno y Superficie (MDT/MDS)\r\n- MDT: Representación altimétrica del terreno desnudo.\r\n- MDS: Incluye vegetación, infraestructura y elementos superficiales.\r\n- Útiles para análisis de relieve, escorrentía, diseño de obras y simulaciones.\r\n📸 3. Ortomosaico Aéreo de Alta Resolución\r\n- Imagen compuesta y georreferenciada del área capturada.\r\n- Ideal para inspección visual, documentación y planificación.\r\n📊 4. Informe Técnico de Captura y Procesamiento\r\n📂 5. Base de Datos Geoespacial del Proyecto"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_del_Servicio": "LearnBot",
+                "Descripcion_del_Servicio": "LearnBot es un servicio combinado de IA Educativo que integra y combina multiples servicios de IA para crear agentes de IA especializados en entrenamiento, evaluación y retroalimentación de usuarios en cualquier tema. Disponible en modalidades convencional o por demanda, está diseñado para academias virtuales de empresas, universidades y centros educativos, optimizando procesos de aprendizaje mediante automatización inteligente y personalización adaptativa.",
+                "Partner": "Este servicio es ofrecido directamente por IsaGIS",
+                "Visualizado_por_Demanda": "Si",
+                "Departamento_IsaGIS": "Servicios IA",
+                "Sinonimos": "[\"1. Bot Capacitador\\n2. Bot Profesor\\n3. Tutor IA\\n4. Agente IA Capacitador\\n5. Profesor IA\"]",
+                "Link_informacion": "https://isagis.com/cAPI/",
+                "Entregables": "1. Diagrama del Bot\r\n2. Documentación de la temática en la cual esta experta el Bot para Capacitar\r\n3. Tutorial de Uso del Bot\r\n4. Documentación de configuraciones y licenciamiento implementado en los servidores del cliente.\r\n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_del_Servicio": "AssistantBot",
+                "Descripcion_del_Servicio": "AssistantBot es un servicio combinado de IA que integra y combina múltiples servicios de IA para crear agentes de IA especializados ser asistentes personales de gerentes, junta directiva, ingenieros o consultores que requieran un asistente personal que envie correos, envie recordatorios de reuniones, controle otros IsaBots, genere reportes, agende reuniones, cargue información de gastos y muchas otras actividades más.",
+                "Partner": "Este servicio es ofrecido directamente por IsaGIS",
+                "Visualizado_por_Demanda": "Si",
+                "Departamento_IsaGIS": "Servicios IA",
+                "Sinonimos": "[\"1 Bot Asistente Personal\\n2. Bot Asistente\\n3. Secretario Virtual\\n4. Agente IA Asistente\\n5. Asistente IA\"]",
+                "Link_informacion": "No tiene Link aun",
+                "Entregables": "1. Diagrama del Bot\r\n2. Documentación de funcionalidades del Bot.\r\n3. Tutorial de Uso del Bot\r\n4. Documentación de configuraciones y licenciamiento implementado en los servidores del cliente.\r\n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_del_Servicio": "ArcGIS OperationalBot",
+                "Descripcion_del_Servicio": "ArcGIS Operational Bot es un servicio combinado de IA que integra y combina múltiples servicios de IA para crear agentes de IA especializados en operar distintas aplicaciones de ArcGIS por medio de la voz o un chat, por ahora se ofrecerían las siguientes funcionalidades de ArcGIS: Operar Mapas de Visores de ArcGIS, Manejar formularios de ArcGIS Survey123, ArcGIS Field Maps, Proyectos de Mapa en ArcGIS Pro.",
+                "Partner": "Este servicio es ofrecido directamente por IsaGIS",
+                "Visualizado_por_Demanda": "Si",
+                "Departamento_IsaGIS": "Servicios IA",
+                "Sinonimos": "[\"1 Analista GIS Bot\\n2. ArcGIS Bot\\n3. Agente de IA de ArcGIS\\n4. Mobile Bot Worker\"]",
+                "Link_informacion": "No tiene Link aun",
+                "Entregables": "1. Diagrama del Bot\r\n2. Documentación de funcionalidades del Bot.\r\n3. Tutorial de Uso del Bot\r\n4. Documentación de configuraciones y licenciamiento implementado en los servidores del cliente."
+            }
         }
     ],
-    "updated_at": "2025-09-02 16:29:07"
+    "updated_at": "2025-09-26 20:16:22"
 }
