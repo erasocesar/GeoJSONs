@@ -954,13 +954,13 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Atención al Cliente Informativo Basico",
-                "Codigo_Servicio_SIG": 267,
-                "Nombre_del_Servicio": "Módulo de Integración Básico a Cal.com para Reuniones Virtuales o Presenciales",
-                "Descripción_Técnica_del_Servici": "Este módulo básico permite a un agente IA integrarse con Cal.com para gestionar el flujo de agendamiento de reuniones, incluyendo la verificación de disponibilidad en calendario, propuesta de horarios al cliente y reserva automática de reuniones virtuales o presenciales. Ideal para empresas o negocios que requieren coordinar citas, reservas o reuniones sin funcionalidades extendidas de recordatorio.\r\n",
+                "Nombre_Servicio_Combinado": "InfoBot + WebChat",
+                "Codigo_Servicio_SIG": 261,
+                "Nombre_del_Servicio": "Licenciamiento y Configuracion de 1 Cuenta de Desarrolladores de OpenAI",
+                "Descripción_Técnica_del_Servici": "Este servicio cubre la configuracion de una cuenta de desarrolladores de Open AI y una sola recarga de 20 dolares de la cuenta. Ideal para servicios que requieran la integración con modelos de Open AI. A el cliente se le dara una capacitacion basica del uso de la cuenta de desarrolladores y se entregaran las pruebas de las recarga de 20 dolares, como monitorear el saldo de la cuenta y como recargar las cuenta, en futuras ocasiones.",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Licenciamiento y Configuración",
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
@@ -977,13 +977,59 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Atención al Cliente Informativo Basico",
+                "Nombre_Servicio_Combinado": "InfoBot + WebChat",
+                "Codigo_Servicio_SIG": 266,
+                "Nombre_del_Servicio": "Configuración Inicial de Cuenta Cal.com (Licencia Gratuita)",
+                "Descripción_Técnica_del_Servici": "Este servicio contempla la creación y configuración inicial de una cuenta Cal.com bajo el plan gratuito, el cual incluye: 1 usuario, calendarios y tipos de eventos ilimitados, automatización mediante workflows, integración con aplicaciones y posibilidad de pagos vía Stripe. Al finalizar, se entrega la API Key y el ID del calendario necesario para integrar con el Módulo de Conexión a Cal.com.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Licenciamiento y Configuración",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "InfoBot + WebChat",
+                "Codigo_Servicio_SIG": 267,
+                "Nombre_del_Servicio": "Módulo de Integración Básico a Cal.com para Reuniones Virtuales o Presenciales",
+                "Descripción_Técnica_del_Servici": "Este módulo básico permite a un agente IA integrarse con Cal.com para gestionar el flujo de agendamiento de reuniones, incluyendo la verificación de disponibilidad en calendario, propuesta de horarios al cliente y reserva automática de reuniones virtuales o presenciales. Ideal para empresas o negocios que requieren coordinar citas, reservas o reuniones sin funcionalidades extendidas de recordatorio.\r\n",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Funcionalidad Basica",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "InfoBot + WebChat",
                 "Codigo_Servicio_SIG": 251,
-                "Nombre_del_Servicio": "Bot Informativo Web (SPM)",
+                "Nombre_del_Servicio": "Modulo Agente de IA Informativo (Modulo Base InfoBot)",
                 "Descripción_Técnica_del_Servici": "Este servicio corresponde a un agente de inteligencia artificial informativo que opera en sitios web utilizando una estructura de SPM (Sistema de Preguntas y Mensajes) básica. El bot puede responder preguntas frecuentes, entregar información clave del negocio, productos o servicios, y asistir a usuarios sin depender de herramientas externas ni conexión con bases de datos. Está diseñado como punto de partida para asistentes inteligentes accesibles y fáciles de integrar. El bot se puede integrar en la pagina web del cliente.",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Modulo Base",
                 "Unidades_Basicos": 0.0,
                 "Unidades_Intermedias": 0.5,
                 "Unidades_Avanzadas": 0.0,
@@ -1000,12 +1046,12 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Atención al Cliente Informativo Basico",
+                "Nombre_Servicio_Combinado": "InfoBot + WebChat",
                 "Codigo_Servicio_SIG": 252,
                 "Nombre_del_Servicio": "Licenciamiento y Configuración de Plataforma n8n (Cloud)",
                 "Descripción_Técnica_del_Servici": "Incluye la provisión de un licenciamiento nivel starter y gestión del licenciamiento requerido para ejecutar agentes IA en la plataforma n8n, recomendando usar la versión de la nube (n8n.io). Incluye un pequeña capacitacion de 1 hora maximo del uso de la licencia starter. Este tipo de licenciamiento incluye: 1 shared project, maximo 5 flujos activos, unlimited users y acceso al forum de soporte. Si pasas de 5 flujos activos, se recomienda adquirir el plan Pro directamente con n8n.",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
+                "Grupo": "IsaBots",
                 "Subgrupo": "Licenciamiento y Configuración",
                 "Unidades_Basicos": 1.5,
                 "Unidades_Intermedias": 0.0,
@@ -1023,12 +1069,12 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Atención al Cliente Informativo Basico",
+                "Nombre_Servicio_Combinado": "SaleBot + InfoBot + Webchat",
                 "Codigo_Servicio_SIG": 261,
                 "Nombre_del_Servicio": "Licenciamiento y Configuracion de 1 Cuenta de Desarrolladores de OpenAI",
                 "Descripción_Técnica_del_Servici": "Este servicio cubre la configuracion de una cuenta de desarrolladores de Open AI y una sola recarga de 20 dolares de la cuenta. Ideal para servicios que requieran la integración con modelos de Open AI. A el cliente se le dara una capacitacion basica del uso de la cuenta de desarrolladores y se entregaran las pruebas de las recarga de 20 dolares, como monitorear el saldo de la cuenta y como recargar las cuenta, en futuras ocasiones.",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
+                "Grupo": "IsaBots",
                 "Subgrupo": "Licenciamiento y Configuración",
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
@@ -1046,35 +1092,12 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Básico",
-                "Codigo_Servicio_SIG": 261,
-                "Nombre_del_Servicio": "Licenciamiento y Configuracion de 1 Cuenta de Desarrolladores de OpenAI",
-                "Descripción_Técnica_del_Servici": "Este servicio cubre la configuracion de una cuenta de desarrolladores de Open AI y una sola recarga de 20 dolares de la cuenta. Ideal para servicios que requieran la integración con modelos de Open AI. A el cliente se le dara una capacitacion basica del uso de la cuenta de desarrolladores y se entregaran las pruebas de las recarga de 20 dolares, como monitorear el saldo de la cuenta y como recargar las cuenta, en futuras ocasiones.",
-                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Licenciamiento y Configuración",
-                "Unidades_Basicos": 1.0,
-                "Unidades_Intermedias": 0.0,
-                "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Básico",
+                "Nombre_Servicio_Combinado": "SaleBot + InfoBot + Webchat",
                 "Codigo_Servicio_SIG": 266,
                 "Nombre_del_Servicio": "Configuración Inicial de Cuenta Cal.com (Licencia Gratuita)",
                 "Descripción_Técnica_del_Servici": "Este servicio contempla la creación y configuración inicial de una cuenta Cal.com bajo el plan gratuito, el cual incluye: 1 usuario, calendarios y tipos de eventos ilimitados, automatización mediante workflows, integración con aplicaciones y posibilidad de pagos vía Stripe. Al finalizar, se entrega la API Key y el ID del calendario necesario para integrar con el Módulo de Conexión a Cal.com.",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
+                "Grupo": "IsaBots",
                 "Subgrupo": "Licenciamiento y Configuración",
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
@@ -1092,13 +1115,13 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Básico",
+                "Nombre_Servicio_Combinado": "SaleBot + InfoBot + Webchat",
                 "Codigo_Servicio_SIG": 267,
                 "Nombre_del_Servicio": "Módulo de Integración Básico a Cal.com para Reuniones Virtuales o Presenciales",
                 "Descripción_Técnica_del_Servici": "Este módulo básico permite a un agente IA integrarse con Cal.com para gestionar el flujo de agendamiento de reuniones, incluyendo la verificación de disponibilidad en calendario, propuesta de horarios al cliente y reserva automática de reuniones virtuales o presenciales. Ideal para empresas o negocios que requieren coordinar citas, reservas o reuniones sin funcionalidades extendidas de recordatorio.\r\n",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Funcionalidad Basica",
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
@@ -1115,13 +1138,13 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Básico",
+                "Nombre_Servicio_Combinado": "SaleBot + InfoBot + Webchat",
                 "Codigo_Servicio_SIG": 243,
-                "Nombre_del_Servicio": "Modulo Inteligente de Ventas (SPM Prospectivo + Informativo)",
+                "Nombre_del_Servicio": "Modulo Agente IA de Ventas (Modulo base SaleBot)",
                 "Descripción_Técnica_del_Servici": "Este módulo otorga al Agente de IA la capacidad de ejecutar flujos conversacionales con enfoque comercial y prospectivo, integrando un SPM (System Prompt Message) especialmente diseñado para guiar de manera estratégica a potenciales clientes, brindando información clara y conduciéndolos hacia decisiones de negocio.\n\nA través de modelos avanzados de lenguaje como GPT-4o, GPT-4o Mini o GPT-3.5 Turbo, el agente IA puede generar interacciones personalizadas, identificar necesidades y ofrecer respuestas orientadas al cierre de oportunidades comerciales.\n\nEl módulo incluye:\n\n- La creación de un SPM prospectivo + informativo, adaptado a los objetivos comerciales del cliente.\n\n- Integración con Manychat, permitiendo al agente operar directamente desde canales como Facebook Messenger, Instagram o sitios web, facilitando el contacto fluido desde redes sociales.\n\n- Integración a un chatbot de IsaGIS que puede ser implementado alineado a la necesidades del cliente en su pagina web, para atender preguntas informativas y pudiendo volverlas propectivas.\n\nAdemás, el módulo puede potenciarse aún más con funcionalidades adicionales, que pueden ser contratadas,  tales como:\n\n-🔍 Acceso a bases de datos vectoriales como Pinecone para extraer información contextual relevante del cliente o producto.\n\n- 🌍 Conexión con servicios web de ArcGIS y/o tablas GeoJSON alojadas en GitHub, permitiendo al agente comprender mejor el entorno geográfico, los territorios o el portafolio de servicios aplicables.\n- Operar CRM, Eventos, acceso a emails, modulo de disponibilidad y reserva de citas.\n",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Modulo Base",
                 "Unidades_Basicos": 1.5,
                 "Unidades_Intermedias": 0.5,
                 "Unidades_Avanzadas": 0.0,
@@ -1138,12 +1161,35 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Básico",
+                "Nombre_Servicio_Combinado": "SaleBot + InfoBot + Webchat",
+                "Codigo_Servicio_SIG": 251,
+                "Nombre_del_Servicio": "Modulo Agente de IA Informativo (Modulo Base InfoBot)",
+                "Descripción_Técnica_del_Servici": "Este servicio corresponde a un agente de inteligencia artificial informativo que opera en sitios web utilizando una estructura de SPM (Sistema de Preguntas y Mensajes) básica. El bot puede responder preguntas frecuentes, entregar información clave del negocio, productos o servicios, y asistir a usuarios sin depender de herramientas externas ni conexión con bases de datos. Está diseñado como punto de partida para asistentes inteligentes accesibles y fáciles de integrar. El bot se puede integrar en la pagina web del cliente.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Modulo Base",
+                "Unidades_Basicos": 0.0,
+                "Unidades_Intermedias": 0.5,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot + InfoBot + Webchat",
                 "Codigo_Servicio_SIG": 252,
                 "Nombre_del_Servicio": "Licenciamiento y Configuración de Plataforma n8n (Cloud)",
                 "Descripción_Técnica_del_Servici": "Incluye la provisión de un licenciamiento nivel starter y gestión del licenciamiento requerido para ejecutar agentes IA en la plataforma n8n, recomendando usar la versión de la nube (n8n.io). Incluye un pequeña capacitacion de 1 hora maximo del uso de la licencia starter. Este tipo de licenciamiento incluye: 1 shared project, maximo 5 flujos activos, unlimited users y acceso al forum de soporte. Si pasas de 5 flujos activos, se recomienda adquirir el plan Pro directamente con n8n.",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
+                "Grupo": "IsaBots",
                 "Subgrupo": "Licenciamiento y Configuración",
                 "Unidades_Basicos": 1.5,
                 "Unidades_Intermedias": 0.0,
@@ -1161,12 +1207,12 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Intermedio",
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a Whatsapp y Redes Sociales",
                 "Codigo_Servicio_SIG": 266,
                 "Nombre_del_Servicio": "Configuración Inicial de Cuenta Cal.com (Licencia Gratuita)",
                 "Descripción_Técnica_del_Servici": "Este servicio contempla la creación y configuración inicial de una cuenta Cal.com bajo el plan gratuito, el cual incluye: 1 usuario, calendarios y tipos de eventos ilimitados, automatización mediante workflows, integración con aplicaciones y posibilidad de pagos vía Stripe. Al finalizar, se entrega la API Key y el ID del calendario necesario para integrar con el Módulo de Conexión a Cal.com.",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
+                "Grupo": "IsaBots",
                 "Subgrupo": "Licenciamiento y Configuración",
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
@@ -1184,13 +1230,13 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Intermedio",
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a Whatsapp y Redes Sociales",
                 "Codigo_Servicio_SIG": 267,
                 "Nombre_del_Servicio": "Módulo de Integración Básico a Cal.com para Reuniones Virtuales o Presenciales",
                 "Descripción_Técnica_del_Servici": "Este módulo básico permite a un agente IA integrarse con Cal.com para gestionar el flujo de agendamiento de reuniones, incluyendo la verificación de disponibilidad en calendario, propuesta de horarios al cliente y reserva automática de reuniones virtuales o presenciales. Ideal para empresas o negocios que requieren coordinar citas, reservas o reuniones sin funcionalidades extendidas de recordatorio.\r\n",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Funcionalidad Basica",
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
@@ -1207,13 +1253,13 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Intermedio",
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a Whatsapp y Redes Sociales",
                 "Codigo_Servicio_SIG": 243,
-                "Nombre_del_Servicio": "Modulo Inteligente de Ventas (SPM Prospectivo + Informativo)",
+                "Nombre_del_Servicio": "Modulo Agente IA de Ventas (Modulo base SaleBot)",
                 "Descripción_Técnica_del_Servici": "Este módulo otorga al Agente de IA la capacidad de ejecutar flujos conversacionales con enfoque comercial y prospectivo, integrando un SPM (System Prompt Message) especialmente diseñado para guiar de manera estratégica a potenciales clientes, brindando información clara y conduciéndolos hacia decisiones de negocio.\n\nA través de modelos avanzados de lenguaje como GPT-4o, GPT-4o Mini o GPT-3.5 Turbo, el agente IA puede generar interacciones personalizadas, identificar necesidades y ofrecer respuestas orientadas al cierre de oportunidades comerciales.\n\nEl módulo incluye:\n\n- La creación de un SPM prospectivo + informativo, adaptado a los objetivos comerciales del cliente.\n\n- Integración con Manychat, permitiendo al agente operar directamente desde canales como Facebook Messenger, Instagram o sitios web, facilitando el contacto fluido desde redes sociales.\n\n- Integración a un chatbot de IsaGIS que puede ser implementado alineado a la necesidades del cliente en su pagina web, para atender preguntas informativas y pudiendo volverlas propectivas.\n\nAdemás, el módulo puede potenciarse aún más con funcionalidades adicionales, que pueden ser contratadas,  tales como:\n\n-🔍 Acceso a bases de datos vectoriales como Pinecone para extraer información contextual relevante del cliente o producto.\n\n- 🌍 Conexión con servicios web de ArcGIS y/o tablas GeoJSON alojadas en GitHub, permitiendo al agente comprender mejor el entorno geográfico, los territorios o el portafolio de servicios aplicables.\n- Operar CRM, Eventos, acceso a emails, modulo de disponibilidad y reserva de citas.\n",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Modulo Base",
                 "Unidades_Basicos": 1.5,
                 "Unidades_Intermedias": 0.5,
                 "Unidades_Avanzadas": 0.0,
@@ -1230,13 +1276,13 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Intermedio",
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a Whatsapp y Redes Sociales",
                 "Codigo_Servicio_SIG": 244,
-                "Nombre_del_Servicio": "Funcionalidad integración a WhatsApp o Telegram",
+                "Nombre_del_Servicio": "Integración con Canales de Mensajería (WhatsApp / Telegram)",
                 "Descripción_Técnica_del_Servici": "Este módulo permite la integración de agentes inteligentes desarrollados con n8n o plataformas equivalentes con canales de mensajería como WhatsApp y Telegram. Facilita la interacción directa con usuarios finales a través de estas plataformas, permitiendo extender flujos conversacionales, atención automatizada, ventas o soporte en tiempo real. El módulo configura los webhooks y autenticaciones necesarias para habilitar la mensajería bidireccional, y puede conectarse a bots ya existentes o agentes nuevos desarrollados por IsaGIS.",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Canales de Comunicación",
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
@@ -1253,13 +1299,13 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Intermedio",
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a Whatsapp y Redes Sociales",
                 "Codigo_Servicio_SIG": 247,
-                "Nombre_del_Servicio": "Funcionalidad de Integración de Redes Sociales (Manychat)",
+                "Nombre_del_Servicio": "Conector de Redes Sociales para Agentes IA",
                 "Descripción_Técnica_del_Servici": "Este módulo conecta agentes IA con plataformas de automatización de redes sociales como Manychat, permitiendo flujos conversacionales en Facebook Messenger, Instagram o WhatsApp Business. Permite automatizar respuestas, calificación de prospectos, envío de contenidos y acciones personalizadas a través de redes sociales.",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Canales de Comunicación",
                 "Unidades_Basicos": 0.0,
                 "Unidades_Intermedias": 0.5,
                 "Unidades_Avanzadas": 0.0,
@@ -1276,12 +1322,12 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Intermedio",
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a Whatsapp y Redes Sociales",
                 "Codigo_Servicio_SIG": 252,
                 "Nombre_del_Servicio": "Licenciamiento y Configuración de Plataforma n8n (Cloud)",
                 "Descripción_Técnica_del_Servici": "Incluye la provisión de un licenciamiento nivel starter y gestión del licenciamiento requerido para ejecutar agentes IA en la plataforma n8n, recomendando usar la versión de la nube (n8n.io). Incluye un pequeña capacitacion de 1 hora maximo del uso de la licencia starter. Este tipo de licenciamiento incluye: 1 shared project, maximo 5 flujos activos, unlimited users y acceso al forum de soporte. Si pasas de 5 flujos activos, se recomienda adquirir el plan Pro directamente con n8n.",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
+                "Grupo": "IsaBots",
                 "Subgrupo": "Licenciamiento y Configuración",
                 "Unidades_Basicos": 1.5,
                 "Unidades_Intermedias": 0.0,
@@ -1299,12 +1345,12 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Intermedio",
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a Whatsapp y Redes Sociales",
                 "Codigo_Servicio_SIG": 253,
                 "Nombre_del_Servicio": "Configuración de Cuenta Twilio/Authkey",
                 "Descripción_Técnica_del_Servici": "Este servicio cubre la gestión del licenciamiento y configuración de servicios de mensajería en canales como WhatsApp Business, mediante proveedores como Twilio o Authkey y configuración de una cuenta de meta developers del cliente. Incluye la creación del número comercial, configuración de la cuenta del cliente asociada a una SIM CARD, envío de mensajes de prueba y configuración de para dejar listo para la etapa de producción. Incluye una pequeña capacitación para que el cliente tenga los conocimientos de como monitorear el saldo y hacer futuras recargas.",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
+                "Grupo": "IsaBots",
                 "Subgrupo": "Licenciamiento y Configuración",
                 "Unidades_Basicos": 2.0,
                 "Unidades_Intermedias": 0.0,
@@ -1322,12 +1368,12 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Intermedio",
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a Whatsapp y Redes Sociales",
                 "Codigo_Servicio_SIG": 255,
                 "Nombre_del_Servicio": "Configuración de Meta Developers y Manychat",
                 "Descripción_Técnica_del_Servici": "Configuración técnica de los dos componentes clave para activar un chatbot funcional en redes sociales (Facebook Messenger o Instagram) usando Manychat como plataforma de automatización. Este servicio se debe incluir si el cliente no posee la configuración de la App de meta configurada y cuenta de Manychat activa.",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
+                "Grupo": "IsaBots",
                 "Subgrupo": "Licenciamiento y Configuración",
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
@@ -1345,58 +1391,12 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a ArcGIS On Line",
-                "Codigo_Servicio_SIG": 256,
-                "Nombre_del_Servicio": "Configuración de una plataforma CRM apta para pruebas y desarrollo",
-                "Descripción_Técnica_del_Servici": "Este servicio se da en el caso de que el cliente no cuente con una cuenta activa y con API habilitada del CRM deseado y consiste en configurar y habilitar la licencia gratuita de un CRM que puede ser Salesforce o HubSpot, compatible con integraciones API para agentes IA. Incluye activación de entorno, carga inicial de datos (si aplica) y conexión con el agente inteligente de ventas.",
-                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Licenciamiento y Configuración",
-                "Unidades_Basicos": 1.0,
-                "Unidades_Intermedias": 0.0,
-                "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a ArcGIS On Line",
-                "Codigo_Servicio_SIG": 262,
-                "Nombre_del_Servicio": "Módulo de Llamadas Automatizadas para Seguimiento de Leads y Eventos",
-                "Descripción_Técnica_del_Servici": "Este módulo permite que un agente inteligente realice llamadas automatizadas a potenciales clientes cuando se detectan acciones clave, como: llenado de formularios web, comentarios solicitando más información en redes sociales, registro en landing pages o eventos, o desde bases de datos existentes. El objetivo es contactar de manera inmediata para confirmar inscripciones a eventos, resolver dudas o cerrar una oportunidad comercial. Las llamadas pueden ser realizadas mediante servicios de terceros y configuradas con mensajes dinámicos o transferencia a agentes humanos.Este módulo requiere haber implementado previamente el servicio 'Agente Inteligente de Ventas (SPM Prospectivo + Conectores IA)'.",
-                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes IA",
-                "Unidades_Basicos": 0.0,
-                "Unidades_Intermedias": 0.5,
-                "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a ArcGIS On Line",
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp",
                 "Codigo_Servicio_SIG": 266,
                 "Nombre_del_Servicio": "Configuración Inicial de Cuenta Cal.com (Licencia Gratuita)",
                 "Descripción_Técnica_del_Servici": "Este servicio contempla la creación y configuración inicial de una cuenta Cal.com bajo el plan gratuito, el cual incluye: 1 usuario, calendarios y tipos de eventos ilimitados, automatización mediante workflows, integración con aplicaciones y posibilidad de pagos vía Stripe. Al finalizar, se entrega la API Key y el ID del calendario necesario para integrar con el Módulo de Conexión a Cal.com.",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
+                "Grupo": "IsaBots",
                 "Subgrupo": "Licenciamiento y Configuración",
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
@@ -1414,13 +1414,13 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a ArcGIS On Line",
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp",
                 "Codigo_Servicio_SIG": 267,
                 "Nombre_del_Servicio": "Módulo de Integración Básico a Cal.com para Reuniones Virtuales o Presenciales",
                 "Descripción_Técnica_del_Servici": "Este módulo básico permite a un agente IA integrarse con Cal.com para gestionar el flujo de agendamiento de reuniones, incluyendo la verificación de disponibilidad en calendario, propuesta de horarios al cliente y reserva automática de reuniones virtuales o presenciales. Ideal para empresas o negocios que requieren coordinar citas, reservas o reuniones sin funcionalidades extendidas de recordatorio.\r\n",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Funcionalidad Basica",
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
@@ -1437,13 +1437,13 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a ArcGIS On Line",
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp",
                 "Codigo_Servicio_SIG": 241,
-                "Nombre_del_Servicio": " Implementación de Herramienta de AI Agent que consuma servicios web publicados en la plataforma ArcGIS Online o ArcGIS Enterprise",
+                "Nombre_del_Servicio": "Conector a Servicios Web Geoespaciales",
                 "Descripción_Técnica_del_Servici": "Esta herramienta permitiria conectar aplicaciones, dashboards o agentes inteligentes con servicios web publicados en la plataforma ArcGIS Online o ArcGIS Enterprise. La conexión puede ser a capas de entidades (Feature Services), mapas web, imágenes, geoprocesos o cualquier otro recurso REST. Este servicio es clave para lograr la integración geoespacial de sistemas o asistentes que requieren consultar, visualizar o actualizar información geográfica en tiempo real",
                 "Area_estrategica_IsaGIS_Technol": "Servicios SIG",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Conectividad de Datos",
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
@@ -1460,13 +1460,13 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a ArcGIS On Line",
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp",
                 "Codigo_Servicio_SIG": 243,
-                "Nombre_del_Servicio": "Modulo Inteligente de Ventas (SPM Prospectivo + Informativo)",
+                "Nombre_del_Servicio": "Modulo Agente IA de Ventas (Modulo base SaleBot)",
                 "Descripción_Técnica_del_Servici": "Este módulo otorga al Agente de IA la capacidad de ejecutar flujos conversacionales con enfoque comercial y prospectivo, integrando un SPM (System Prompt Message) especialmente diseñado para guiar de manera estratégica a potenciales clientes, brindando información clara y conduciéndolos hacia decisiones de negocio.\n\nA través de modelos avanzados de lenguaje como GPT-4o, GPT-4o Mini o GPT-3.5 Turbo, el agente IA puede generar interacciones personalizadas, identificar necesidades y ofrecer respuestas orientadas al cierre de oportunidades comerciales.\n\nEl módulo incluye:\n\n- La creación de un SPM prospectivo + informativo, adaptado a los objetivos comerciales del cliente.\n\n- Integración con Manychat, permitiendo al agente operar directamente desde canales como Facebook Messenger, Instagram o sitios web, facilitando el contacto fluido desde redes sociales.\n\n- Integración a un chatbot de IsaGIS que puede ser implementado alineado a la necesidades del cliente en su pagina web, para atender preguntas informativas y pudiendo volverlas propectivas.\n\nAdemás, el módulo puede potenciarse aún más con funcionalidades adicionales, que pueden ser contratadas,  tales como:\n\n-🔍 Acceso a bases de datos vectoriales como Pinecone para extraer información contextual relevante del cliente o producto.\n\n- 🌍 Conexión con servicios web de ArcGIS y/o tablas GeoJSON alojadas en GitHub, permitiendo al agente comprender mejor el entorno geográfico, los territorios o el portafolio de servicios aplicables.\n- Operar CRM, Eventos, acceso a emails, modulo de disponibilidad y reserva de citas.\n",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Modulo Base",
                 "Unidades_Basicos": 1.5,
                 "Unidades_Intermedias": 0.5,
                 "Unidades_Avanzadas": 0.0,
@@ -1483,13 +1483,13 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a ArcGIS On Line",
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp",
                 "Codigo_Servicio_SIG": 244,
-                "Nombre_del_Servicio": "Funcionalidad integración a WhatsApp o Telegram",
+                "Nombre_del_Servicio": "Integración con Canales de Mensajería (WhatsApp / Telegram)",
                 "Descripción_Técnica_del_Servici": "Este módulo permite la integración de agentes inteligentes desarrollados con n8n o plataformas equivalentes con canales de mensajería como WhatsApp y Telegram. Facilita la interacción directa con usuarios finales a través de estas plataformas, permitiendo extender flujos conversacionales, atención automatizada, ventas o soporte en tiempo real. El módulo configura los webhooks y autenticaciones necesarias para habilitar la mensajería bidireccional, y puede conectarse a bots ya existentes o agentes nuevos desarrollados por IsaGIS.",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Canales de Comunicación",
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
@@ -1506,7 +1506,53 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a ArcGIS On Line",
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp",
+                "Codigo_Servicio_SIG": 252,
+                "Nombre_del_Servicio": "Licenciamiento y Configuración de Plataforma n8n (Cloud)",
+                "Descripción_Técnica_del_Servici": "Incluye la provisión de un licenciamiento nivel starter y gestión del licenciamiento requerido para ejecutar agentes IA en la plataforma n8n, recomendando usar la versión de la nube (n8n.io). Incluye un pequeña capacitacion de 1 hora maximo del uso de la licencia starter. Este tipo de licenciamiento incluye: 1 shared project, maximo 5 flujos activos, unlimited users y acceso al forum de soporte. Si pasas de 5 flujos activos, se recomienda adquirir el plan Pro directamente con n8n.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Licenciamiento y Configuración",
+                "Unidades_Basicos": 1.5,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp",
+                "Codigo_Servicio_SIG": 247,
+                "Nombre_del_Servicio": "Conector de Redes Sociales para Agentes IA",
+                "Descripción_Técnica_del_Servici": "Este módulo conecta agentes IA con plataformas de automatización de redes sociales como Manychat, permitiendo flujos conversacionales en Facebook Messenger, Instagram o WhatsApp Business. Permite automatizar respuestas, calificación de prospectos, envío de contenidos y acciones personalizadas a través de redes sociales.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Canales de Comunicación",
+                "Unidades_Basicos": 0.0,
+                "Unidades_Intermedias": 0.5,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp",
                 "Codigo_Servicio_SIG": 220,
                 "Nombre_del_Servicio": "Configuración de aplicaciones de ArcGIS Online o ArcGIS Desktop",
                 "Descripción_Técnica_del_Servici": "Este servicio se da si el cliente no tiene licencias activas o configuradas de ArcGIS On Line y ArcGIS Pro. Este servicio puede ser utilizado en cursos que tengan una parte práctica en donde se debe usar las herramientas que se incluyen en este licenciamiento y tambien pudiera darse cuando se requiera operacion de aplicaciones desarrolladas usando ArcGIS. Este servicio incluye la instalación en 1 maquina del cliente ArcGIS Pro y la instalacion de realizaria virtualmente,  es decir, tomando el control de la maquina. Si se requiere traslado a las oficinas del cliente se agregarias servicios de logistica. Tambien incluye 1 hora de capacitación virtual del producto de ArcGIS que se este instalando.",
@@ -1529,127 +1575,12 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a ArcGIS On Line",
-                "Codigo_Servicio_SIG": 246,
-                "Nombre_del_Servicio": "Funcionalidad de operar CRMs",
-                "Descripción_Técnica_del_Servici": "Este módulo permite que un agente IA consulte, cree o actualice información directamente en plataformas CRM como HubSpot, Zoho, Salesforce u otras disponibles vía API. Tambien se pudiera usar la aplicación de embudo de ventas de IsaGIS. Facilita la automatización de procesos comerciales, actualización de leads, asignación de tareas o seguimiento de oportunidades en tiempo real.",
-                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes IA",
-                "Unidades_Basicos": 0.0,
-                "Unidades_Intermedias": 0.5,
-                "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a ArcGIS On Line",
-                "Codigo_Servicio_SIG": 247,
-                "Nombre_del_Servicio": "Funcionalidad de Integración de Redes Sociales (Manychat)",
-                "Descripción_Técnica_del_Servici": "Este módulo conecta agentes IA con plataformas de automatización de redes sociales como Manychat, permitiendo flujos conversacionales en Facebook Messenger, Instagram o WhatsApp Business. Permite automatizar respuestas, calificación de prospectos, envío de contenidos y acciones personalizadas a través de redes sociales.",
-                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes IA",
-                "Unidades_Basicos": 0.0,
-                "Unidades_Intermedias": 0.5,
-                "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a ArcGIS On Line",
-                "Codigo_Servicio_SIG": 248,
-                "Nombre_del_Servicio": "Módulo de Promoción e Inscripción a Eventos o Webinars",
-                "Descripción_Técnica_del_Servici": "Este módulo permite automatizar la promoción, difusión y gestión de inscripciones a eventos, cursos o webinars a través de canales de mensajería como WhatsApp, Telegram, Facebook Messenger, Instagram o chatbots en páginas web. El agente puede contactar leads de manera proactiva, proporcionar información clave del evento, resolver dudas frecuentes y redirigir al canal de inscripción habilitado. Ideal para fortalecer campañas de posicionamiento, generar comunidad y aumentar la tasa de conversión de interesados en actividades organizadas por la empresa.",
-                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes IA",
-                "Unidades_Basicos": 0.0,
-                "Unidades_Intermedias": 0.5,
-                "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a ArcGIS On Line",
-                "Codigo_Servicio_SIG": 249,
-                "Nombre_del_Servicio": "Módulo de Recepción de Notas de Voz e Imágenes en Chat de Agentes IA",
-                "Descripción_Técnica_del_Servici": "Este módulo permite a los agentes inteligentes recibir, almacenar y procesar contenido multimedia enviado por los usuarios durante una conversación a través de canales como WhatsApp, Telegram, Facebook Messenger o chat web. Los tipos de contenido admitidos incluyen notas de voz, imágenes (fotos, capturas), e incluso archivos adjuntos si el canal lo permite. Esta funcionalidad es útil para validar identidad, recibir documentos de soporte, ubicar imágenes de campo o recoger observaciones en voz de los usuarios. Puede integrarse a flujos de análisis o almacenamiento adicional según el caso.",
-                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes IA",
-                "Unidades_Basicos": 0.0,
-                "Unidades_Intermedias": 0.5,
-                "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a ArcGIS On Line",
-                "Codigo_Servicio_SIG": 252,
-                "Nombre_del_Servicio": "Licenciamiento y Configuración de Plataforma n8n (Cloud)",
-                "Descripción_Técnica_del_Servici": "Incluye la provisión de un licenciamiento nivel starter y gestión del licenciamiento requerido para ejecutar agentes IA en la plataforma n8n, recomendando usar la versión de la nube (n8n.io). Incluye un pequeña capacitacion de 1 hora maximo del uso de la licencia starter. Este tipo de licenciamiento incluye: 1 shared project, maximo 5 flujos activos, unlimited users y acceso al forum de soporte. Si pasas de 5 flujos activos, se recomienda adquirir el plan Pro directamente con n8n.",
-                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Licenciamiento y Configuración",
-                "Unidades_Basicos": 1.5,
-                "Unidades_Intermedias": 0.0,
-                "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a ArcGIS On Line",
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp",
                 "Codigo_Servicio_SIG": 253,
                 "Nombre_del_Servicio": "Configuración de Cuenta Twilio/Authkey",
                 "Descripción_Técnica_del_Servici": "Este servicio cubre la gestión del licenciamiento y configuración de servicios de mensajería en canales como WhatsApp Business, mediante proveedores como Twilio o Authkey y configuración de una cuenta de meta developers del cliente. Incluye la creación del número comercial, configuración de la cuenta del cliente asociada a una SIM CARD, envío de mensajes de prueba y configuración de para dejar listo para la etapa de producción. Incluye una pequeña capacitación para que el cliente tenga los conocimientos de como monitorear el saldo y hacer futuras recargas.",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
+                "Grupo": "IsaBots",
                 "Subgrupo": "Licenciamiento y Configuración",
                 "Unidades_Basicos": 2.0,
                 "Unidades_Intermedias": 0.0,
@@ -1667,12 +1598,12 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a ArcGIS On Line",
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp",
                 "Codigo_Servicio_SIG": 255,
                 "Nombre_del_Servicio": "Configuración de Meta Developers y Manychat",
                 "Descripción_Técnica_del_Servici": "Configuración técnica de los dos componentes clave para activar un chatbot funcional en redes sociales (Facebook Messenger o Instagram) usando Manychat como plataforma de automatización. Este servicio se debe incluir si el cliente no posee la configuración de la App de meta configurada y cuenta de Manychat activa.",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
+                "Grupo": "IsaBots",
                 "Subgrupo": "Licenciamiento y Configuración",
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
@@ -1690,58 +1621,12 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a Pinecone",
-                "Codigo_Servicio_SIG": 256,
-                "Nombre_del_Servicio": "Configuración de una plataforma CRM apta para pruebas y desarrollo",
-                "Descripción_Técnica_del_Servici": "Este servicio se da en el caso de que el cliente no cuente con una cuenta activa y con API habilitada del CRM deseado y consiste en configurar y habilitar la licencia gratuita de un CRM que puede ser Salesforce o HubSpot, compatible con integraciones API para agentes IA. Incluye activación de entorno, carga inicial de datos (si aplica) y conexión con el agente inteligente de ventas.",
-                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Licenciamiento y Configuración",
-                "Unidades_Basicos": 1.0,
-                "Unidades_Intermedias": 0.0,
-                "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a Pinecone",
-                "Codigo_Servicio_SIG": 262,
-                "Nombre_del_Servicio": "Módulo de Llamadas Automatizadas para Seguimiento de Leads y Eventos",
-                "Descripción_Técnica_del_Servici": "Este módulo permite que un agente inteligente realice llamadas automatizadas a potenciales clientes cuando se detectan acciones clave, como: llenado de formularios web, comentarios solicitando más información en redes sociales, registro en landing pages o eventos, o desde bases de datos existentes. El objetivo es contactar de manera inmediata para confirmar inscripciones a eventos, resolver dudas o cerrar una oportunidad comercial. Las llamadas pueden ser realizadas mediante servicios de terceros y configuradas con mensajes dinámicos o transferencia a agentes humanos.Este módulo requiere haber implementado previamente el servicio 'Agente Inteligente de Ventas (SPM Prospectivo + Conectores IA)'.",
-                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes IA",
-                "Unidades_Basicos": 0.0,
-                "Unidades_Intermedias": 0.5,
-                "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a Pinecone",
+                "Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales",
                 "Codigo_Servicio_SIG": 266,
                 "Nombre_del_Servicio": "Configuración Inicial de Cuenta Cal.com (Licencia Gratuita)",
                 "Descripción_Técnica_del_Servici": "Este servicio contempla la creación y configuración inicial de una cuenta Cal.com bajo el plan gratuito, el cual incluye: 1 usuario, calendarios y tipos de eventos ilimitados, automatización mediante workflows, integración con aplicaciones y posibilidad de pagos vía Stripe. Al finalizar, se entrega la API Key y el ID del calendario necesario para integrar con el Módulo de Conexión a Cal.com.",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
+                "Grupo": "IsaBots",
                 "Subgrupo": "Licenciamiento y Configuración",
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
@@ -1759,13 +1644,13 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a Pinecone",
+                "Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales",
                 "Codigo_Servicio_SIG": 267,
                 "Nombre_del_Servicio": "Módulo de Integración Básico a Cal.com para Reuniones Virtuales o Presenciales",
                 "Descripción_Técnica_del_Servici": "Este módulo básico permite a un agente IA integrarse con Cal.com para gestionar el flujo de agendamiento de reuniones, incluyendo la verificación de disponibilidad en calendario, propuesta de horarios al cliente y reserva automática de reuniones virtuales o presenciales. Ideal para empresas o negocios que requieren coordinar citas, reservas o reuniones sin funcionalidades extendidas de recordatorio.\r\n",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Funcionalidad Basica",
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
@@ -1782,13 +1667,13 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a Pinecone",
+                "Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales",
                 "Codigo_Servicio_SIG": 240,
-                "Nombre_del_Servicio": "Implementación de la Funcionalidad o herramienta para acceder bases de datos vectoriales (Pinecone)",
-                "Descripción_Técnica_del_Servici": "Este módulo permite derle la funcionalidad a un Agente de IA que consulte grandes bases de datos habilitando la conexión a bases de datos vectoriales como Pinecone. Con esta integración, el agente puede realizar búsquedas semánticas en documentos o registros almacenados, permitiendo respuestas contextualizadas y enriquecidas. El módulo es ideal para escenarios donde se requiere memoria de largo plazo o interpretación de grandes volúmenes de información. Puede integrarse con bots existentes o futuros desarrollos de IA dentro del ecosistema IsaGIS. ",
+                "Nombre_del_Servicio": "Módulo de Conexión a Base de Datos Vectorial",
+                "Descripción_Técnica_del_Servici": "Este módulo permite derle la funcionalidad a un Empleado Virtual que consulte grandes bases de datos habilitando la conexión a bases de datos vectoriales como Pinecone. Con esta integración, el agente puede realizar búsquedas semánticas en documentos o registros almacenados, permitiendo respuestas contextualizadas y enriquecidas. El módulo es ideal para escenarios donde se requiere memoria de largo plazo o interpretación de grandes volúmenes de información. Puede integrarse con bots existentes o futuros desarrollos de IA dentro del ecosistema IsaGIS. ",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Conectividad de Datos",
                 "Unidades_Basicos": 1.5,
                 "Unidades_Intermedias": 0.25,
                 "Unidades_Avanzadas": 0.0,
@@ -1805,13 +1690,13 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a Pinecone",
+                "Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales",
                 "Codigo_Servicio_SIG": 243,
-                "Nombre_del_Servicio": "Modulo Inteligente de Ventas (SPM Prospectivo + Informativo)",
+                "Nombre_del_Servicio": "Modulo Agente IA de Ventas (Modulo base SaleBot)",
                 "Descripción_Técnica_del_Servici": "Este módulo otorga al Agente de IA la capacidad de ejecutar flujos conversacionales con enfoque comercial y prospectivo, integrando un SPM (System Prompt Message) especialmente diseñado para guiar de manera estratégica a potenciales clientes, brindando información clara y conduciéndolos hacia decisiones de negocio.\n\nA través de modelos avanzados de lenguaje como GPT-4o, GPT-4o Mini o GPT-3.5 Turbo, el agente IA puede generar interacciones personalizadas, identificar necesidades y ofrecer respuestas orientadas al cierre de oportunidades comerciales.\n\nEl módulo incluye:\n\n- La creación de un SPM prospectivo + informativo, adaptado a los objetivos comerciales del cliente.\n\n- Integración con Manychat, permitiendo al agente operar directamente desde canales como Facebook Messenger, Instagram o sitios web, facilitando el contacto fluido desde redes sociales.\n\n- Integración a un chatbot de IsaGIS que puede ser implementado alineado a la necesidades del cliente en su pagina web, para atender preguntas informativas y pudiendo volverlas propectivas.\n\nAdemás, el módulo puede potenciarse aún más con funcionalidades adicionales, que pueden ser contratadas,  tales como:\n\n-🔍 Acceso a bases de datos vectoriales como Pinecone para extraer información contextual relevante del cliente o producto.\n\n- 🌍 Conexión con servicios web de ArcGIS y/o tablas GeoJSON alojadas en GitHub, permitiendo al agente comprender mejor el entorno geográfico, los territorios o el portafolio de servicios aplicables.\n- Operar CRM, Eventos, acceso a emails, modulo de disponibilidad y reserva de citas.\n",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Modulo Base",
                 "Unidades_Basicos": 1.5,
                 "Unidades_Intermedias": 0.5,
                 "Unidades_Avanzadas": 0.0,
@@ -1828,13 +1713,13 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a Pinecone",
+                "Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales",
                 "Codigo_Servicio_SIG": 244,
-                "Nombre_del_Servicio": "Funcionalidad integración a WhatsApp o Telegram",
+                "Nombre_del_Servicio": "Integración con Canales de Mensajería (WhatsApp / Telegram)",
                 "Descripción_Técnica_del_Servici": "Este módulo permite la integración de agentes inteligentes desarrollados con n8n o plataformas equivalentes con canales de mensajería como WhatsApp y Telegram. Facilita la interacción directa con usuarios finales a través de estas plataformas, permitiendo extender flujos conversacionales, atención automatizada, ventas o soporte en tiempo real. El módulo configura los webhooks y autenticaciones necesarias para habilitar la mensajería bidireccional, y puede conectarse a bots ya existentes o agentes nuevos desarrollados por IsaGIS.",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Canales de Comunicación",
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
@@ -1851,104 +1736,12 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a Pinecone",
-                "Codigo_Servicio_SIG": 246,
-                "Nombre_del_Servicio": "Funcionalidad de operar CRMs",
-                "Descripción_Técnica_del_Servici": "Este módulo permite que un agente IA consulte, cree o actualice información directamente en plataformas CRM como HubSpot, Zoho, Salesforce u otras disponibles vía API. Tambien se pudiera usar la aplicación de embudo de ventas de IsaGIS. Facilita la automatización de procesos comerciales, actualización de leads, asignación de tareas o seguimiento de oportunidades en tiempo real.",
-                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes IA",
-                "Unidades_Basicos": 0.0,
-                "Unidades_Intermedias": 0.5,
-                "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a Pinecone",
-                "Codigo_Servicio_SIG": 247,
-                "Nombre_del_Servicio": "Funcionalidad de Integración de Redes Sociales (Manychat)",
-                "Descripción_Técnica_del_Servici": "Este módulo conecta agentes IA con plataformas de automatización de redes sociales como Manychat, permitiendo flujos conversacionales en Facebook Messenger, Instagram o WhatsApp Business. Permite automatizar respuestas, calificación de prospectos, envío de contenidos y acciones personalizadas a través de redes sociales.",
-                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes IA",
-                "Unidades_Basicos": 0.0,
-                "Unidades_Intermedias": 0.5,
-                "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a Pinecone",
-                "Codigo_Servicio_SIG": 248,
-                "Nombre_del_Servicio": "Módulo de Promoción e Inscripción a Eventos o Webinars",
-                "Descripción_Técnica_del_Servici": "Este módulo permite automatizar la promoción, difusión y gestión de inscripciones a eventos, cursos o webinars a través de canales de mensajería como WhatsApp, Telegram, Facebook Messenger, Instagram o chatbots en páginas web. El agente puede contactar leads de manera proactiva, proporcionar información clave del evento, resolver dudas frecuentes y redirigir al canal de inscripción habilitado. Ideal para fortalecer campañas de posicionamiento, generar comunidad y aumentar la tasa de conversión de interesados en actividades organizadas por la empresa.",
-                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes IA",
-                "Unidades_Basicos": 0.0,
-                "Unidades_Intermedias": 0.5,
-                "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a Pinecone",
-                "Codigo_Servicio_SIG": 249,
-                "Nombre_del_Servicio": "Módulo de Recepción de Notas de Voz e Imágenes en Chat de Agentes IA",
-                "Descripción_Técnica_del_Servici": "Este módulo permite a los agentes inteligentes recibir, almacenar y procesar contenido multimedia enviado por los usuarios durante una conversación a través de canales como WhatsApp, Telegram, Facebook Messenger o chat web. Los tipos de contenido admitidos incluyen notas de voz, imágenes (fotos, capturas), e incluso archivos adjuntos si el canal lo permite. Esta funcionalidad es útil para validar identidad, recibir documentos de soporte, ubicar imágenes de campo o recoger observaciones en voz de los usuarios. Puede integrarse a flujos de análisis o almacenamiento adicional según el caso.",
-                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
-                "Subgrupo": "Agentes IA",
-                "Unidades_Basicos": 0.0,
-                "Unidades_Intermedias": 0.5,
-                "Unidades_Avanzadas": 0.0,
-                "Link_Videos_Promocionales": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a Pinecone",
+                "Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales",
                 "Codigo_Servicio_SIG": 252,
                 "Nombre_del_Servicio": "Licenciamiento y Configuración de Plataforma n8n (Cloud)",
                 "Descripción_Técnica_del_Servici": "Incluye la provisión de un licenciamiento nivel starter y gestión del licenciamiento requerido para ejecutar agentes IA en la plataforma n8n, recomendando usar la versión de la nube (n8n.io). Incluye un pequeña capacitacion de 1 hora maximo del uso de la licencia starter. Este tipo de licenciamiento incluye: 1 shared project, maximo 5 flujos activos, unlimited users y acceso al forum de soporte. Si pasas de 5 flujos activos, se recomienda adquirir el plan Pro directamente con n8n.",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
+                "Grupo": "IsaBots",
                 "Subgrupo": "Licenciamiento y Configuración",
                 "Unidades_Basicos": 1.5,
                 "Unidades_Intermedias": 0.0,
@@ -1966,12 +1759,12 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a Pinecone",
+                "Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales",
                 "Codigo_Servicio_SIG": 253,
                 "Nombre_del_Servicio": "Configuración de Cuenta Twilio/Authkey",
                 "Descripción_Técnica_del_Servici": "Este servicio cubre la gestión del licenciamiento y configuración de servicios de mensajería en canales como WhatsApp Business, mediante proveedores como Twilio o Authkey y configuración de una cuenta de meta developers del cliente. Incluye la creación del número comercial, configuración de la cuenta del cliente asociada a una SIM CARD, envío de mensajes de prueba y configuración de para dejar listo para la etapa de producción. Incluye una pequeña capacitación para que el cliente tenga los conocimientos de como monitorear el saldo y hacer futuras recargas.",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
+                "Grupo": "IsaBots",
                 "Subgrupo": "Licenciamiento y Configuración",
                 "Unidades_Basicos": 2.0,
                 "Unidades_Intermedias": 0.0,
@@ -1989,12 +1782,12 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a Pinecone",
+                "Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales",
                 "Codigo_Servicio_SIG": 254,
                 "Nombre_del_Servicio": "Configuración Inicial de Cuenta Pinecone",
                 "Descripción_Técnica_del_Servici": "Creación de cuenta gratuita en Pinecone, definición de índice base y obtención de API Key para consumir información vectorizada desde agentes IA u otras herramientas de análisis.",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
+                "Grupo": "IsaBots",
                 "Subgrupo": "Licenciamiento y Configuración",
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
@@ -2012,19 +1805,42 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a Pinecone",
+                "Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales",
                 "Codigo_Servicio_SIG": 255,
                 "Nombre_del_Servicio": "Configuración de Meta Developers y Manychat",
                 "Descripción_Técnica_del_Servici": "Configuración técnica de los dos componentes clave para activar un chatbot funcional en redes sociales (Facebook Messenger o Instagram) usando Manychat como plataforma de automatización. Este servicio se debe incluir si el cliente no posee la configuración de la App de meta configurada y cuenta de Manychat activa.",
                 "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
-                "Grupo": "Asistentes Virtuales",
+                "Grupo": "IsaBots",
                 "Subgrupo": "Licenciamiento y Configuración",
                 "Unidades_Basicos": 1.0,
                 "Unidades_Intermedias": 0.0,
                 "Unidades_Avanzadas": 0.0,
                 "Link_Videos_Promocionales": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales",
+                "Codigo_Servicio_SIG": 247,
+                "Nombre_del_Servicio": "Conector de Redes Sociales para Agentes IA",
+                "Descripción_Técnica_del_Servici": "Este módulo conecta agentes IA con plataformas de automatización de redes sociales como Manychat, permitiendo flujos conversacionales en Facebook Messenger, Instagram o WhatsApp Business. Permite automatizar respuestas, calificación de prospectos, envío de contenidos y acciones personalizadas a través de redes sociales.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Canales de Comunicación",
+                "Unidades_Basicos": 0.0,
+                "Unidades_Intermedias": 0.5,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
         }
     ],
-    "updated_at": "2025-09-02 16:29:04"
+    "updated_at": "2025-09-26 20:16:19"
 }
