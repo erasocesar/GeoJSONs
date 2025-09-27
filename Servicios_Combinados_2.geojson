@@ -185,16 +185,16 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Atención al Cliente Informativo Basico",
-                "Descripción_Técnica_del_Servicio_Combinado": "Este servicio combinado, \"Agente de Atención al Cliente Informativo Básico\", está diseñado para optimizar la atención al cliente mediante la implementación de un agente de inteligencia artificial que gestiona interacciones informativas de manera eficiente. Se basa en servicios sencillos como el Módulo de Integración Básico a Cal.com para gestionar el agendamiento de reuniones (Código 267) y el Bot Informativo Web (SPM), que responde preguntas frecuentes y proporciona información clave sin necesidad de herramientas externas (Código 251). Además, incluye el Licenciamiento y Configuración de Plataforma n8n (Cloud) para la gestión de flujos de trabajo de automatización (Código 252) y la configuración de una cuenta de desarrolladores de OpenAI (Código 261) para integrar modelos de IA. Este enfoque integral permite a las empresas coordinar citas, brindar información instantánea y gestionar interacciones con clientes de manera fluida, mejorando la experiencia del usuario y optimizando los procesos de atención al cliente.",
+                "Nombre_Servicio_Combinado": "InfoBot + WebChat",
+                "Descripción_Técnica_del_Servicio_Combinado": "El servicio \"InfoBot + WebChat\" combina la funcionalidad de un agente de inteligencia artificial informativo con capacidades de agendamiento automatizado. A través del \"Módulo Agente de IA Informativo (Código 251)\", se proporciona un asistente que puede responder preguntas frecuentes y brindar información esencial sobre productos y servicios, operando sin necesidad de herramientas externas. Complementariamente, el \"Módulo de Integración Básico a Cal.com (Código 267)\" permite al bot gestionar el agendamiento de reuniones, verificando disponibilidades y reservando citas de manera automática. Esta integración facilita la coordinación de reuniones virtuales o presenciales, simplificando el proceso para empresas que requieren un flujo eficiente de citas. Además, se incluye el \"Licenciamiento y Configuración de 1 Cuenta de Desarrolladores de OpenAI (Código 261)\" para optimizar la interacción del bot, permitiendo su integración con modelos avanzados de IA. En conjunto, \"InfoBot + WebChat\" ofrece una solución integral que mejora la atención al cliente y optimiza la gestión de citas, asegurando una experiencia fluida y efectiva.",
                 "Tipo_de_Servicio": "Servicio Combinado",
-                "Unidades_Basicos_totales": 3.5,
+                "Unidades_Basicos_totales": 4.5,
                 "Unidades_Intermedias_totales": 0.5,
                 "Unidades_Avanzadas_totales": 0.0,
-                "Servicios_por_demanda_incluidos": "251,252,261,267",
-                "Sinonimos": "Asistente de Atención al Cliente Básico, Operador de Información al Cliente Básico, Representante de Soporte al Usuario Básico, Facilitador de Consultas al Cliente Básico, Consejero de Información al Cliente Básico",
-                "Objetivo": "Proporcionar un servicio de atención al cliente informativo básico que permita a los usuarios obtener respuestas rápidas y precisas a preguntas frecuentes, mejorando la experiencia del cliente y optimizando la gestión de información sobre productos y servicios, a través de un agente de inteligencia artificial accesible e integrado en plataformas digitales.",
-                "Link_Info_Promocional": ""
+                "Servicios_por_demanda_incluidos": "251,252,261,266,267",
+                "Sinonimos": "InfoBot y WebChat, Asistente Virtual InfoBot con WebChat, InfoBot integrado con WebChat, InfoBot y Chat Web, Solución InfoBot + WebChat",
+                "Objetivo": "El objetivo del servicio \"InfoBot + WebChat\" es proporcionar una solución integral que combine la inteligencia artificial informativa de InfoBot con la interactividad de WebChat, permitiendo a los usuarios recibir respuestas instantáneas a sus consultas y acceder a información relevante de manera fluida y eficiente, mejorando así la experiencia del cliente en tiempo real.",
+                "Link_Info_Promocional": "https://youtu.be/KA5AdpOvJR0?si=L6HGCGybe-Rzm9jP"
             }
         },
         {
@@ -207,16 +207,16 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Básico",
-                "Descripción_Técnica_del_Servicio_Combinado": "El servicio \"Agente de Ventas (Prospectivo + Informativo) Básico\" combina capacidades avanzadas de interacción y gestión comercial a través de un módulo de ventas inteligente. Este servicio permite a un agente IA ejecutar flujos conversacionales diseñados estratégicamente para guiar a potenciales clientes, utilizando un System Prompt Message (SPM) adaptado a las metas comerciales del cliente. Se integra con plataformas como Manychat para operar en redes sociales y permite la implementación de un chatbot en la página web del cliente, facilitando interacciones informativas y prospectivas.\n\nEl servicio incluye la creación y configuración de una cuenta de desarrollador de OpenAI (Código 261) y la configuración inicial de una cuenta Cal.com (Código 266), que permite agendar reuniones. También se incorpora un módulo de integración básico a Cal.com (Código 267) para gestionar el flujo de agendamiento, optimizando la coordinación de citas y reservas. Además, el licenciamiento y configuración de la plataforma n8n (Código 252) permite la automatización de procesos. Con estas herramientas, el \"Agente de Ventas (Prospectivo + Informativo) Básico\" ofrece una solución integral para maximizar las oportunidades comerciales y mejorar la comunicación con los clientes.",
+                "Nombre_Servicio_Combinado": "SaleBot + InfoBot + Webchat",
+                "Descripción_Técnica_del_Servicio_Combinado": "El servicio combinado \"SaleBot + InfoBot + Webchat\" integra capacidades avanzadas de ventas y atención al cliente mediante inteligencia artificial. Este sistema permite a un agente IA comercial (SaleBot, Código 243) ejecutar flujos conversacionales estratégicos, guiando a los potenciales clientes hacia decisiones de negocio con interacciones personalizadas y respuestas orientadas al cierre de oportunidades. Además, incorpora un agente informativo (InfoBot, Código 251) que responde preguntas frecuentes y brinda información clave sobre productos y servicios, mejorando la experiencia del usuario en la web. La integración con plataformas de agendamiento como Cal.com (Código 266) permite la gestión automática de reuniones, optimizando el proceso de coordinación. Este servicio se basa en la capacidad de conectar con múltiples canales, incluyendo redes sociales y páginas web, facilitando un contacto fluido y efectivo. Con una configuración inicial robusta y entrenamiento básico para el uso de herramientas como OpenAI (Código 261), este servicio combina la automatización de ventas con atención al cliente, maximizando la eficiencia y satisfacción del cliente en un solo ecosistema digital.",
                 "Tipo_de_Servicio": "Servicio Combinado",
                 "Unidades_Basicos_totales": 6.0,
-                "Unidades_Intermedias_totales": 0.5,
+                "Unidades_Intermedias_totales": 1.0,
                 "Unidades_Avanzadas_totales": 0.0,
-                "Servicios_por_demanda_incluidos": "243,252,261,266,267",
-                "Sinonimos": "Asesor Comercial (Prospectivo + Informativo) Básico, Representante de Ventas (Prospectivo + Informativo) Básico, Ejecutivo de Ventas (Prospectivo + Informativo) Básico, Consultor de Ventas (Prospectivo + Informativo) Básico, Promotor de Ventas (Prospectivo + Informativo) Básico",
-                "Objetivo": "El objetivo del servicio \"Agente de Ventas (Prospectivo + Informativo) Básico\" es proporcionar a las empresas un asistente virtual que facilite la interacción con potenciales clientes mediante flujos conversacionales estratégicos, integrando herramientas de gestión de citas y recursos de información, optimizando así el proceso de ventas y mejorando la experiencia del usuario en la toma de decisiones comerciales.",
-                "Link_Info_Promocional": ""
+                "Servicios_por_demanda_incluidos": "243,251,252,261,266,267",
+                "Sinonimos": "Asistente de Ventas + Asistente de Información + Chat en Línea, Bot de Ventas + Bot de Información + Chat Interactivo, Agente de Ventas + Agente Informativo + Soporte de Chat, Venta Automática + Información Instantánea + Interacción Web, Bot de Ventas + Bot de Soporte + Asistencia Virtual.",
+                "Objetivo": "Optimizar la atención al cliente mediante la implementación del servicio combinado \"SaleBot + InfoBot + Webchat\", que permite gestionar interacciones comerciales y proporcionar información relevante en tiempo real, mejorando la experiencia del usuario y aumentando las oportunidades de conversión a través de un flujo conversacional automatizado y accesible en múltiples plataformas.",
+                "Link_Info_Promocional": "https://youtu.be/KA5AdpOvJR0?si=L6HGCGybe-Rzm9jP"
             }
         },
         {
@@ -229,16 +229,16 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Intermedio",
-                "Descripción_Técnica_del_Servicio_Combinado": "El servicio \"Agente de Ventas (Prospectivo + Informativo) Intermedio\" integra múltiples módulos para optimizar la gestión comercial y el agendamiento de reuniones. Este servicio combina el Módulo Inteligente de Ventas (Código 243), que permite al agente IA interactuar de manera prospectiva e informativa con potenciales clientes a través de flujos conversacionales personalizados, y el Módulo de Integración Básico a Cal.com (Código 267), que facilita la programación automática de reuniones. Además, incorpora funcionalidades de integración a WhatsApp o Telegram (Código 244) y redes sociales (Código 247), permitiendo un contacto fluido y efectivo con los usuarios finales. Este conjunto de herramientas se basa en tecnologías avanzadas como GPT-4o. La configuración inicial de cuentas en plataformas como Cal.com (Código 266) y n8n (Código 252) garantiza que el agente esté preparado para operar en entornos digitales modernos, optimizando la experiencia del usuario y facilitando el cierre de oportunidades comerciales.",
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a Whatsapp y Redes Sociales",
+                "Descripción_Técnica_del_Servicio_Combinado": "El servicio \"SaleBot Integrado a Whatsapp y Redes Sociales\" permite a las empresas automatizar la interacción con clientes a través de plataformas de mensajería y redes sociales, optimizando el proceso de ventas y atención al cliente. Este servicio combina varios módulos clave: el \"Modulo Agente IA de Ventas\" (Código 243) que habilita flujos conversacionales comerciales, y el \"Módulo de Integración Básico a Cal.com\" (Código 267) que gestiona el agendamiento de reuniones. Además, incluye la \"Integración con Canales de Mensajería\" (Código 244) que permite la comunicación fluida a través de WhatsApp y Telegram, y el \"Conector de Redes Sociales para Agentes IA\" (Código 247) que facilita automatizaciones en plataformas como Facebook Messenger e Instagram. La configuración técnica necesaria, como la \"Configuración de Cuenta Twilio/Authkey\" (Código 253) y la \"Configuración de Meta Developers y Manychat\" (Código 255), aseguran que el sistema esté listo para operar eficientemente. Este enfoque integral no solo mejora la experiencia del cliente, sino que también optimiza la gestión de leads y el cierre de oportunidades comerciales.",
                 "Tipo_de_Servicio": "Servicio Combinado",
                 "Unidades_Basicos_totales": 9.0,
                 "Unidades_Intermedias_totales": 1.0,
                 "Unidades_Avanzadas_totales": 0.0,
                 "Servicios_por_demanda_incluidos": "243,244,247,252,253,255,266,267",
-                "Sinonimos": "Asesor Comercial (Prospectivo + Informativo) Intermedio, Representante de Ventas (Prospectivo + Informativo) Intermedio, Consultor de Ventas (Prospectivo + Informativo) Intermedio, Ejecutivo de Ventas (Prospectivo + Informativo) Intermedio, Promotor de Ventas (Prospectivo + Informativo) Intermedio",
-                "Objetivo": "El objetivo del servicio \"Agente de Ventas (Prospectivo + Informativo) Intermedio\" es optimizar la interacción con potenciales clientes mediante flujos conversacionales personalizados, facilitando la captación y cierre de oportunidades comerciales a través de integraciones con plataformas de mensajería y redes sociales, asegurando una atención informativa y prospectiva que potencie el proceso de ventas.",
-                "Link_Info_Promocional": ""
+                "Sinonimos": "Asistente Virtual para Whatsapp y Redes Sociales, Bot de Ventas Integrado en Whatsapp y Redes Sociales, Sistema de Ventas Automatizado en Whatsapp y Redes Sociales, Agente de Ventas para Whatsapp y Redes Sociales, Asistente de Ventas en Whatsapp y Redes Sociales",
+                "Objetivo": "El objetivo de \"SaleBot Integrado a Whatsapp y Redes Sociales\" es optimizar la interacción comercial mediante un agente de IA que facilita flujos conversacionales automatizados en plataformas como WhatsApp y redes sociales. Este servicio busca mejorar la atención al cliente, incrementar la generación de leads y potenciar las ventas a través de respuestas personalizadas y soporte en tiempo real, integrando herramientas de mensajería y automatización de manera eficiente.",
+                "Link_Info_Promocional": "Aun no tiene Video o Imagen Promocional"
             }
         },
         {
@@ -251,16 +251,16 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a ArcGIS On Line",
-                "Descripción_Técnica_del_Servicio_Combinado": "El servicio \"Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a ArcGIS On Line\" combina capacidades de automatización de ventas con herramientas geoespaciales, optimizando la interacción con clientes potenciales. Utiliza el Módulo Inteligente de Ventas (Código 243), que permite a un agente de IA gestionar flujos conversacionales personalizados, guiando a los usuarios hacia decisiones comerciales efectivas. Se integra con plataformas como Manychat para operar en redes sociales y con herramientas de ArcGIS (Código 241) para acceder a datos geoespaciales en tiempo real, mejorando la oferta de información relevante.\n\nAdemás, incluye la Configuración de una plataforma CRM (Código 256) que asegura la integración fluida de datos, y el Módulo de Llamadas Automatizadas (Código 262) que permite el contacto inmediato con leads. La funcionalidad de operar CRMs (Código 246) y la integración de redes sociales (Código 247) complementan el servicio, facilitando la gestión de oportunidades y el seguimiento de interacciones. Este enfoque integral promueve una experiencia de ventas más efectiva y contextualizada, maximizando las oportunidades comerciales mediante la automatización y el análisis geoespacial.",
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp",
+                "Descripción_Técnica_del_Servicio_Combinado": "El servicio \"SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp\" combina la automatización de ventas y la gestión geoespacial mediante la integración de varias herramientas. Este sistema permite a agentes de IA realizar flujos conversacionales enfocados en ventas, gracias al Módulo Agente IA de Ventas (Código 243), que utiliza modelos avanzados de lenguaje para interactuar con clientes a través de redes sociales y plataformas de mensajería, como WhatsApp y Telegram (Código 244).\n\nAdemás, el servicio incluye la Configuración Inicial de Cuenta Cal.com (Código 266) para gestionar el agendamiento de reuniones, y el Conector a Servicios Web Geoespaciales (Código 241) para acceder a información geográfica en tiempo real desde ArcGIS. La integración con Canales de Mensajería permite interacciones directas y automatizadas, mientras que el Conector de Redes Sociales (Código 247) facilita la automatización de respuestas y el envío de contenido a través de plataformas como Facebook Messenger e Instagram.\n\nCon estas características, el servicio optimiza el proceso de ventas, mejora la atención al cliente y permite tomar decisiones informadas basadas en datos geoespaciales.",
                 "Tipo_de_Servicio": "Servicio Combinado",
-                "Unidades_Basicos_totales": 12.0,
-                "Unidades_Intermedias_totales": 3.0,
+                "Unidades_Basicos_totales": 11.0,
+                "Unidades_Intermedias_totales": 1.0,
                 "Unidades_Avanzadas_totales": 0.0,
-                "Servicios_por_demanda_incluidos": "220,241,243,244,246,247,248,249,252,253,255,256,262,266,267",
-                "Sinonimos": "Agente de Ventas Prospectivo e Informativo Avanzado para ArcGIS Online, Asistente de Ventas Inteligente Integrado a ArcGIS Online, Agente Comercial Avanzado con Integración a ArcGIS Online, Consultor de Ventas Prospectivo y Informativo en ArcGIS Online, Agente de Ventas Avanzado con Funcionalidad de ArcGIS Online.",
-                "Objetivo": "El objetivo del servicio \"Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a ArcGIS On Line\" es potenciar las capacidades de ventas mediante un agente inteligente que, a través de flujos conversacionales personalizados extrayendo información de servicios web de capas alojadas en ArcGIS Online y pudiendo tambien hacerlos de ArcGIS Enterprisa, con el fin de mejorar los flujos conversacionales prospectivos con información alojada en la plataforma ArcGIS. Adicionalmente, la identificación de oportunidades comerciales, la gestión de leads y la provisión de información relevante en tiempo real, se logra integrando de manera efectiva plataformas CRM.",
-                "Link_Info_Promocional": ""
+                "Servicios_por_demanda_incluidos": "220,241,243,244,247,252,253,255,266,267",
+                "Sinonimos": "Asistente Virtual Integrado a ArcGIS, Redes Sociales y WhatsApp, Bot de Ventas Integrado a ArcGIS, Redes Sociales y WhatsApp, Asistente Comercial Conectado a ArcGIS, Redes Sociales y WhatsApp, Sistema de Ventas Integrado con ArcGIS, Redes Sociales y WhatsApp, Agente de Ventas Conectado a ArcGIS, Redes Sociales y WhatsApp",
+                "Objetivo": "El objetivo del \"SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp\" es optimizar la interacción comercial mediante la integración de un agente de IA que gestiona flujos conversacionales en plataformas como WhatsApp y redes sociales, mientras accede a datos geoespaciales de ArcGIS. Esto permite ofrecer respuestas personalizadas y efectivas, mejorando la atención al cliente y facilitando el cierre de oportunidades de negocio.",
+                "Link_Info_Promocional": "Aun no tiene Video o Imagen Promocional"
             }
         },
         {
@@ -273,18 +273,18 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a Pinecone",
-                "Descripción_Técnica_del_Servicio_Combinado": "El \"Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a Pinecone\" es un sistema integral que combina capacidades avanzadas de interacción con clientes y análisis de datos semánticos. Este servicio permite al agente de IA ejecutar flujos conversacionales orientados a la venta, utilizando un System Prompt Message (SPM) adaptado a los objetivos comerciales del cliente, y se integra con plataformas como Manychat para facilitar la comunicación en redes sociales.\n\nEl sistema incluye la implementación de un módulo de integración a bases de datos vectoriales como Pinecone (Código 240), lo que permite realizar búsquedas semánticas y ofrecer respuestas contextualizadas. Además, se configura un CRM (Código 256) para gestionar información de leads y oportunidades, y se habilita un módulo de llamadas automatizadas (Código 262) para contactar prospectos en momentos clave.\n\nEl agente también puede gestionar reuniones a través de Cal.com (Código 266 y 267), optimizando el proceso de agendamiento. En conjunto, estas funcionalidades aseguran una experiencia de ventas más eficiente y personalizada, maximizando las oportunidades comerciales a través de la automatización y el análisis de datos.",
+                "Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales",
+                "Descripción_Técnica_del_Servicio_Combinado": "El servicio \"SaleBot integrado a Pinecone, Whatsapp y Redes Sociales\" permite a las empresas automatizar interacciones comerciales y de atención al cliente a través de múltiples plataformas. Este sistema combina la capacidad de un Agente IA de Ventas (Código 243), que ejecuta flujos conversacionales estratégicos y prospectivos, con la integración de bases de datos vectoriales como Pinecone (Código 240), facilitando búsquedas semánticas y respuestas contextualizadas. Además, incluye la configuración de canales de mensajería como WhatsApp (Código 244) y la integración con plataformas de automatización de redes sociales como Manychat (Código 255), permitiendo la gestión fluida de citas y reservas mediante el Módulo de Integración a Cal.com (Código 267). También se contempla la creación de cuentas y configuraciones iniciales necesarias para operar en Pinecone (Código 254) y en Twilio/Authkey para WhatsApp Business (Código 253). Este servicio optimiza el proceso de ventas y atención al cliente, proporcionando una experiencia personalizada y eficiente en múltiples canales digitales.",
                 "Tipo_de_Servicio": "Servicio Combinado",
-                "Unidades_Basicos_totales": 12.5,
-                "Unidades_Intermedias_totales": 3.25,
+                "Unidades_Basicos_totales": 11.5,
+                "Unidades_Intermedias_totales": 1.25,
                 "Unidades_Avanzadas_totales": 0.0,
-                "Servicios_por_demanda_incluidos": "240,243,244,246,247,248,249,252,253,254,255,256,262,266,267",
-                "Sinonimos": "Agente Comercial Avanzado Integrado a Pinecone, Asistente de Ventas Prospectivo y Informativo con Pinecone, Representante de Ventas Inteligente Integrado a Pinecone, Agente de Ventas Avanzado con Funciones Prospectivas y de Información en Pinecone, Consultor de Ventas Prospectivo e Informativo Integrado a Pinecone",
-                "Objetivo": "Desarrollar un \"Agente de Ventas (Prospectivo + Informativo) Avanzado integrado a Pinecone\" que potencie la interacción comercial mediante flujos conversacionales personalizados, optimizando la captación de leads y ofreciendo información relevante. Este agente utilizará capacidades de búsqueda semántica en bases de datos vectoriales, facilitando respuestas contextuales y mejorando la experiencia del cliente en su proceso de decisión de compra.",
-                "Link_Info_Promocional": ""
+                "Servicios_por_demanda_incluidos": "240,243,244,247,252,253,254,255,266,267",
+                "Sinonimos": "SaleBot con integración a Pinecone, WhatsApp y redes sociales, Bot de ventas integrado a Pinecone, WhatsApp y redes sociales, Asistente de ventas con Pinecone y redes sociales, Venta automatizada a través de Pinecone, WhatsApp y redes sociales, Servicio de bot de ventas conectado a Pinecone y redes sociales.",
+                "Objetivo": "Optimizar la interacción comercial mediante \"SaleBot\" integrado con Pinecone, WhatsApp y redes sociales, facilitando la atención automatizada y el agendamiento de reuniones, así como la búsqueda semántica de información relevante, para mejorar la experiencia del cliente y aumentar las oportunidades de venta.",
+                "Link_Info_Promocional": "Aun no tiene Video o Imagen Promocional"
             }
         }
     ],
-    "updated_at": "2025-09-02 16:29:06"
+    "updated_at": "2025-09-26 20:16:21"
 }
