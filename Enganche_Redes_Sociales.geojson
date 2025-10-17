@@ -24,6 +24,14 @@
         "Herramienta_n8n": {
             "type": "String",
             "length": 255
+        },
+        "Red_Social": {
+            "type": "String",
+            "length": 255
+        },
+        "Link_Publicacion": {
+            "type": "String",
+            "length": 500
         }
     },
     "features": [
@@ -37,14 +45,16 @@
                 ]
             },
             "properties": {
-                "Keyword_Redes_Sociales": "",
-                "Objetivo_promocional": "",
-                "Link_Regalo": "",
-                "Tipo_Servicio": "",
-                "ID_Servicio": "",
-                "Herramienta_n8n": ""
+                "Keyword_Redes_Sociales": "CAPI",
+                "Objetivo_promocional": "Promocionar la venta de la implementaión de los LearnBots (Bot Profesores o Capacitadores)",
+                "Link_Regalo": "https://isagis.com/cAPI/",
+                "Tipo_Servicio": "Convencional",
+                "ID_Servicio": 15,
+                "Herramienta_n8n": "pinecone.QueryServiciosConvencionales",
+                "Red_Social": "LinkedIn",
+                "Link_Publicacion": "https://www.linkedin.com/feed/update/urn:li:share:7384827623555883009/?actorCompanyId=93361111"
             }
         }
     ],
-    "updated_at": "2025-09-26 20:16:16"
+    "updated_at": "2025-10-17 00:51:27"
 }
