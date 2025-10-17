@@ -331,7 +331,7 @@
                 "Visualizado_por_Demanda": "Si",
                 "Departamento_IsaGIS": "Servicios IA",
                 "Sinonimos": "[\"1. Bot Capacitador\\n2. Bot Profesor\\n3. Tutor IA\\n4. Agente IA Capacitador\\n5. Profesor IA\"]",
-                "Link_informacion": "https://isagis.com/cAPI/",
+                "Link_informacion": "https://youtu.be/M2xWoy_by7s?si=uClGdYQtLMatavgf",
                 "Entregables": "1. Diagrama del Bot\r\n2. Documentación de la temática en la cual esta experta el Bot para Capacitar\r\n3. Tutorial de Uso del Bot\r\n4. Documentación de configuraciones y licenciamiento implementado en los servidores del cliente.\r\n"
             }
         },
@@ -376,5 +376,5 @@
             }
         }
     ],
-    "updated_at": "2025-09-26 20:16:22"
+    "updated_at": "2025-10-17 00:51:33"
 }
