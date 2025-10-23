@@ -52,9 +52,29 @@
                 "ID_Servicio": 15,
                 "Herramienta_n8n": "pinecone.QueryServiciosConvencionales",
                 "Red_Social": "LinkedIn",
-                "Link_Publicacion": "https://www.linkedin.com/feed/update/urn:li:share:7384827623555883009/?actorCompanyId=93361111"
+                "Link_Publicacion": "https://www.linkedin.com/feed/update/urn:li:activity:7387113275525705728"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Keyword_Redes_Sociales": "CAPI",
+                "Objetivo_promocional": "Promocionar la venta de la implementaión de los LearnBots (Bot Profesores o Capacitadores)",
+                "Link_Regalo": "https://isagis.com/cAPI/",
+                "Tipo_Servicio": "Convencional",
+                "ID_Servicio": 15,
+                "Herramienta_n8n": "pinecone.QueryServiciosConvencionales",
+                "Red_Social": "LinkedIn",
+                "Link_Publicacion": "https://www.linkedin.com/posts/cesar-eraso-poleo_isanews-lanzamiento-learnbots-activity-7387116228366139393-JAh5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAcilI8B8F1QfvYxlfpHNLxvkHdSBvgx4Xk"
             }
         }
     ],
-    "updated_at": "2025-10-17 00:51:27"
+    "updated_at": "2025-10-23 08:25:55"
 }
