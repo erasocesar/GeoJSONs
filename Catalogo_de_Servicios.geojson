@@ -1747,39 +1747,6 @@
                 ]
             },
             "properties": {
-                "Nro": 51,
-                "Area_IsaGIS_Technologies": "Servicios de IA",
-                "Grupo": "IA Generativa",
-                "Subgrupo": "Mercadeo",
-                "Nombre_del_Servicio": "Avatar programado para narración de Videos",
-                "Clasificación": "Servicio Básico",
-                "Descripción_Técnica_del_Servicio": "Este servicio consiste en la creación de un Avatar usando IA, que puede ser usado para narrar videos promocionales o de redes sociales. Se puede implementar el Avatar con Avatares publicos disponibles en la herramienta de IA de IsaGIS o se puede configurar Avatares Hiperrealistas que son basados en videos de 2 min entregados por el cliente o usando fotografias de la persona o objeto animado a clonar.  ",
-                "Detalles_Costo_Base": "Se cobran 1 unidades de Servicio SIG Básico para la incorporación del Avatar en un video promocional de hasta 2 minutos utilizando IA. Si se requiere mas tiempo se calcula la unidad basica proporcionalmente.",
-                "Notas_Adicionales": "El cliente debe entregar la grabación de la persona de minimo 2 minutos o si se hace con fotografia debe entregar las fotografias de la persona. Si se requiere crear la imagen del avatar, se debe contratar adicionalmente un servicio de creación de imagenes. Se entrega un video del avatar en formato mp4. Este servicio no incluye la integración con el video promocional, el cual va a narrar el avatar, si esto se desea se deben contratar servicios adicionales.",
-                "Tiempo__Dias_habiles_": "1",
-                "Tiempos_de_entrega": "1 - 3 dias",
-                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
-                "URL_con_información_adicional": "",
-                "Basicos": 1.0,
-                "Intermedios": 0.0,
-                "Avanzados": 0.0,
-                "Pregunta": "",
-                "Factor_Corrección": 1.0,
-                "Codig_Nuevo": 51,
-                "micro_guion_es": "En IsaGIS, creamos avatares programados con inteligencia artificial que narran tus videos promocionales y para redes sociales. Utilizamos nuestras herramientas avanzadas para ofrecerte avatares públicos o hiperrealistas, basados en tus videos o fotografías. El resultado es un video atractivo y personalizado que captará la atención de tu audiencia. ¿Estás listo para dar vida a tus ideas?",
-                "Descripcion_Tecnica_Corta": "Servicio de creación de Avatares con IA para narrar videos promocionales. Se pueden usar avatares públicos o crear hiperrealistas a partir de videos o fotos del cliente."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
                 "Nro": 52,
                 "Area_IsaGIS_Technologies": "Servicios de IA",
                 "Grupo": "IA Generativa",
@@ -5113,39 +5080,6 @@
                 ]
             },
             "properties": {
-                "Nro": 164,
-                "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Grupo": "Representación Cartográfica",
-                "Subgrupo": "Cartas de Alineación",
-                "Nombre_del_Servicio": "Cartas de Alineación para Sistemas de Transporte de hidrocarburos (5 bandas, 5 cartas de 12 km de longitud de tuberia)",
-                "Clasificación": "Servicio Avanzado",
-                "Descripción_Técnica_del_Servicio": "Este servicio desarrolla cartas de alineación en formato PDF, utilizando un GIS con la información requerida para las bandas y un algoritmo de procesamiento propio de IsaGIS. Cada carta representa 12 km de tubería, abarcando de 1 a 5 cartas para un proyecto de hasta 60 km y 5 bandas. Para longitudes superiores o mayor cantidad de bandas, el costo se ajusta proporcionalmente. Si se requiere documentación adicional, se debe contratar el servicio de documentación (2 a 10 páginas).",
-                "Detalles_Costo_Base": "1 Servicio SIG Avanzado + 1 Servicio SIG Intermedio por proyecto.",
-                "Notas_Adicionales": "El cliente debe entregar el trazado del gasoducto, la información de las bandas, un mapa temático con las capas asociadas al sistema de transporte y cualquier otra información geográfica relevante.",
-                "Tiempo__Dias_habiles_": "10",
-                "Tiempos_de_entrega": "1-2 semanas",
-                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
-                "URL_con_información_adicional": "",
-                "Basicos": 0.0,
-                "Intermedios": 1.0,
-                "Avanzados": 1.0,
-                "Pregunta": "",
-                "Factor_Corrección": 1.0,
-                "Codig_Nuevo": 164,
-                "micro_guion_es": "En IsaGIS, creamos cartas de alineación precisas para sistemas de transporte de hidrocarburos, utilizando nuestro software GIS y un algoritmo de procesamiento exclusivo. Con 5 cartas que cubren 60 km de tubería, garantizamos una visualización clara y efectiva de tus proyectos. ¿Estás listo para optimizar la gestión de tus infraestructuras?",
-                "Descripcion_Tecnica_Corta": "Se ofrecen cartas de alineación en PDF para proyectos de tuberías, utilizando un GIS y un algoritmo propio. Se ajusta el costo según la longitud y bandas, con opción de documentación adicional."
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.0,
-                    0.0
-                ]
-            },
-            "properties": {
                 "Nro": 166,
                 "Area_IsaGIS_Technologies": "Servicios SIG",
                 "Grupo": "Desarrollo de Aplicaciones",
@@ -6668,7 +6602,7 @@
                 "Area_IsaGIS_Technologies": "Multidepartamental",
                 "Grupo": "Capacitación Multidepartamental",
                 "Subgrupo": "Capacitaciones Cortas Multidepartamental",
-                "Nombre_del_Servicio": "Webinar Proyectos Smart para Areas de Producción",
+                "Nombre_del_Servicio": "Webinar de Proyectos SMART para Areas de Producción",
                 "Clasificación": "Servicio Básico",
                 "Descripción_Técnica_del_Servicio": "Esta es una capacitación virtual de tipo Teórico , sobre Los proyectos SMART son prediseños de plataformas geoespaciales que integran el uso de Drones, IA y GIS, este curso o webinar muestra el para que de la implementación de un proyecto SMART para la produccion de hidrocarburos",
                 "Detalles_Costo_Base": "Equivale a 2 unidades de Servicio SIG Básico por hora de webinar o capacitación en Bogota. Se pudiera presencial pero habria que agregar costos de logistica. No requiere licenciamiento de Esri.  Dependiendo del tipo de contrato con IsaGIS se haria el pago por adelantado o al final de mes.",
@@ -8272,5 +8206,5 @@
             }
         }
     ],
-    "updated_at": "2025-10-23 08:25:51"
+    "updated_at": "2025-10-29 18:29:48"
 }
