@@ -85,7 +85,7 @@
                 ]
             },
             "properties": {
-                "Nombre_del_Servicio": "Proyectos SMART para Areas de Producción",
+                "Nombre_del_Servicio": "Ecosistemas SMART GeoAI para Areas de Producción",
                 "Descripcion_del_Servicio": "Implementación de Prediseño de Multiples Tecnologias para la implementación de Gemelos Digitales con funcionalidades modulares que integrar Plataforma ArcGIS, IA y Drones para empresas que operan Areas de Producción",
                 "Partner": "No definido aun",
                 "Visualizado_por_Demanda": "No",
@@ -105,7 +105,7 @@
                 ]
             },
             "properties": {
-                "Nombre_del_Servicio": "Proyectos SMART para Policia",
+                "Nombre_del_Servicio": "Ecosistemas SMART GeoAI para Policia",
                 "Descripcion_del_Servicio": "Implementación de Prediseño de Multiples Tecnologias para la implementación de Gemelos Digitales con funcionalidades modulares que integrar Plataforma ArcGIS, IA y Drones aplicado para Policia",
                 "Partner": "No definido aun",
                 "Visualizado_por_Demanda": "No",
@@ -125,7 +125,7 @@
                 ]
             },
             "properties": {
-                "Nombre_del_Servicio": "Proyectos SMART para Ciudades",
+                "Nombre_del_Servicio": "Ecosistemas SMART GeoAI para Ciudades",
                 "Descripcion_del_Servicio": "Implementación de Prediseño de Multiples Tecnologias para la implementación de Gemelos Digitales con funcionalidades modulares que integrar Plataforma ArcGIS, IA y Drones aplicado para Ciudades",
                 "Partner": "No definido aun",
                 "Visualizado_por_Demanda": "No",
@@ -145,7 +145,7 @@
                 ]
             },
             "properties": {
-                "Nombre_del_Servicio": "Proyectos SMART para Gasoductos",
+                "Nombre_del_Servicio": "Ecosistemas SMART GeoAI para Gasoductos",
                 "Descripcion_del_Servicio": "Implementación de Prediseño de Multiples Tecnologias para la implementación de Gemelos Digitales con funcionalidades modulares que integrar Plataforma ArcGIS, IA y Drones aplicado para empresas que operan Gasoductos",
                 "Partner": "No definido aun",
                 "Visualizado_por_Demanda": "No",
@@ -165,7 +165,7 @@
                 ]
             },
             "properties": {
-                "Nombre_del_Servicio": "Proyectos SMART para Oleoductos",
+                "Nombre_del_Servicio": "Ecosistemas SMART GeoAI para Oleoductos",
                 "Descripcion_del_Servicio": "Implementación de Prediseño de Multiples Tecnologias para la implementación de Gemelos Digitales con funcionalidades modulares que integrar Plataforma ArcGIS, IA y Drones aplicado para empresas que operan Oleoductos",
                 "Partner": "No definido aun",
                 "Visualizado_por_Demanda": "No",
@@ -376,5 +376,5 @@
             }
         }
     ],
-    "updated_at": "2026-05-19 11:37:07"
+    "updated_at": "2026-05-19 11:39:41"
 }
