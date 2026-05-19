@@ -1,1 +1,113 @@
-{"type": "FeatureCollection", "schema": {"Area_IsaGIS_Technologies": {"type": "String", "length": 255}, "topK": {"type": "Integer", "length": null}, "Filtro": {"type": "String", "length": 255}, "Sinonimos_Areas": {"type": "String", "length": 255}, "Descripcion_Detallada_Area": {"type": "String", "length": 3000}}, "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Area_IsaGIS_Technologies": "Multidepartamental", "topK": 34, "Filtro": "Area_IsaGIS_Technologies:Multidepartamental", "Sinonimos_Areas": "Multidepartamentales, Servicios para todas las areas, Servicios multidiciplinarios, Servicios transversales", "Descripcion_Detallada_Area": "En IsaGIS Technologies contamos con un conjunto de servicios transversales que complementan y fortalecen nuestras soluciones principales. Estos Servicios Multidepartamentales están diseñados para apoyar cada etapa del ciclo de vida de los proyectos, desde la planificación y licitación, hasta la operación, logística y gestión del talento humano.\r\n🧠 Asesorías Especializadas\r\nBrindamos acompañamiento técnico, comercial y estratégico por hora, para reuniones virtuales o presenciales (en Bogotá o en campo), abordando temáticas de SIG, IA, ingeniería o cualquier aspecto clave de los proyectos. Ideal para resolver dudas, revisar enfoques o fortalecer implementaciones.\r\n📂 Proyectos y Licitaciones\r\nApoyamos a nuestros clientes en la estructuración y preparación de propuestas técnico-económicas con:\r\n•\tAnálisis de pliegos de licitación.\r\n•\tEvaluaciones técnicas detalladas de proyectos.\r\n•\tElaboración de cronogramas (PDT).\r\n•\tPreparación completa de ofertas sencillas.\r\nTodo bajo un enfoque de precisión técnica, cumplimiento y eficiencia documental.\r\n🧳 Logística y Viáticos\r\nEstos servicios hacen posible la ejecución del area de operaciones de campo, tales como:\r\n•\tAlimentación, hospedaje, tiquetes aéreos, taxis y peajes.\r\n•\tTransporte terrestre (vehículos con conductor).\r\n•\tCoordinación logística completa para garantizar la eficiencia en cada operación.\r\n🏗️ Ingeniería de Proyectos\r\nServicios clave para la ejecución y control de proyectos, entre ellos:\r\n•\tActividades iniciales: revisión de alcance, kick-off meetings (KOM).\r\n•\tGestión HSE/HSEQ: preparación, cumplimiento y reporte (básico, intermedio y avanzado).\r\n•\tDocumentación técnica: creación de manuales de hasta 100 páginas.\r\n•\tCompilación de entregables y realización de talleres técnicos con stakeholders.\r\n👥 Gestión Humana y Selección de Talento\r\nEn alianza estratégica con Gear360, ofrecemos soluciones modernas para gestionar personal técnico o especializado:\r\n•\tAdministración de profesionales HSE por proyecto.\r\n•\tServicios de Head Hunter, incluyendo:\r\n•\tImplementación de IA para análisis de perfiles.\r\n•\tFiltro y evaluación de currículums (hasta 50 por lote).\r\n•\tEntrevistas personalizadas y assessments.\r\nEstos servicios se articulan con nuestras plataformas digitales y metodologías de IA y GIS para garantizar una selección ágil y precisa.\r\n"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Area_IsaGIS_Technologies": "Operaciones de Campo", "topK": 24, "Filtro": "Area_IsaGIS_Technologies:Operaciones de Campo", "Sinonimos_Areas": "Actividades de campo, trabajos de campo, labores de campo, intervenciones de campo, acciones de campo.", "Descripcion_Detallada_Area": "En esta area ofrecemos servicios de operaciones de campo en Tierra, Aire y Sistemas Híbridos.\r\n✅ Servicios de Drones\r\n•\tOrtofotomosaicos georreferenciados.\r\n•\tModelos digitales de terreno y superficie (MDS/MDT) RGB y LIDAR.\r\n•\tReplicas digitales 3D (BIM, Ciudades Inteligentes, Infraestructura).\r\n•\tVideos aéreos georreferenciados e integrados en ArcGIS.\r\n•\tFotografías aéreas con georreferenciación sencilla para inspección rápida.\r\n•\t✅ Recolección de Datos de Campo (Tierra)\r\n•\tCoordenadas, fotos y datos alfanuméricos desde un solo dispositivo móvil.\r\n•\tTecnología GIS Mobile de Esri, con precisión centimétrica (±2 cm con Trimble RTX).\r\n•\tRecolección online/offline, integración en tiempo real con ArcGIS y base de datos corporativa.\r\nCero recolecciones manuales en papel en el campo, flujo totalmente digital y sincronizado usando Tecnología GIS Mobile.\r\n✅ Operaciones Híbridas\r\nLos servicios híbridos, son trabajos de campo que pueden combinar misiones de drones autónomas o manuales con recolección de datos de campo en tierra usando tecnología móvil de Esri\r\nAlgunas de las operaciones hibridas que ofrecemos pudieran ser:\r\n•\tServicio de Mejora de Capas Geográficas en Puntos Específicos \r\n•\tModelado BIM para Infraestructuras de Oil & Gas, Vías y Obras Civiles\r\n•\tPor medio de alianzas estratégicas podemos ofrecer Servicios híbridos con Tecnología Avanzada (uso de sensores térmicos, LIDAR, Impsy Catcher y el uso de equipos avanzados como DJI Dock).\r\n"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Area_IsaGIS_Technologies": "Servicios de IA", "topK": 21, "Filtro": "Area_IsaGIS_Technologies:Servicios de IA", "Sinonimos_Areas": "servicios de inteligencia artificial, soluciones de IA, servicios basados en IA, inteligencia artifical aplicada, tecnología cognitiva, Inteligencia Artificial IA", "Descripcion_Detallada_Area": "En el departamento de IA Potenciamos tu negocio con IA Generativa, Machine Learning y GeoAI. Nuestras soluciones incluyen:\r\n•\tGeneración masiva de imágenes, presentaciones, estrategias y contenido para redes.\r\n•\tDesarrollo de agentes virtuales inteligentes (como Isa) integrables en páginas web, WhatsApp, Telegram o anuncios.\r\n•\tModelos de detección y predicción personalizados.\r\n•\tAutomatización de procesos empresariales.\r\n•\tCapacitaciones en IA y automatización.\r\nCreamos herramientas inteligentes que elevan la productividad y la innovación, haciendo que la IA trabaje para tus objetivos reales.\r\n"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Area_IsaGIS_Technologies": "Servicios de Ingeniería", "topK": 25, "Filtro": "Area_IsaGIS_Technologies:Servicios de Ingeniería", "Sinonimos_Areas": "Servicios de Ingenieria de Petroleo, Servicios de Ingenieria de Gas, Servicios de Ingenieria de Petróleo y Gas, Soluciones de ingeniería, Soluciones de Ingeniería aplicada", "Descripcion_Detallada_Area": "En el area de Servicios de ingenieria nos especializamos en soluciones integradas para la industria de Petróleo y Gas, con foco en:\r\n•\tIngeniería de Ductos: diseño de gasoductos y oleoductos, análisis de trazado, estudios de Class Location, modelación de derrames, GIS Conceptual.\r\n•\tIngeniería de Producción: diseño de facilidades de superficie, plantas y estaciones.\r\n•\tIntegridad de Ductos: estudios Fitness for Services, análisis de riesgos, RBI.\r\n•\tPor medio de la alianza con la empresa americana Sharky Training podemos ofrecer una catalogo variado de capacitaciones en materia de integridad de ductos.\r\nDiferenciamos nuestros servicios con metodologías que integran SIG + Ingeniería, permitiendo mayor control y eficiencia.\r\n"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Area_IsaGIS_Technologies": "Servicios SIG", "topK": 117, "Filtro": "Area_IsaGIS_Technologies:Servicios SIG", "Sinonimos_Areas": "Servicios de Información Geográfica, Servicios de Sistemas de Información Geográfica, Servicios de Geoinformática, Servicios Geoespaciales", "Descripcion_Detallada_Area": "En el area de Servicios SIG, somos expertos en la plataforma ArcGIS de Esri, ofreciendo más de 140 servicios SIG agrupados en:\r\n•\tGestión y procesamiento de datos espaciales: conversión entre más de 100 tipos de datos geográficos, integración con bases de datos corporativas, geoprocesamiento con Model Builder y Python.\r\n•\tDesarrollo de aplicaciones SIG: personalización de soluciones web y móviles, dashboards y experiencias interactivas con Experience Builder.\r\n•\tRepresentación cartográfica profesional: mapas temáticos, ortomosaicos, análisis espacial avanzado.\r\n•\tIntegraciones y automatizaciones: conexión con otras plataformas, workflows automatizados con IA y SIG.\r\n•\tProyectos SMART y gemelos digitales.\r\n•\tCapacitaciones SIG.\r\nOptimizamos tus decisiones con análisis espacial, visualización en tiempo real y configuraciones a medida. Si ya tienes licencias de ArcGIS, te ayudamos a sacarles el máximo provecho; si no, te asesoramos en la selección ideal.\r\n"}}], "updated_at": "2026-02-25 16:41:08"}
+{
+    "type": "FeatureCollection",
+    "schema": {
+        "Area_IsaGIS_Technologies": {
+            "type": "String",
+            "length": 255
+        },
+        "topK": {
+            "type": "Integer",
+            "length": null
+        },
+        "Filtro": {
+            "type": "String",
+            "length": 255
+        },
+        "Sinonimos_Areas": {
+            "type": "String",
+            "length": 255
+        },
+        "Descripcion_Detallada_Area": {
+            "type": "String",
+            "length": 3000
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Area_IsaGIS_Technologies": "Multidepartamental",
+                "topK": 34,
+                "Filtro": "Area_IsaGIS_Technologies:Multidepartamental",
+                "Sinonimos_Areas": "Multidepartamentales, Servicios para todas las areas, Servicios multidiciplinarios, Servicios transversales",
+                "Descripcion_Detallada_Area": "En IsaGIS Technologies contamos con un conjunto de servicios transversales que complementan y fortalecen nuestras soluciones principales. Estos Servicios Multidepartamentales están diseñados para apoyar cada etapa del ciclo de vida de los proyectos, desde la planificación y licitación, hasta la operación, logística y gestión del talento humano.\r\n🧠 Asesorías Especializadas\r\nBrindamos acompañamiento técnico, comercial y estratégico por hora, para reuniones virtuales o presenciales (en Bogotá o en campo), abordando temáticas de SIG, IA, ingeniería o cualquier aspecto clave de los proyectos. Ideal para resolver dudas, revisar enfoques o fortalecer implementaciones.\r\n📂 Proyectos y Licitaciones\r\nApoyamos a nuestros clientes en la estructuración y preparación de propuestas técnico-económicas con:\r\n•\tAnálisis de pliegos de licitación.\r\n•\tEvaluaciones técnicas detalladas de proyectos.\r\n•\tElaboración de cronogramas (PDT).\r\n•\tPreparación completa de ofertas sencillas.\r\nTodo bajo un enfoque de precisión técnica, cumplimiento y eficiencia documental.\r\n🧳 Logística y Viáticos\r\nEstos servicios hacen posible la ejecución del area de operaciones de campo, tales como:\r\n•\tAlimentación, hospedaje, tiquetes aéreos, taxis y peajes.\r\n•\tTransporte terrestre (vehículos con conductor).\r\n•\tCoordinación logística completa para garantizar la eficiencia en cada operación.\r\n🏗️ Ingeniería de Proyectos\r\nServicios clave para la ejecución y control de proyectos, entre ellos:\r\n•\tActividades iniciales: revisión de alcance, kick-off meetings (KOM).\r\n•\tGestión HSE/HSEQ: preparación, cumplimiento y reporte (básico, intermedio y avanzado).\r\n•\tDocumentación técnica: creación de manuales de hasta 100 páginas.\r\n•\tCompilación de entregables y realización de talleres técnicos con stakeholders.\r\n👥 Gestión Humana y Selección de Talento\r\nEn alianza estratégica con Gear360, ofrecemos soluciones modernas para gestionar personal técnico o especializado:\r\n•\tAdministración de profesionales HSE por proyecto.\r\n•\tServicios de Head Hunter, incluyendo:\r\n•\tImplementación de IA para análisis de perfiles.\r\n•\tFiltro y evaluación de currículums (hasta 50 por lote).\r\n•\tEntrevistas personalizadas y assessments.\r\nEstos servicios se articulan con nuestras plataformas digitales y metodologías de IA y GIS para garantizar una selección ágil y precisa.\r\n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Area_IsaGIS_Technologies": "Operaciones de Campo",
+                "topK": 24,
+                "Filtro": "Area_IsaGIS_Technologies:Operaciones de Campo",
+                "Sinonimos_Areas": "Actividades de campo, trabajos de campo, labores de campo, intervenciones de campo, acciones de campo.",
+                "Descripcion_Detallada_Area": "En esta area ofrecemos servicios de operaciones de campo en Tierra, Aire y Sistemas Híbridos.\r\n✅ Servicios de Drones\r\n•\tOrtofotomosaicos georreferenciados.\r\n•\tModelos digitales de terreno y superficie (MDS/MDT) RGB y LIDAR.\r\n•\tReplicas digitales 3D (BIM, Ciudades Inteligentes, Infraestructura).\r\n•\tVideos aéreos georreferenciados e integrados en ArcGIS.\r\n•\tFotografías aéreas con georreferenciación sencilla para inspección rápida.\r\n•\t✅ Recolección de Datos de Campo (Tierra)\r\n•\tCoordenadas, fotos y datos alfanuméricos desde un solo dispositivo móvil.\r\n•\tTecnología GIS Mobile de Esri, con precisión centimétrica (±2 cm con Trimble RTX).\r\n•\tRecolección online/offline, integración en tiempo real con ArcGIS y base de datos corporativa.\r\nCero recolecciones manuales en papel en el campo, flujo totalmente digital y sincronizado usando Tecnología GIS Mobile.\r\n✅ Operaciones Híbridas\r\nLos servicios híbridos, son trabajos de campo que pueden combinar misiones de drones autónomas o manuales con recolección de datos de campo en tierra usando tecnología móvil de Esri\r\nAlgunas de las operaciones hibridas que ofrecemos pudieran ser:\r\n•\tServicio de Mejora de Capas Geográficas en Puntos Específicos \r\n•\tModelado BIM para Infraestructuras de Oil & Gas, Vías y Obras Civiles\r\n•\tPor medio de alianzas estratégicas podemos ofrecer Servicios híbridos con Tecnología Avanzada (uso de sensores térmicos, LIDAR, Impsy Catcher y el uso de equipos avanzados como DJI Dock).\r\n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "topK": 21,
+                "Filtro": "Area_IsaGIS_Technologies:Servicios de IA",
+                "Sinonimos_Areas": "servicios de inteligencia artificial, soluciones de IA, servicios basados en IA, inteligencia artifical aplicada, tecnología cognitiva, Inteligencia Artificial IA",
+                "Descripcion_Detallada_Area": "En el departamento de IA Potenciamos tu negocio con IA Generativa, Machine Learning y GeoAI. Nuestras soluciones incluyen:\r\n•\tGeneración masiva de imágenes, presentaciones, estrategias y contenido para redes.\r\n•\tDesarrollo de agentes virtuales inteligentes (como Isa) integrables en páginas web, WhatsApp, Telegram o anuncios.\r\n•\tModelos de detección y predicción personalizados.\r\n•\tAutomatización de procesos empresariales.\r\n•\tCapacitaciones en IA y automatización.\r\nCreamos herramientas inteligentes que elevan la productividad y la innovación, haciendo que la IA trabaje para tus objetivos reales.\r\n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Area_IsaGIS_Technologies": "Servicios de Ingeniería",
+                "topK": 25,
+                "Filtro": "Area_IsaGIS_Technologies:Servicios de Ingeniería",
+                "Sinonimos_Areas": "Servicios de Ingenieria de Petroleo, Servicios de Ingenieria de Gas, Servicios de Ingenieria de Petróleo y Gas, Soluciones de ingeniería, Soluciones de Ingeniería aplicada",
+                "Descripcion_Detallada_Area": "En el area de Servicios de ingenieria nos especializamos en soluciones integradas para la industria de Petróleo y Gas, con foco en:\r\n•\tIngeniería de Ductos: diseño de gasoductos y oleoductos, análisis de trazado, estudios de Class Location, modelación de derrames, GIS Conceptual.\r\n•\tIngeniería de Producción: diseño de facilidades de superficie, plantas y estaciones.\r\n•\tIntegridad de Ductos: estudios Fitness for Services, análisis de riesgos, RBI.\r\n•\tPor medio de la alianza con la empresa americana Sharky Training podemos ofrecer una catalogo variado de capacitaciones en materia de integridad de ductos.\r\nDiferenciamos nuestros servicios con metodologías que integran SIG + Ingeniería, permitiendo mayor control y eficiencia.\r\n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "topK": 117,
+                "Filtro": "Area_IsaGIS_Technologies:Servicios SIG",
+                "Sinonimos_Areas": "Servicios de Información Geográfica, Servicios de Sistemas de Información Geográfica, Servicios de Geoinformática, Servicios Geoespaciales",
+                "Descripcion_Detallada_Area": "En el area de Servicios SIG, somos expertos en la plataforma ArcGIS de Esri, ofreciendo más de 140 servicios SIG agrupados en:\r\n•\tGestión y procesamiento de datos espaciales: conversión entre más de 100 tipos de datos geográficos, integración con bases de datos corporativas, geoprocesamiento con Model Builder y Python.\r\n•\tDesarrollo de aplicaciones SIG: personalización de soluciones web y móviles, dashboards y experiencias interactivas con Experience Builder.\r\n•\tRepresentación cartográfica profesional: mapas temáticos, ortomosaicos, análisis espacial avanzado.\r\n•\tIntegraciones y automatizaciones: conexión con otras plataformas, workflows automatizados con IA y SIG.\r\n•\tProyectos SMART y gemelos digitales.\r\n•\tCapacitaciones SIG.\r\nOptimizamos tus decisiones con análisis espacial, visualización en tiempo real y configuraciones a medida. Si ya tienes licencias de ArcGIS, te ayudamos a sacarles el máximo provecho; si no, te asesoramos en la selección ideal.\r\n"
+            }
+        }
+    ],
+    "updated_at": "2026-05-19 11:36:33"
+}
