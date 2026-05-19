@@ -1,1 +1,1846 @@
-{"type": "FeatureCollection", "schema": {"Nombre_Servicio_Combinado": {"type": "String", "length": 255}, "Codigo_Servicio_SIG": {"type": "Integer", "length": null}, "Nombre_del_Servicio": {"type": "String", "length": 255}, "Descripción_Técnica_del_Servici": {"type": "String", "length": 3000}, "Area_estrategica_IsaGIS_Technol": {"type": "String", "length": 255}, "Grupo": {"type": "String", "length": 255}, "Subgrupo": {"type": "String", "length": 255}, "Unidades_Basicos": {"type": "Double", "length": null}, "Unidades_Intermedias": {"type": "Double", "length": null}, "Unidades_Avanzadas": {"type": "Double", "length": null}, "Link_Videos_Promocionales": {"type": "String", "length": 500}}, "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Crear Pagina web Basica con guion e imagenes", "Codigo_Servicio_SIG": 106, "Nombre_del_Servicio": "Desarrollo de Paginas Web con IA", "Descripción_Técnica_del_Servici": "Este servicio desarrolla una página web sencilla apoyada en inteligencia artificial, que puede incluir mapas dinámicos, imágenes y videos. Se entrega una propuesta de contenido con elementos generados mediante IA, adaptándose a las necesidades del cliente para ofrecer una solución interactiva y de bajo costo.", "Area_estrategica_IsaGIS_Technol": "Servicios SIG", "Grupo": "Desarrollo de Aplicaciones", "Subgrupo": "Desarrollo de Paginas Web", "Unidades_Basicos": 0.0, "Unidades_Intermedias": 1.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Crear Pagina web Basica con guion e imagenes", "Codigo_Servicio_SIG": 52, "Nombre_del_Servicio": "Guion (Script) para Videos ", "Descripción_Técnica_del_Servici": "Este servicio ofrece la elaboración de un guion para videos promocionales que incluye la descripción de cada escena, indicaciones para las imágenes o videos y, opcionalmente, la incorporación de narración. El guion se adapta a cualquier temática y se entrega en formato Word, facilitando la producción audiovisual.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IA Generativa", "Subgrupo": "Mercadeo", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Crear Pagina web Basica con guion e imagenes", "Codigo_Servicio_SIG": 50, "Nombre_del_Servicio": "Creación de Imágenes", "Descripción_Técnica_del_Servici": "Este servicio utiliza inteligencia artificial y recursos propios de IsaGIS para crear imágenes de alta calidad, ideales para presentaciones en PowerPoint, Story Maps, aplicaciones web inmersivas o videos promocionales. Las imágenes se diseñan para comunicar de forma visual y efectiva, resaltando la precisión y el atractivo de la tecnología Esri.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IA Generativa", "Subgrupo": "Mercadeo", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Creación de Videos para Redes Sociales con Avatar", "Codigo_Servicio_SIG": 51, "Nombre_del_Servicio": "Avatar programado para narración de Videos", "Descripción_Técnica_del_Servici": "Este servicio consiste en la creación de un Avatar usando IA, que puede ser usado para narrar videos promocionales o de redes sociales. Se puede implementar el Avatar con Avatares publicos disponibles en la herramienta de IA de IsaGIS o se puede configurar Avatares Hiperrealistas que son basados en videos de 2 min entregados por el cliente o usando fotografias de la persona o objeto animado a clonar.  ", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IA Generativa", "Subgrupo": "Mercadeo", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Creación de Videos para Redes Sociales con Avatar", "Codigo_Servicio_SIG": 52, "Nombre_del_Servicio": "Guion (Script) para Videos ", "Descripción_Técnica_del_Servici": "Este servicio ofrece la elaboración de un guion para videos promocionales que incluye la descripción de cada escena, indicaciones para las imágenes o videos y, opcionalmente, la incorporación de narración. El guion se adapta a cualquier temática y se entrega en formato Word, facilitando la producción audiovisual.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IA Generativa", "Subgrupo": "Mercadeo", "Unidades_Basicos": 0.5, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Creación de Videos para Redes Sociales con Avatar", "Codigo_Servicio_SIG": 53, "Nombre_del_Servicio": "Desarrollo General de Estrategias de Mercadeo ", "Descripción_Técnica_del_Servici": "Este servicio desarrolla estrategias generales de mercadeo adaptadas a la temática o tipo de negocio del cliente, ofreciendo hasta 10 estrategias con una descripción general de cada actividad. El entregable se presenta en una tabla Excel, proporcionando una visión clara y estructurada para la toma de decisiones, sin incluir la ejecución de las estrategias.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IA Generativa", "Subgrupo": "Mercadeo", "Unidades_Basicos": 0.5, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Creación de Videos para Redes Sociales con Avatar", "Codigo_Servicio_SIG": 158, "Nombre_del_Servicio": "Videos Promocionales", "Descripción_Técnica_del_Servici": "Este servicio crea videos promocionales para presentaciones, Story Maps, aplicaciones web inmersivas o actividades de mercadeo, utilizando inteligencia artificial, tecnología SIG de Esri y recursos propios de IsaGIS (drones y proyectos de ingeniería). El video tendrá una duración máxima de 2 minutos; videos más largos se cotizan proporcionalmente. El contenido, imágenes, temática, guion y narración deben ser proporcionados por el cliente o solicitados como servicios adicionales, se pudiera integrar el video con un avatar. pero tambien se debe solicitar adicionalmente la creación del avatar.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IA Generativa", "Subgrupo": "Mercadeo", "Unidades_Basicos": 0.0, "Unidades_Intermedias": 1.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control", "Codigo_Servicio_SIG": 101, "Nombre_del_Servicio": "Planeación de operaciones aereas usando Drones", "Descripción_Técnica_del_Servici": "Este servicio consiste en la planificación integral de misiones aéreas con drones, utilizando ArcGIS Pro y otras herramientas de planeación para definir rutas, zonas de vuelo y parámetros operativos de acuerdo con las necesidades del proyecto. La misión se entrega en un proyecto de ArcGIS Pro; para integraciones en aplicaciones web o móviles se pueden solicitar servicios adicionales.", "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo", "Grupo": "Recolección de Datos en Tierra", "Subgrupo": "Planeación", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control", "Codigo_Servicio_SIG": 39, "Nombre_del_Servicio": "Recolección de coordenadas de Puntos de Control usando Technología GIS Mobile", "Descripción_Técnica_del_Servici": "Este servicio de recolección de datos en campo captura coordenadas de puntos de control mediante tecnología GIS Mobile. Los puntos de control son esenciales para georeferenciar capas vectoriales y raster, así como para mejorar la precisión de productos de fotogrametría de drones en proyectos de ingeniería conceptual o básica. Este servicio se cobra por punto de control y la precisión (RMSErr) sera segun la señal de corrección adquirida. Se entrega en una File GDB en una capa tipo punto. Nota: Tanto la construcción de puntos de control (su instalación física) y la Señal de Correccion deben contratarse por separado. ", "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo", "Grupo": "Recolección de Datos en Tierra", "Subgrupo": "Recolección", "Unidades_Basicos": 0.333333333, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control", "Codigo_Servicio_SIG": 40, "Nombre_del_Servicio": "Construcción de Puntos de Control temporales", "Descripción_Técnica_del_Servici": "Este servicio se encarga de la ubicación de puntos de control temporales en terreno, necesarios para ejecutar misiones autónomas de fotogrametría. Los puntos se planifican y distribuyen utilizando ArcGIS Pro, siguiendo las mejores prácticas y la experiencia de IsaGIS para asegurar estabilidad y visibilidad durante la misión. Estos puntos son temporales y serán removidos una vez finalizada la misión de vuelo autónomo. ", "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo", "Grupo": "Recolección de Datos en Tierra", "Subgrupo": "Puntos de Control", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control", "Codigo_Servicio_SIG": 109, "Nombre_del_Servicio": "Procesamiento de Fotogrametria (Ortofotomosaicos, DSM y Modelos 3D) de misiones autonomas por Ha y con puntos de control.", "Descripción_Técnica_del_Servici": "Este servicio permite procesar imágenes aéreas obtenidas en misiones autónomas de fotogrametría que requieran puntos de control, utilizando Drone2Map for ArcGIS y ArcGIS Pro. Se genera un set de ortofotomosaicos, DSM y modelos 3D. El costo de este servicio es por hectarea.", "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo", "Grupo": "Servicios de Drones", "Subgrupo": "Procesamiento Fotogrametrico", "Unidades_Basicos": 0.333333333, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control", "Codigo_Servicio_SIG": 191, "Nombre_del_Servicio": "Vuelos Autonomos de drones para fotogrametria por Ha fuera de Bogotá para misiones avanzadas (grilla cuadricula, grilla lineal, muestreo y spot)", "Descripción_Técnica_del_Servici": "Este servicio ejecuta misiones autónomas avanzadas (Grilla doble) de fotogrametría fuera de Bogotá con un dron DJI Phantom 4 Pro equipado con sensor RGB, se cobra por Ha y las mision serian mediante grillas avanzadas y vuelos a alturas máximas permitidas. Este servicio es ideal para zonas que no sean planas. La precisión de los productos va a depender de la señal de corrección adquirida y de si se requieren o no Punto de Control; No se incluye el procesamiento de la información ni la planeación, también la señal de corrección, que deben contratarse aparte.", "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo", "Grupo": "Servicios de Drones", "Subgrupo": "Operación de Drones", "Unidades_Basicos": 0.5, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control", "Codigo_Servicio_SIG": 64, "Nombre_del_Servicio": "Revision de alcance, Información y KOM del proyecto", "Descripción_Técnica_del_Servici": "Este servicio cubre las actividades iniciales del proyecto, que incluyen la revisión y análisis de la documentación, la recopilación de información y la realización de un Kick-Off Meeting (KOM). Es fundamental para establecer las bases y definir el alcance del proyecto, aprovechando la experiencia de IsaGIS.", "Area_estrategica_IsaGIS_Technol": "Otros Servicios", "Grupo": "Proyectos", "Subgrupo": "Actividades Generales de Proyectos", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control", "Codigo_Servicio_SIG": 65, "Nombre_del_Servicio": "Preparación HSE Básico de proyectos", "Descripción_Técnica_del_Servici": "Este servicio se utiliza para cubrir los gastos y la recopilación de requerimientos básicos de HSE en proyectos donde el alcance en esta área es sencillo (de 1 a 5 requisitos). Con la precisión de la tecnología Esri y la experiencia de IsaGIS, se garantiza un manejo adecuado de los aspectos HSE desde el inicio del proyecto.", "Area_estrategica_IsaGIS_Technol": "Uso interno IsaGIS ", "Grupo": "Proyectos", "Subgrupo": "Actividades Generales de Proyectos", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control", "Codigo_Servicio_SIG": 67, "Nombre_del_Servicio": "Compilacion de entregables", "Descripción_Técnica_del_Servici": "Este servicio permite compilar y consolidar los entregables de un proyecto, facilitando la organización y presentación de la información final. Se integra eficientemente con otros servicios combinados, aprovechando la capacidad de gestión de datos de Esri y la experiencia de IsaGIS.", "Area_estrategica_IsaGIS_Technol": "Otros Servicios", "Grupo": "Proyectos", "Subgrupo": "Actividades Generales de Proyectos", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control", "Codigo_Servicio_SIG": 45, "Nombre_del_Servicio": "Creación de documentación o manuales (1 a 2 paginas)", "Descripción_Técnica_del_Servici": "Este servicio desarrolla documentación o manuales de hasta 2 páginas que describen de forma clara y concisa productos, algoritmos, aplicaciones o infraestructuras SIG implementadas. El documento se orienta tanto a usuarios como a técnicos, integrando la precisión de Esri con la metodología de IsaGIS.", "Area_estrategica_IsaGIS_Technol": "Servicios SIG", "Grupo": "Proyectos", "Subgrupo": "Documentación de Proyectos SIG", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control", "Codigo_Servicio_SIG": 48, "Nombre_del_Servicio": "Analisis Técnico de Proyectos GIS o Tecnologia o Ingeniería", "Descripción_Técnica_del_Servici": "Este servicio realiza un análisis técnico detallado de proyectos en ámbitos GIS, tecnológicos o de ingeniería, evaluando subactividades, requerimientos de personal, equipos, viajes y software. El resultado se documenta en un archivo Excel con el formato estándar de IsaGIS, abarcando hasta 5 ítems; para ítems adicionales se prorratea el servicio.", "Area_estrategica_IsaGIS_Technol": "Otros Servicios", "Grupo": "Proyectos", "Subgrupo": "Licitaciones y Ofertas Sencillas", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control", "Codigo_Servicio_SIG": 49, "Nombre_del_Servicio": "Elaboración de PDT o Cronograma de Actividades ", "Descripción_Técnica_del_Servici": "Este servicio desarrolla el cronograma de actividades (PDT) de un proyecto basándose en el análisis técnico previo, y se entrega en formato Excel o Project. El cronograma abarca hasta 5 ítems contractuales, facilitando la planificación y ejecución de proyectos SIG.", "Area_estrategica_IsaGIS_Technol": "Otros Servicios", "Grupo": "Proyectos", "Subgrupo": "Licitaciones y Ofertas Sencillas", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla Sin Puntos de Control fuera de Bogota (RMSErr=7 metros)", "Codigo_Servicio_SIG": 64, "Nombre_del_Servicio": "Revision de alcance, Información y KOM del proyecto", "Descripción_Técnica_del_Servici": "Este servicio cubre las actividades iniciales del proyecto, que incluyen la revisión y análisis de la documentación, la recopilación de información y la realización de un Kick-Off Meeting (KOM). Es fundamental para establecer las bases y definir el alcance del proyecto, aprovechando la experiencia de IsaGIS.", "Area_estrategica_IsaGIS_Technol": "Multidepartamental", "Grupo": "Ingeniería de Proyectos", "Subgrupo": "Actividades Generales de Proyectos", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla Sin Puntos de Control fuera de Bogota (RMSErr=7 metros)", "Codigo_Servicio_SIG": 65, "Nombre_del_Servicio": "Preparación HSE Básico de proyectos", "Descripción_Técnica_del_Servici": "Este servicio se utiliza para cubrir los gastos y la recopilación de requerimientos básicos de HSE en proyectos donde el alcance en esta área es sencillo (de 1 a 5 requisitos). Con la precisión de la tecnología Esri y la experiencia de IsaGIS, se garantiza un manejo adecuado de los aspectos HSE desde el inicio del proyecto.", "Area_estrategica_IsaGIS_Technol": "Multidepartamental", "Grupo": "Ingeniería de Proyectos", "Subgrupo": "Actividades Generales de Proyectos", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla Sin Puntos de Control fuera de Bogota (RMSErr=7 metros)", "Codigo_Servicio_SIG": 67, "Nombre_del_Servicio": "Compilacion de entregables", "Descripción_Técnica_del_Servici": "Este servicio permite compilar y consolidar los entregables de un proyecto, facilitando la organización y presentación de la información final. Se integra eficientemente con otros servicios combinados, aprovechando la capacidad de gestión de datos de Esri y la experiencia de IsaGIS.", "Area_estrategica_IsaGIS_Technol": "Multidepartamental", "Grupo": "Ingeniería de Proyectos", "Subgrupo": "Actividades Generales de Proyectos", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla Sin Puntos de Control fuera de Bogota (RMSErr=7 metros)", "Codigo_Servicio_SIG": 101, "Nombre_del_Servicio": "Planeación de operaciones aereas usando Drones", "Descripción_Técnica_del_Servici": "Este servicio consiste en la planificación integral de misiones aéreas con drones, utilizando ArcGIS Pro y otras herramientas de planeación para definir rutas, zonas de vuelo y parámetros operativos de acuerdo con las necesidades del proyecto. La misión se entrega en un proyecto de ArcGIS Pro; para integraciones en aplicaciones web o móviles se pueden solicitar servicios adicionales.", "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo", "Grupo": "Servicios de Drones", "Subgrupo": "Planeación Aérea", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla Sin Puntos de Control fuera de Bogota (RMSErr=7 metros)", "Codigo_Servicio_SIG": 45, "Nombre_del_Servicio": "Creación de documentación o manuales (1 a 2 paginas)", "Descripción_Técnica_del_Servici": "Este servicio desarrolla documentación o manuales de hasta 2 páginas que describen de forma clara y concisa productos, algoritmos, aplicaciones o infraestructuras SIG implementadas. El documento se orienta tanto a usuarios como a técnicos, integrando la precisión de Esri con la metodología de IsaGIS.", "Area_estrategica_IsaGIS_Technol": "Multidepartamental", "Grupo": "Ingeniería de Proyectos", "Subgrupo": "Documentación de Proyectos SIG", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla Sin Puntos de Control fuera de Bogota (RMSErr=7 metros)", "Codigo_Servicio_SIG": 109, "Nombre_del_Servicio": "Procesamiento de Fotogrametria (Ortofotomosaicos, DSM y Modelos 3D) de misiones autonomas por Ha y con puntos de control.", "Descripción_Técnica_del_Servici": "Este servicio permite procesar imágenes aéreas obtenidas en misiones autónomas de fotogrametría que requieran puntos de control, utilizando Drone2Map for ArcGIS y ArcGIS Pro. Se genera un set de ortofotomosaicos, DSM y modelos 3D. El costo de este servicio es por hectarea.", "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo", "Grupo": "Servicios de Drones", "Subgrupo": "Procesamiento Fotogrametrico", "Unidades_Basicos": 0.333333333, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla Sin Puntos de Control fuera de Bogota (RMSErr=7 metros)", "Codigo_Servicio_SIG": 48, "Nombre_del_Servicio": "Analisis Técnico de Proyectos GIS o Tecnologia o Ingeniería", "Descripción_Técnica_del_Servici": "Este servicio realiza un análisis técnico detallado de proyectos en ámbitos GIS, tecnológicos o de ingeniería, evaluando subactividades, requerimientos de personal, equipos, viajes y software. El resultado se documenta en un archivo Excel con el formato estándar de IsaGIS, abarcando hasta 5 ítems; para ítems adicionales se prorratea el servicio.", "Area_estrategica_IsaGIS_Technol": "Multidepartamental", "Grupo": "Ingeniería de Proyectos", "Subgrupo": "Licitaciones y Ofertas Sencillas", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla Sin Puntos de Control fuera de Bogota (RMSErr=7 metros)", "Codigo_Servicio_SIG": 49, "Nombre_del_Servicio": "Elaboración de PDT o Cronograma de Actividades ", "Descripción_Técnica_del_Servici": "Este servicio desarrolla el cronograma de actividades (PDT) de un proyecto basándose en el análisis técnico previo, y se entrega en formato Excel o Project. El cronograma abarca hasta 5 ítems contractuales, facilitando la planificación y ejecución de proyectos SIG.", "Area_estrategica_IsaGIS_Technol": "Multidepartamental", "Grupo": "Ingeniería de Proyectos", "Subgrupo": "Licitaciones y Ofertas Sencillas", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla Sin Puntos de Control fuera de Bogota (RMSErr=7 metros)", "Codigo_Servicio_SIG": 191, "Nombre_del_Servicio": "Vuelos Autonomos de drones para fotogrametria por Ha fuera de Bogotá para misiones avanzadas (grilla cuadricula, grilla lineal, muestreo y spot)", "Descripción_Técnica_del_Servici": "Este servicio ejecuta misiones autónomas avanzadas (Grilla doble) de fotogrametría fuera de Bogotá con un dron DJI Phantom 4 Pro equipado con sensor RGB, se cobra por Ha y las mision serian mediante grillas avanzadas y vuelos a alturas máximas permitidas. Este servicio es ideal para zonas que no sean planas. La precisión de los productos va a depender de la señal de corrección adquirida y de si se requieren o no Punto de Control; No se incluye el procesamiento de la información ni la planeación, también la señal de corrección, que deben contratarse aparte.", "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo", "Grupo": "Servicios de Drones", "Subgrupo": "Operación de Drones", "Unidades_Basicos": 0.5, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Capacitaciones Cortas para Promocionar la Tecnologia SIG de Esri", "Codigo_Servicio_SIG": 231, "Nombre_del_Servicio": "Una Mirada al uso de la Plataforma ArcGIS", "Descripción_Técnica_del_Servici": "Esta es una capacitación corta de tipo teorico, la finalidad es dar a conocer a los participantes: que son los SIG, para que sirven, ventajas, quien es Esri y se muestra un show case de los usos de arcgis en distintas industrias.", "Area_estrategica_IsaGIS_Technol": "Servicios SIG", "Grupo": "Capacitación Servicios SIG", "Subgrupo": "Capacitaciones Cortas Servicios SIG", "Unidades_Basicos": 2.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Capacitaciones Cortas para Promocionar la Tecnologia SIG de Esri", "Codigo_Servicio_SIG": 210, "Nombre_del_Servicio": "Historia Global del Petróleo", "Descripción_Técnica_del_Servici": "Esta es una capacitación virtual de tipo Teórico , sobre la Historia Global del Petroleo, el estudiante aprederia la historia mundial del petroleo usando aplicaciones geográficas. Se pudiera dar acceso al estudiante a la aplicación geográfica por 1 mes, pero la aplicación no se entrega.", "Area_estrategica_IsaGIS_Technol": "Servicios de Ingeniería", "Grupo": "Capacitación de Ingeniería de Oil and Gas", "Subgrupo": "Capacitaciones Cortas Oil and Gas", "Unidades_Basicos": 2.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "https://youtu.be/YQwt1giafwg"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Capacitaciones Cortas para Promocionar la Tecnologia SIG de Esri", "Codigo_Servicio_SIG": 213, "Nombre_del_Servicio": "Top ten de usos de aplicaciones  geográficas, IA y Drones para la industria del petroleo", "Descripción_Técnica_del_Servici": "Esta es una capacitación virtual de tipo Teórico , en la cual se realiza un conteo de los 10 mejor usos de aplicaciones geográficas, IA y Drones en la industria del petroleo", "Area_estrategica_IsaGIS_Technol": "Multidepartamental", "Grupo": "Capacitación Multidepartamental", "Subgrupo": "Capacitaciones Cortas Multidepartamental", "Unidades_Basicos": 2.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Capacitaciones Cortas para Promocionar la Tecnologia SIG de Esri", "Codigo_Servicio_SIG": 214, "Nombre_del_Servicio": "Usos de Drones en la industria de Oil and Gas", "Descripción_Técnica_del_Servici": "Esta es una capacitación virtual de tipo Teórico , sobre los usos de drones en la industria del petroleo", "Area_estrategica_IsaGIS_Technol": "Servicios de Ingeniería", "Grupo": "Capacitación de Ingeniería de Oil and Gas", "Subgrupo": "Capacitaciones Cortas Oil and Gas", "Unidades_Basicos": 2.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Capacitaciones Cortas para Promocionar la Tecnologia SIG de Esri", "Codigo_Servicio_SIG": 215, "Nombre_del_Servicio": "Webinar Proyectos Smart para Areas de Producción", "Descripción_Técnica_del_Servici": "Esta es una capacitación virtual de tipo Teórico , sobre Los proyectos SMART son prediseños de plataformas geoespaciales que integran el uso de Drones, IA y GIS, este curso o webinar muestra el para que de la implementación de un proyecto SMART para la produccion de hidrocarburos", "Area_estrategica_IsaGIS_Technol": "Multidepartamental", "Grupo": "Capacitación Multidepartamental", "Subgrupo": "Capacitaciones Cortas Multidepartamental", "Unidades_Basicos": 2.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Capacitaciones Cortas para Promocionar la Tecnologia SIG de Esri", "Codigo_Servicio_SIG": 216, "Nombre_del_Servicio": "Webinar teorico virtual sobre Metodologia Integrada Drones y ArcGIS en puntos especificos para la mejora de datos secundarios o abiertos para el diseño de gasoductos", "Descripción_Técnica_del_Servici": "Con este curso los estudiantes de las empresas aprenderian la implementación de la Metodologia Integrada Drones y ArcGIS en puntos especificos para la mejora de datos secundarios o abiertos para el diseño de gasoductos, ideal para ingenierias conceptuales en el diseño de gasoductos y oleoductos y usando las tecnología GIS Mobile de Esri para la recolección de datos en tierra, ArcGIS Pro para planear la misión y ArcGIS Full Motion Video para presentar los resultados y mejorar el diseño del gasoducto u oleoducto. Se usara un proyecto de IsaGIS como ejemplo. Es 100% teórica y virtual, no incluye ejercicios practicos para que los estudiantes hagan. Si esto se requiere se pudiera agregar un servicio de dia de práctica en pista de drones y adicionalmente un servicio de ejercicios prácticos usando ArcGIS.  Maximo 10 participantes en el webinar.", "Area_estrategica_IsaGIS_Technol": "Servicios de Ingeniería", "Grupo": "Capacitación de Ingeniería de Oil and Gas", "Subgrupo": "Capacitaciones Cortas Oil and Gas", "Unidades_Basicos": 0.0, "Unidades_Intermedias": 3.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Capacitaciones Cortas para Promocionar la Tecnologia SIG de Esri", "Codigo_Servicio_SIG": 218, "Nombre_del_Servicio": "Honorarios de profesional experto en misiones autonomas para dictar práctica de misiones de drones en pista de drones o infraestructura del cliente", "Descripción_Técnica_del_Servici": "Este servicio se pudiera adicionar a algunos servicios de capacitacion virtuales para complementar y hacer prácticas de misiones de drones en una pista de UAVs. Consiste en el pago del profesional de IsaGIS Technologies para dictar las prácticas de vuelos de drones, que pudieran ser en la pista de drones del partner de IsaGIS o en las instalaciones del cliente siempre y cuando se cumplan con los requerimientos tecnicos y legales para dictar este tipo de capacitaciones de drones. Este servicio se dictaria con el uso de un Drone Phantom 4 pro, se pudieran usar las aeronaves del cliente.  Este servicio no incluye el traslado de los participantes a la pista de drones.", "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo", "Grupo": "Servicios de Drones", "Subgrupo": "Capacitaciones Prácticas Operaciones de Campo", "Unidades_Basicos": 0.0, "Unidades_Intermedias": 1.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Capacitaciones Cortas para Promocionar la Tecnologia SIG de Esri", "Codigo_Servicio_SIG": 219, "Nombre_del_Servicio": "Honorarios de profesional experto para ejecutar 1 hora de  práctica usando la tecnología SIG de Esri", "Descripción_Técnica_del_Servici": "Este servicio se debe adicionar  cuando una capacitacion virtuales tiene partes  practicas de uso de ArcGIS. Consiste en el pago del profesional de IsaGIS Technologies para dictar las prácticas del uso de cualquier producto de ArcGIS por hora. No incluye el licenciamiento de ArcGIS para el curso, para esto se debe incluir el Servicio \"Licenciamiento de ArcGIS Personal Use para capacitaciones prácticas\".", "Area_estrategica_IsaGIS_Technol": "Servicios SIG", "Grupo": "Capacitación Servicios SIG", "Subgrupo": "Capacitaciones Prácticas Servicios SIG", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Capacitaciones Largas para dictarlas en conjunto a Esri Colombia", "Codigo_Servicio_SIG": 221, "Nombre_del_Servicio": "Taller Teórico Practico de fotogrametria y vuelos autonomos usando tecnología SIG de Esri", "Descripción_Técnica_del_Servici": "Es te servicio consiste en cubrir los honorarios del profesional que dictara el Taller Teórico Practico de fotogrametria y vuelos autonomos usando tecnología SIG de Esri.  \n\nLa capacitación que se propone tendrá unas horas teóricas y otras prácticas, divido en dos grandes partes: una en que los participantes aprendan aspectos importantes de la industria de las aeronaves no tripuladas, aspectos básicos para la toma de videos y fotografías aéreas y en la 2da parte sobre las tecnologías de software existentes para realizar vuelos autónomos y procesar productos fotogramétricos de alta y mediana precisión. \n\nLos drones que se utilizaran son cuadricopteros y el sensor RGB, por tal motivo los productos fotogramétricos que se procesaran son: Ortofotomosaico, Modelos 3D y Modelos Digitales de Superficie. En cuanto a la precisión se dará la capacitación de cómo construir y usar Puntos de Control en tierra para que puedan ser usados en productos fotogramétricos de alta precisión.", "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo", "Grupo": "Servicios de Drones", "Subgrupo": "Capacitaciones Prácticas Operaciones de Campo", "Unidades_Basicos": 0.0, "Unidades_Intermedias": 1.0, "Unidades_Avanzadas": 1.0, "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Capacitaciones Largas para dictarlas en conjunto a Esri Colombia", "Codigo_Servicio_SIG": 222, "Nombre_del_Servicio": "Drones Inteligentes Aplicaciones de IA y Aprendizaje Automático", "Descripción_Técnica_del_Servici": "Es te servicio consiste en cubrir los honorarios del profesional que dictara la capacitación denominada: Drones Inteligentes Aplicaciones de IA y Aprendizaje Automático, esta grandiosa capacitación se dictaria con tecnología SIG de Esri usando varios story maps, tableros de control, ArcGIS Pro y algoritmos de Deep Learning.\n\nIdeal para que las empresas tengan una idea global de los avances de la Inteligencia Artificial en la actualidad y como esta se integra a drones. \n\nLa capacitación que se propone tendrá 8 horas teoricas y sera virtual, pudiera dividirse en 2 sesiones de 4 horas o como disponga el cliente.\n\nEl contenido del curso teórico es el siguiente: \n\n- Introducción a la Inteligencia Artificial y Drones (Que es, un showcase de usos,  Historia de la IA, Clasificaciones) \n- Términos, diciplinas y tipos de Aplicaciones de la IA\n- Machine Learning o Aprendizaje Automático (subcategorías, elementos y conceptos importantes)\n- Inteligencia Artificial aplicada a Aeronaves No Tripuladas (Usos generales de la IA en Drones, Machine Learning para drones (técnicas clásicas y aprendizaje profundo), entrenamiento de algoritmos)\n- Integración de Drones, IA y ArcGIS\n- Como se implementa la IA en Drones.\n- Conclusiones, recomendaciones y Futuro de la IA y Drones. \n\n", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "Capacitación IA", "Subgrupo": "Capacitaciones Largas IA ", "Unidades_Basicos": 0.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 1.0, "Link_Videos_Promocionales": "https://youtu.be/WqBYM1eWo1A"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Capacitaciones Cortas para Promocionar la Tecnologia SIG de Esri", "Codigo_Servicio_SIG": 223, "Nombre_del_Servicio": "Introducción a la Inteligencia Artificial y Drones (Que es, un showcase de usos,  Historia de la IA, Clasificaciones)", "Descripción_Técnica_del_Servici": "Es te servicio consiste en cubrir los honorarios del profesional que dictara la capacitación denominada: Introducción a la Inteligencia Artificial y Drones (Que es, un showcase de usos,  Historia de la IA, Clasificaciones) , esta grandiosa capacitación se dictaria con tecnología SIG de Esri usando varios story maps y  tableros de control.\n\nIdeal para que las empresas tengan una idea global de los avances de la Inteligencia Artificial en la actualidad y como esta se integra a drones. \n\nLa capacitación que se propone tendrá 2 horas teoricas y sera virtual.\n\nEl contenido del curso teórico es el siguiente: \n\n- Que es la Inteligencia Artificial\n- Usos de la IA\n- Historia de la IA y Drones\n- Tipos de IA\n- Eras de la IA ", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "Capacitación IA", "Subgrupo": "Capacitaciones Cortas IA", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "https://youtu.be/WqBYM1eWo1A"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "Capacitaciones Cortas para Promocionar la Tecnologia SIG de Esri", "Codigo_Servicio_SIG": 211, "Nombre_del_Servicio": "Historia Colombiana del Petroleo", "Descripción_Técnica_del_Servici": "Esta es una capacitación virtual de tipo Teórico , sobre la Historia Colombiana del Petroleo, el estudiante aprederia la historia colombiana del petroleo usando aplicaciones geográficas. Se pudiera dar acceso al estudiante a la aplicación geográfica por 1 mes, pero la aplicación no se entrega.", "Area_estrategica_IsaGIS_Technol": "Servicios de Ingeniería", "Grupo": "Capacitación de Ingeniería de Oil and Gas", "Subgrupo": "Capacitaciones Cortas Oil and Gas", "Unidades_Basicos": 2.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": "https://youtu.be/A4EDijWG2rk"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "InfoBot + WebChat", "Codigo_Servicio_SIG": 261, "Nombre_del_Servicio": "Licenciamiento y Configuracion de 1 Cuenta de Desarrolladores de OpenAI", "Descripción_Técnica_del_Servici": "Este servicio cubre la configuracion de una cuenta de desarrolladores de Open AI y una sola recarga de 20 dolares de la cuenta. Ideal para servicios que requieran la integración con modelos de Open AI. A el cliente se le dara una capacitacion basica del uso de la cuenta de desarrolladores y se entregaran las pruebas de las recarga de 20 dolares, como monitorear el saldo de la cuenta y como recargar las cuenta, en futuras ocasiones.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Licenciamiento y Configuración", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "InfoBot + WebChat", "Codigo_Servicio_SIG": 266, "Nombre_del_Servicio": "Configuración Inicial de Cuenta Cal.com (Licencia Gratuita)", "Descripción_Técnica_del_Servici": "Este servicio contempla la creación y configuración inicial de una cuenta Cal.com bajo el plan gratuito, el cual incluye: 1 usuario, calendarios y tipos de eventos ilimitados, automatización mediante workflows, integración con aplicaciones y posibilidad de pagos vía Stripe. Al finalizar, se entrega la API Key y el ID del calendario necesario para integrar con el Módulo de Conexión a Cal.com.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Licenciamiento y Configuración", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "InfoBot + WebChat", "Codigo_Servicio_SIG": 267, "Nombre_del_Servicio": "Módulo de Integración Básico a Cal.com para Reuniones Virtuales o Presenciales", "Descripción_Técnica_del_Servici": "Este módulo básico permite a un agente IA integrarse con Cal.com para gestionar el flujo de agendamiento de reuniones, incluyendo la verificación de disponibilidad en calendario, propuesta de horarios al cliente y reserva automática de reuniones virtuales o presenciales. Ideal para empresas o negocios que requieren coordinar citas, reservas o reuniones sin funcionalidades extendidas de recordatorio.\r\n", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Funcionalidad Basica", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "InfoBot + WebChat", "Codigo_Servicio_SIG": 251, "Nombre_del_Servicio": "Modulo Agente de IA Informativo (Modulo Base InfoBot)", "Descripción_Técnica_del_Servici": "Este servicio corresponde a un agente de inteligencia artificial informativo que opera en sitios web utilizando una estructura de SPM (Sistema de Preguntas y Mensajes) básica. El bot puede responder preguntas frecuentes, entregar información clave del negocio, productos o servicios, y asistir a usuarios sin depender de herramientas externas ni conexión con bases de datos. Está diseñado como punto de partida para asistentes inteligentes accesibles y fáciles de integrar. El bot se puede integrar en la pagina web del cliente.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Modulo Base", "Unidades_Basicos": 0.0, "Unidades_Intermedias": 0.5, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "InfoBot + WebChat", "Codigo_Servicio_SIG": 252, "Nombre_del_Servicio": "Licenciamiento y Configuración de Plataforma n8n (Cloud)", "Descripción_Técnica_del_Servici": "Incluye la provisión de un licenciamiento nivel starter y gestión del licenciamiento requerido para ejecutar agentes IA en la plataforma n8n, recomendando usar la versión de la nube (n8n.io). Incluye un pequeña capacitacion de 1 hora maximo del uso de la licencia starter. Este tipo de licenciamiento incluye: 1 shared project, maximo 5 flujos activos, unlimited users y acceso al forum de soporte. Si pasas de 5 flujos activos, se recomienda adquirir el plan Pro directamente con n8n.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Licenciamiento y Configuración", "Unidades_Basicos": 1.5, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot + InfoBot + Webchat", "Codigo_Servicio_SIG": 261, "Nombre_del_Servicio": "Licenciamiento y Configuracion de 1 Cuenta de Desarrolladores de OpenAI", "Descripción_Técnica_del_Servici": "Este servicio cubre la configuracion de una cuenta de desarrolladores de Open AI y una sola recarga de 20 dolares de la cuenta. Ideal para servicios que requieran la integración con modelos de Open AI. A el cliente se le dara una capacitacion basica del uso de la cuenta de desarrolladores y se entregaran las pruebas de las recarga de 20 dolares, como monitorear el saldo de la cuenta y como recargar las cuenta, en futuras ocasiones.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Licenciamiento y Configuración", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot + InfoBot + Webchat", "Codigo_Servicio_SIG": 266, "Nombre_del_Servicio": "Configuración Inicial de Cuenta Cal.com (Licencia Gratuita)", "Descripción_Técnica_del_Servici": "Este servicio contempla la creación y configuración inicial de una cuenta Cal.com bajo el plan gratuito, el cual incluye: 1 usuario, calendarios y tipos de eventos ilimitados, automatización mediante workflows, integración con aplicaciones y posibilidad de pagos vía Stripe. Al finalizar, se entrega la API Key y el ID del calendario necesario para integrar con el Módulo de Conexión a Cal.com.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Licenciamiento y Configuración", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot + InfoBot + Webchat", "Codigo_Servicio_SIG": 267, "Nombre_del_Servicio": "Módulo de Integración Básico a Cal.com para Reuniones Virtuales o Presenciales", "Descripción_Técnica_del_Servici": "Este módulo básico permite a un agente IA integrarse con Cal.com para gestionar el flujo de agendamiento de reuniones, incluyendo la verificación de disponibilidad en calendario, propuesta de horarios al cliente y reserva automática de reuniones virtuales o presenciales. Ideal para empresas o negocios que requieren coordinar citas, reservas o reuniones sin funcionalidades extendidas de recordatorio.\r\n", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Funcionalidad Basica", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot + InfoBot + Webchat", "Codigo_Servicio_SIG": 243, "Nombre_del_Servicio": "Modulo Agente IA de Ventas (Modulo base SaleBot)", "Descripción_Técnica_del_Servici": "Este módulo otorga al Agente de IA la capacidad de ejecutar flujos conversacionales con enfoque comercial y prospectivo, integrando un SPM (System Prompt Message) especialmente diseñado para guiar de manera estratégica a potenciales clientes, brindando información clara y conduciéndolos hacia decisiones de negocio.\n\nA través de modelos avanzados de lenguaje como GPT-4o, GPT-4o Mini o GPT-3.5 Turbo, el agente IA puede generar interacciones personalizadas, identificar necesidades y ofrecer respuestas orientadas al cierre de oportunidades comerciales.\n\nEl módulo incluye:\n\n- La creación de un SPM prospectivo + informativo, adaptado a los objetivos comerciales del cliente.\n\n- Integración con Manychat, permitiendo al agente operar directamente desde canales como Facebook Messenger, Instagram o sitios web, facilitando el contacto fluido desde redes sociales.\n\n- Integración a un chatbot de IsaGIS que puede ser implementado alineado a la necesidades del cliente en su pagina web, para atender preguntas informativas y pudiendo volverlas propectivas.\n\nAdemás, el módulo puede potenciarse aún más con funcionalidades adicionales, que pueden ser contratadas,  tales como:\n\n-🔍 Acceso a bases de datos vectoriales como Pinecone para extraer información contextual relevante del cliente o producto.\n\n- 🌍 Conexión con servicios web de ArcGIS y/o tablas GeoJSON alojadas en GitHub, permitiendo al agente comprender mejor el entorno geográfico, los territorios o el portafolio de servicios aplicables.\n- Operar CRM, Eventos, acceso a emails, modulo de disponibilidad y reserva de citas.\n", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Modulo Base", "Unidades_Basicos": 1.5, "Unidades_Intermedias": 0.5, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot + InfoBot + Webchat", "Codigo_Servicio_SIG": 251, "Nombre_del_Servicio": "Modulo Agente de IA Informativo (Modulo Base InfoBot)", "Descripción_Técnica_del_Servici": "Este servicio corresponde a un agente de inteligencia artificial informativo que opera en sitios web utilizando una estructura de SPM (Sistema de Preguntas y Mensajes) básica. El bot puede responder preguntas frecuentes, entregar información clave del negocio, productos o servicios, y asistir a usuarios sin depender de herramientas externas ni conexión con bases de datos. Está diseñado como punto de partida para asistentes inteligentes accesibles y fáciles de integrar. El bot se puede integrar en la pagina web del cliente.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Modulo Base", "Unidades_Basicos": 0.0, "Unidades_Intermedias": 0.5, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot + InfoBot + Webchat", "Codigo_Servicio_SIG": 252, "Nombre_del_Servicio": "Licenciamiento y Configuración de Plataforma n8n (Cloud)", "Descripción_Técnica_del_Servici": "Incluye la provisión de un licenciamiento nivel starter y gestión del licenciamiento requerido para ejecutar agentes IA en la plataforma n8n, recomendando usar la versión de la nube (n8n.io). Incluye un pequeña capacitacion de 1 hora maximo del uso de la licencia starter. Este tipo de licenciamiento incluye: 1 shared project, maximo 5 flujos activos, unlimited users y acceso al forum de soporte. Si pasas de 5 flujos activos, se recomienda adquirir el plan Pro directamente con n8n.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Licenciamiento y Configuración", "Unidades_Basicos": 1.5, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot Integrado a Whatsapp y Redes Sociales", "Codigo_Servicio_SIG": 266, "Nombre_del_Servicio": "Configuración Inicial de Cuenta Cal.com (Licencia Gratuita)", "Descripción_Técnica_del_Servici": "Este servicio contempla la creación y configuración inicial de una cuenta Cal.com bajo el plan gratuito, el cual incluye: 1 usuario, calendarios y tipos de eventos ilimitados, automatización mediante workflows, integración con aplicaciones y posibilidad de pagos vía Stripe. Al finalizar, se entrega la API Key y el ID del calendario necesario para integrar con el Módulo de Conexión a Cal.com.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Licenciamiento y Configuración", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot Integrado a Whatsapp y Redes Sociales", "Codigo_Servicio_SIG": 267, "Nombre_del_Servicio": "Módulo de Integración Básico a Cal.com para Reuniones Virtuales o Presenciales", "Descripción_Técnica_del_Servici": "Este módulo básico permite a un agente IA integrarse con Cal.com para gestionar el flujo de agendamiento de reuniones, incluyendo la verificación de disponibilidad en calendario, propuesta de horarios al cliente y reserva automática de reuniones virtuales o presenciales. Ideal para empresas o negocios que requieren coordinar citas, reservas o reuniones sin funcionalidades extendidas de recordatorio.\r\n", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Funcionalidad Basica", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot Integrado a Whatsapp y Redes Sociales", "Codigo_Servicio_SIG": 243, "Nombre_del_Servicio": "Modulo Agente IA de Ventas (Modulo base SaleBot)", "Descripción_Técnica_del_Servici": "Este módulo otorga al Agente de IA la capacidad de ejecutar flujos conversacionales con enfoque comercial y prospectivo, integrando un SPM (System Prompt Message) especialmente diseñado para guiar de manera estratégica a potenciales clientes, brindando información clara y conduciéndolos hacia decisiones de negocio.\n\nA través de modelos avanzados de lenguaje como GPT-4o, GPT-4o Mini o GPT-3.5 Turbo, el agente IA puede generar interacciones personalizadas, identificar necesidades y ofrecer respuestas orientadas al cierre de oportunidades comerciales.\n\nEl módulo incluye:\n\n- La creación de un SPM prospectivo + informativo, adaptado a los objetivos comerciales del cliente.\n\n- Integración con Manychat, permitiendo al agente operar directamente desde canales como Facebook Messenger, Instagram o sitios web, facilitando el contacto fluido desde redes sociales.\n\n- Integración a un chatbot de IsaGIS que puede ser implementado alineado a la necesidades del cliente en su pagina web, para atender preguntas informativas y pudiendo volverlas propectivas.\n\nAdemás, el módulo puede potenciarse aún más con funcionalidades adicionales, que pueden ser contratadas,  tales como:\n\n-🔍 Acceso a bases de datos vectoriales como Pinecone para extraer información contextual relevante del cliente o producto.\n\n- 🌍 Conexión con servicios web de ArcGIS y/o tablas GeoJSON alojadas en GitHub, permitiendo al agente comprender mejor el entorno geográfico, los territorios o el portafolio de servicios aplicables.\n- Operar CRM, Eventos, acceso a emails, modulo de disponibilidad y reserva de citas.\n", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Modulo Base", "Unidades_Basicos": 1.5, "Unidades_Intermedias": 0.5, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot Integrado a Whatsapp y Redes Sociales", "Codigo_Servicio_SIG": 244, "Nombre_del_Servicio": "Integración con Canales de Mensajería (WhatsApp / Telegram)", "Descripción_Técnica_del_Servici": "Este módulo permite la integración de agentes inteligentes desarrollados con n8n o plataformas equivalentes con canales de mensajería como WhatsApp y Telegram. Facilita la interacción directa con usuarios finales a través de estas plataformas, permitiendo extender flujos conversacionales, atención automatizada, ventas o soporte en tiempo real. El módulo configura los webhooks y autenticaciones necesarias para habilitar la mensajería bidireccional, y puede conectarse a bots ya existentes o agentes nuevos desarrollados por IsaGIS.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Canales de Comunicación", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot Integrado a Whatsapp y Redes Sociales", "Codigo_Servicio_SIG": 247, "Nombre_del_Servicio": "Conector de Redes Sociales para Agentes IA", "Descripción_Técnica_del_Servici": "Este módulo conecta agentes IA con plataformas de automatización de redes sociales como Manychat, permitiendo flujos conversacionales en Facebook Messenger, Instagram o WhatsApp Business. Permite automatizar respuestas, calificación de prospectos, envío de contenidos y acciones personalizadas a través de redes sociales.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Canales de Comunicación", "Unidades_Basicos": 0.0, "Unidades_Intermedias": 0.5, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot Integrado a Whatsapp y Redes Sociales", "Codigo_Servicio_SIG": 252, "Nombre_del_Servicio": "Licenciamiento y Configuración de Plataforma n8n (Cloud)", "Descripción_Técnica_del_Servici": "Incluye la provisión de un licenciamiento nivel starter y gestión del licenciamiento requerido para ejecutar agentes IA en la plataforma n8n, recomendando usar la versión de la nube (n8n.io). Incluye un pequeña capacitacion de 1 hora maximo del uso de la licencia starter. Este tipo de licenciamiento incluye: 1 shared project, maximo 5 flujos activos, unlimited users y acceso al forum de soporte. Si pasas de 5 flujos activos, se recomienda adquirir el plan Pro directamente con n8n.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Licenciamiento y Configuración", "Unidades_Basicos": 1.5, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot Integrado a Whatsapp y Redes Sociales", "Codigo_Servicio_SIG": 253, "Nombre_del_Servicio": "Configuración de Cuenta Twilio/Authkey", "Descripción_Técnica_del_Servici": "Este servicio cubre la gestión del licenciamiento y configuración de servicios de mensajería en canales como WhatsApp Business, mediante proveedores como Twilio o Authkey y configuración de una cuenta de meta developers del cliente. Incluye la creación del número comercial, configuración de la cuenta del cliente asociada a una SIM CARD, envío de mensajes de prueba y configuración de para dejar listo para la etapa de producción. Incluye una pequeña capacitación para que el cliente tenga los conocimientos de como monitorear el saldo y hacer futuras recargas.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Licenciamiento y Configuración", "Unidades_Basicos": 2.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot Integrado a Whatsapp y Redes Sociales", "Codigo_Servicio_SIG": 255, "Nombre_del_Servicio": "Configuración de Meta Developers y Manychat", "Descripción_Técnica_del_Servici": "Configuración técnica de los dos componentes clave para activar un chatbot funcional en redes sociales (Facebook Messenger o Instagram) usando Manychat como plataforma de automatización. Este servicio se debe incluir si el cliente no posee la configuración de la App de meta configurada y cuenta de Manychat activa.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Licenciamiento y Configuración", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp", "Codigo_Servicio_SIG": 266, "Nombre_del_Servicio": "Configuración Inicial de Cuenta Cal.com (Licencia Gratuita)", "Descripción_Técnica_del_Servici": "Este servicio contempla la creación y configuración inicial de una cuenta Cal.com bajo el plan gratuito, el cual incluye: 1 usuario, calendarios y tipos de eventos ilimitados, automatización mediante workflows, integración con aplicaciones y posibilidad de pagos vía Stripe. Al finalizar, se entrega la API Key y el ID del calendario necesario para integrar con el Módulo de Conexión a Cal.com.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Licenciamiento y Configuración", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp", "Codigo_Servicio_SIG": 267, "Nombre_del_Servicio": "Módulo de Integración Básico a Cal.com para Reuniones Virtuales o Presenciales", "Descripción_Técnica_del_Servici": "Este módulo básico permite a un agente IA integrarse con Cal.com para gestionar el flujo de agendamiento de reuniones, incluyendo la verificación de disponibilidad en calendario, propuesta de horarios al cliente y reserva automática de reuniones virtuales o presenciales. Ideal para empresas o negocios que requieren coordinar citas, reservas o reuniones sin funcionalidades extendidas de recordatorio.\r\n", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Funcionalidad Basica", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp", "Codigo_Servicio_SIG": 241, "Nombre_del_Servicio": "Conector a Servicios Web Geoespaciales", "Descripción_Técnica_del_Servici": "Esta herramienta permitiria conectar aplicaciones, dashboards o agentes inteligentes con servicios web publicados en la plataforma ArcGIS Online o ArcGIS Enterprise. La conexión puede ser a capas de entidades (Feature Services), mapas web, imágenes, geoprocesos o cualquier otro recurso REST. Este servicio es clave para lograr la integración geoespacial de sistemas o asistentes que requieren consultar, visualizar o actualizar información geográfica en tiempo real", "Area_estrategica_IsaGIS_Technol": "Servicios SIG", "Grupo": "IsaBots", "Subgrupo": "Conectividad de Datos", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp", "Codigo_Servicio_SIG": 243, "Nombre_del_Servicio": "Modulo Agente IA de Ventas (Modulo base SaleBot)", "Descripción_Técnica_del_Servici": "Este módulo otorga al Agente de IA la capacidad de ejecutar flujos conversacionales con enfoque comercial y prospectivo, integrando un SPM (System Prompt Message) especialmente diseñado para guiar de manera estratégica a potenciales clientes, brindando información clara y conduciéndolos hacia decisiones de negocio.\n\nA través de modelos avanzados de lenguaje como GPT-4o, GPT-4o Mini o GPT-3.5 Turbo, el agente IA puede generar interacciones personalizadas, identificar necesidades y ofrecer respuestas orientadas al cierre de oportunidades comerciales.\n\nEl módulo incluye:\n\n- La creación de un SPM prospectivo + informativo, adaptado a los objetivos comerciales del cliente.\n\n- Integración con Manychat, permitiendo al agente operar directamente desde canales como Facebook Messenger, Instagram o sitios web, facilitando el contacto fluido desde redes sociales.\n\n- Integración a un chatbot de IsaGIS que puede ser implementado alineado a la necesidades del cliente en su pagina web, para atender preguntas informativas y pudiendo volverlas propectivas.\n\nAdemás, el módulo puede potenciarse aún más con funcionalidades adicionales, que pueden ser contratadas,  tales como:\n\n-🔍 Acceso a bases de datos vectoriales como Pinecone para extraer información contextual relevante del cliente o producto.\n\n- 🌍 Conexión con servicios web de ArcGIS y/o tablas GeoJSON alojadas en GitHub, permitiendo al agente comprender mejor el entorno geográfico, los territorios o el portafolio de servicios aplicables.\n- Operar CRM, Eventos, acceso a emails, modulo de disponibilidad y reserva de citas.\n", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Modulo Base", "Unidades_Basicos": 1.5, "Unidades_Intermedias": 0.5, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp", "Codigo_Servicio_SIG": 244, "Nombre_del_Servicio": "Integración con Canales de Mensajería (WhatsApp / Telegram)", "Descripción_Técnica_del_Servici": "Este módulo permite la integración de agentes inteligentes desarrollados con n8n o plataformas equivalentes con canales de mensajería como WhatsApp y Telegram. Facilita la interacción directa con usuarios finales a través de estas plataformas, permitiendo extender flujos conversacionales, atención automatizada, ventas o soporte en tiempo real. El módulo configura los webhooks y autenticaciones necesarias para habilitar la mensajería bidireccional, y puede conectarse a bots ya existentes o agentes nuevos desarrollados por IsaGIS.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Canales de Comunicación", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp", "Codigo_Servicio_SIG": 252, "Nombre_del_Servicio": "Licenciamiento y Configuración de Plataforma n8n (Cloud)", "Descripción_Técnica_del_Servici": "Incluye la provisión de un licenciamiento nivel starter y gestión del licenciamiento requerido para ejecutar agentes IA en la plataforma n8n, recomendando usar la versión de la nube (n8n.io). Incluye un pequeña capacitacion de 1 hora maximo del uso de la licencia starter. Este tipo de licenciamiento incluye: 1 shared project, maximo 5 flujos activos, unlimited users y acceso al forum de soporte. Si pasas de 5 flujos activos, se recomienda adquirir el plan Pro directamente con n8n.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Licenciamiento y Configuración", "Unidades_Basicos": 1.5, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp", "Codigo_Servicio_SIG": 247, "Nombre_del_Servicio": "Conector de Redes Sociales para Agentes IA", "Descripción_Técnica_del_Servici": "Este módulo conecta agentes IA con plataformas de automatización de redes sociales como Manychat, permitiendo flujos conversacionales en Facebook Messenger, Instagram o WhatsApp Business. Permite automatizar respuestas, calificación de prospectos, envío de contenidos y acciones personalizadas a través de redes sociales.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Canales de Comunicación", "Unidades_Basicos": 0.0, "Unidades_Intermedias": 0.5, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp", "Codigo_Servicio_SIG": 220, "Nombre_del_Servicio": "Configuración de aplicaciones de ArcGIS Online o ArcGIS Desktop", "Descripción_Técnica_del_Servici": "Este servicio se da si el cliente no tiene licencias activas o configuradas de ArcGIS On Line y ArcGIS Pro. Este servicio puede ser utilizado en cursos que tengan una parte práctica en donde se debe usar las herramientas que se incluyen en este licenciamiento y tambien pudiera darse cuando se requiera operacion de aplicaciones desarrolladas usando ArcGIS. Este servicio incluye la instalación en 1 maquina del cliente ArcGIS Pro y la instalacion de realizaria virtualmente,  es decir, tomando el control de la maquina. Si se requiere traslado a las oficinas del cliente se agregarias servicios de logistica. Tambien incluye 1 hora de capacitación virtual del producto de ArcGIS que se este instalando.", "Area_estrategica_IsaGIS_Technol": "Servicios SIG", "Grupo": "Capacitación Servicios SIG", "Subgrupo": "Licenciamiento y Configuración", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp", "Codigo_Servicio_SIG": 253, "Nombre_del_Servicio": "Configuración de Cuenta Twilio/Authkey", "Descripción_Técnica_del_Servici": "Este servicio cubre la gestión del licenciamiento y configuración de servicios de mensajería en canales como WhatsApp Business, mediante proveedores como Twilio o Authkey y configuración de una cuenta de meta developers del cliente. Incluye la creación del número comercial, configuración de la cuenta del cliente asociada a una SIM CARD, envío de mensajes de prueba y configuración de para dejar listo para la etapa de producción. Incluye una pequeña capacitación para que el cliente tenga los conocimientos de como monitorear el saldo y hacer futuras recargas.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Licenciamiento y Configuración", "Unidades_Basicos": 2.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp", "Codigo_Servicio_SIG": 255, "Nombre_del_Servicio": "Configuración de Meta Developers y Manychat", "Descripción_Técnica_del_Servici": "Configuración técnica de los dos componentes clave para activar un chatbot funcional en redes sociales (Facebook Messenger o Instagram) usando Manychat como plataforma de automatización. Este servicio se debe incluir si el cliente no posee la configuración de la App de meta configurada y cuenta de Manychat activa.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Licenciamiento y Configuración", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales", "Codigo_Servicio_SIG": 266, "Nombre_del_Servicio": "Configuración Inicial de Cuenta Cal.com (Licencia Gratuita)", "Descripción_Técnica_del_Servici": "Este servicio contempla la creación y configuración inicial de una cuenta Cal.com bajo el plan gratuito, el cual incluye: 1 usuario, calendarios y tipos de eventos ilimitados, automatización mediante workflows, integración con aplicaciones y posibilidad de pagos vía Stripe. Al finalizar, se entrega la API Key y el ID del calendario necesario para integrar con el Módulo de Conexión a Cal.com.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Licenciamiento y Configuración", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales", "Codigo_Servicio_SIG": 267, "Nombre_del_Servicio": "Módulo de Integración Básico a Cal.com para Reuniones Virtuales o Presenciales", "Descripción_Técnica_del_Servici": "Este módulo básico permite a un agente IA integrarse con Cal.com para gestionar el flujo de agendamiento de reuniones, incluyendo la verificación de disponibilidad en calendario, propuesta de horarios al cliente y reserva automática de reuniones virtuales o presenciales. Ideal para empresas o negocios que requieren coordinar citas, reservas o reuniones sin funcionalidades extendidas de recordatorio.\r\n", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Funcionalidad Basica", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales", "Codigo_Servicio_SIG": 240, "Nombre_del_Servicio": "Módulo de Conexión a Base de Datos Vectorial", "Descripción_Técnica_del_Servici": "Este módulo permite derle la funcionalidad a un Empleado Virtual que consulte grandes bases de datos habilitando la conexión a bases de datos vectoriales como Pinecone. Con esta integración, el agente puede realizar búsquedas semánticas en documentos o registros almacenados, permitiendo respuestas contextualizadas y enriquecidas. El módulo es ideal para escenarios donde se requiere memoria de largo plazo o interpretación de grandes volúmenes de información. Puede integrarse con bots existentes o futuros desarrollos de IA dentro del ecosistema IsaGIS. ", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Conectividad de Datos", "Unidades_Basicos": 1.5, "Unidades_Intermedias": 0.25, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales", "Codigo_Servicio_SIG": 243, "Nombre_del_Servicio": "Modulo Agente IA de Ventas (Modulo base SaleBot)", "Descripción_Técnica_del_Servici": "Este módulo otorga al Agente de IA la capacidad de ejecutar flujos conversacionales con enfoque comercial y prospectivo, integrando un SPM (System Prompt Message) especialmente diseñado para guiar de manera estratégica a potenciales clientes, brindando información clara y conduciéndolos hacia decisiones de negocio.\n\nA través de modelos avanzados de lenguaje como GPT-4o, GPT-4o Mini o GPT-3.5 Turbo, el agente IA puede generar interacciones personalizadas, identificar necesidades y ofrecer respuestas orientadas al cierre de oportunidades comerciales.\n\nEl módulo incluye:\n\n- La creación de un SPM prospectivo + informativo, adaptado a los objetivos comerciales del cliente.\n\n- Integración con Manychat, permitiendo al agente operar directamente desde canales como Facebook Messenger, Instagram o sitios web, facilitando el contacto fluido desde redes sociales.\n\n- Integración a un chatbot de IsaGIS que puede ser implementado alineado a la necesidades del cliente en su pagina web, para atender preguntas informativas y pudiendo volverlas propectivas.\n\nAdemás, el módulo puede potenciarse aún más con funcionalidades adicionales, que pueden ser contratadas,  tales como:\n\n-🔍 Acceso a bases de datos vectoriales como Pinecone para extraer información contextual relevante del cliente o producto.\n\n- 🌍 Conexión con servicios web de ArcGIS y/o tablas GeoJSON alojadas en GitHub, permitiendo al agente comprender mejor el entorno geográfico, los territorios o el portafolio de servicios aplicables.\n- Operar CRM, Eventos, acceso a emails, modulo de disponibilidad y reserva de citas.\n", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Modulo Base", "Unidades_Basicos": 1.5, "Unidades_Intermedias": 0.5, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales", "Codigo_Servicio_SIG": 244, "Nombre_del_Servicio": "Integración con Canales de Mensajería (WhatsApp / Telegram)", "Descripción_Técnica_del_Servici": "Este módulo permite la integración de agentes inteligentes desarrollados con n8n o plataformas equivalentes con canales de mensajería como WhatsApp y Telegram. Facilita la interacción directa con usuarios finales a través de estas plataformas, permitiendo extender flujos conversacionales, atención automatizada, ventas o soporte en tiempo real. El módulo configura los webhooks y autenticaciones necesarias para habilitar la mensajería bidireccional, y puede conectarse a bots ya existentes o agentes nuevos desarrollados por IsaGIS.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Canales de Comunicación", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales", "Codigo_Servicio_SIG": 252, "Nombre_del_Servicio": "Licenciamiento y Configuración de Plataforma n8n (Cloud)", "Descripción_Técnica_del_Servici": "Incluye la provisión de un licenciamiento nivel starter y gestión del licenciamiento requerido para ejecutar agentes IA en la plataforma n8n, recomendando usar la versión de la nube (n8n.io). Incluye un pequeña capacitacion de 1 hora maximo del uso de la licencia starter. Este tipo de licenciamiento incluye: 1 shared project, maximo 5 flujos activos, unlimited users y acceso al forum de soporte. Si pasas de 5 flujos activos, se recomienda adquirir el plan Pro directamente con n8n.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Licenciamiento y Configuración", "Unidades_Basicos": 1.5, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales", "Codigo_Servicio_SIG": 253, "Nombre_del_Servicio": "Configuración de Cuenta Twilio/Authkey", "Descripción_Técnica_del_Servici": "Este servicio cubre la gestión del licenciamiento y configuración de servicios de mensajería en canales como WhatsApp Business, mediante proveedores como Twilio o Authkey y configuración de una cuenta de meta developers del cliente. Incluye la creación del número comercial, configuración de la cuenta del cliente asociada a una SIM CARD, envío de mensajes de prueba y configuración de para dejar listo para la etapa de producción. Incluye una pequeña capacitación para que el cliente tenga los conocimientos de como monitorear el saldo y hacer futuras recargas.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Licenciamiento y Configuración", "Unidades_Basicos": 2.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales", "Codigo_Servicio_SIG": 254, "Nombre_del_Servicio": "Configuración Inicial de Cuenta Pinecone", "Descripción_Técnica_del_Servici": "Creación de cuenta gratuita en Pinecone, definición de índice base y obtención de API Key para consumir información vectorizada desde agentes IA u otras herramientas de análisis.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Licenciamiento y Configuración", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales", "Codigo_Servicio_SIG": 255, "Nombre_del_Servicio": "Configuración de Meta Developers y Manychat", "Descripción_Técnica_del_Servici": "Configuración técnica de los dos componentes clave para activar un chatbot funcional en redes sociales (Facebook Messenger o Instagram) usando Manychat como plataforma de automatización. Este servicio se debe incluir si el cliente no posee la configuración de la App de meta configurada y cuenta de Manychat activa.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Licenciamiento y Configuración", "Unidades_Basicos": 1.0, "Unidades_Intermedias": 0.0, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.0, 0.0]}, "properties": {"Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales", "Codigo_Servicio_SIG": 247, "Nombre_del_Servicio": "Conector de Redes Sociales para Agentes IA", "Descripción_Técnica_del_Servici": "Este módulo conecta agentes IA con plataformas de automatización de redes sociales como Manychat, permitiendo flujos conversacionales en Facebook Messenger, Instagram o WhatsApp Business. Permite automatizar respuestas, calificación de prospectos, envío de contenidos y acciones personalizadas a través de redes sociales.", "Area_estrategica_IsaGIS_Technol": "Servicios de IA", "Grupo": "IsaBots", "Subgrupo": "Canales de Comunicación", "Unidades_Basicos": 0.0, "Unidades_Intermedias": 0.5, "Unidades_Avanzadas": 0.0, "Link_Videos_Promocionales": ""}}], "updated_at": "2026-02-25 16:41:14"}
+{
+    "type": "FeatureCollection",
+    "schema": {
+        "Nombre_Servicio_Combinado": {
+            "type": "String",
+            "length": 255
+        },
+        "Codigo_Servicio_SIG": {
+            "type": "Integer",
+            "length": null
+        },
+        "Nombre_del_Servicio": {
+            "type": "String",
+            "length": 255
+        },
+        "Descripción_Técnica_del_Servici": {
+            "type": "String",
+            "length": 3000
+        },
+        "Area_estrategica_IsaGIS_Technol": {
+            "type": "String",
+            "length": 255
+        },
+        "Grupo": {
+            "type": "String",
+            "length": 255
+        },
+        "Subgrupo": {
+            "type": "String",
+            "length": 255
+        },
+        "Unidades_Basicos": {
+            "type": "Double",
+            "length": null
+        },
+        "Unidades_Intermedias": {
+            "type": "Double",
+            "length": null
+        },
+        "Unidades_Avanzadas": {
+            "type": "Double",
+            "length": null
+        },
+        "Link_Videos_Promocionales": {
+            "type": "String",
+            "length": 500
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Crear Pagina web Basica con guion e imagenes",
+                "Codigo_Servicio_SIG": 106,
+                "Nombre_del_Servicio": "Desarrollo de Paginas Web con IA",
+                "Descripción_Técnica_del_Servici": "Este servicio desarrolla una página web sencilla apoyada en inteligencia artificial, que puede incluir mapas dinámicos, imágenes y videos. Se entrega una propuesta de contenido con elementos generados mediante IA, adaptándose a las necesidades del cliente para ofrecer una solución interactiva y de bajo costo.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios SIG",
+                "Grupo": "Desarrollo de Aplicaciones",
+                "Subgrupo": "Desarrollo de Paginas Web",
+                "Unidades_Basicos": 0.0,
+                "Unidades_Intermedias": 1.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Crear Pagina web Basica con guion e imagenes",
+                "Codigo_Servicio_SIG": 52,
+                "Nombre_del_Servicio": "Guion (Script) para Videos ",
+                "Descripción_Técnica_del_Servici": "Este servicio ofrece la elaboración de un guion para videos promocionales que incluye la descripción de cada escena, indicaciones para las imágenes o videos y, opcionalmente, la incorporación de narración. El guion se adapta a cualquier temática y se entrega en formato Word, facilitando la producción audiovisual.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IA Generativa",
+                "Subgrupo": "Mercadeo",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Crear Pagina web Basica con guion e imagenes",
+                "Codigo_Servicio_SIG": 50,
+                "Nombre_del_Servicio": "Creación de Imágenes",
+                "Descripción_Técnica_del_Servici": "Este servicio utiliza inteligencia artificial y recursos propios de IsaGIS para crear imágenes de alta calidad, ideales para presentaciones en PowerPoint, Story Maps, aplicaciones web inmersivas o videos promocionales. Las imágenes se diseñan para comunicar de forma visual y efectiva, resaltando la precisión y el atractivo de la tecnología Esri.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IA Generativa",
+                "Subgrupo": "Mercadeo",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Creación de Videos para Redes Sociales con Avatar",
+                "Codigo_Servicio_SIG": 51,
+                "Nombre_del_Servicio": "Avatar programado para narración de Videos",
+                "Descripción_Técnica_del_Servici": "Este servicio consiste en la creación de un Avatar usando IA, que puede ser usado para narrar videos promocionales o de redes sociales. Se puede implementar el Avatar con Avatares publicos disponibles en la herramienta de IA de IsaGIS o se puede configurar Avatares Hiperrealistas que son basados en videos de 2 min entregados por el cliente o usando fotografias de la persona o objeto animado a clonar.  ",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IA Generativa",
+                "Subgrupo": "Mercadeo",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Creación de Videos para Redes Sociales con Avatar",
+                "Codigo_Servicio_SIG": 52,
+                "Nombre_del_Servicio": "Guion (Script) para Videos ",
+                "Descripción_Técnica_del_Servici": "Este servicio ofrece la elaboración de un guion para videos promocionales que incluye la descripción de cada escena, indicaciones para las imágenes o videos y, opcionalmente, la incorporación de narración. El guion se adapta a cualquier temática y se entrega en formato Word, facilitando la producción audiovisual.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IA Generativa",
+                "Subgrupo": "Mercadeo",
+                "Unidades_Basicos": 0.5,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Creación de Videos para Redes Sociales con Avatar",
+                "Codigo_Servicio_SIG": 53,
+                "Nombre_del_Servicio": "Desarrollo General de Estrategias de Mercadeo ",
+                "Descripción_Técnica_del_Servici": "Este servicio desarrolla estrategias generales de mercadeo adaptadas a la temática o tipo de negocio del cliente, ofreciendo hasta 10 estrategias con una descripción general de cada actividad. El entregable se presenta en una tabla Excel, proporcionando una visión clara y estructurada para la toma de decisiones, sin incluir la ejecución de las estrategias.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IA Generativa",
+                "Subgrupo": "Mercadeo",
+                "Unidades_Basicos": 0.5,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Creación de Videos para Redes Sociales con Avatar",
+                "Codigo_Servicio_SIG": 158,
+                "Nombre_del_Servicio": "Videos Promocionales",
+                "Descripción_Técnica_del_Servici": "Este servicio crea videos promocionales para presentaciones, Story Maps, aplicaciones web inmersivas o actividades de mercadeo, utilizando inteligencia artificial, tecnología SIG de Esri y recursos propios de IsaGIS (drones y proyectos de ingeniería). El video tendrá una duración máxima de 2 minutos; videos más largos se cotizan proporcionalmente. El contenido, imágenes, temática, guion y narración deben ser proporcionados por el cliente o solicitados como servicios adicionales, se pudiera integrar el video con un avatar. pero tambien se debe solicitar adicionalmente la creación del avatar.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IA Generativa",
+                "Subgrupo": "Mercadeo",
+                "Unidades_Basicos": 0.0,
+                "Unidades_Intermedias": 1.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control",
+                "Codigo_Servicio_SIG": 101,
+                "Nombre_del_Servicio": "Planeación de operaciones aereas usando Drones",
+                "Descripción_Técnica_del_Servici": "Este servicio consiste en la planificación integral de misiones aéreas con drones, utilizando ArcGIS Pro y otras herramientas de planeación para definir rutas, zonas de vuelo y parámetros operativos de acuerdo con las necesidades del proyecto. La misión se entrega en un proyecto de ArcGIS Pro; para integraciones en aplicaciones web o móviles se pueden solicitar servicios adicionales.",
+                "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo",
+                "Grupo": "Recolección de Datos en Tierra",
+                "Subgrupo": "Planeación",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control",
+                "Codigo_Servicio_SIG": 39,
+                "Nombre_del_Servicio": "Recolección de coordenadas de Puntos de Control usando Technología GIS Mobile",
+                "Descripción_Técnica_del_Servici": "Este servicio de recolección de datos en campo captura coordenadas de puntos de control mediante tecnología GIS Mobile. Los puntos de control son esenciales para georeferenciar capas vectoriales y raster, así como para mejorar la precisión de productos de fotogrametría de drones en proyectos de ingeniería conceptual o básica. Este servicio se cobra por punto de control y la precisión (RMSErr) sera segun la señal de corrección adquirida. Se entrega en una File GDB en una capa tipo punto. Nota: Tanto la construcción de puntos de control (su instalación física) y la Señal de Correccion deben contratarse por separado. ",
+                "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo",
+                "Grupo": "Recolección de Datos en Tierra",
+                "Subgrupo": "Recolección",
+                "Unidades_Basicos": 0.333333333,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control",
+                "Codigo_Servicio_SIG": 40,
+                "Nombre_del_Servicio": "Construcción de Puntos de Control temporales",
+                "Descripción_Técnica_del_Servici": "Este servicio se encarga de la ubicación de puntos de control temporales en terreno, necesarios para ejecutar misiones autónomas de fotogrametría. Los puntos se planifican y distribuyen utilizando ArcGIS Pro, siguiendo las mejores prácticas y la experiencia de IsaGIS para asegurar estabilidad y visibilidad durante la misión. Estos puntos son temporales y serán removidos una vez finalizada la misión de vuelo autónomo. ",
+                "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo",
+                "Grupo": "Recolección de Datos en Tierra",
+                "Subgrupo": "Puntos de Control",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control",
+                "Codigo_Servicio_SIG": 109,
+                "Nombre_del_Servicio": "Procesamiento de Fotogrametria (Ortofotomosaicos, DSM y Modelos 3D) de misiones autonomas por Ha y con puntos de control.",
+                "Descripción_Técnica_del_Servici": "Este servicio permite procesar imágenes aéreas obtenidas en misiones autónomas de fotogrametría que requieran puntos de control, utilizando Drone2Map for ArcGIS y ArcGIS Pro. Se genera un set de ortofotomosaicos, DSM y modelos 3D. El costo de este servicio es por hectarea.",
+                "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo",
+                "Grupo": "Servicios de Drones",
+                "Subgrupo": "Procesamiento Fotogrametrico",
+                "Unidades_Basicos": 0.333333333,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control",
+                "Codigo_Servicio_SIG": 191,
+                "Nombre_del_Servicio": "Vuelos Autonomos de drones para fotogrametria por Ha fuera de Bogotá para misiones avanzadas (grilla cuadricula, grilla lineal, muestreo y spot)",
+                "Descripción_Técnica_del_Servici": "Este servicio ejecuta misiones autónomas avanzadas (Grilla doble) de fotogrametría fuera de Bogotá con un dron DJI Phantom 4 Pro equipado con sensor RGB, se cobra por Ha y las mision serian mediante grillas avanzadas y vuelos a alturas máximas permitidas. Este servicio es ideal para zonas que no sean planas. La precisión de los productos va a depender de la señal de corrección adquirida y de si se requieren o no Punto de Control; No se incluye el procesamiento de la información ni la planeación, también la señal de corrección, que deben contratarse aparte.",
+                "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo",
+                "Grupo": "Servicios de Drones",
+                "Subgrupo": "Operación de Drones",
+                "Unidades_Basicos": 0.5,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control",
+                "Codigo_Servicio_SIG": 64,
+                "Nombre_del_Servicio": "Revision de alcance, Información y KOM del proyecto",
+                "Descripción_Técnica_del_Servici": "Este servicio cubre las actividades iniciales del proyecto, que incluyen la revisión y análisis de la documentación, la recopilación de información y la realización de un Kick-Off Meeting (KOM). Es fundamental para establecer las bases y definir el alcance del proyecto, aprovechando la experiencia de IsaGIS.",
+                "Area_estrategica_IsaGIS_Technol": "Otros Servicios",
+                "Grupo": "Proyectos",
+                "Subgrupo": "Actividades Generales de Proyectos",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control",
+                "Codigo_Servicio_SIG": 65,
+                "Nombre_del_Servicio": "Preparación HSE Básico de proyectos",
+                "Descripción_Técnica_del_Servici": "Este servicio se utiliza para cubrir los gastos y la recopilación de requerimientos básicos de HSE en proyectos donde el alcance en esta área es sencillo (de 1 a 5 requisitos). Con la precisión de la tecnología Esri y la experiencia de IsaGIS, se garantiza un manejo adecuado de los aspectos HSE desde el inicio del proyecto.",
+                "Area_estrategica_IsaGIS_Technol": "Uso interno IsaGIS ",
+                "Grupo": "Proyectos",
+                "Subgrupo": "Actividades Generales de Proyectos",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control",
+                "Codigo_Servicio_SIG": 67,
+                "Nombre_del_Servicio": "Compilacion de entregables",
+                "Descripción_Técnica_del_Servici": "Este servicio permite compilar y consolidar los entregables de un proyecto, facilitando la organización y presentación de la información final. Se integra eficientemente con otros servicios combinados, aprovechando la capacidad de gestión de datos de Esri y la experiencia de IsaGIS.",
+                "Area_estrategica_IsaGIS_Technol": "Otros Servicios",
+                "Grupo": "Proyectos",
+                "Subgrupo": "Actividades Generales de Proyectos",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control",
+                "Codigo_Servicio_SIG": 45,
+                "Nombre_del_Servicio": "Creación de documentación o manuales (1 a 2 paginas)",
+                "Descripción_Técnica_del_Servici": "Este servicio desarrolla documentación o manuales de hasta 2 páginas que describen de forma clara y concisa productos, algoritmos, aplicaciones o infraestructuras SIG implementadas. El documento se orienta tanto a usuarios como a técnicos, integrando la precisión de Esri con la metodología de IsaGIS.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios SIG",
+                "Grupo": "Proyectos",
+                "Subgrupo": "Documentación de Proyectos SIG",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control",
+                "Codigo_Servicio_SIG": 48,
+                "Nombre_del_Servicio": "Analisis Técnico de Proyectos GIS o Tecnologia o Ingeniería",
+                "Descripción_Técnica_del_Servici": "Este servicio realiza un análisis técnico detallado de proyectos en ámbitos GIS, tecnológicos o de ingeniería, evaluando subactividades, requerimientos de personal, equipos, viajes y software. El resultado se documenta en un archivo Excel con el formato estándar de IsaGIS, abarcando hasta 5 ítems; para ítems adicionales se prorratea el servicio.",
+                "Area_estrategica_IsaGIS_Technol": "Otros Servicios",
+                "Grupo": "Proyectos",
+                "Subgrupo": "Licitaciones y Ofertas Sencillas",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control",
+                "Codigo_Servicio_SIG": 49,
+                "Nombre_del_Servicio": "Elaboración de PDT o Cronograma de Actividades ",
+                "Descripción_Técnica_del_Servici": "Este servicio desarrolla el cronograma de actividades (PDT) de un proyecto basándose en el análisis técnico previo, y se entrega en formato Excel o Project. El cronograma abarca hasta 5 ítems contractuales, facilitando la planificación y ejecución de proyectos SIG.",
+                "Area_estrategica_IsaGIS_Technol": "Otros Servicios",
+                "Grupo": "Proyectos",
+                "Subgrupo": "Licitaciones y Ofertas Sencillas",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla Sin Puntos de Control fuera de Bogota (RMSErr=7 metros)",
+                "Codigo_Servicio_SIG": 64,
+                "Nombre_del_Servicio": "Revision de alcance, Información y KOM del proyecto",
+                "Descripción_Técnica_del_Servici": "Este servicio cubre las actividades iniciales del proyecto, que incluyen la revisión y análisis de la documentación, la recopilación de información y la realización de un Kick-Off Meeting (KOM). Es fundamental para establecer las bases y definir el alcance del proyecto, aprovechando la experiencia de IsaGIS.",
+                "Area_estrategica_IsaGIS_Technol": "Multidepartamental",
+                "Grupo": "Ingeniería de Proyectos",
+                "Subgrupo": "Actividades Generales de Proyectos",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla Sin Puntos de Control fuera de Bogota (RMSErr=7 metros)",
+                "Codigo_Servicio_SIG": 65,
+                "Nombre_del_Servicio": "Preparación HSE Básico de proyectos",
+                "Descripción_Técnica_del_Servici": "Este servicio se utiliza para cubrir los gastos y la recopilación de requerimientos básicos de HSE en proyectos donde el alcance en esta área es sencillo (de 1 a 5 requisitos). Con la precisión de la tecnología Esri y la experiencia de IsaGIS, se garantiza un manejo adecuado de los aspectos HSE desde el inicio del proyecto.",
+                "Area_estrategica_IsaGIS_Technol": "Multidepartamental",
+                "Grupo": "Ingeniería de Proyectos",
+                "Subgrupo": "Actividades Generales de Proyectos",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla Sin Puntos de Control fuera de Bogota (RMSErr=7 metros)",
+                "Codigo_Servicio_SIG": 67,
+                "Nombre_del_Servicio": "Compilacion de entregables",
+                "Descripción_Técnica_del_Servici": "Este servicio permite compilar y consolidar los entregables de un proyecto, facilitando la organización y presentación de la información final. Se integra eficientemente con otros servicios combinados, aprovechando la capacidad de gestión de datos de Esri y la experiencia de IsaGIS.",
+                "Area_estrategica_IsaGIS_Technol": "Multidepartamental",
+                "Grupo": "Ingeniería de Proyectos",
+                "Subgrupo": "Actividades Generales de Proyectos",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla Sin Puntos de Control fuera de Bogota (RMSErr=7 metros)",
+                "Codigo_Servicio_SIG": 101,
+                "Nombre_del_Servicio": "Planeación de operaciones aereas usando Drones",
+                "Descripción_Técnica_del_Servici": "Este servicio consiste en la planificación integral de misiones aéreas con drones, utilizando ArcGIS Pro y otras herramientas de planeación para definir rutas, zonas de vuelo y parámetros operativos de acuerdo con las necesidades del proyecto. La misión se entrega en un proyecto de ArcGIS Pro; para integraciones en aplicaciones web o móviles se pueden solicitar servicios adicionales.",
+                "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo",
+                "Grupo": "Servicios de Drones",
+                "Subgrupo": "Planeación Aérea",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla Sin Puntos de Control fuera de Bogota (RMSErr=7 metros)",
+                "Codigo_Servicio_SIG": 45,
+                "Nombre_del_Servicio": "Creación de documentación o manuales (1 a 2 paginas)",
+                "Descripción_Técnica_del_Servici": "Este servicio desarrolla documentación o manuales de hasta 2 páginas que describen de forma clara y concisa productos, algoritmos, aplicaciones o infraestructuras SIG implementadas. El documento se orienta tanto a usuarios como a técnicos, integrando la precisión de Esri con la metodología de IsaGIS.",
+                "Area_estrategica_IsaGIS_Technol": "Multidepartamental",
+                "Grupo": "Ingeniería de Proyectos",
+                "Subgrupo": "Documentación de Proyectos SIG",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla Sin Puntos de Control fuera de Bogota (RMSErr=7 metros)",
+                "Codigo_Servicio_SIG": 109,
+                "Nombre_del_Servicio": "Procesamiento de Fotogrametria (Ortofotomosaicos, DSM y Modelos 3D) de misiones autonomas por Ha y con puntos de control.",
+                "Descripción_Técnica_del_Servici": "Este servicio permite procesar imágenes aéreas obtenidas en misiones autónomas de fotogrametría que requieran puntos de control, utilizando Drone2Map for ArcGIS y ArcGIS Pro. Se genera un set de ortofotomosaicos, DSM y modelos 3D. El costo de este servicio es por hectarea.",
+                "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo",
+                "Grupo": "Servicios de Drones",
+                "Subgrupo": "Procesamiento Fotogrametrico",
+                "Unidades_Basicos": 0.333333333,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla Sin Puntos de Control fuera de Bogota (RMSErr=7 metros)",
+                "Codigo_Servicio_SIG": 48,
+                "Nombre_del_Servicio": "Analisis Técnico de Proyectos GIS o Tecnologia o Ingeniería",
+                "Descripción_Técnica_del_Servici": "Este servicio realiza un análisis técnico detallado de proyectos en ámbitos GIS, tecnológicos o de ingeniería, evaluando subactividades, requerimientos de personal, equipos, viajes y software. El resultado se documenta en un archivo Excel con el formato estándar de IsaGIS, abarcando hasta 5 ítems; para ítems adicionales se prorratea el servicio.",
+                "Area_estrategica_IsaGIS_Technol": "Multidepartamental",
+                "Grupo": "Ingeniería de Proyectos",
+                "Subgrupo": "Licitaciones y Ofertas Sencillas",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla Sin Puntos de Control fuera de Bogota (RMSErr=7 metros)",
+                "Codigo_Servicio_SIG": 49,
+                "Nombre_del_Servicio": "Elaboración de PDT o Cronograma de Actividades ",
+                "Descripción_Técnica_del_Servici": "Este servicio desarrolla el cronograma de actividades (PDT) de un proyecto basándose en el análisis técnico previo, y se entrega en formato Excel o Project. El cronograma abarca hasta 5 ítems contractuales, facilitando la planificación y ejecución de proyectos SIG.",
+                "Area_estrategica_IsaGIS_Technol": "Multidepartamental",
+                "Grupo": "Ingeniería de Proyectos",
+                "Subgrupo": "Licitaciones y Ofertas Sencillas",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla Sin Puntos de Control fuera de Bogota (RMSErr=7 metros)",
+                "Codigo_Servicio_SIG": 191,
+                "Nombre_del_Servicio": "Vuelos Autonomos de drones para fotogrametria por Ha fuera de Bogotá para misiones avanzadas (grilla cuadricula, grilla lineal, muestreo y spot)",
+                "Descripción_Técnica_del_Servici": "Este servicio ejecuta misiones autónomas avanzadas (Grilla doble) de fotogrametría fuera de Bogotá con un dron DJI Phantom 4 Pro equipado con sensor RGB, se cobra por Ha y las mision serian mediante grillas avanzadas y vuelos a alturas máximas permitidas. Este servicio es ideal para zonas que no sean planas. La precisión de los productos va a depender de la señal de corrección adquirida y de si se requieren o no Punto de Control; No se incluye el procesamiento de la información ni la planeación, también la señal de corrección, que deben contratarse aparte.",
+                "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo",
+                "Grupo": "Servicios de Drones",
+                "Subgrupo": "Operación de Drones",
+                "Unidades_Basicos": 0.5,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Capacitaciones Cortas para Promocionar la Tecnologia SIG de Esri",
+                "Codigo_Servicio_SIG": 231,
+                "Nombre_del_Servicio": "Una Mirada al uso de la Plataforma ArcGIS",
+                "Descripción_Técnica_del_Servici": "Esta es una capacitación corta de tipo teorico, la finalidad es dar a conocer a los participantes: que son los SIG, para que sirven, ventajas, quien es Esri y se muestra un show case de los usos de arcgis en distintas industrias.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios SIG",
+                "Grupo": "Capacitación Servicios SIG",
+                "Subgrupo": "Capacitaciones Cortas Servicios SIG",
+                "Unidades_Basicos": 2.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Capacitaciones Cortas para Promocionar la Tecnologia SIG de Esri",
+                "Codigo_Servicio_SIG": 210,
+                "Nombre_del_Servicio": "Historia Global del Petróleo",
+                "Descripción_Técnica_del_Servici": "Esta es una capacitación virtual de tipo Teórico , sobre la Historia Global del Petroleo, el estudiante aprederia la historia mundial del petroleo usando aplicaciones geográficas. Se pudiera dar acceso al estudiante a la aplicación geográfica por 1 mes, pero la aplicación no se entrega.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de Ingeniería",
+                "Grupo": "Capacitación de Ingeniería de Oil and Gas",
+                "Subgrupo": "Capacitaciones Cortas Oil and Gas",
+                "Unidades_Basicos": 2.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "https://youtu.be/YQwt1giafwg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Capacitaciones Cortas para Promocionar la Tecnologia SIG de Esri",
+                "Codigo_Servicio_SIG": 213,
+                "Nombre_del_Servicio": "Top ten de usos de aplicaciones  geográficas, IA y Drones para la industria del petroleo",
+                "Descripción_Técnica_del_Servici": "Esta es una capacitación virtual de tipo Teórico , en la cual se realiza un conteo de los 10 mejor usos de aplicaciones geográficas, IA y Drones en la industria del petroleo",
+                "Area_estrategica_IsaGIS_Technol": "Multidepartamental",
+                "Grupo": "Capacitación Multidepartamental",
+                "Subgrupo": "Capacitaciones Cortas Multidepartamental",
+                "Unidades_Basicos": 2.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Capacitaciones Cortas para Promocionar la Tecnologia SIG de Esri",
+                "Codigo_Servicio_SIG": 214,
+                "Nombre_del_Servicio": "Usos de Drones en la industria de Oil and Gas",
+                "Descripción_Técnica_del_Servici": "Esta es una capacitación virtual de tipo Teórico , sobre los usos de drones en la industria del petroleo",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de Ingeniería",
+                "Grupo": "Capacitación de Ingeniería de Oil and Gas",
+                "Subgrupo": "Capacitaciones Cortas Oil and Gas",
+                "Unidades_Basicos": 2.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Capacitaciones Cortas para Promocionar la Tecnologia SIG de Esri",
+                "Codigo_Servicio_SIG": 215,
+                "Nombre_del_Servicio": "Webinar Proyectos Smart para Areas de Producción",
+                "Descripción_Técnica_del_Servici": "Esta es una capacitación virtual de tipo Teórico , sobre Los proyectos SMART son prediseños de plataformas geoespaciales que integran el uso de Drones, IA y GIS, este curso o webinar muestra el para que de la implementación de un proyecto SMART para la produccion de hidrocarburos",
+                "Area_estrategica_IsaGIS_Technol": "Multidepartamental",
+                "Grupo": "Capacitación Multidepartamental",
+                "Subgrupo": "Capacitaciones Cortas Multidepartamental",
+                "Unidades_Basicos": 2.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Capacitaciones Cortas para Promocionar la Tecnologia SIG de Esri",
+                "Codigo_Servicio_SIG": 216,
+                "Nombre_del_Servicio": "Webinar teorico virtual sobre Metodologia Integrada Drones y ArcGIS en puntos especificos para la mejora de datos secundarios o abiertos para el diseño de gasoductos",
+                "Descripción_Técnica_del_Servici": "Con este curso los estudiantes de las empresas aprenderian la implementación de la Metodologia Integrada Drones y ArcGIS en puntos especificos para la mejora de datos secundarios o abiertos para el diseño de gasoductos, ideal para ingenierias conceptuales en el diseño de gasoductos y oleoductos y usando las tecnología GIS Mobile de Esri para la recolección de datos en tierra, ArcGIS Pro para planear la misión y ArcGIS Full Motion Video para presentar los resultados y mejorar el diseño del gasoducto u oleoducto. Se usara un proyecto de IsaGIS como ejemplo. Es 100% teórica y virtual, no incluye ejercicios practicos para que los estudiantes hagan. Si esto se requiere se pudiera agregar un servicio de dia de práctica en pista de drones y adicionalmente un servicio de ejercicios prácticos usando ArcGIS.  Maximo 10 participantes en el webinar.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de Ingeniería",
+                "Grupo": "Capacitación de Ingeniería de Oil and Gas",
+                "Subgrupo": "Capacitaciones Cortas Oil and Gas",
+                "Unidades_Basicos": 0.0,
+                "Unidades_Intermedias": 3.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Capacitaciones Cortas para Promocionar la Tecnologia SIG de Esri",
+                "Codigo_Servicio_SIG": 218,
+                "Nombre_del_Servicio": "Honorarios de profesional experto en misiones autonomas para dictar práctica de misiones de drones en pista de drones o infraestructura del cliente",
+                "Descripción_Técnica_del_Servici": "Este servicio se pudiera adicionar a algunos servicios de capacitacion virtuales para complementar y hacer prácticas de misiones de drones en una pista de UAVs. Consiste en el pago del profesional de IsaGIS Technologies para dictar las prácticas de vuelos de drones, que pudieran ser en la pista de drones del partner de IsaGIS o en las instalaciones del cliente siempre y cuando se cumplan con los requerimientos tecnicos y legales para dictar este tipo de capacitaciones de drones. Este servicio se dictaria con el uso de un Drone Phantom 4 pro, se pudieran usar las aeronaves del cliente.  Este servicio no incluye el traslado de los participantes a la pista de drones.",
+                "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo",
+                "Grupo": "Servicios de Drones",
+                "Subgrupo": "Capacitaciones Prácticas Operaciones de Campo",
+                "Unidades_Basicos": 0.0,
+                "Unidades_Intermedias": 1.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Capacitaciones Cortas para Promocionar la Tecnologia SIG de Esri",
+                "Codigo_Servicio_SIG": 219,
+                "Nombre_del_Servicio": "Honorarios de profesional experto para ejecutar 1 hora de  práctica usando la tecnología SIG de Esri",
+                "Descripción_Técnica_del_Servici": "Este servicio se debe adicionar  cuando una capacitacion virtuales tiene partes  practicas de uso de ArcGIS. Consiste en el pago del profesional de IsaGIS Technologies para dictar las prácticas del uso de cualquier producto de ArcGIS por hora. No incluye el licenciamiento de ArcGIS para el curso, para esto se debe incluir el Servicio \"Licenciamiento de ArcGIS Personal Use para capacitaciones prácticas\".",
+                "Area_estrategica_IsaGIS_Technol": "Servicios SIG",
+                "Grupo": "Capacitación Servicios SIG",
+                "Subgrupo": "Capacitaciones Prácticas Servicios SIG",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Capacitaciones Largas para dictarlas en conjunto a Esri Colombia",
+                "Codigo_Servicio_SIG": 221,
+                "Nombre_del_Servicio": "Taller Teórico Practico de fotogrametria y vuelos autonomos usando tecnología SIG de Esri",
+                "Descripción_Técnica_del_Servici": "Es te servicio consiste en cubrir los honorarios del profesional que dictara el Taller Teórico Practico de fotogrametria y vuelos autonomos usando tecnología SIG de Esri.  \n\nLa capacitación que se propone tendrá unas horas teóricas y otras prácticas, divido en dos grandes partes: una en que los participantes aprendan aspectos importantes de la industria de las aeronaves no tripuladas, aspectos básicos para la toma de videos y fotografías aéreas y en la 2da parte sobre las tecnologías de software existentes para realizar vuelos autónomos y procesar productos fotogramétricos de alta y mediana precisión. \n\nLos drones que se utilizaran son cuadricopteros y el sensor RGB, por tal motivo los productos fotogramétricos que se procesaran son: Ortofotomosaico, Modelos 3D y Modelos Digitales de Superficie. En cuanto a la precisión se dará la capacitación de cómo construir y usar Puntos de Control en tierra para que puedan ser usados en productos fotogramétricos de alta precisión.",
+                "Area_estrategica_IsaGIS_Technol": "Operaciones de Campo",
+                "Grupo": "Servicios de Drones",
+                "Subgrupo": "Capacitaciones Prácticas Operaciones de Campo",
+                "Unidades_Basicos": 0.0,
+                "Unidades_Intermedias": 1.0,
+                "Unidades_Avanzadas": 1.0,
+                "Link_Videos_Promocionales": "Aun no tiene Video o Imagen Promocional"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Capacitaciones Largas para dictarlas en conjunto a Esri Colombia",
+                "Codigo_Servicio_SIG": 222,
+                "Nombre_del_Servicio": "Drones Inteligentes Aplicaciones de IA y Aprendizaje Automático",
+                "Descripción_Técnica_del_Servici": "Es te servicio consiste en cubrir los honorarios del profesional que dictara la capacitación denominada: Drones Inteligentes Aplicaciones de IA y Aprendizaje Automático, esta grandiosa capacitación se dictaria con tecnología SIG de Esri usando varios story maps, tableros de control, ArcGIS Pro y algoritmos de Deep Learning.\n\nIdeal para que las empresas tengan una idea global de los avances de la Inteligencia Artificial en la actualidad y como esta se integra a drones. \n\nLa capacitación que se propone tendrá 8 horas teoricas y sera virtual, pudiera dividirse en 2 sesiones de 4 horas o como disponga el cliente.\n\nEl contenido del curso teórico es el siguiente: \n\n- Introducción a la Inteligencia Artificial y Drones (Que es, un showcase de usos,  Historia de la IA, Clasificaciones) \n- Términos, diciplinas y tipos de Aplicaciones de la IA\n- Machine Learning o Aprendizaje Automático (subcategorías, elementos y conceptos importantes)\n- Inteligencia Artificial aplicada a Aeronaves No Tripuladas (Usos generales de la IA en Drones, Machine Learning para drones (técnicas clásicas y aprendizaje profundo), entrenamiento de algoritmos)\n- Integración de Drones, IA y ArcGIS\n- Como se implementa la IA en Drones.\n- Conclusiones, recomendaciones y Futuro de la IA y Drones. \n\n",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "Capacitación IA",
+                "Subgrupo": "Capacitaciones Largas IA ",
+                "Unidades_Basicos": 0.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 1.0,
+                "Link_Videos_Promocionales": "https://youtu.be/WqBYM1eWo1A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Capacitaciones Cortas para Promocionar la Tecnologia SIG de Esri",
+                "Codigo_Servicio_SIG": 223,
+                "Nombre_del_Servicio": "Introducción a la Inteligencia Artificial y Drones (Que es, un showcase de usos,  Historia de la IA, Clasificaciones)",
+                "Descripción_Técnica_del_Servici": "Es te servicio consiste en cubrir los honorarios del profesional que dictara la capacitación denominada: Introducción a la Inteligencia Artificial y Drones (Que es, un showcase de usos,  Historia de la IA, Clasificaciones) , esta grandiosa capacitación se dictaria con tecnología SIG de Esri usando varios story maps y  tableros de control.\n\nIdeal para que las empresas tengan una idea global de los avances de la Inteligencia Artificial en la actualidad y como esta se integra a drones. \n\nLa capacitación que se propone tendrá 2 horas teoricas y sera virtual.\n\nEl contenido del curso teórico es el siguiente: \n\n- Que es la Inteligencia Artificial\n- Usos de la IA\n- Historia de la IA y Drones\n- Tipos de IA\n- Eras de la IA ",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "Capacitación IA",
+                "Subgrupo": "Capacitaciones Cortas IA",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "https://youtu.be/WqBYM1eWo1A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "Capacitaciones Cortas para Promocionar la Tecnologia SIG de Esri",
+                "Codigo_Servicio_SIG": 211,
+                "Nombre_del_Servicio": "Historia Colombiana del Petroleo",
+                "Descripción_Técnica_del_Servici": "Esta es una capacitación virtual de tipo Teórico , sobre la Historia Colombiana del Petroleo, el estudiante aprederia la historia colombiana del petroleo usando aplicaciones geográficas. Se pudiera dar acceso al estudiante a la aplicación geográfica por 1 mes, pero la aplicación no se entrega.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de Ingeniería",
+                "Grupo": "Capacitación de Ingeniería de Oil and Gas",
+                "Subgrupo": "Capacitaciones Cortas Oil and Gas",
+                "Unidades_Basicos": 2.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": "https://youtu.be/A4EDijWG2rk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "InfoBot + WebChat",
+                "Codigo_Servicio_SIG": 261,
+                "Nombre_del_Servicio": "Licenciamiento y Configuracion de 1 Cuenta de Desarrolladores de OpenAI",
+                "Descripción_Técnica_del_Servici": "Este servicio cubre la configuracion de una cuenta de desarrolladores de Open AI y una sola recarga de 20 dolares de la cuenta. Ideal para servicios que requieran la integración con modelos de Open AI. A el cliente se le dara una capacitacion basica del uso de la cuenta de desarrolladores y se entregaran las pruebas de las recarga de 20 dolares, como monitorear el saldo de la cuenta y como recargar las cuenta, en futuras ocasiones.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Licenciamiento y Configuración",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "InfoBot + WebChat",
+                "Codigo_Servicio_SIG": 266,
+                "Nombre_del_Servicio": "Configuración Inicial de Cuenta Cal.com (Licencia Gratuita)",
+                "Descripción_Técnica_del_Servici": "Este servicio contempla la creación y configuración inicial de una cuenta Cal.com bajo el plan gratuito, el cual incluye: 1 usuario, calendarios y tipos de eventos ilimitados, automatización mediante workflows, integración con aplicaciones y posibilidad de pagos vía Stripe. Al finalizar, se entrega la API Key y el ID del calendario necesario para integrar con el Módulo de Conexión a Cal.com.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Licenciamiento y Configuración",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "InfoBot + WebChat",
+                "Codigo_Servicio_SIG": 267,
+                "Nombre_del_Servicio": "Módulo de Integración Básico a Cal.com para Reuniones Virtuales o Presenciales",
+                "Descripción_Técnica_del_Servici": "Este módulo básico permite a un agente IA integrarse con Cal.com para gestionar el flujo de agendamiento de reuniones, incluyendo la verificación de disponibilidad en calendario, propuesta de horarios al cliente y reserva automática de reuniones virtuales o presenciales. Ideal para empresas o negocios que requieren coordinar citas, reservas o reuniones sin funcionalidades extendidas de recordatorio.\r\n",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Funcionalidad Basica",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "InfoBot + WebChat",
+                "Codigo_Servicio_SIG": 251,
+                "Nombre_del_Servicio": "Modulo Agente de IA Informativo (Modulo Base InfoBot)",
+                "Descripción_Técnica_del_Servici": "Este servicio corresponde a un agente de inteligencia artificial informativo que opera en sitios web utilizando una estructura de SPM (Sistema de Preguntas y Mensajes) básica. El bot puede responder preguntas frecuentes, entregar información clave del negocio, productos o servicios, y asistir a usuarios sin depender de herramientas externas ni conexión con bases de datos. Está diseñado como punto de partida para asistentes inteligentes accesibles y fáciles de integrar. El bot se puede integrar en la pagina web del cliente.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Modulo Base",
+                "Unidades_Basicos": 0.0,
+                "Unidades_Intermedias": 0.5,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "InfoBot + WebChat",
+                "Codigo_Servicio_SIG": 252,
+                "Nombre_del_Servicio": "Licenciamiento y Configuración de Plataforma n8n (Cloud)",
+                "Descripción_Técnica_del_Servici": "Incluye la provisión de un licenciamiento nivel starter y gestión del licenciamiento requerido para ejecutar agentes IA en la plataforma n8n, recomendando usar la versión de la nube (n8n.io). Incluye un pequeña capacitacion de 1 hora maximo del uso de la licencia starter. Este tipo de licenciamiento incluye: 1 shared project, maximo 5 flujos activos, unlimited users y acceso al forum de soporte. Si pasas de 5 flujos activos, se recomienda adquirir el plan Pro directamente con n8n.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Licenciamiento y Configuración",
+                "Unidades_Basicos": 1.5,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot + InfoBot + Webchat",
+                "Codigo_Servicio_SIG": 261,
+                "Nombre_del_Servicio": "Licenciamiento y Configuracion de 1 Cuenta de Desarrolladores de OpenAI",
+                "Descripción_Técnica_del_Servici": "Este servicio cubre la configuracion de una cuenta de desarrolladores de Open AI y una sola recarga de 20 dolares de la cuenta. Ideal para servicios que requieran la integración con modelos de Open AI. A el cliente se le dara una capacitacion basica del uso de la cuenta de desarrolladores y se entregaran las pruebas de las recarga de 20 dolares, como monitorear el saldo de la cuenta y como recargar las cuenta, en futuras ocasiones.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Licenciamiento y Configuración",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot + InfoBot + Webchat",
+                "Codigo_Servicio_SIG": 266,
+                "Nombre_del_Servicio": "Configuración Inicial de Cuenta Cal.com (Licencia Gratuita)",
+                "Descripción_Técnica_del_Servici": "Este servicio contempla la creación y configuración inicial de una cuenta Cal.com bajo el plan gratuito, el cual incluye: 1 usuario, calendarios y tipos de eventos ilimitados, automatización mediante workflows, integración con aplicaciones y posibilidad de pagos vía Stripe. Al finalizar, se entrega la API Key y el ID del calendario necesario para integrar con el Módulo de Conexión a Cal.com.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Licenciamiento y Configuración",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot + InfoBot + Webchat",
+                "Codigo_Servicio_SIG": 267,
+                "Nombre_del_Servicio": "Módulo de Integración Básico a Cal.com para Reuniones Virtuales o Presenciales",
+                "Descripción_Técnica_del_Servici": "Este módulo básico permite a un agente IA integrarse con Cal.com para gestionar el flujo de agendamiento de reuniones, incluyendo la verificación de disponibilidad en calendario, propuesta de horarios al cliente y reserva automática de reuniones virtuales o presenciales. Ideal para empresas o negocios que requieren coordinar citas, reservas o reuniones sin funcionalidades extendidas de recordatorio.\r\n",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Funcionalidad Basica",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot + InfoBot + Webchat",
+                "Codigo_Servicio_SIG": 243,
+                "Nombre_del_Servicio": "Modulo Agente IA de Ventas (Modulo base SaleBot)",
+                "Descripción_Técnica_del_Servici": "Este módulo otorga al Agente de IA la capacidad de ejecutar flujos conversacionales con enfoque comercial y prospectivo, integrando un SPM (System Prompt Message) especialmente diseñado para guiar de manera estratégica a potenciales clientes, brindando información clara y conduciéndolos hacia decisiones de negocio.\n\nA través de modelos avanzados de lenguaje como GPT-4o, GPT-4o Mini o GPT-3.5 Turbo, el agente IA puede generar interacciones personalizadas, identificar necesidades y ofrecer respuestas orientadas al cierre de oportunidades comerciales.\n\nEl módulo incluye:\n\n- La creación de un SPM prospectivo + informativo, adaptado a los objetivos comerciales del cliente.\n\n- Integración con Manychat, permitiendo al agente operar directamente desde canales como Facebook Messenger, Instagram o sitios web, facilitando el contacto fluido desde redes sociales.\n\n- Integración a un chatbot de IsaGIS que puede ser implementado alineado a la necesidades del cliente en su pagina web, para atender preguntas informativas y pudiendo volverlas propectivas.\n\nAdemás, el módulo puede potenciarse aún más con funcionalidades adicionales, que pueden ser contratadas,  tales como:\n\n-🔍 Acceso a bases de datos vectoriales como Pinecone para extraer información contextual relevante del cliente o producto.\n\n- 🌍 Conexión con servicios web de ArcGIS y/o tablas GeoJSON alojadas en GitHub, permitiendo al agente comprender mejor el entorno geográfico, los territorios o el portafolio de servicios aplicables.\n- Operar CRM, Eventos, acceso a emails, modulo de disponibilidad y reserva de citas.\n",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Modulo Base",
+                "Unidades_Basicos": 1.5,
+                "Unidades_Intermedias": 0.5,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot + InfoBot + Webchat",
+                "Codigo_Servicio_SIG": 251,
+                "Nombre_del_Servicio": "Modulo Agente de IA Informativo (Modulo Base InfoBot)",
+                "Descripción_Técnica_del_Servici": "Este servicio corresponde a un agente de inteligencia artificial informativo que opera en sitios web utilizando una estructura de SPM (Sistema de Preguntas y Mensajes) básica. El bot puede responder preguntas frecuentes, entregar información clave del negocio, productos o servicios, y asistir a usuarios sin depender de herramientas externas ni conexión con bases de datos. Está diseñado como punto de partida para asistentes inteligentes accesibles y fáciles de integrar. El bot se puede integrar en la pagina web del cliente.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Modulo Base",
+                "Unidades_Basicos": 0.0,
+                "Unidades_Intermedias": 0.5,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot + InfoBot + Webchat",
+                "Codigo_Servicio_SIG": 252,
+                "Nombre_del_Servicio": "Licenciamiento y Configuración de Plataforma n8n (Cloud)",
+                "Descripción_Técnica_del_Servici": "Incluye la provisión de un licenciamiento nivel starter y gestión del licenciamiento requerido para ejecutar agentes IA en la plataforma n8n, recomendando usar la versión de la nube (n8n.io). Incluye un pequeña capacitacion de 1 hora maximo del uso de la licencia starter. Este tipo de licenciamiento incluye: 1 shared project, maximo 5 flujos activos, unlimited users y acceso al forum de soporte. Si pasas de 5 flujos activos, se recomienda adquirir el plan Pro directamente con n8n.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Licenciamiento y Configuración",
+                "Unidades_Basicos": 1.5,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a Whatsapp y Redes Sociales",
+                "Codigo_Servicio_SIG": 266,
+                "Nombre_del_Servicio": "Configuración Inicial de Cuenta Cal.com (Licencia Gratuita)",
+                "Descripción_Técnica_del_Servici": "Este servicio contempla la creación y configuración inicial de una cuenta Cal.com bajo el plan gratuito, el cual incluye: 1 usuario, calendarios y tipos de eventos ilimitados, automatización mediante workflows, integración con aplicaciones y posibilidad de pagos vía Stripe. Al finalizar, se entrega la API Key y el ID del calendario necesario para integrar con el Módulo de Conexión a Cal.com.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Licenciamiento y Configuración",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a Whatsapp y Redes Sociales",
+                "Codigo_Servicio_SIG": 267,
+                "Nombre_del_Servicio": "Módulo de Integración Básico a Cal.com para Reuniones Virtuales o Presenciales",
+                "Descripción_Técnica_del_Servici": "Este módulo básico permite a un agente IA integrarse con Cal.com para gestionar el flujo de agendamiento de reuniones, incluyendo la verificación de disponibilidad en calendario, propuesta de horarios al cliente y reserva automática de reuniones virtuales o presenciales. Ideal para empresas o negocios que requieren coordinar citas, reservas o reuniones sin funcionalidades extendidas de recordatorio.\r\n",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Funcionalidad Basica",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a Whatsapp y Redes Sociales",
+                "Codigo_Servicio_SIG": 243,
+                "Nombre_del_Servicio": "Modulo Agente IA de Ventas (Modulo base SaleBot)",
+                "Descripción_Técnica_del_Servici": "Este módulo otorga al Agente de IA la capacidad de ejecutar flujos conversacionales con enfoque comercial y prospectivo, integrando un SPM (System Prompt Message) especialmente diseñado para guiar de manera estratégica a potenciales clientes, brindando información clara y conduciéndolos hacia decisiones de negocio.\n\nA través de modelos avanzados de lenguaje como GPT-4o, GPT-4o Mini o GPT-3.5 Turbo, el agente IA puede generar interacciones personalizadas, identificar necesidades y ofrecer respuestas orientadas al cierre de oportunidades comerciales.\n\nEl módulo incluye:\n\n- La creación de un SPM prospectivo + informativo, adaptado a los objetivos comerciales del cliente.\n\n- Integración con Manychat, permitiendo al agente operar directamente desde canales como Facebook Messenger, Instagram o sitios web, facilitando el contacto fluido desde redes sociales.\n\n- Integración a un chatbot de IsaGIS que puede ser implementado alineado a la necesidades del cliente en su pagina web, para atender preguntas informativas y pudiendo volverlas propectivas.\n\nAdemás, el módulo puede potenciarse aún más con funcionalidades adicionales, que pueden ser contratadas,  tales como:\n\n-🔍 Acceso a bases de datos vectoriales como Pinecone para extraer información contextual relevante del cliente o producto.\n\n- 🌍 Conexión con servicios web de ArcGIS y/o tablas GeoJSON alojadas en GitHub, permitiendo al agente comprender mejor el entorno geográfico, los territorios o el portafolio de servicios aplicables.\n- Operar CRM, Eventos, acceso a emails, modulo de disponibilidad y reserva de citas.\n",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Modulo Base",
+                "Unidades_Basicos": 1.5,
+                "Unidades_Intermedias": 0.5,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a Whatsapp y Redes Sociales",
+                "Codigo_Servicio_SIG": 244,
+                "Nombre_del_Servicio": "Integración con Canales de Mensajería (WhatsApp / Telegram)",
+                "Descripción_Técnica_del_Servici": "Este módulo permite la integración de agentes inteligentes desarrollados con n8n o plataformas equivalentes con canales de mensajería como WhatsApp y Telegram. Facilita la interacción directa con usuarios finales a través de estas plataformas, permitiendo extender flujos conversacionales, atención automatizada, ventas o soporte en tiempo real. El módulo configura los webhooks y autenticaciones necesarias para habilitar la mensajería bidireccional, y puede conectarse a bots ya existentes o agentes nuevos desarrollados por IsaGIS.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Canales de Comunicación",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a Whatsapp y Redes Sociales",
+                "Codigo_Servicio_SIG": 247,
+                "Nombre_del_Servicio": "Conector de Redes Sociales para Agentes IA",
+                "Descripción_Técnica_del_Servici": "Este módulo conecta agentes IA con plataformas de automatización de redes sociales como Manychat, permitiendo flujos conversacionales en Facebook Messenger, Instagram o WhatsApp Business. Permite automatizar respuestas, calificación de prospectos, envío de contenidos y acciones personalizadas a través de redes sociales.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Canales de Comunicación",
+                "Unidades_Basicos": 0.0,
+                "Unidades_Intermedias": 0.5,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a Whatsapp y Redes Sociales",
+                "Codigo_Servicio_SIG": 252,
+                "Nombre_del_Servicio": "Licenciamiento y Configuración de Plataforma n8n (Cloud)",
+                "Descripción_Técnica_del_Servici": "Incluye la provisión de un licenciamiento nivel starter y gestión del licenciamiento requerido para ejecutar agentes IA en la plataforma n8n, recomendando usar la versión de la nube (n8n.io). Incluye un pequeña capacitacion de 1 hora maximo del uso de la licencia starter. Este tipo de licenciamiento incluye: 1 shared project, maximo 5 flujos activos, unlimited users y acceso al forum de soporte. Si pasas de 5 flujos activos, se recomienda adquirir el plan Pro directamente con n8n.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Licenciamiento y Configuración",
+                "Unidades_Basicos": 1.5,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a Whatsapp y Redes Sociales",
+                "Codigo_Servicio_SIG": 253,
+                "Nombre_del_Servicio": "Configuración de Cuenta Twilio/Authkey",
+                "Descripción_Técnica_del_Servici": "Este servicio cubre la gestión del licenciamiento y configuración de servicios de mensajería en canales como WhatsApp Business, mediante proveedores como Twilio o Authkey y configuración de una cuenta de meta developers del cliente. Incluye la creación del número comercial, configuración de la cuenta del cliente asociada a una SIM CARD, envío de mensajes de prueba y configuración de para dejar listo para la etapa de producción. Incluye una pequeña capacitación para que el cliente tenga los conocimientos de como monitorear el saldo y hacer futuras recargas.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Licenciamiento y Configuración",
+                "Unidades_Basicos": 2.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a Whatsapp y Redes Sociales",
+                "Codigo_Servicio_SIG": 255,
+                "Nombre_del_Servicio": "Configuración de Meta Developers y Manychat",
+                "Descripción_Técnica_del_Servici": "Configuración técnica de los dos componentes clave para activar un chatbot funcional en redes sociales (Facebook Messenger o Instagram) usando Manychat como plataforma de automatización. Este servicio se debe incluir si el cliente no posee la configuración de la App de meta configurada y cuenta de Manychat activa.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Licenciamiento y Configuración",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp",
+                "Codigo_Servicio_SIG": 266,
+                "Nombre_del_Servicio": "Configuración Inicial de Cuenta Cal.com (Licencia Gratuita)",
+                "Descripción_Técnica_del_Servici": "Este servicio contempla la creación y configuración inicial de una cuenta Cal.com bajo el plan gratuito, el cual incluye: 1 usuario, calendarios y tipos de eventos ilimitados, automatización mediante workflows, integración con aplicaciones y posibilidad de pagos vía Stripe. Al finalizar, se entrega la API Key y el ID del calendario necesario para integrar con el Módulo de Conexión a Cal.com.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Licenciamiento y Configuración",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp",
+                "Codigo_Servicio_SIG": 267,
+                "Nombre_del_Servicio": "Módulo de Integración Básico a Cal.com para Reuniones Virtuales o Presenciales",
+                "Descripción_Técnica_del_Servici": "Este módulo básico permite a un agente IA integrarse con Cal.com para gestionar el flujo de agendamiento de reuniones, incluyendo la verificación de disponibilidad en calendario, propuesta de horarios al cliente y reserva automática de reuniones virtuales o presenciales. Ideal para empresas o negocios que requieren coordinar citas, reservas o reuniones sin funcionalidades extendidas de recordatorio.\r\n",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Funcionalidad Basica",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp",
+                "Codigo_Servicio_SIG": 241,
+                "Nombre_del_Servicio": "Conector a Servicios Web Geoespaciales",
+                "Descripción_Técnica_del_Servici": "Esta herramienta permitiria conectar aplicaciones, dashboards o agentes inteligentes con servicios web publicados en la plataforma ArcGIS Online o ArcGIS Enterprise. La conexión puede ser a capas de entidades (Feature Services), mapas web, imágenes, geoprocesos o cualquier otro recurso REST. Este servicio es clave para lograr la integración geoespacial de sistemas o asistentes que requieren consultar, visualizar o actualizar información geográfica en tiempo real",
+                "Area_estrategica_IsaGIS_Technol": "Servicios SIG",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Conectividad de Datos",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp",
+                "Codigo_Servicio_SIG": 243,
+                "Nombre_del_Servicio": "Modulo Agente IA de Ventas (Modulo base SaleBot)",
+                "Descripción_Técnica_del_Servici": "Este módulo otorga al Agente de IA la capacidad de ejecutar flujos conversacionales con enfoque comercial y prospectivo, integrando un SPM (System Prompt Message) especialmente diseñado para guiar de manera estratégica a potenciales clientes, brindando información clara y conduciéndolos hacia decisiones de negocio.\n\nA través de modelos avanzados de lenguaje como GPT-4o, GPT-4o Mini o GPT-3.5 Turbo, el agente IA puede generar interacciones personalizadas, identificar necesidades y ofrecer respuestas orientadas al cierre de oportunidades comerciales.\n\nEl módulo incluye:\n\n- La creación de un SPM prospectivo + informativo, adaptado a los objetivos comerciales del cliente.\n\n- Integración con Manychat, permitiendo al agente operar directamente desde canales como Facebook Messenger, Instagram o sitios web, facilitando el contacto fluido desde redes sociales.\n\n- Integración a un chatbot de IsaGIS que puede ser implementado alineado a la necesidades del cliente en su pagina web, para atender preguntas informativas y pudiendo volverlas propectivas.\n\nAdemás, el módulo puede potenciarse aún más con funcionalidades adicionales, que pueden ser contratadas,  tales como:\n\n-🔍 Acceso a bases de datos vectoriales como Pinecone para extraer información contextual relevante del cliente o producto.\n\n- 🌍 Conexión con servicios web de ArcGIS y/o tablas GeoJSON alojadas en GitHub, permitiendo al agente comprender mejor el entorno geográfico, los territorios o el portafolio de servicios aplicables.\n- Operar CRM, Eventos, acceso a emails, modulo de disponibilidad y reserva de citas.\n",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Modulo Base",
+                "Unidades_Basicos": 1.5,
+                "Unidades_Intermedias": 0.5,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp",
+                "Codigo_Servicio_SIG": 244,
+                "Nombre_del_Servicio": "Integración con Canales de Mensajería (WhatsApp / Telegram)",
+                "Descripción_Técnica_del_Servici": "Este módulo permite la integración de agentes inteligentes desarrollados con n8n o plataformas equivalentes con canales de mensajería como WhatsApp y Telegram. Facilita la interacción directa con usuarios finales a través de estas plataformas, permitiendo extender flujos conversacionales, atención automatizada, ventas o soporte en tiempo real. El módulo configura los webhooks y autenticaciones necesarias para habilitar la mensajería bidireccional, y puede conectarse a bots ya existentes o agentes nuevos desarrollados por IsaGIS.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Canales de Comunicación",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp",
+                "Codigo_Servicio_SIG": 252,
+                "Nombre_del_Servicio": "Licenciamiento y Configuración de Plataforma n8n (Cloud)",
+                "Descripción_Técnica_del_Servici": "Incluye la provisión de un licenciamiento nivel starter y gestión del licenciamiento requerido para ejecutar agentes IA en la plataforma n8n, recomendando usar la versión de la nube (n8n.io). Incluye un pequeña capacitacion de 1 hora maximo del uso de la licencia starter. Este tipo de licenciamiento incluye: 1 shared project, maximo 5 flujos activos, unlimited users y acceso al forum de soporte. Si pasas de 5 flujos activos, se recomienda adquirir el plan Pro directamente con n8n.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Licenciamiento y Configuración",
+                "Unidades_Basicos": 1.5,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp",
+                "Codigo_Servicio_SIG": 247,
+                "Nombre_del_Servicio": "Conector de Redes Sociales para Agentes IA",
+                "Descripción_Técnica_del_Servici": "Este módulo conecta agentes IA con plataformas de automatización de redes sociales como Manychat, permitiendo flujos conversacionales en Facebook Messenger, Instagram o WhatsApp Business. Permite automatizar respuestas, calificación de prospectos, envío de contenidos y acciones personalizadas a través de redes sociales.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Canales de Comunicación",
+                "Unidades_Basicos": 0.0,
+                "Unidades_Intermedias": 0.5,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp",
+                "Codigo_Servicio_SIG": 220,
+                "Nombre_del_Servicio": "Configuración de aplicaciones de ArcGIS Online o ArcGIS Desktop",
+                "Descripción_Técnica_del_Servici": "Este servicio se da si el cliente no tiene licencias activas o configuradas de ArcGIS On Line y ArcGIS Pro. Este servicio puede ser utilizado en cursos que tengan una parte práctica en donde se debe usar las herramientas que se incluyen en este licenciamiento y tambien pudiera darse cuando se requiera operacion de aplicaciones desarrolladas usando ArcGIS. Este servicio incluye la instalación en 1 maquina del cliente ArcGIS Pro y la instalacion de realizaria virtualmente,  es decir, tomando el control de la maquina. Si se requiere traslado a las oficinas del cliente se agregarias servicios de logistica. Tambien incluye 1 hora de capacitación virtual del producto de ArcGIS que se este instalando.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios SIG",
+                "Grupo": "Capacitación Servicios SIG",
+                "Subgrupo": "Licenciamiento y Configuración",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp",
+                "Codigo_Servicio_SIG": 253,
+                "Nombre_del_Servicio": "Configuración de Cuenta Twilio/Authkey",
+                "Descripción_Técnica_del_Servici": "Este servicio cubre la gestión del licenciamiento y configuración de servicios de mensajería en canales como WhatsApp Business, mediante proveedores como Twilio o Authkey y configuración de una cuenta de meta developers del cliente. Incluye la creación del número comercial, configuración de la cuenta del cliente asociada a una SIM CARD, envío de mensajes de prueba y configuración de para dejar listo para la etapa de producción. Incluye una pequeña capacitación para que el cliente tenga los conocimientos de como monitorear el saldo y hacer futuras recargas.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Licenciamiento y Configuración",
+                "Unidades_Basicos": 2.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp",
+                "Codigo_Servicio_SIG": 255,
+                "Nombre_del_Servicio": "Configuración de Meta Developers y Manychat",
+                "Descripción_Técnica_del_Servici": "Configuración técnica de los dos componentes clave para activar un chatbot funcional en redes sociales (Facebook Messenger o Instagram) usando Manychat como plataforma de automatización. Este servicio se debe incluir si el cliente no posee la configuración de la App de meta configurada y cuenta de Manychat activa.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Licenciamiento y Configuración",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales",
+                "Codigo_Servicio_SIG": 266,
+                "Nombre_del_Servicio": "Configuración Inicial de Cuenta Cal.com (Licencia Gratuita)",
+                "Descripción_Técnica_del_Servici": "Este servicio contempla la creación y configuración inicial de una cuenta Cal.com bajo el plan gratuito, el cual incluye: 1 usuario, calendarios y tipos de eventos ilimitados, automatización mediante workflows, integración con aplicaciones y posibilidad de pagos vía Stripe. Al finalizar, se entrega la API Key y el ID del calendario necesario para integrar con el Módulo de Conexión a Cal.com.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Licenciamiento y Configuración",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales",
+                "Codigo_Servicio_SIG": 267,
+                "Nombre_del_Servicio": "Módulo de Integración Básico a Cal.com para Reuniones Virtuales o Presenciales",
+                "Descripción_Técnica_del_Servici": "Este módulo básico permite a un agente IA integrarse con Cal.com para gestionar el flujo de agendamiento de reuniones, incluyendo la verificación de disponibilidad en calendario, propuesta de horarios al cliente y reserva automática de reuniones virtuales o presenciales. Ideal para empresas o negocios que requieren coordinar citas, reservas o reuniones sin funcionalidades extendidas de recordatorio.\r\n",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Funcionalidad Basica",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales",
+                "Codigo_Servicio_SIG": 240,
+                "Nombre_del_Servicio": "Módulo de Conexión a Base de Datos Vectorial",
+                "Descripción_Técnica_del_Servici": "Este módulo permite derle la funcionalidad a un Empleado Virtual que consulte grandes bases de datos habilitando la conexión a bases de datos vectoriales como Pinecone. Con esta integración, el agente puede realizar búsquedas semánticas en documentos o registros almacenados, permitiendo respuestas contextualizadas y enriquecidas. El módulo es ideal para escenarios donde se requiere memoria de largo plazo o interpretación de grandes volúmenes de información. Puede integrarse con bots existentes o futuros desarrollos de IA dentro del ecosistema IsaGIS. ",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Conectividad de Datos",
+                "Unidades_Basicos": 1.5,
+                "Unidades_Intermedias": 0.25,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales",
+                "Codigo_Servicio_SIG": 243,
+                "Nombre_del_Servicio": "Modulo Agente IA de Ventas (Modulo base SaleBot)",
+                "Descripción_Técnica_del_Servici": "Este módulo otorga al Agente de IA la capacidad de ejecutar flujos conversacionales con enfoque comercial y prospectivo, integrando un SPM (System Prompt Message) especialmente diseñado para guiar de manera estratégica a potenciales clientes, brindando información clara y conduciéndolos hacia decisiones de negocio.\n\nA través de modelos avanzados de lenguaje como GPT-4o, GPT-4o Mini o GPT-3.5 Turbo, el agente IA puede generar interacciones personalizadas, identificar necesidades y ofrecer respuestas orientadas al cierre de oportunidades comerciales.\n\nEl módulo incluye:\n\n- La creación de un SPM prospectivo + informativo, adaptado a los objetivos comerciales del cliente.\n\n- Integración con Manychat, permitiendo al agente operar directamente desde canales como Facebook Messenger, Instagram o sitios web, facilitando el contacto fluido desde redes sociales.\n\n- Integración a un chatbot de IsaGIS que puede ser implementado alineado a la necesidades del cliente en su pagina web, para atender preguntas informativas y pudiendo volverlas propectivas.\n\nAdemás, el módulo puede potenciarse aún más con funcionalidades adicionales, que pueden ser contratadas,  tales como:\n\n-🔍 Acceso a bases de datos vectoriales como Pinecone para extraer información contextual relevante del cliente o producto.\n\n- 🌍 Conexión con servicios web de ArcGIS y/o tablas GeoJSON alojadas en GitHub, permitiendo al agente comprender mejor el entorno geográfico, los territorios o el portafolio de servicios aplicables.\n- Operar CRM, Eventos, acceso a emails, modulo de disponibilidad y reserva de citas.\n",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Modulo Base",
+                "Unidades_Basicos": 1.5,
+                "Unidades_Intermedias": 0.5,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales",
+                "Codigo_Servicio_SIG": 244,
+                "Nombre_del_Servicio": "Integración con Canales de Mensajería (WhatsApp / Telegram)",
+                "Descripción_Técnica_del_Servici": "Este módulo permite la integración de agentes inteligentes desarrollados con n8n o plataformas equivalentes con canales de mensajería como WhatsApp y Telegram. Facilita la interacción directa con usuarios finales a través de estas plataformas, permitiendo extender flujos conversacionales, atención automatizada, ventas o soporte en tiempo real. El módulo configura los webhooks y autenticaciones necesarias para habilitar la mensajería bidireccional, y puede conectarse a bots ya existentes o agentes nuevos desarrollados por IsaGIS.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Canales de Comunicación",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales",
+                "Codigo_Servicio_SIG": 252,
+                "Nombre_del_Servicio": "Licenciamiento y Configuración de Plataforma n8n (Cloud)",
+                "Descripción_Técnica_del_Servici": "Incluye la provisión de un licenciamiento nivel starter y gestión del licenciamiento requerido para ejecutar agentes IA en la plataforma n8n, recomendando usar la versión de la nube (n8n.io). Incluye un pequeña capacitacion de 1 hora maximo del uso de la licencia starter. Este tipo de licenciamiento incluye: 1 shared project, maximo 5 flujos activos, unlimited users y acceso al forum de soporte. Si pasas de 5 flujos activos, se recomienda adquirir el plan Pro directamente con n8n.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Licenciamiento y Configuración",
+                "Unidades_Basicos": 1.5,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales",
+                "Codigo_Servicio_SIG": 253,
+                "Nombre_del_Servicio": "Configuración de Cuenta Twilio/Authkey",
+                "Descripción_Técnica_del_Servici": "Este servicio cubre la gestión del licenciamiento y configuración de servicios de mensajería en canales como WhatsApp Business, mediante proveedores como Twilio o Authkey y configuración de una cuenta de meta developers del cliente. Incluye la creación del número comercial, configuración de la cuenta del cliente asociada a una SIM CARD, envío de mensajes de prueba y configuración de para dejar listo para la etapa de producción. Incluye una pequeña capacitación para que el cliente tenga los conocimientos de como monitorear el saldo y hacer futuras recargas.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Licenciamiento y Configuración",
+                "Unidades_Basicos": 2.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales",
+                "Codigo_Servicio_SIG": 254,
+                "Nombre_del_Servicio": "Configuración Inicial de Cuenta Pinecone",
+                "Descripción_Técnica_del_Servici": "Creación de cuenta gratuita en Pinecone, definición de índice base y obtención de API Key para consumir información vectorizada desde agentes IA u otras herramientas de análisis.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Licenciamiento y Configuración",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales",
+                "Codigo_Servicio_SIG": 255,
+                "Nombre_del_Servicio": "Configuración de Meta Developers y Manychat",
+                "Descripción_Técnica_del_Servici": "Configuración técnica de los dos componentes clave para activar un chatbot funcional en redes sociales (Facebook Messenger o Instagram) usando Manychat como plataforma de automatización. Este servicio se debe incluir si el cliente no posee la configuración de la App de meta configurada y cuenta de Manychat activa.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Licenciamiento y Configuración",
+                "Unidades_Basicos": 1.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales",
+                "Codigo_Servicio_SIG": 247,
+                "Nombre_del_Servicio": "Conector de Redes Sociales para Agentes IA",
+                "Descripción_Técnica_del_Servici": "Este módulo conecta agentes IA con plataformas de automatización de redes sociales como Manychat, permitiendo flujos conversacionales en Facebook Messenger, Instagram o WhatsApp Business. Permite automatizar respuestas, calificación de prospectos, envío de contenidos y acciones personalizadas a través de redes sociales.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "IsaBots",
+                "Subgrupo": "Canales de Comunicación",
+                "Unidades_Basicos": 0.0,
+                "Unidades_Intermedias": 0.5,
+                "Unidades_Avanzadas": 0.0,
+                "Link_Videos_Promocionales": ""
+            }
+        }
+    ],
+    "updated_at": "2026-05-19 11:37:03"
+}
