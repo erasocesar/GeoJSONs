@@ -464,7 +464,24 @@
                 "Filtro": "Grupo:Software",
                 "Area_IsaGIS_Technologies": "Servicios SIG"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Grupo": "AI Platforms",
+                "Sinonimos_Grupo": "Plataformas IA; AI Platforms; Sistemas inteligentes; Plataformas inteligentes; AI Systems; Sistemas empresariales IA; Plataformas de automatización; Ecosistemas IA; AI automation platforms; Intelligent business platforms; Motores IA; AI engines; Sistemas ",
+                "topK": 35,
+                "Filtro": "Grupo:AI Platforms",
+                "Area_IsaGIS_Technologies": "Servicios de IA"
+            }
         }
     ],
-    "updated_at": "2026-05-19 11:39:32"
+    "updated_at": "2026-05-28 11:22:02"
 }
