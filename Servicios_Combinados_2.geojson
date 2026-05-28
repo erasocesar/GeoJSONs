@@ -273,18 +273,18 @@
                 ]
             },
             "properties": {
-                "Nombre_Servicio_Combinado": "SaleBot integrado a Pinecone, Whatsapp y Redes Sociales",
-                "Descripción_Técnica_del_Servicio_Combinado": "El servicio \"SaleBot integrado a Pinecone, Whatsapp y Redes Sociales\" permite a las empresas automatizar interacciones comerciales y de atención al cliente a través de múltiples plataformas. Este sistema combina la capacidad de un Agente IA de Ventas (Código 243), que ejecuta flujos conversacionales estratégicos y prospectivos, con la integración de bases de datos vectoriales como Pinecone (Código 240), facilitando búsquedas semánticas y respuestas contextualizadas. Además, incluye la configuración de canales de mensajería como WhatsApp (Código 244) y la integración con plataformas de automatización de redes sociales como Manychat (Código 255), permitiendo la gestión fluida de citas y reservas mediante el Módulo de Integración a Cal.com (Código 267). También se contempla la creación de cuentas y configuraciones iniciales necesarias para operar en Pinecone (Código 254) y en Twilio/Authkey para WhatsApp Business (Código 253). Este servicio optimiza el proceso de ventas y atención al cliente, proporcionando una experiencia personalizada y eficiente en múltiples canales digitales.",
-                "Tipo_de_Servicio": "Servicio Combinado",
-                "Unidades_Basicos_totales": 11.5,
-                "Unidades_Intermedias_totales": 1.25,
-                "Unidades_Avanzadas_totales": 0.0,
-                "Servicios_por_demanda_incluidos": "240,243,244,247,252,253,254,255,266,267",
-                "Sinonimos": "SaleBot con integración a Pinecone, WhatsApp y redes sociales, Bot de ventas integrado a Pinecone, WhatsApp y redes sociales, Asistente de ventas con Pinecone y redes sociales, Venta automatizada a través de Pinecone, WhatsApp y redes sociales, Servicio de bot de ventas conectado a Pinecone y redes sociales.",
-                "Objetivo": "Optimizar la interacción comercial mediante \"SaleBot\" integrado con Pinecone, WhatsApp y redes sociales, facilitando la atención automatizada y el agendamiento de reuniones, así como la búsqueda semántica de información relevante, para mejorar la experiencia del cliente y aumentar las oportunidades de venta.",
+                "Nombre_Servicio_Combinado": "AI Commercial Automation Ecosystem",
+                "Descripción_Técnica_del_Servicio_Combinado": "Servicio combinado especializado en la implementación integral de un ecosistema inteligente de automatización comercial mediante inteligencia artificial. El ecosistema integra módulos de preventa inteligente, análisis automático de reuniones y generación automatizada de propuestas técnico-económicas para optimizar procesos comerciales y acelerar la estructuración de ofertas empresariales. Incluye integración de catálogos de servicios, análisis contextual mediante IA, automatización documental, generación de datasets comerciales estructurados, procesamiento de reuniones técnicas y comerciales, y preparación de propuestas adaptadas al cliente, industria y objetivos estratégicos de la organización. El ecosistema puede integrarse progresivamente con CRMs, ERPs, plataformas documentales, sistemas GIS empresariales y herramientas colaborativas corporativas.",
+                "Tipo_de_Servicio": "Servicios Combinado",
+                "Unidades_Basicos_totales": 0.0,
+                "Unidades_Intermedias_totales": 0.0,
+                "Unidades_Avanzadas_totales": 3.0,
+                "Servicios_por_demanda_incluidos": "276, 277, 278",
+                "Sinonimos": "Ecosistema IA de Automatización Comercial, Plataforma Inteligente de Automatización Comercial, Ecosistema Inteligente de Preventa, Plataforma IA de Generación de Propuestas, Sistema Inteligente de Automatización Comercial",
+                "Objetivo": "Implementar un ecosistema inteligente de automatización comercial basado en inteligencia artificial para optimizar procesos de preventa, análisis de reuniones, descubrimiento de requerimientos y generación automatizada de propuestas técnico-económicas adaptadas al contexto y metodología empresarial del cliente.",
                 "Link_Info_Promocional": "Aun no tiene Video o Imagen Promocional"
             }
         }
     ],
-    "updated_at": "2026-05-19 11:39:39"
+    "updated_at": "2026-05-28 11:22:08"
 }
