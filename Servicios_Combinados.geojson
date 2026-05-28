@@ -1840,7 +1840,76 @@
                 "Unidades_Avanzadas": 0.0,
                 "Link_Videos_Promocionales": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "AI Commercial Automation Ecosystem",
+                "Codigo_Servicio_SIG": 276,
+                "Nombre_del_Servicio": "AI Proposal Builder",
+                "Descripción_Técnica_del_Servici": "Servicio especializado en la implementación de plataformas inteligentes de preventa y generación de propuestas comerciales mediante inteligencia artificial. El sistema permite seleccionar servicios desde catálogos empresariales estructurados, enriquecer automáticamente la información mediante IA contextual y generar propuestas visuales y comerciales adaptadas al cliente, industria y objetivo del proyecto. Incluye integración con catálogos empresariales, flujos de enriquecimiento IA, generación de datasets normalizados y preparación para generación automática de propuestas HTML y PDF.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "AI Platforms",
+                "Subgrupo": "Proposal Automation",
+                "Unidades_Basicos": 0.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 1.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "AI Commercial Automation Ecosystem",
+                "Codigo_Servicio_SIG": 277,
+                "Nombre_del_Servicio": "AI Meeting Intelligence System",
+                "Descripción_Técnica_del_Servici": "Servicio especializado en la implementación de sistemas inteligentes para captura y análisis automático de reuniones mediante inteligencia artificial. El sistema permite transcribir conversaciones, identificar requerimientos técnicos y comerciales, generar resúmenes ejecutivos, detectar acuerdos, riesgos y necesidades del cliente, y producir reportes estructurados posteriores a reuniones de preventa, ingeniería o seguimiento de proyectos.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "AI Platforms",
+                "Subgrupo": "AI Intelligence Systems",
+                "Unidades_Basicos": 0.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 1.0,
+                "Link_Videos_Promocionales": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_Servicio_Combinado": "AI Commercial Automation Ecosystem",
+                "Codigo_Servicio_SIG": 278,
+                "Nombre_del_Servicio": "AI Technical-Economic Proposal Engine",
+                "Descripción_Técnica_del_Servici": "Servicio especializado en la implementación de motores inteligentes para generación automatizada de propuestas técnico-económicas mediante inteligencia artificial. El sistema permite analizar requerimientos obtenidos durante procesos de preventa, estimar tiempos y costos, estructurar alcances técnicos, generar documentos comerciales y producir ofertas técnico-económicas adaptadas al contexto y metodología empresarial del cliente.",
+                "Area_estrategica_IsaGIS_Technol": "Servicios de IA",
+                "Grupo": "AI Platforms",
+                "Subgrupo": "Proposal Automation",
+                "Unidades_Basicos": 0.0,
+                "Unidades_Intermedias": 0.0,
+                "Unidades_Avanzadas": 1.0,
+                "Link_Videos_Promocionales": ""
+            }
         }
     ],
-    "updated_at": "2026-05-19 11:39:36"
+    "updated_at": "2026-05-28 11:22:06"
 }
