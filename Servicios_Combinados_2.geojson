@@ -55,7 +55,7 @@
             "properties": {
                 "Nombre_Servicio_Combinado": "Crear Pagina web Basica con guion e imagenes",
                 "Descripción_Técnica_del_Servicio_Combinado": "Este servicio combinado desarrolla una página web básica utilizando IA para generar contenido interactivo, incluyendo guiones para videos y creación de imágenes personalizadas. Se basa en los servicios sencillos: Desarrollo de Paginas Web con IA (106), Guion (Script) para Videos (52) y Creación de Imágenes (50). El proceso integra propuestas de contenido generadas por IA, guiones adaptados en formato Word y imágenes de alta calidad para presentaciones o videos, asegurando una solución de bajo costo y visualmente atractiva con tecnologías como Esri.",
-                "Tipo_de_Servicio": "Servicio Combinado",
+                "Tipo_de_Servicio": "Multidepartamental",
                 "Unidades_Basicos_totales": 2.0,
                 "Unidades_Intermedias_totales": 1.0,
                 "Unidades_Avanzadas_totales": 0.0,
@@ -77,7 +77,7 @@
             "properties": {
                 "Nombre_Servicio_Combinado": "Creación de Videos para Redes Sociales con Avatar",
                 "Descripción_Técnica_del_Servicio_Combinado": "Este servicio combinado crea videos promocionales para redes sociales utilizando avatares narradores generados por IA, integrando guiones, estrategias de mercadeo y desarrollo de videos. Se basa en los servicios sencillos: Avatar programado para narración de Videos (51), Guion (Script) para Videos (52), Desarrollo General de Estrategias de Mercadeo (53) y Videos Promocionales (158). El avatar puede ser público o hiperrealista basado en videos o fotos del cliente, con guiones en Word, hasta 10 estrategias en Excel y videos de hasta 2 minutos usando IA, SIG de Esri y recursos propios.",
-                "Tipo_de_Servicio": "Servicio Combinado",
+                "Tipo_de_Servicio": "Servicio de IA",
                 "Unidades_Basicos_totales": 2.0,
                 "Unidades_Intermedias_totales": 1.0,
                 "Unidades_Avanzadas_totales": 0.0,
@@ -99,7 +99,7 @@
             "properties": {
                 "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla con Puntos de Control",
                 "Descripción_Técnica_del_Servicio_Combinado": "Este servicio combinado ejecuta misiones autónomas de fotogrametría con drones en doble grilla, incluyendo planeación, recolección de puntos de control, procesamiento y actividades de proyecto. Se basa en los servicios sencillos: Planeación de operaciones aereas usando Drones (101), Recolección de coordenadas de Puntos de Control usando Technología GIS Mobile (39), Construcción de Puntos de Control temporales (40), Procesamiento de Fotogrametria (109), Vuelos Autonomos de drones para fotogrametria por Ha (191), Revision de alcance, Información y KOM del proyecto (64), Preparación HSE Básico de proyectos (65), Compilacion de entregables (67), Creación de documentación o manuales (45), Analisis Técnico de Proyectos GIS o Tecnologia o Ingeniería (48) y Elaboración de PDT o Cronograma de Actividades (49). Utiliza ArcGIS Pro para rutas, puntos de control temporales, vuelos con DJI Phantom 4 Pro fuera de Bogotá, procesamiento por hectárea y gestión de proyecto integral.",
-                "Tipo_de_Servicio": "Servicio Combinado",
+                "Tipo_de_Servicio": "Operaciones de Campo",
                 "Unidades_Basicos_totales": 9.166667,
                 "Unidades_Intermedias_totales": 0.0,
                 "Unidades_Avanzadas_totales": 14.0,
@@ -121,7 +121,7 @@
             "properties": {
                 "Nombre_Servicio_Combinado": "Vuelos Autonomos Doble Grilla Sin Puntos de Control fuera de Bogota (RMSErr=7 metros)",
                 "Descripción_Técnica_del_Servicio_Combinado": "Este servicio combinado ejecuta misiones autónomas de fotogrametría con una doble grilla fuera de Bogotá, logrando una precisión de 7 metros RMSE sin necesidad de puntos de control. Se fundamenta en la planificación de operaciones aéreas utilizando drones (Código 101), lo que permite definir rutas y parámetros operativos de manera eficiente. La revisión de alcance y KOM del proyecto (Código 64) establece las bases del mismo, asegurando que se recopile y analice la documentación necesaria. Además, se contempla la preparación de requisitos básicos de HSE (Código 65), garantizando un manejo adecuado de los aspectos de salud, seguridad y medio ambiente desde el inicio del proyecto. \n\nLa creación de documentación técnica (Código 45) asegura que se generen manuales claros y concisos sobre los productos y procesos implementados. Este servicio también incluye la compilación de entregables (Código 67), que organiza y presenta la información final de manera eficiente. Se integra con el servicio de análisis técnico (Código 48) y elaboración de cronogramas de actividades (Código 49) para facilitar la planificación y ejecución del proyecto. El vuelo se realiza con un dron DJI Phantom 4 Pro, optimizando la captura de datos en terrenos no planos, asegurando resultados precisos y eficientes para diversos proyectos de fotogrametría en áreas fuera de Bogotá.",
-                "Tipo_de_Servicio": "Servicio Combinado",
+                "Tipo_de_Servicio": "Operaciones de Campo",
                 "Unidades_Basicos_totales": 7.83,
                 "Unidades_Intermedias_totales": 0.0,
                 "Unidades_Avanzadas_totales": 0.0,
@@ -143,7 +143,7 @@
             "properties": {
                 "Nombre_Servicio_Combinado": "Capacitaciones Cortas para Promocionar la Tecnologia SIG de Esri",
                 "Descripción_Técnica_del_Servicio_Combinado": "Este servicio combinado ofrece capacitaciones cortas diseñadas para promover la tecnología SIG de Esri, enfocándose en su aplicación práctica y teórica en diversas industrias. Incluye sesiones como \"Una Mirada al uso de la Plataforma ArcGIS\" (Código 231), que introduce a los participantes en los conceptos fundamentales de los SIG y su relevancia en el entorno actual. También se abordan temáticas específicas como la \"Historia Global del Petróleo\" (Código 210) y \"Historia Colombiana del Petróleo\" (Código 211), que utilizan aplicaciones geográficas para ilustrar el impacto de los SIG en la industria petrolera.\n\nLas capacitaciones se complementan con el \"Top ten de usos de aplicaciones geográficas, IA y Drones para la industria del petróleo\" (Código 213) y \"Usos de Drones en la industria de Oil and Gas\" (Código 214), que destacan las tendencias actuales en la integración de tecnologías avanzadas. Además, se ofrece un \"Webinar sobre Proyectos Smart para Áreas de Producción\" (Código 215) y un curso sobre \"Metodología Integrada Drones y ArcGIS\" (Código 216), que enfatizan el uso de drones y análisis geoespaciales en la optimización de procesos.\n\nEl servicio también permite la inclusión de prácticas guiadas con profesionales expertos (Código 218 y 219), asegurando que los participantes no solo comprendan la teoría, sino que también adquieran experiencia práctica en el uso de la tecnología SIG de Esri. Estas capacitaciones están diseñadas para ser accesibles y eficaces, con un enfoque en resultados aplicables en el campo.",
-                "Tipo_de_Servicio": "Servicio Combinado",
+                "Tipo_de_Servicio": "Multidepartamental",
                 "Unidades_Basicos_totales": 14.0,
                 "Unidades_Intermedias_totales": 4.0,
                 "Unidades_Avanzadas_totales": 0.0,
@@ -165,7 +165,7 @@
             "properties": {
                 "Nombre_Servicio_Combinado": "Capacitaciones Largas para dictarlas en conjunto a Esri Colombia",
                 "Descripción_Técnica_del_Servicio_Combinado": "El servicio \"Capacitaciones Largas para dictarlas en conjunto a Esri Colombia\" tiene como propósito ofrecer formaciones extensivas en el ámbito de la fotogrametría y el uso de drones, integrando tecnología SIG de Esri. Esta capacitación combina dos talleres fundamentales: el \"Taller Teórico Práctico de Fotogrametría y Vuelos Autónomos usando Tecnología SIG de Esri\" (Código 221) y \"Drones Inteligentes: Aplicaciones de IA y Aprendizaje Automático\" (Código 222).\n\nEl taller de fotogrametría abarca tanto aspectos teóricos como prácticos, enfocándose en la industria de aeronaves no tripuladas, técnicas de captura de imágenes aéreas, y el uso de puntos de control para alcanzar alta precisión en productos fotogramétricos, tales como ortofotomosaicos y modelos 3D. Los participantes aprenderán a operar cuadricópteros equipados con sensores RGB, enfatizando la importancia de la correcta planificación y ejecución de vuelos autónomos.\n\nPor otro lado, el curso sobre Drones Inteligentes introduce a los asistentes en el uso de la inteligencia artificial y el aprendizaje automático en el contexto de drones, utilizando herramientas de ArcGIS Pro y story maps. Se explorarán conceptos clave de IA, su aplicación en aeronaves no tripuladas, y cómo se integran estas tecnologías en soluciones SIG.\n\nAmbas capacitaciones promueven un aprendizaje integral que permite a los participantes adquirir habilidades prácticas y teóricas, preparándolos para afrontar retos en el uso de drones y tecnologías SIG, y fomentando la innovación a través de la inteligencia artificial en sus proyectos.",
-                "Tipo_de_Servicio": "Servicio Combinado",
+                "Tipo_de_Servicio": "Multidepartamental",
                 "Unidades_Basicos_totales": 0.0,
                 "Unidades_Intermedias_totales": 1.0,
                 "Unidades_Avanzadas_totales": 2.0,
@@ -187,7 +187,7 @@
             "properties": {
                 "Nombre_Servicio_Combinado": "InfoBot + WebChat",
                 "Descripción_Técnica_del_Servicio_Combinado": "El servicio \"InfoBot + WebChat\" combina la funcionalidad de un agente de inteligencia artificial informativo con capacidades de agendamiento automatizado. A través del \"Módulo Agente de IA Informativo (Código 251)\", se proporciona un asistente que puede responder preguntas frecuentes y brindar información esencial sobre productos y servicios, operando sin necesidad de herramientas externas. Complementariamente, el \"Módulo de Integración Básico a Cal.com (Código 267)\" permite al bot gestionar el agendamiento de reuniones, verificando disponibilidades y reservando citas de manera automática. Esta integración facilita la coordinación de reuniones virtuales o presenciales, simplificando el proceso para empresas que requieren un flujo eficiente de citas. Además, se incluye el \"Licenciamiento y Configuración de 1 Cuenta de Desarrolladores de OpenAI (Código 261)\" para optimizar la interacción del bot, permitiendo su integración con modelos avanzados de IA. En conjunto, \"InfoBot + WebChat\" ofrece una solución integral que mejora la atención al cliente y optimiza la gestión de citas, asegurando una experiencia fluida y efectiva.",
-                "Tipo_de_Servicio": "Servicio Combinado",
+                "Tipo_de_Servicio": "Servicio de IA",
                 "Unidades_Basicos_totales": 4.5,
                 "Unidades_Intermedias_totales": 0.5,
                 "Unidades_Avanzadas_totales": 0.0,
@@ -209,7 +209,7 @@
             "properties": {
                 "Nombre_Servicio_Combinado": "SaleBot + InfoBot + Webchat",
                 "Descripción_Técnica_del_Servicio_Combinado": "El servicio combinado \"SaleBot + InfoBot + Webchat\" integra capacidades avanzadas de ventas y atención al cliente mediante inteligencia artificial. Este sistema permite a un agente IA comercial (SaleBot, Código 243) ejecutar flujos conversacionales estratégicos, guiando a los potenciales clientes hacia decisiones de negocio con interacciones personalizadas y respuestas orientadas al cierre de oportunidades. Además, incorpora un agente informativo (InfoBot, Código 251) que responde preguntas frecuentes y brinda información clave sobre productos y servicios, mejorando la experiencia del usuario en la web. La integración con plataformas de agendamiento como Cal.com (Código 266) permite la gestión automática de reuniones, optimizando el proceso de coordinación. Este servicio se basa en la capacidad de conectar con múltiples canales, incluyendo redes sociales y páginas web, facilitando un contacto fluido y efectivo. Con una configuración inicial robusta y entrenamiento básico para el uso de herramientas como OpenAI (Código 261), este servicio combina la automatización de ventas con atención al cliente, maximizando la eficiencia y satisfacción del cliente en un solo ecosistema digital.",
-                "Tipo_de_Servicio": "Servicio Combinado",
+                "Tipo_de_Servicio": "Servicio de IA",
                 "Unidades_Basicos_totales": 6.0,
                 "Unidades_Intermedias_totales": 1.0,
                 "Unidades_Avanzadas_totales": 0.0,
@@ -231,7 +231,7 @@
             "properties": {
                 "Nombre_Servicio_Combinado": "SaleBot Integrado a Whatsapp y Redes Sociales",
                 "Descripción_Técnica_del_Servicio_Combinado": "El servicio \"SaleBot Integrado a Whatsapp y Redes Sociales\" permite a las empresas automatizar la interacción con clientes a través de plataformas de mensajería y redes sociales, optimizando el proceso de ventas y atención al cliente. Este servicio combina varios módulos clave: el \"Modulo Agente IA de Ventas\" (Código 243) que habilita flujos conversacionales comerciales, y el \"Módulo de Integración Básico a Cal.com\" (Código 267) que gestiona el agendamiento de reuniones. Además, incluye la \"Integración con Canales de Mensajería\" (Código 244) que permite la comunicación fluida a través de WhatsApp y Telegram, y el \"Conector de Redes Sociales para Agentes IA\" (Código 247) que facilita automatizaciones en plataformas como Facebook Messenger e Instagram. La configuración técnica necesaria, como la \"Configuración de Cuenta Twilio/Authkey\" (Código 253) y la \"Configuración de Meta Developers y Manychat\" (Código 255), aseguran que el sistema esté listo para operar eficientemente. Este enfoque integral no solo mejora la experiencia del cliente, sino que también optimiza la gestión de leads y el cierre de oportunidades comerciales.",
-                "Tipo_de_Servicio": "Servicio Combinado",
+                "Tipo_de_Servicio": "Servicio de IA",
                 "Unidades_Basicos_totales": 9.0,
                 "Unidades_Intermedias_totales": 1.0,
                 "Unidades_Avanzadas_totales": 0.0,
@@ -253,7 +253,7 @@
             "properties": {
                 "Nombre_Servicio_Combinado": "SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp",
                 "Descripción_Técnica_del_Servicio_Combinado": "El servicio \"SaleBot Integrado a ArcGIS, Redes Sociales y Whatsapp\" combina la automatización de ventas y la gestión geoespacial mediante la integración de varias herramientas. Este sistema permite a agentes de IA realizar flujos conversacionales enfocados en ventas, gracias al Módulo Agente IA de Ventas (Código 243), que utiliza modelos avanzados de lenguaje para interactuar con clientes a través de redes sociales y plataformas de mensajería, como WhatsApp y Telegram (Código 244).\n\nAdemás, el servicio incluye la Configuración Inicial de Cuenta Cal.com (Código 266) para gestionar el agendamiento de reuniones, y el Conector a Servicios Web Geoespaciales (Código 241) para acceder a información geográfica en tiempo real desde ArcGIS. La integración con Canales de Mensajería permite interacciones directas y automatizadas, mientras que el Conector de Redes Sociales (Código 247) facilita la automatización de respuestas y el envío de contenido a través de plataformas como Facebook Messenger e Instagram.\n\nCon estas características, el servicio optimiza el proceso de ventas, mejora la atención al cliente y permite tomar decisiones informadas basadas en datos geoespaciales.",
-                "Tipo_de_Servicio": "Servicio Combinado",
+                "Tipo_de_Servicio": "Servicio de IA",
                 "Unidades_Basicos_totales": 11.0,
                 "Unidades_Intermedias_totales": 1.0,
                 "Unidades_Avanzadas_totales": 0.0,
@@ -275,7 +275,7 @@
             "properties": {
                 "Nombre_Servicio_Combinado": "AI Commercial Automation Ecosystem",
                 "Descripción_Técnica_del_Servicio_Combinado": "Servicio combinado especializado en la implementación integral de un ecosistema inteligente de automatización comercial mediante inteligencia artificial. El ecosistema integra módulos de preventa inteligente, análisis automático de reuniones y generación automatizada de propuestas técnico-económicas para optimizar procesos comerciales y acelerar la estructuración de ofertas empresariales. Incluye integración de catálogos de servicios, análisis contextual mediante IA, automatización documental, generación de datasets comerciales estructurados, procesamiento de reuniones técnicas y comerciales, y preparación de propuestas adaptadas al cliente, industria y objetivos estratégicos de la organización. El ecosistema puede integrarse progresivamente con CRMs, ERPs, plataformas documentales, sistemas GIS empresariales y herramientas colaborativas corporativas.",
-                "Tipo_de_Servicio": "Servicios Combinado",
+                "Tipo_de_Servicio": "Servicio de IA",
                 "Unidades_Basicos_totales": 0.0,
                 "Unidades_Intermedias_totales": 0.0,
                 "Unidades_Avanzadas_totales": 3.0,
@@ -286,5 +286,5 @@
             }
         }
     ],
-    "updated_at": "2026-05-28 11:22:08"
+    "updated_at": "2026-05-28 11:59:28"
 }
