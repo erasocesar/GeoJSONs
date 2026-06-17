@@ -1197,12 +1197,12 @@
                 ]
             },
             "properties": {
-                "Subgrupo": "Estudio",
-                "Sinonimos_Subgrupo": "Analisis Tecnicos; Estudios Tecnicos; Documentación Tecnica",
+                "Subgrupo": "Consultoría Estratégica",
+                "Sinonimos_Subgrupo": "Estudio; Transformación Empresarial con IA; ",
                 "topK": 24,
-                "Filtro": "Subgrupo:Estudio"
+                "Filtro": "Subgrupo:Consultoría Estratégica"
             }
         }
     ],
-    "updated_at": "2026-06-17 11:25:00"
+    "updated_at": "2026-06-17 18:09:19"
 }
