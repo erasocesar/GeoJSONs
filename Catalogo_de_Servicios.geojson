@@ -8347,29 +8347,95 @@
                 ]
             },
             "properties": {
-                "Nro": 279,
+                "Nro": 280,
                 "Area_IsaGIS_Technologies": "Servicios de IA",
                 "Grupo": "IA Generativa",
-                "Subgrupo": "Estudio",
-                "Nombre_del_Servicio": "Master Plan de Crecimiento con IA",
+                "Subgrupo": "Consultoría Estratégica",
+                "Nombre_del_Servicio": "Mater Plan de Crecimiento con IA™ – Start",
                 "Clasificación": "Servicio por Demanda",
-                "Descripción_Técnica_del_Servicio": "El Master Plan de Crecimiento con IA es un servicio de diagnóstico estratégico profundo en el que un Agente de IA especializado de IsaGIS entrena con el ADN real del negocio del cliente: quién es, a quién le vende, qué lo diferencia, cuáles son las objeciones de su cliente ideal y qué herramientas tecnológicas tiene disponibles. La información se captura mediante análisis de documentación entregada por el cliente, revisión de su página web o, en su defecto, mediante una entrevista directa al empresario. El agente complementa el diagnóstico con investigación de mercado apoyada en scripts de Python para analizar competencia y comportamiento del cliente ideal, y aplica metodologías como 3Es (Entretenido, Educativo, Emocionante) para contenidos, 4Us (Urgente, Único, Útil, Ultra-específico) para email marketing, PAS (Problema, Agitación, Solución) para persuasión en frío, construcción de Buyer Personas y arquitectura de ecosistemas de bots (Infobots, Salesbots, Marketing Bots, LearnBots). Con estos insumos, el agente cruza la información y genera un plan maestro personalizado y único para el negocio, que define qué implementar, con qué tecnología, en qué orden y hacia qué objetivo de utilidad real, evitando que la inversión en IA se convierta en un gasto sin retorno. Este servicio corresponde únicamente a la fase de diagnóstico y planeación; la implementación de los componentes recomendados (bots a medida, contenidos automatizados, prospección geográfica, ecosistema digital, gestión de primer contacto, entre otros) se cotiza de forma independiente según el catálogo de Servicios por Demanda de IsaGIS, una vez el plan defina qué se requiere.",
-                "Detalles_Costo_Base": "1 unidad de Servicio Intermedio cubre la ejecución completa del Master Plan de Crecimiento con IA para 1 negocio o marca, e incluye: la sesión de diagnóstico (análisis de documentación/página web o entrevista directa al empresario para extraer el ADN del negocio), la investigación de mercado apoyada en scripts de Python, la aplicación de las metodologías 3Es, 4Us, PAS y Buyer Personas, la evaluación del ecosistema de bots recomendado (Infobots, Salesbots, Marketing Bots, LearnBots) y de la posible prospección geográfica (scraping), y la entrega de los 2 documentos finales: \"ADN del Cliente\" y \"Plan Maestro de Crecimiento con IA\", ambos en formato Word (.docx) y Markdown (.md). No incluye la implementación de los componentes recomendados (bots, contenidos, prospección, ecosistema digital), los cuales se cotizan por separado según el catálogo de Servicios por Demanda.",
-                "Notas_Adicionales": "Para iniciar el servicio, el cliente debe entregar al menos una de las siguientes fuentes de información del negocio: documentación corporativa (presentaciones, manuales de marca, catálogos), acceso a su página web vigente, o disponibilidad de mínimo 1 hora del dueño o gerente del negocio para una entrevista directa. Si el cliente no cuenta con ninguna de estas opciones, no será posible iniciar el diagnóstico y se recomienda primero estructurar al menos la información básica del negocio (nombre, productos o servicios, público objetivo). Este servicio entrega el plan estratégico (ADN del Cliente + Plan Maestro), pero no incluye la implementación de los componentes recomendados; si el plan resultante define la necesidad de bots, contenidos, ecosistema digital o prospección geográfica, estos deberán contratarse como servicios adicionales del catálogo de Servicios por Demanda de IsaGIS.",
+                "Descripción_Técnica_del_Servicio": "Consultoría Estratégica de Transformación Empresarial con IA diseñada para profesionales independientes y marcas personales que desean crecer de forma estructurada mediante el uso de inteligencia artificial.\n\nIdeal para:\n\nProfesores\nCoaches\nConsultores\nPsicólogos\nAbogados\nEspecialistas independientes\nMarcas personales\n\nObjetivo\n\nConstruir la base digital, comercial y estratégica del negocio para atraer más clientes, fortalecer el posicionamiento profesional y definir una hoja de ruta de crecimiento impulsada por IA.\n\nMetodología\n\nEl servicio utiliza el framework propietario ISAGIS AI Growth Framework™ (Discovery → Analysis → Strategy → Roadmap), ejecutado mediante un Agente Multi-Skill especializado en análisis de negocios, investigación de mercado y diseño de estrategias.\n\nEntregables\n\nADN del Cliente\nPlan Maestro de Crecimiento con IA\nRoadmap Estratégico de Implementación por Fases\n\nBeneficios\n\nClaridad sobre qué acciones ejecutar primero.\nPriorización de inversiones.\nIdentificación de oportunidades de crecimiento.\nDefinición de tecnologías recomendadas.\nEstrategia alineada a objetivos reales de negocio.\n\nNo incluye la implementación de los servicios recomendados.",
+                "Detalles_Costo_Base": "2 unidades Básicas cubren la ejecución completa del servicio para 1 profesional independiente o marca personal. Incluye ADN del Cliente, Plan Maestro de Crecimiento con IA y Roadmap Estratégico por Fases. No incluye implementación.",
+                "Notas_Adicionales": "Dirigido a profesores, coaches, consultores, psicólogos, abogados y especialistas independientes. Si el cliente no posee activos digitales, el análisis se enfocará en el mercado, competencia y oportunidades de crecimiento.",
+                "Tiempo__Dias_habiles_": "3",
+                "Tiempos_de_entrega": "3 días",
+                "URL_Video_hosting": "https://isagis.com/assets/img/Master_Plan_Service_Infography.png",
+                "URL_con_información_adicional": "https://isagis.com/assets/img/Master_Plan_Service_Infography.png",
+                "Basicos": 2.0,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "¿Cuántos Master Plan Start IA desea para profesionales independientes?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": 0,
+                "micro_guion_es": "Diseñamos el ADN de tu negocio y una hoja de ruta de crecimiento impulsada por IA para ayudarte a captar más clientes, mejorar tu posicionamiento y definir qué tecnología implementar primero.",
+                "Descripcion_Tecnica_Corta": "Consultoría estratégica con IA para profesionales independientes que genera el ADN del Cliente, un Plan Maestro de Crecimiento y una hoja de ruta para atraer más clientes, mejorar su posicionamiento y"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 281,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "IA Generativa",
+                "Subgrupo": "Consultoría Estratégica",
+                "Nombre_del_Servicio": "Mater Plan de Crecimiento con IA™ – Business",
+                "Clasificación": "Servicio por Demanda",
+                "Descripción_Técnica_del_Servicio": "Consultoría Estratégica de Transformación Empresarial con IA orientada a pequeñas y medianas empresas que buscan optimizar sus procesos comerciales, marketing, automatización y crecimiento empresarial.\n\nIdeal para:\n\nAgencias\nAcademias\nEmpresas de seguros\nConstructoras\nFirmas de servicios\nEmpresas en crecimiento\n\nObjetivo\n\nDiseñar una estrategia integral de crecimiento que permita mejorar la captación de clientes, aumentar la eficiencia comercial y definir las tecnologías necesarias para escalar el negocio.\n\nMetodología\n\nEl servicio utiliza el framework propietario ISAGIS AI Growth Framework™ (Discovery → Analysis → Strategy → Roadmap), ejecutado mediante un Agente Multi-Skill especializado en transformación empresarial.\n\nEntregables\n\nADN del Cliente\nPlan Maestro de Crecimiento con IA\nEstrategia Comercial\nEcosistema Digital Recomendado\nRoadmap de Implementación por Fases\n\nBeneficios\n\nPriorización de iniciativas de alto impacto.\nOptimización de marketing y ventas.\nIdentificación de oportunidades de automatización.\nDefinición de ecosistemas digitales y bots.\nPlaneación escalable del crecimiento empresarial.\n\nNo incluye la implementación de los servicios recomendados.",
+                "Detalles_Costo_Base": "1 unidad Intermedia cubre la ejecución completa del servicio para 1 empresa PYME. Incluye ADN del Cliente, Plan Maestro de Crecimiento con IA, Estrategia Comercial, Ecosistema Digital recomendado y Roadmap por Fases. No incluye implementación.",
+                "Notas_Adicionales": "Dirigido a agencias, academias, empresas de seguros, constructoras, firmas de servicios y empresas en crecimiento. El análisis incluye auditoría de activos digitales existentes cuando aplique.",
                 "Tiempo__Dias_habiles_": "5",
-                "Tiempos_de_entrega": "5 dias",
+                "Tiempos_de_entrega": "5 días",
                 "URL_Video_hosting": "https://isagis.com/assets/img/Master_Plan_Service_Infography.png",
                 "URL_con_información_adicional": "https://isagis.com/assets/img/Master_Plan_Service_Infography.png",
                 "Basicos": 0.0,
                 "Intermedios": 1.0,
                 "Avanzados": 0.0,
-                "Pregunta": "¿Cuántos Master Plan de Crecimiento con IA desea (1 por marca o unidad de negocio a diagnosticar)?",
+                "Pregunta": "¿Cuántos Master Plan Business IA desea para su empresa?",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 0,
-                "micro_guion_es": "En IsaGIS entrenamos a un Agente de IA con el ADN real de tu negocio para crear tu Master Plan de Crecimiento con IA. Aplicamos metodologías como 3Es, 4Us, PAS y Buyer Personas, e investigamos tu mercado con Python, para entregarte un plan maestro que define qué implementar, con qué tecnología y en qué orden. Empresas que aplican IA con claridad estratégica reducen costos hasta 42% y aumentan ganancias hasta 59%. ¿Listo para dejar de improvisar con la IA y tener un mapa real de crecimiento?",
-                "Descripcion_Tecnica_Corta": "Diagnóstico estratégico con Agente de IA que extrae el ADN del negocio y entrega un Plan Maestro personalizado que define qué implementar, con qué tecnología y en qué orden."
+                "micro_guion_es": "Analizamos tu negocio, mercado y ecosistema digital para construir un plan maestro que prioriza las acciones, tecnologías y automatizaciones con mayor impacto en ventas, rentabilidad y crecimiento.",
+                "Descripcion_Tecnica_Corta": "Consultoría estratégica con IA para PYMEs que genera el ADN del negocio, un Plan Maestro de Crecimiento y un roadmap para optimizar ventas, automatización y escalamiento empresarial."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 282,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "IA Generativa",
+                "Subgrupo": "Consultoría Estratégica",
+                "Nombre_del_Servicio": "Mater Plan de Crecimiento con IA™ – Enterprise",
+                "Clasificación": "Servicio por Demanda",
+                "Descripción_Técnica_del_Servicio": "Consultoría Estratégica de Transformación Empresarial con IA para organizaciones medianas y grandes que requieren una hoja de ruta corporativa para modernización tecnológica, automatización, eficiencia operativa y crecimiento sostenible.\n\nIdeal para:\n\nOil & Gas\nUtilities\nInfraestructura\nManufactura\nLogística\nEmpresas industriales\nOrganizaciones corporativas\n\nObjetivo\n\nDiseñar una estrategia integral de transformación empresarial que permita identificar oportunidades de automatización, optimización de procesos, adopción de IA y crecimiento corporativo.\n\nMetodología\n\nEl servicio utiliza el framework propietario ISAGIS AI Growth Framework™ (Discovery → Analysis → Strategy → Roadmap), ejecutado mediante un Agente Multi-Skill especializado en transformación empresarial y adopción de IA.\n\nEntregables\n\nADN Corporativo\nPlan Maestro de Transformación Empresarial con IA\nArquitectura IA Recomendada\nEcosistema de Automatización\nRoadmap Estratégico de Transformación por Fases\n\nBeneficios\n\nPriorización de inversiones tecnológicas.\nOptimización de procesos empresariales.\nIdentificación de oportunidades de automatización.\nEstrategia de transformación digital e IA.\nPlaneación corporativa orientada a resultados.\n\nNo incluye la implementación de los servicios recomendados.",
+                "Detalles_Costo_Base": "1 unidad Avanzada cubre la ejecución completa del servicio para 1 organización Enterprise. Incluye ADN Corporativo, Plan Maestro de Transformación Empresarial, Arquitectura IA recomendada, Ecosistema de Automatización y Roadmap Estratégico. No incluye implementación.",
+                "Notas_Adicionales": "Dirigido a empresas de Oil & Gas, Utilities, Infraestructura, Manufactura, Logística y sectores industriales. Puede incluir evaluación de procesos operativos, comerciales y tecnológicos.",
+                "Tiempo__Dias_habiles_": "10",
+                "Tiempos_de_entrega": "10 días",
+                "URL_Video_hosting": "https://isagis.com/assets/img/Master_Plan_Service_Infography.png",
+                "URL_con_información_adicional": "https://isagis.com/assets/img/Master_Plan_Service_Infography.png",
+                "Basicos": 0.0,
+                "Intermedios": 0.0,
+                "Avanzados": 1.0,
+                "Pregunta": "¿Cuántos Master Plan Enterprise IA desea para su organización?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": 0,
+                "micro_guion_es": "Diseñamos una hoja de ruta de transformación empresarial con IA para priorizar inversiones, automatización, eficiencia operativa y crecimiento sostenible a nivel corporativo.",
+                "Descripcion_Tecnica_Corta": "Consultoría estratégica de transformación empresarial con IA para organizaciones Enterprise que genera un ADN Corporativo, una arquitectura tecnológica recomendada y una hoja de ruta para automatizaci"
             }
         }
     ],
-    "updated_at": "2026-06-17 11:24:45"
+    "updated_at": "2026-06-17 18:09:05"
 }
