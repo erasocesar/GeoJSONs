@@ -8252,7 +8252,7 @@
                 "Area_IsaGIS_Technologies": "Servicios de IA",
                 "Grupo": "AI Platforms",
                 "Subgrupo": "Proposal Automation",
-                "Nombre_del_Servicio": "AI Discovery & Proposal Builder",
+                "Nombre_del_Servicio": "Implmentanción del AI Discovery & Proposal Topic Builder",
                 "Clasificación": "Servicio por Demanda",
                 "Descripción_Técnica_del_Servicio": "Servicio especializado en la implementación de plataformas inteligentes de preventa y generación de propuestas comerciales mediante inteligencia artificial. El sistema permite seleccionar servicios desde catálogos empresariales estructurados, enriquecer automáticamente la información mediante IA contextual y generar propuestas visuales y comerciales adaptadas al cliente, industria y objetivo del proyecto. Incluye integración con catálogos empresariales, flujos de enriquecimiento IA, generación de datasets normalizados y preparación para generación automática de propuestas HTML y PDF.",
                 "Detalles_Costo_Base": "1 unidad avanzada cubren la implementación base del AI Proposal Builder incluyendo parametrización inicial, integración de catálogos de servicios, configuración de flujos IA, conexión con modelos OpenAI y despliegue inicial del entorno de generación de propuestas comerciales.",
@@ -8268,7 +8268,7 @@
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 0,
                 "micro_guion_es": "¡Transforma tu proceso comercial con IA! AI Proposal Builder permite generar propuestas inteligentes y visuales basadas en los servicios y conocimiento empresarial de tu organización. Optimiza preventa",
-                "Descripcion_Tecnica_Corta": "Plataforma inteligente de preventa y generación automatizada de propuestas comerciales mediante inteligencia artificial y catálogos empresariales."
+                "Descripcion_Tecnica_Corta": "Genera en minutos temas estratégicos para reuniones comerciales utilizando los servicios, conocimientos y bases de datos de tu organización, permitiendo que tus clientes prioricen los temas de mayor i"
             }
         },
         {
@@ -8336,7 +8336,40 @@
                 "micro_guion_es": "¡Automatiza la generación de propuestas técnico-económicas con IA! AI Technical-Economic Proposal Engine transforma requerimientos, resultados de reuniones y necesidades del cliente en ofertas estructuradas, estimaciones de costos, alcances técnicos y documentos comerciales listos para acelerar procesos de preventa, mejorar consistencia documental y optimizar tiempos de respuesta comercial.",
                 "Descripcion_Tecnica_Corta": "¡Automatiza la generación de propuestas técnico-económicas con IA! AI Technical-Economic Proposal Engine transforma requerimientos y resultados de reuniones en ofertas estructuradas"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 279,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "IA Generativa",
+                "Subgrupo": "Estudio",
+                "Nombre_del_Servicio": "Master Plan de Crecimiento con IA",
+                "Clasificación": "Servicio por Demanda",
+                "Descripción_Técnica_del_Servicio": "El Master Plan de Crecimiento con IA es un servicio de diagnóstico estratégico profundo en el que un Agente de IA especializado de IsaGIS entrena con el ADN real del negocio del cliente: quién es, a quién le vende, qué lo diferencia, cuáles son las objeciones de su cliente ideal y qué herramientas tecnológicas tiene disponibles. La información se captura mediante análisis de documentación entregada por el cliente, revisión de su página web o, en su defecto, mediante una entrevista directa al empresario. El agente complementa el diagnóstico con investigación de mercado apoyada en scripts de Python para analizar competencia y comportamiento del cliente ideal, y aplica metodologías como 3Es (Entretenido, Educativo, Emocionante) para contenidos, 4Us (Urgente, Único, Útil, Ultra-específico) para email marketing, PAS (Problema, Agitación, Solución) para persuasión en frío, construcción de Buyer Personas y arquitectura de ecosistemas de bots (Infobots, Salesbots, Marketing Bots, LearnBots). Con estos insumos, el agente cruza la información y genera un plan maestro personalizado y único para el negocio, que define qué implementar, con qué tecnología, en qué orden y hacia qué objetivo de utilidad real, evitando que la inversión en IA se convierta en un gasto sin retorno. Este servicio corresponde únicamente a la fase de diagnóstico y planeación; la implementación de los componentes recomendados (bots a medida, contenidos automatizados, prospección geográfica, ecosistema digital, gestión de primer contacto, entre otros) se cotiza de forma independiente según el catálogo de Servicios por Demanda de IsaGIS, una vez el plan defina qué se requiere.",
+                "Detalles_Costo_Base": "1 unidad de Servicio Intermedio cubre la ejecución completa del Master Plan de Crecimiento con IA para 1 negocio o marca, e incluye: la sesión de diagnóstico (análisis de documentación/página web o entrevista directa al empresario para extraer el ADN del negocio), la investigación de mercado apoyada en scripts de Python, la aplicación de las metodologías 3Es, 4Us, PAS y Buyer Personas, la evaluación del ecosistema de bots recomendado (Infobots, Salesbots, Marketing Bots, LearnBots) y de la posible prospección geográfica (scraping), y la entrega de los 2 documentos finales: \"ADN del Cliente\" y \"Plan Maestro de Crecimiento con IA\", ambos en formato Word (.docx) y Markdown (.md). No incluye la implementación de los componentes recomendados (bots, contenidos, prospección, ecosistema digital), los cuales se cotizan por separado según el catálogo de Servicios por Demanda.",
+                "Notas_Adicionales": "Para iniciar el servicio, el cliente debe entregar al menos una de las siguientes fuentes de información del negocio: documentación corporativa (presentaciones, manuales de marca, catálogos), acceso a su página web vigente, o disponibilidad de mínimo 1 hora del dueño o gerente del negocio para una entrevista directa. Si el cliente no cuenta con ninguna de estas opciones, no será posible iniciar el diagnóstico y se recomienda primero estructurar al menos la información básica del negocio (nombre, productos o servicios, público objetivo). Este servicio entrega el plan estratégico (ADN del Cliente + Plan Maestro), pero no incluye la implementación de los componentes recomendados; si el plan resultante define la necesidad de bots, contenidos, ecosistema digital o prospección geográfica, estos deberán contratarse como servicios adicionales del catálogo de Servicios por Demanda de IsaGIS.",
+                "Tiempo__Dias_habiles_": "5",
+                "Tiempos_de_entrega": "5 dias",
+                "URL_Video_hosting": "https://isagis.com/assets/img/Master_Plan_Service_Infography.png",
+                "URL_con_información_adicional": "https://isagis.com/assets/img/Master_Plan_Service_Infography.png",
+                "Basicos": 0.0,
+                "Intermedios": 1.0,
+                "Avanzados": 0.0,
+                "Pregunta": "¿Cuántos Master Plan de Crecimiento con IA desea (1 por marca o unidad de negocio a diagnosticar)?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": 0,
+                "micro_guion_es": "En IsaGIS entrenamos a un Agente de IA con el ADN real de tu negocio para crear tu Master Plan de Crecimiento con IA. Aplicamos metodologías como 3Es, 4Us, PAS y Buyer Personas, e investigamos tu mercado con Python, para entregarte un plan maestro que define qué implementar, con qué tecnología y en qué orden. Empresas que aplican IA con claridad estratégica reducen costos hasta 42% y aumentan ganancias hasta 59%. ¿Listo para dejar de improvisar con la IA y tener un mapa real de crecimiento?",
+                "Descripcion_Tecnica_Corta": "Diagnóstico estratégico con Agente de IA que extrae el ADN del negocio y entrega un Plan Maestro personalizado que define qué implementar, con qué tecnología y en qué orden."
+            }
         }
     ],
-    "updated_at": "2026-06-03 11:10:26"
+    "updated_at": "2026-06-17 11:24:45"
 }
