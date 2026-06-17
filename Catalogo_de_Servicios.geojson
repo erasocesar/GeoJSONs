@@ -8351,7 +8351,7 @@
                 "Area_IsaGIS_Technologies": "Servicios de IA",
                 "Grupo": "IA Generativa",
                 "Subgrupo": "Consultoría Estratégica",
-                "Nombre_del_Servicio": "Mater Plan de Crecimiento con IA™ – Start",
+                "Nombre_del_Servicio": "Master Plan de Crecimiento con IA™ – Start",
                 "Clasificación": "Servicio por Demanda",
                 "Descripción_Técnica_del_Servicio": "Consultoría Estratégica de Transformación Empresarial con IA diseñada para profesionales independientes y marcas personales que desean crecer de forma estructurada mediante el uso de inteligencia artificial.\n\nIdeal para:\n\nProfesores\nCoaches\nConsultores\nPsicólogos\nAbogados\nEspecialistas independientes\nMarcas personales\n\nObjetivo\n\nConstruir la base digital, comercial y estratégica del negocio para atraer más clientes, fortalecer el posicionamiento profesional y definir una hoja de ruta de crecimiento impulsada por IA.\n\nMetodología\n\nEl servicio utiliza el framework propietario ISAGIS AI Growth Framework™ (Discovery → Analysis → Strategy → Roadmap), ejecutado mediante un Agente Multi-Skill especializado en análisis de negocios, investigación de mercado y diseño de estrategias.\n\nEntregables\n\nADN del Cliente\nPlan Maestro de Crecimiento con IA\nRoadmap Estratégico de Implementación por Fases\n\nBeneficios\n\nClaridad sobre qué acciones ejecutar primero.\nPriorización de inversiones.\nIdentificación de oportunidades de crecimiento.\nDefinición de tecnologías recomendadas.\nEstrategia alineada a objetivos reales de negocio.\n\nNo incluye la implementación de los servicios recomendados.",
                 "Detalles_Costo_Base": "2 unidades Básicas cubren la ejecución completa del servicio para 1 profesional independiente o marca personal. Incluye ADN del Cliente, Plan Maestro de Crecimiento con IA y Roadmap Estratégico por Fases. No incluye implementación.",
@@ -8384,7 +8384,7 @@
                 "Area_IsaGIS_Technologies": "Servicios de IA",
                 "Grupo": "IA Generativa",
                 "Subgrupo": "Consultoría Estratégica",
-                "Nombre_del_Servicio": "Mater Plan de Crecimiento con IA™ – Business",
+                "Nombre_del_Servicio": "Master Plan de Crecimiento con IA™ – Business",
                 "Clasificación": "Servicio por Demanda",
                 "Descripción_Técnica_del_Servicio": "Consultoría Estratégica de Transformación Empresarial con IA orientada a pequeñas y medianas empresas que buscan optimizar sus procesos comerciales, marketing, automatización y crecimiento empresarial.\n\nIdeal para:\n\nAgencias\nAcademias\nEmpresas de seguros\nConstructoras\nFirmas de servicios\nEmpresas en crecimiento\n\nObjetivo\n\nDiseñar una estrategia integral de crecimiento que permita mejorar la captación de clientes, aumentar la eficiencia comercial y definir las tecnologías necesarias para escalar el negocio.\n\nMetodología\n\nEl servicio utiliza el framework propietario ISAGIS AI Growth Framework™ (Discovery → Analysis → Strategy → Roadmap), ejecutado mediante un Agente Multi-Skill especializado en transformación empresarial.\n\nEntregables\n\nADN del Cliente\nPlan Maestro de Crecimiento con IA\nEstrategia Comercial\nEcosistema Digital Recomendado\nRoadmap de Implementación por Fases\n\nBeneficios\n\nPriorización de iniciativas de alto impacto.\nOptimización de marketing y ventas.\nIdentificación de oportunidades de automatización.\nDefinición de ecosistemas digitales y bots.\nPlaneación escalable del crecimiento empresarial.\n\nNo incluye la implementación de los servicios recomendados.",
                 "Detalles_Costo_Base": "1 unidad Intermedia cubre la ejecución completa del servicio para 1 empresa PYME. Incluye ADN del Cliente, Plan Maestro de Crecimiento con IA, Estrategia Comercial, Ecosistema Digital recomendado y Roadmap por Fases. No incluye implementación.",
@@ -8417,7 +8417,7 @@
                 "Area_IsaGIS_Technologies": "Servicios de IA",
                 "Grupo": "IA Generativa",
                 "Subgrupo": "Consultoría Estratégica",
-                "Nombre_del_Servicio": "Mater Plan de Crecimiento con IA™ – Enterprise",
+                "Nombre_del_Servicio": "Master Plan de Crecimiento con IA™ – Enterprise",
                 "Clasificación": "Servicio por Demanda",
                 "Descripción_Técnica_del_Servicio": "Consultoría Estratégica de Transformación Empresarial con IA para organizaciones medianas y grandes que requieren una hoja de ruta corporativa para modernización tecnológica, automatización, eficiencia operativa y crecimiento sostenible.\n\nIdeal para:\n\nOil & Gas\nUtilities\nInfraestructura\nManufactura\nLogística\nEmpresas industriales\nOrganizaciones corporativas\n\nObjetivo\n\nDiseñar una estrategia integral de transformación empresarial que permita identificar oportunidades de automatización, optimización de procesos, adopción de IA y crecimiento corporativo.\n\nMetodología\n\nEl servicio utiliza el framework propietario ISAGIS AI Growth Framework™ (Discovery → Analysis → Strategy → Roadmap), ejecutado mediante un Agente Multi-Skill especializado en transformación empresarial y adopción de IA.\n\nEntregables\n\nADN Corporativo\nPlan Maestro de Transformación Empresarial con IA\nArquitectura IA Recomendada\nEcosistema de Automatización\nRoadmap Estratégico de Transformación por Fases\n\nBeneficios\n\nPriorización de inversiones tecnológicas.\nOptimización de procesos empresariales.\nIdentificación de oportunidades de automatización.\nEstrategia de transformación digital e IA.\nPlaneación corporativa orientada a resultados.\n\nNo incluye la implementación de los servicios recomendados.",
                 "Detalles_Costo_Base": "1 unidad Avanzada cubre la ejecución completa del servicio para 1 organización Enterprise. Incluye ADN Corporativo, Plan Maestro de Transformación Empresarial, Arquitectura IA recomendada, Ecosistema de Automatización y Roadmap Estratégico. No incluye implementación.",
@@ -8437,5 +8437,5 @@
             }
         }
     ],
-    "updated_at": "2026-06-17 18:09:05"
+    "updated_at": "2026-06-17 18:12:03"
 }
