@@ -1165,7 +1165,7 @@
                 ]
             },
             "properties": {
-                "Subgrupo": "Automatizacion de Propuestas",
+                "Subgrupo": "Proposal Automation",
                 "Sinonimos_Subgrupo": "Automatización de propuestas; Proposal automation; Generación automática de propuestas; AI proposal systems; Proposal engines; Automatización comercial; Sistemas de preventa; Presales automation; Proposal builder; Technical proposal generation; Proposal w",
                 "topK": 30,
                 "Filtro": "Subgrupo:Proposal Automation"
@@ -1181,12 +1181,28 @@
                 ]
             },
             "properties": {
-                "Subgrupo": "Sistemas de Inteligenia IA",
+                "Subgrupo": "AI Intelligence Systems",
                 "Sinonimos_Subgrupo": "Sistemas inteligentes IA; AI intelligence systems; Sistemas analíticos IA; AI analysis systems; Meeting intelligence; Sistemas de análisis automático; Intelligent systems; AI orchestration; Sistemas cognitivos; AI reasoning systems; AI copilots",
                 "topK": 24,
                 "Filtro": "Subgrupo:AI Intelligence Systems"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Estudio",
+                "Sinonimos_Subgrupo": "Analisis Tecnicos; Estudios Tecnicos; Documentación Tecnica",
+                "topK": 24,
+                "Filtro": "Subgrupo:Estudio"
+            }
         }
     ],
-    "updated_at": "2026-06-03 11:10:42"
+    "updated_at": "2026-06-17 11:25:00"
 }
