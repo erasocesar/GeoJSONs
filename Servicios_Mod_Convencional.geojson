@@ -7,7 +7,7 @@
         },
         "Descripcion_del_Servicio": {
             "type": "String",
-            "length": 2000
+            "length": 3000
         },
         "Partner": {
             "type": "String",
@@ -325,7 +325,7 @@
                 ]
             },
             "properties": {
-                "Nombre_del_Servicio": "LearnBot",
+                "Nombre_del_Servicio": "Implementación de LearnBot™ — Capacitador Inteligente",
                 "Descripcion_del_Servicio": "LearnBot es un servicio combinado de IA Educativo que integra y combina multiples servicios de IA para crear agentes de IA especializados en entrenamiento, evaluación y retroalimentación de usuarios en cualquier tema. Disponible en modalidades convencional o por demanda, está diseñado para academias virtuales de empresas, universidades y centros educativos, optimizando procesos de aprendizaje mediante automatización inteligente y personalización adaptativa.",
                 "Partner": "No Aplica",
                 "Visualizado_por_Demanda": "Si",
@@ -345,7 +345,7 @@
                 ]
             },
             "properties": {
-                "Nombre_del_Servicio": "AssistantBot",
+                "Nombre_del_Servicio": "Implementación de AssistantBot",
                 "Descripcion_del_Servicio": "AssistantBot es un servicio combinado de IA que integra y combina múltiples servicios de IA para crear agentes de IA especializados ser asistentes personales de gerentes, junta directiva, ingenieros o consultores que requieran un asistente personal que envie correos, envie recordatorios de reuniones, controle otros IsaBots, genere reportes, agende reuniones, cargue información de gastos y muchas otras actividades más.",
                 "Partner": "No Aplica",
                 "Visualizado_por_Demanda": "Si",
@@ -365,7 +365,7 @@
                 ]
             },
             "properties": {
-                "Nombre_del_Servicio": "ArcGIS OperationalBot",
+                "Nombre_del_Servicio": "Implementación de ArcGIS OperationalBot",
                 "Descripcion_del_Servicio": "ArcGIS Operational Bot es un servicio combinado de IA que integra y combina múltiples servicios de IA para crear agentes de IA especializados en operar distintas aplicaciones de ArcGIS por medio de la voz o un chat, por ahora se ofrecerían las siguientes funcionalidades de ArcGIS: Operar Mapas de Visores de ArcGIS, Manejar formularios de ArcGIS Survey123, ArcGIS Field Maps, Proyectos de Mapa en ArcGIS Pro.",
                 "Partner": "No Aplica",
                 "Visualizado_por_Demanda": "Si",
@@ -374,7 +374,87 @@
                 "Link_informacion": "No tiene Link aun",
                 "Entregables": "1. Diagrama del Bot\r\n2. Documentación de funcionalidades del Bot.\r\n3. Tutorial de Uso del Bot\r\n4. Documentación de configuraciones y licenciamiento implementado en los servidores del cliente."
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_del_Servicio": "Portal Comercial Operativo™",
+                "Descripcion_del_Servicio": "El objetivo de este servicio es centralizar y profesionalizar la operación comercial de la organización mediante una plataforma multiusuario que consolide prospectos, clientes, actividades, oportunidades y métricas comerciales en una única fuente de información confiable, permitiendo escalar la gestión de ventas con mayor control, trazabilidad y eficiencia operativa. El servicio consiste en la migración de la operación comercial desde herramientas básicas basadas en hojas de cálculo hacia una plataforma centralizada soportada por PostgreSQL o Supabase. La solución incorpora gestión de prospectos, oportunidades, actividades comerciales, dashboards ejecutivos, roles de usuario, permisos y capacidades de monitoreo operacional. Además, permite la integración con formularios web, CRM, procesos comerciales y futuras automatizaciones, estableciendo la base tecnológica necesaria para evolucionar posteriormente hacia un Centro de Operaciones Human + AI™.",
+                "Partner": "Hokma Technologies",
+                "Visualizado_por_Demanda": "No",
+                "Departamento_IsaGIS": "Servicios IA",
+                "Sinonimos": "CRM",
+                "Link_informacion": "No tiene Link aun",
+                "Entregables": "✓ Migración de Base de Datos Comercial: Conversión de la información desde Google Sheets hacia PostgreSQL o Supabase.\r\n✓ Plataforma Comercial Multiusuario: Portal centralizado para la gestión operativa del equipo comercial.\r\n✓ Dashboard Ejecutivo: Panel de monitoreo con indicadores operativos y comerciales.\r\n✓ Módulo de Prospectos y Oportunidades: Gestión estructurada del pipeline comercial.\r\n✓ Módulo de Actividades Comerciales: Registro y seguimiento de tareas, llamadas, reuniones y actividades de ventas.\r\n✓ Gestión de Roles y Permisos: Configuración de perfiles de acceso según funciones organizacionales.\r\n✓ Integración con Formularios y Canales de Captura: Conexión con fuentes de generación de prospectos.\r\n✓ Capacitación Operativa: Entrenamiento básico para administradores y usuarios del portal.\r\n✓ Documentación Técnica y Funcional: Guía de administración y operación de la plataforma."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_del_Servicio": "Implementación de Marketing Bot™ en la Infraestructura del Cliente",
+                "Descripcion_del_Servicio": "Implementación de Marketing Bot despliega, dentro de la infraestructura tecnológica del cliente, un agente de inteligencia artificial que automatiza el ciclo de marketing digital: selección estratégica de productos o servicios, generación de contenido (videos, imágenes, carruseles y copys) alineado con la identidad de marca, creación y publicación de campañas pagadas en Meta (Facebook e Instagram), publicación orgánica en YouTube, TikTok y LinkedIn, además del monitoreo y optimización continua de resultados.\n\nEl bot funciona como un asistente conversacional (Telegram u otro canal) basado en un orquestador de flujos (n8n) instalado en la infraestructura del cliente, un motor de IA (Claude o GPT), una base de datos de memoria persistente (Postgres o Supabase) para conservar el historial de campañas y aprendizaje continuo, un módulo de generación de contenido con IA y conexiones directas con las APIs oficiales de Meta, YouTube, TikTok y LinkedIn.\n\nLa solución es de uso exclusivo del cliente y está diseñada para gestionar únicamente sus propias actividades de mercadeo y ventas, sin administrar campañas o catálogos de terceros. Se ofrece en tres niveles de automatización: Starter, con aprobación manual antes de cada publicación; Growth, con publicación automática una vez aprobado el presupuesto; y Enterprise, que incorpora optimización autónoma, redistribución de presupuesto, pausas automáticas y reportes ejecutivos. Todos los niveles incluyen puntos de aprobación humana configurables para garantizar el control sobre el contenido publicado y la inversión publicitaria.\n\nPrerrequisitos del cliente: disponer de un servidor o VPS propio para alojar n8n, una cuenta de Meta Business con permisos y APIs habilitadas, cuentas administradoras en YouTube, TikTok y/o LinkedIn (según las plataformas a utilizar), presupuesto para pauta publicitaria, licencia o API Key del modelo de IA seleccionado (Claude o GPT), un canal de aprobación (Telegram, Slack o correo), los activos de marca (catálogo, identidad visual y lineamientos de comunicación) y un responsable del equipo de mercadeo o ventas que supervise las aprobaciones del bot.",
+                "Partner": "No Aplica",
+                "Visualizado_por_Demanda": "No",
+                "Departamento_IsaGIS": "Servicios IA",
+                "Sinonimos": "1. Despliegue de Agente de Marketing con Inteligencia Artificial en Infraestructura del Cliente\r\n2. Automatización de Mercadeo y Publicidad Digital con Bot de IA On-Premise\r\n3. Implementación de Asistente Virtual de Marketing y Gestión de Campañas Digitales\r\n4. Bot de Marketing Automatizado con IA para Redes Sociales y Pauta Digital",
+                "Link_informacion": "No tiene Link aun",
+                "Entregables": "1. **Infraestructura desplegada y operativa:** instancia de n8n instalada, configurada y en ejecución 24/7 sobre el servidor/VPS del cliente, con el workflow principal del agente de marketing.\r\n2. **Agente de IA configurado:** nodo AI Agent conectado al motor LLM del cliente (Claude o GPT), con prompt de sistema personalizado que incorpora el catálogo de productos/servicios, la identidad de marca y el tono definido por el cliente.\r\n3. **Base de datos de memoria persistente:** esquema desplegado en Postgres/Supabase del cliente, con tablas de catálogo propio, histórico de campañas y resultados, y log de costos/uso de las APIs pagas consumidas (imagen, video, TTS, LLM, Meta Ads).\r\n4. **Set de herramientas (tools) documentadas y probadas**, habilitadas según el nivel contratado: `seleccionar_servicio`, `proponer_formato`, `generar_contenido`, `crear_campaña_meta`, `publicar_creativo`, `monitorear_metricas`, `auto_pausar_bajo_rendimiento`, `redistribuir_presupuesto`, `reporte_semanal_ejecutivo`.\r\n5. **Integración con Meta Marketing API y Meta/Instagram Graph API** configurada sobre la cuenta publicitaria del cliente: creación y gestión de campañas, conjuntos de anuncios y anuncios; publicación de creativos (video/carrusel/post).\r\n6. **Módulo de generación de contenido con IA** integrado (imagen, video y copy), con modelo de imagen por defecto costo-eficiente (Nano Banana), respetando la identidad visual del cliente.\r\n7. **Integración con APIs de publicación orgánica** (YouTube Data API, TikTok Content Posting API, LinkedIn API) para las plataformas que el cliente decida activar, sin pauta pagada asociada.\r\n8. **Módulo de aprobación humana configurado** (Telegram/Slack/correo del cliente) con flujo de aprobación de contenido y de presupuesto antes de publicar o gastar.\r\n9. **Configuración del nivel de automatización contratado** (Starter / Growth / Enterprise), con habilitación condicional de herramientas según nivel.\r\n10. **Documentación técnica de la implementación:** "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_del_Servicio": "Implementacion de Operational Bot™ — Procesos Internos IA",
+                "Descripcion_del_Servicio": "El objetivo del Operational Bot es Automatizar tareas operativas repetitivas y procesos administrativos internos para incrementar la eficiencia organizacional, reducir errores y liberar tiempo del equipo para actividades de mayor valor. Agente IA enfocado en la ejecución automática de actividades operativas, generación de reportes, seguimiento de tareas, notificaciones y procesos administrativos definidos durante el análisis de procesos internos realizado en el Plan Maestro. Este se implementaria en la insfraestructura del cliente y usando el licenciamiento del cliente.",
+                "Partner": "No Aplica",
+                "Visualizado_por_Demanda": "No",
+                "Departamento_IsaGIS": "Servicios IA",
+                "Sinonimos": "Bot de procesos Internos, Agente de Procesos Internos",
+                "Link_informacion": "No tiene Link aun",
+                "Entregables": "✓ Operational Bot configurado.\r\n✓ Automatización de procesos administrativos.\r\n✓ Automatización de reportes operativos.\r\n✓ Automatización de seguimiento interno.\r\n✓ Flujos de aprobación configurados.\r\n✓ Alertas automáticas operativas.\r\n✓ Dashboard de monitoreo operacional.\r\n✓ Integración con Portal Comercial Operativo™.\r\n✓ Documentación y capacitación."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nombre_del_Servicio": "Integración Human + AI al Portal Comercial Operativo™",
+                "Descripcion_del_Servicio": "EL objetivo de este servicio es integrar los agentes inteligentes y el equipo humano sobre una única plataforma operativa, permitiendo compartir contexto, datos, historial y conocimiento para construir un Centro de Operaciones Human + AI™ escalable y trazable. Servicio de integración que conecta SaleBot, Marketing Bot, LearnBot y Operational Bot al Portal Comercial Operativo™, permitiendo que todos operen sobre la misma base de conocimiento generada por el Plan Maestro. Incluye sincronización de datos, trazabilidad, permisos, historial compartido y dashboards consolidados para crear un ecosistema Human + AI completamente integrado. Se deben haber implementado los siguientes Agentes de IA: - SaleBot Omnicanal™\r\n- Marketing Bot™\r\n- LearnBot™\r\n- Operational Bot™\r\n- Portal Comercial Operativo™",
+                "Partner": "No Aplica",
+                "Visualizado_por_Demanda": "No",
+                "Departamento_IsaGIS": "Servicios IA",
+                "Sinonimos": "CRM Operado por humanos e IA",
+                "Link_informacion": "No tiene Link aun",
+                "Entregables": "✓ Integración de SaleBot al Portal Comercial Operativo™.\r\n✓ Integración de Marketing Bot al Portal Comercial Operativo™.\r\n✓ Integración de LearnBot al Portal Comercial Operativo™.\r\n✓ Integración de Operational Bot al Portal Comercial Operativo™.\r\n✓ Modelo unificado de datos.\r\n✓ Gestión de permisos y trazabilidad.\r\n✓ Historial compartido entre humanos y agentes IA.\r\n✓ Dashboard Human + AI.\r\n✓ Capacitación administrativa avanzada.\r\n✓ Documentación de arquitectura operativa."
+            }
         }
     ],
-    "updated_at": "2026-06-17 18:12:15"
+    "updated_at": "2026-07-17 18:25:15"
 }
