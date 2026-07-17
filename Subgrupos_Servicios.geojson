@@ -1202,7 +1202,39 @@
                 "topK": 24,
                 "Filtro": "Subgrupo:Consultoría Estratégica"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Presencia Digital",
+                "Sinonimos_Subgrupo": "Redes Sociales; redes sociales;",
+                "topK": 24,
+                "Filtro": "Subgrupo:Presencia Digital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Subgrupo": "Ventas",
+                "Sinonimos_Subgrupo": "Embudo de Ventas; Monitoreo de Ventas;  Optimizacion de Ventas",
+                "topK": 24,
+                "Filtro": "Subgrupo:Ventas"
+            }
         }
     ],
-    "updated_at": "2026-06-17 18:12:17"
+    "updated_at": "2026-07-17 18:25:16"
 }
