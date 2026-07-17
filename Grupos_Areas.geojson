@@ -481,7 +481,24 @@
                 "Filtro": "Grupo:AI Platforms",
                 "Area_IsaGIS_Technologies": "Servicios de IA"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Grupo": "Scrapping",
+                "Sinonimos_Grupo": "busqueda masiva usando internet; base de datos",
+                "topK": 10,
+                "Filtro": "Grupo:Scrapping",
+                "Area_IsaGIS_Technologies": "Servicios de IA"
+            }
         }
     ],
-    "updated_at": "2026-06-17 18:12:09"
+    "updated_at": "2026-07-17 18:25:09"
 }
