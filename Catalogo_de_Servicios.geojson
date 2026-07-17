@@ -4888,21 +4888,21 @@
                 "Subgrupo": "Mercadeo",
                 "Nombre_del_Servicio": "Videos Promocionales",
                 "Clasificación": "Servicio Avanzado",
-                "Descripción_Técnica_del_Servicio": "Este servicio crea videos promocionales para presentaciones, Story Maps, aplicaciones web inmersivas o actividades de mercadeo, utilizando inteligencia artificial, tecnología SIG de Esri y recursos propios de IsaGIS (drones y proyectos de ingeniería). El video tendrá una duración máxima de 2 minutos; videos más largos se cotizan proporcionalmente. El contenido, imágenes, temática, guion y narración deben ser proporcionados por el cliente o solicitados como servicios adicionales, se pudiera integrar el video con un avatar. pero tambien se debe solicitar adicionalmente la creación del avatar.",
-                "Detalles_Costo_Base": "1 Servicio SIG Intermedio (para un video promocional de hasta 2 minutos; se ajusta proporcionalmente para duraciones mayores).",
+                "Descripción_Técnica_del_Servicio": "Este servicio crea videos promocionales para presentaciones, Story Maps, aplicaciones web inmersivas o actividades de mercadeo, utilizando inteligencia artificial, tecnología SIG de Esri y recursos propios de IsaGIS (drones y proyectos de ingeniería). El video tendrá una duración máxima de 1,2 minutos; videos más largos se cotizan proporcionalmente. El contenido, imágenes, temática, guion y narración deben ser proporcionados por el cliente o solicitados como servicios adicionales, se pudiera integrar el video con un avatar. pero tambien se debe solicitar adicionalmente la creación del avatar.",
+                "Detalles_Costo_Base": "1 Servicio SIG Basico (para un video promocional de hasta 1,2 minutos; se ajusta proporcionalmente para duraciones mayores).",
                 "Notas_Adicionales": "El cliente debe entregar una descripción del video, imágenes, temática, contenido, guion y narración, o solicitar servicios complementarios en caso de faltar alguno de estos elementos.",
                 "Tiempo__Dias_habiles_": "5",
-                "Tiempos_de_entrega": "1 - 2 semanas",
+                "Tiempos_de_entrega": "1 semana",
                 "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
                 "URL_con_información_adicional": "",
-                "Basicos": 0.0,
-                "Intermedios": 1.0,
+                "Basicos": 1.0,
+                "Intermedios": 0.0,
                 "Avanzados": 0.0,
-                "Pregunta": "",
+                "Pregunta": "Cuantos Videos desea y cual es la duracion?",
                 "Factor_Corrección": 1.0,
                 "Codig_Nuevo": 158,
                 "micro_guion_es": "En IsaGIS, creamos videos promocionales impactantes de hasta 2 minutos, utilizando inteligencia artificial y tecnología SIG de Esri. Con la ayuda de nuestros drones y recursos de ingeniería, transformamos tus ideas en imágenes cautivadoras. El resultado: un video que destaca tu mensaje y atrae a tu audiencia. ¿Listos para llevar su presentación al siguiente nivel?",
-                "Descripcion_Tecnica_Corta": "Se crean videos promocionales de hasta 2 minutos utilizando IA y tecnología SIG de Esri. El cliente proporciona contenido o solicita servicios adicionales, como la creación de un avatar."
+                "Descripcion_Tecnica_Corta": "Se crean videos promocionales de hasta 1,2 minutos utilizando IA y tecnología SIG de Esri. El cliente proporciona contenido o solicita servicios adicionales, como la creación de un avatar."
             }
         },
         {
@@ -8435,7 +8435,304 @@
                 "micro_guion_es": "Diseñamos una hoja de ruta de transformación empresarial con IA para priorizar inversiones, automatización, eficiencia operativa y crecimiento sostenible a nivel corporativo.",
                 "Descripcion_Tecnica_Corta": "Consultoría estratégica de transformación empresarial con IA para organizaciones Enterprise que genera un ADN Corporativo, una arquitectura tecnológica recomendada y una hoja de ruta para automatizaci"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 283,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "IA Generativa",
+                "Subgrupo": "Presentacia Digital",
+                "Nombre_del_Servicio": "Optimización de Cuentas de Redes Sociales",
+                "Clasificación": "Servicio por Demanda",
+                "Descripción_Técnica_del_Servicio": "Revisión y optimización de perfiles sociales mediante actualización de biografía, propuesta única de valor (USP), definición de nicho, organización de highlights y alineación visual con la identidad de marca. Los entregables del servicio son: Bio optimizada, USP definida, nicho documentado, highlights reorganizados, configuración visual actualizada y lineamientos de uso.",
+                "Detalles_Costo_Base": "1 unidades Básica cubre la ejecución completa del servicio por cada red social que el cliente desee optimizar.",
+                "Notas_Adicionales": "El cliente debe haber ejecutado cualquiera de estos servicios: Master Plan de Crecimiento con IA™ – Start, Master Plan de Crecimiento con IA™ – Business o Master Plan de Crecimiento con IA™ – Enterprise, debido a que se requiere el ADN del Cliente, entregable de cualquiera de estos servicios.",
+                "Tiempo__Dias_habiles_": "5",
+                "Tiempos_de_entrega": "1 semana",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 1.0,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "¿Cuántos cuentas de Redes Sociales desea optimizar?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "La cuenta comunica claramente su propuesta de valor, facilita la comprensión del negocio y mejora la conversión de visitantes en prospectos. Que esperas solicita ya la optimizacion de red social usando tu documento ADN del Cliente.",
+                "Descripcion_Tecnica_Corta": "Optimización de perfiles sociales mediante mejora de bio, USP, nicho, imagen de marca y estructura de contenidos."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 284,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "IA Generativa",
+                "Subgrupo": "Mercadeo",
+                "Nombre_del_Servicio": "Kit Inicial de Reels Estratégicos™",
+                "Clasificación": "Servicio por Demanda",
+                "Descripción_Técnica_del_Servicio": "El objetivo de este servicio es: transformar el ADN del Cliente y los Buyer Personas en contenido estratégico para posicionamiento, autoridad y generación de oportunidades comerciales mediante reels para redes sociales. y se logra usando una metodología asistida por IA para generar una biblioteca de guiones estratégicos alineados a la propuesta de valor del negocio y producir reels optimizados para Instagram y Facebook. Entregables: Biblioteca de 10 a 15 guiones estratégicos, selección de 3 contenidos prioritarios, producción de 3 reels verticales optimizados y archivos finales para publicación.",
+                "Detalles_Costo_Base": "3 unidades Básicas cubren la ejecusion del servicio. Se tendrian los sigueintes entregables: Biblioteca de 10 a 15 guiones estratégicos, selección de 3 contenidos prioritarios, producción de 3 reels verticales optimizados y archivos finales para publicación.",
+                "Notas_Adicionales": "El cliente debe haber ejecutado cualquiera de estos servicios: Master Plan de Crecimiento con IA™ – Start, Master Plan de Crecimiento con IA™ – Business o Master Plan de Crecimiento con IA™ – Enterprise, debido a que se requiere el ADN del Cliente, entregable de cualquiera de estos servicios.",
+                "Tiempo__Dias_habiles_": "5",
+                "Tiempos_de_entrega": "1 semana",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 3.0,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "¿Cuántos Kit estrategicos desea?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "Con este servicio la organización obtiene contenido alineado a su estrategia comercial que fortalece la presencia digital y mejora la atracción de audiencia calificada.",
+                "Descripcion_Tecnica_Corta": "Este servicio se ejecuta con el uso de una metodología basada en IA para crear guiones estratégicos y producir reels alineados con la propuesta de valor."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 285,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "AI Platforms",
+                "Subgrupo": "Ventas",
+                "Nombre_del_Servicio": "CRM Comercial Básico Integrado a Google Sheets",
+                "Clasificación": "Servicio por Demanda",
+                "Descripción_Técnica_del_Servicio": "El objetivo de este servicios es: Implementar un sistema básico de gestión comercial que permita registrar, organizar y realizar seguimiento a prospectos y clientes potenciales. El objetivo se logra mediante la configuración de un CRM basado en Google Sheets con estados comerciales, seguimiento de prospectos, registro de interacciones y protocolo básico de gestión comercial alineado al proceso de ventas definido. Entregables: CRM configurado, estados comerciales definidos, protocolo de seguimiento, estructura de datos y guía básica de uso.",
+                "Detalles_Costo_Base": "2 unidades Básicas cubren la ejecusion del servicio. ",
+                "Notas_Adicionales": "El cliente debe haber ejecutado cualquiera de estos servicios: Master Plan de Crecimiento con IA™ – Start, Master Plan de Crecimiento con IA™ – Business o Master Plan de Crecimiento con IA™ – Enterprise, debido a que se requiere el ADN del Cliente, entregable de cualquiera de estos servicios.",
+                "Tiempo__Dias_habiles_": "5",
+                "Tiempos_de_entrega": "1 semana",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 2.0,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "Con este servicio La organización dispone de un sistema centralizado para gestionar oportunidades comerciales, reducir pérdidas de prospectos y mejorar el seguimiento de ventas.",
+                "Descripcion_Tecnica_Corta": "Configuración de un CRM en Google Sheets para registrar prospectos, controlar estados comerciales y realizar seguimiento."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 286,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "IA Generativa",
+                "Subgrupo": "Presentacia Digital",
+                "Nombre_del_Servicio": "Web Page GEO (Generative Engine Optimization)",
+                "Clasificación": "Servicio por Demanda",
+                "Descripción_Técnica_del_Servicio": "El objetivo primordial de Web Page GEO es posicionar su marca como la fuente de autoridad definitiva para las arquitecturas de inteligencia artificial generativa. Buscamos que, cuando un usuario realice una consulta compleja, los modelos de lenguaje más avanzados reconozcan su sitio web como la respuesta experta, logrando que su empresa sea recomendada de manera directa y orgánica por estos ecosistemas. En la era de la búsqueda generativa, aparecer en los primeros resultados de búsqueda ya no es suficiente; ahora es vital ser la fuente de datos que alimenta a la inteligencia artificial. Nuestro servicio de Web Page GEO transforma su presencia digital mediante un proceso de optimización técnica y de contenido diseñado específicamente para motores generativos. El proceso comienza con una investigación profunda de la demanda conversacional, identificando exactamente qué preguntas están planteando los usuarios dentro de los entornos de IA en relación con su sector. Posteriormente, desarrollamos contenido de alta autoridad que responde a estas inquietudes con un nivel de detalle que los sistemas de procesamiento de lenguaje valoran como óptimo. La parte técnica consiste en una arquitectura de datos estructurados. Convertimos el contenido experto en fragmentos de código especializado que los sistemas inteligentes pueden leer y categorizar sin ambigüedades. Finalmente, realizamos una sincronización y validación con los principales centros de indexación, asegurando que la identidad de su marca y sus soluciones queden registradas para los motores generativos.",
+                "Detalles_Costo_Base": "2 unidades Básicas cubren la ejecusion del servicio. ",
+                "Notas_Adicionales": "El cliente debe haber ejecutado el servicio de generacion de Pagina Web o tener su pagina web activa. ✓ Matriz de Consultas Generativas Prioritarias: Documento con las preguntas y consultas reales que los usuarios realizan en motores generativos relacionadas con los servicios de la empresa.\r\n✓ Banco de Preguntas y Respuestas GEO: Conjunto de preguntas y respuestas optimizadas para posicionar la empresa como fuente de autoridad ante motores generativos.\r\n✓ Implementación de FAQ Schema Markup (JSON-LD): Código estructurado implementado en las páginas seleccionadas del sitio web para facilitar la comprensión del contenido por parte de motores de IA y búsqueda.\r\n✓ Páginas Web GEO Optimizadas:  Páginas del sitio actualizadas con contenido y estructura orientados a mejorar su interpretación por motores generativos.\r\n✓ Reporte de Implementación GEO: Documento que evidencia las optimizaciones realizadas, páginas intervenidas y elementos GEO implementados.\r\n✓ Reporte de Validación e Indexación: Reporte de validación técnica del marcado estructurado y evidencias de sincronización con Google Search Console.",
+                "Tiempo__Dias_habiles_": "5",
+                "Tiempos_de_entrega": "1 semana",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 2.0,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "✓ La organización dispone de una arquitectura GEO implementada que mejora la comprensión de sus servicios por parte de motores generativos y motores de búsqueda. \r\n✓ Las páginas optimizadas incrementan significativamente la probabilidad de que la empresa sea reconocida como una fuente de autoridad dentro de su sector. \r\n✓ Dependiendo de la autoridad del dominio, frecuencia de rastreo e indexación de cada plataforma, los primeros indicios de reconocimiento, citación o recomendación por parte de G",
+                "Descripcion_Tecnica_Corta": "Optimización técnica y de contenido para que ChatGPT, Gemini, Claude y otros motores generativos identifiquen y recomienden la empresa. "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 827,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "Scrapping",
+                "Subgrupo": "Mercadeo",
+                "Nombre_del_Servicio": "Base de Datos Comercial Inteligente™",
+                "Clasificación": "Servicio por Demanda",
+                "Descripción_Técnica_del_Servicio": "El objetivo es Construir una base de datos comercial inteligente que permita identificar, segmentar y georreferenciar prospectos potenciales, proporcionando información estructurada y accionable para el desarrollo de estrategias de marketing, prospección y ventas basadas en datos reales del mercado objetivo. El servicio utiliza tecnologías de scraping automatizado, inteligencia artificial y procesos de depuración avanzada para identificar empresas y prospectos potenciales desde fuentes públicas como Google Maps, directorios empresariales, redes sociales y sitios web especializados. La información recopilada es enriquecida, depurada, georreferenciada y segmentada según criterios comerciales previamente definidos, generando una base de datos estructurada y lista para ser utilizada en procesos de mercadeo, prospección comercial y automatización.",
+                "Detalles_Costo_Base": "1 unidad intermendia cubre la ejecusion del servicio",
+                "Notas_Adicionales": "El cliente debe haber ejecutado cualquiera de estos servicios: Master Plan de Crecimiento con IA™ – Start, Master Plan de Crecimiento con IA™ – Business o Master Plan de Crecimiento con IA™ – Enterprise, debido a que se requiere el ADN del Cliente, entregable de cualquiera de estos servicios. ✓ Base de Datos Comercial Estructurada: Archivo Excel o Google Sheets con la información consolidada de prospectos potenciales.\r\n✓ Registros Depurados: Eliminación de duplicados, inconsistencias y datos incompletos.\r\n✓ Georreferenciación de Prospectos: Inclusión de coordenadas o enlaces geográficos para análisis territorial y planificación comercial.\r\n✓ Segmentación Comercial: Clasificación de registros según tipo de cliente, sector, tamaño o criterios definidos.\r\n✓ Diccionario de Datos: Documento con la descripción de los campos entregados y estructura de la base de datos.\r\n✓ Reporte de Cobertura del Mercado: Resumen del alcance geográfico y comercial obtenido durante el proceso de recopilación.",
+                "Tiempo__Dias_habiles_": "10",
+                "Tiempos_de_entrega": "2 semanas",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 0.0,
+                "Intermedios": 1.0,
+                "Avanzados": 0.0,
+                "Pregunta": "",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "Base comercial inteligente lista para acelerar campañas de marketing, prospección y ventas.",
+                "Descripcion_Tecnica_Corta": "Identificación, enriquecimiento y segmentación de prospectos mediante IA para construir una base comercial accionable."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 288,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "IA Generativa",
+                "Subgrupo": "Ventas",
+                "Nombre_del_Servicio": "Estrategia de Activación Comercial™",
+                "Clasificación": "Servicio por Demanda",
+                "Descripción_Técnica_del_Servicio": "El objetivo es Diseñar una estrategia de contacto estructurada que permita activar la base de prospectos mediante mensajes personalizados, canales adecuados y secuencias comerciales orientadas a maximizar la generación de conversaciones y oportunidades de negocio. El servicio transforma la información de la base de datos comercial en una estrategia práctica de activación, definiendo segmentos prioritarios, canales de comunicación recomendados y mensajes adaptados a cada perfil de cliente. Se desarrollan guiones de contacto, secuencias de seguimiento, manejo de objeciones y matrices de activación comercial que permiten ejecutar campañas de prospección de manera consistente y escalable.",
+                "Detalles_Costo_Base": "0,5 unidades basicas por cada segmento",
+                "Notas_Adicionales": "El cliente debe tener una base de datos comercial y segmentacion de sus clientes, si no debe ejecutar el servicio Base de Datos Comercial Inteligente™. ✓ Segmentación Comercial Validada: Clasificación final de prospectos según perfiles y prioridades comerciales.\r\n✓ Matriz Segmento × Canal × Mensaje: Documento estratégico con los canales y mensajes recomendados para cada segmento.\r\n✓ Biblioteca de Guiones Comerciales: Guiones personalizados para WhatsApp, correo electrónico, Instagram u otros canales definidos.\r\n✓ Secuencias de Seguimiento: Definición de pasos, tiempos y mensajes para el seguimiento comercial.\r\n✓ Guía de Manejo de Objeciones: Respuestas sugeridas para las objeciones más frecuentes durante el proceso comercial.\r\n✓ Documento de Estrategia de Activación Comercial: Consolidado metodológico para la ejecución de campañas de contacto.",
+                "Tiempo__Dias_habiles_": "5",
+                "Tiempos_de_entrega": "1 semana",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 0.5,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "Cuantos Segmentos tiene su Base de datos comercial?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "Logros con este servicio: ✓ Mayor Tasa de Contacto Efectivo: Los mensajes se adaptan mejor a cada segmento de prospectos.✓ Comunicación Comercial Estandarizada: El equipo utiliza criterios y mensajes consistentes en todos los canales.✓ Incremento de Conversaciones Comerciales: Se generan más oportunidades de interacción con prospectos calificados.✓ Mejor Gestión del Seguimiento: Los procesos comerciales cuentan con una estructura clara para el avance de oportunidades.✓ Preparación para Automatiz",
+                "Descripcion_Tecnica_Corta": "Diseño de estrategias, guiones y secuencias comerciales para activar prospectos por canal y segmento."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 289,
+                "Area_IsaGIS_Technologies": "Servicios SIG",
+                "Grupo": "Configuración de Aplicaciones",
+                "Subgrupo": "Ventas",
+                "Nombre_del_Servicio": "Dashboard GIS de Prospección™",
+                "Clasificación": "Servicio por Demanda",
+                "Descripción_Técnica_del_Servicio": "El objetivo es proporcionar una plataforma geoespacial de monitoreo comercial que permita visualizar, analizar y gestionar en tiempo real el estado de los prospectos, oportunidades y actividades comerciales, facilitando la toma de decisiones basada en datos territoriales y operacionales. El servicio consiste en el diseño e implementación de un dashboard geoespacial interactivo que integra la base de datos comercial de prospectos con capacidades de análisis GIS. La solución permite visualizar prospectos sobre mapas inteligentes, analizar cobertura territorial, monitorear estados comerciales, identificar zonas de mayor potencial, evaluar resultados por segmento y facilitar la gestión operativa de campañas de prospección. El dashboard puede implementarse utilizando tecnologías como ArcGIS Online, Experience Builder, Dashboards o plataformas equivalentes según los requerimientos del proyecto.",
+                "Detalles_Costo_Base": "1 unidad intermendia cubre la ejecusion del servicio",
+                "Notas_Adicionales": "El cliente debe tener una base de datos comercial y segmentacion de sus clientes, si no debe ejecutar el servicio Base de Datos Comercial Inteligente™.  Los entregables son: ✓ Dashboard GIS Configurado: Plataforma operativa para visualización y análisis de prospectos y oportunidades comerciales.\r\n✓ Mapa Interactivo de Prospectos: Visualización geográfica de clientes potenciales, segmentos y oportunidades.\r\n✓ Indicadores Comerciales Integrados: Métricas operativas relacionadas con prospectos, contactos y seguimiento comercial.\r\n✓ Filtros de Segmentación: Herramientas para analizar información por zona, segmento, canal o estado comercial.\r\n✓ Reporte de Cobertura Comercial: Análisis territorial de la presencia y oportunidades identificadas.\r\n✓ Manual Básico de Uso: Guía para consulta, navegación y aprovechamiento del dashboard.",
+                "Tiempo__Dias_habiles_": "5",
+                "Tiempos_de_entrega": "1 semana",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 0.0,
+                "Intermedios": 1.0,
+                "Avanzados": 0.0,
+                "Pregunta": "Cuantos tables de control desea implementar?",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "Con este servicio se puede: ✓ Mayor Visibilidad Comercial: La organización obtiene una visión integral de sus prospectos y oportunidades sobre el territorio.\r\n✓ Mejor Priorización de Esfuerzos Comerciales: Los equipos identifican zonas y segmentos con mayor potencial de negocio.\r\n✓ Toma de Decisiones Basada en Datos: La información comercial se transforma en conocimiento accionable para ventas.\r\n✓ Seguimiento Operacional Centralizado: El estado de prospectos y actividades puede consultarse desde",
+                "Descripcion_Tecnica_Corta": "Dashboard GIS interactivo para monitorear prospectos, actividades comerciales y oportunidades sobre mapas inteligentes."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 290,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "IA Generativa",
+                "Subgrupo": "Mercadeo",
+                "Nombre_del_Servicio": "Biblioteca de Reels Estratégicos IA™ (30 Días)",
+                "Clasificación": "Servicio por Demanda",
+                "Descripción_Técnica_del_Servicio": "El objetivo de este servicio es Diseñar y producir una biblioteca mensual de contenido en formato Reel alineada al nicho, propuesta de valor y objetivos comerciales de la organización, permitiendo incrementar la visibilidad digital, fortalecer el posicionamiento de marca y generar oportunidades de negocio mediante contenido estratégico optimizado para redes sociales.. El servicio utiliza un sistema automatizado basado en inteligencia artificial para analizar referentes del mercado, identificar oportunidades de contenido, generar ideas, desarrollar guiones optimizados y producir videos cortos orientados a maximizar alcance, interacción y generación de prospectos. La metodología incorpora análisis competitivo, generación de variaciones de hooks, planificación editorial y optimización de llamadas a la acción para construir una biblioteca mensual de contenido lista para publicación en Instagram Reels.",
+                "Detalles_Costo_Base": "1 unidad basica y 1 unidad intermedia cubre la ejecusion de este servicio",
+                "Notas_Adicionales": "El cliente debe haber ejecutado cualquiera de estos servicios: Master Plan de Crecimiento con IA™ – Start, Master Plan de Crecimiento con IA™ – Business o Master Plan de Crecimiento con IA™ – Enterprise, debido a que se requiere el ADN del Cliente, entregable de cualquiera de estos servicios. Los entregables de este servicio son: ✓ 12 Reels Verticales Finales: Videos editados y optimizados para publicación en Instagram Reels.\r\n✓ Guiones Finales de Producción: Documentación de los guiones utilizados para la creación de los 12 Reels entregados.\r\n✓ Calendario Editorial de 30 Días: Plan de publicación con fechas, secuencia y recomendaciones de distribución del contenido durante el mes.\r\n✓ Recomendaciones de Publicación: Guía de buenas prácticas para maximizar alcance, interacción y resultados de los contenidos entregados.",
+                "Tiempo__Dias_habiles_": "10",
+                "Tiempos_de_entrega": "2 semanas",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 1.0,
+                "Intermedios": 1.0,
+                "Avanzados": 0.0,
+                "Pregunta": "",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "Con este servicio se logra: ✓ Presencia Digital Activa: La organización mantiene una frecuencia constante de publicación durante todo el mes.\r\n✓ Incremento de Visibilidad: El contenido aumenta las oportunidades de ser descubierto por audiencias relevantes dentro del nicho objetivo.\r\n✓ Mayor Autoridad de Marca: La empresa fortalece su posicionamiento como referente mediante contenido educativo y estratégico.\r\n✓ Generación de Interacciones: Los contenidos facilitan conversaciones, consultas y acer",
+                "Descripcion_Tecnica_Corta": "Producción asistida por IA de Reels estratégicos optimizados para visibilidad, autoridad y generación de prospectos."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 291,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "IA Generativa",
+                "Subgrupo": "Presencia Digital",
+                "Nombre_del_Servicio": "Optimización SEO & GEO Avanzada™",
+                "Clasificación": "Servicio por Demanda",
+                "Descripción_Técnica_del_Servicio": "EL objetivo de este servicio es implementar mejoras avanzadas de posicionamiento orgánico y optimización para motores generativos basadas en los hallazgos identificados durante la auditoría SEO y GEO, con el fin de aumentar la visibilidad digital, la autoridad temática y la capacidad de la organización para ser encontrada y recomendada tanto por motores de búsqueda tradicionales como por plataformas de inteligencia artificial. El servicio consiste en la ejecución técnica y estratégica de las recomendaciones identificadas durante la auditoría SEO y GEO realizada previamente. Incluye optimización de contenido, mejora de metadatos, fortalecimiento de señales E-E-A-T, implementación y corrección de Schema Markup, optimización para AI Overviews y motores generativos, mejoras de velocidad y experiencia de usuario, fortalecimiento del enlazado interno y optimización de elementos técnicos que impactan el posicionamiento orgánico. La implementación busca mejorar simultáneamente la visibilidad en Google, Bing, AI Overviews, ChatGPT, Gemini, Claude, Perplexity y otros motores de respuesta basados en inteligencia artificial.",
+                "Detalles_Costo_Base": "2 unidades basicas cubren la ejecusión de este servicio",
+                "Notas_Adicionales": "El cliente debe haber ejecutado el servicio Web Page GEO. Los entregables son: ✓ Implementación de Mejoras SEO Técnicas: Corrección de elementos técnicos que afectan el rastreo, indexación y posicionamiento del sitio web.\r\n✓ Optimización de Contenido Estratégico: Mejoras en páginas prioritarias para incrementar relevancia temática y autoridad de contenido.\r\n✓ Optimización de Metadatos: Actualización de títulos, descripciones y elementos clave de indexación.\r\n✓ Implementación y Corrección de Schema Markup: Optimización de datos estructurados para mejorar comprensión por motores de búsqueda e IA.\r\n✓ Optimización GEO para IA: Ajustes orientados a mejorar citabilidad, comprensión semántica y presencia en motores generativos.\r\n✓ Optimización de Experiencia y Rendimiento: Mejoras relacionadas con velocidad, estructura y experiencia de navegación.\r\n✓ Reporte Final de Implementación: Documento consolidado con las mejoras ejecutadas y recomendaciones futuras.",
+                "Tiempo__Dias_habiles_": "20",
+                "Tiempos_de_entrega": "4 semanas",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 2.0,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "✓ Mayor Visibilidad Orgánica: Incremento del potencial de aparición en resultados de búsqueda relacionados con los servicios de la organización.\r\n✓ Mejor Comprensión por Motores de IA: La información del sitio es más fácilmente interpretada y utilizada por plataformas generativas.\r\n✓ Incremento de Autoridad Digital: Fortalecimiento de señales de experiencia, especialización y confianza.\r\n✓ Mayor Potencial de Generación de Tráfico: Incremento de oportunidades de captación de visitantes desde búsq",
+                "Descripcion_Tecnica_Corta": "Implementación de mejoras técnicas y de contenido para fortalecer el posicionamiento en buscadores y motores de IA."
+            }
         }
     ],
-    "updated_at": "2026-06-17 18:12:03"
+    "updated_at": "2026-07-17 18:25:04"
 }
