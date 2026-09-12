@@ -8732,7 +8732,106 @@
                 "micro_guion_es": "✓ Mayor Visibilidad Orgánica: Incremento del potencial de aparición en resultados de búsqueda relacionados con los servicios de la organización.\r\n✓ Mejor Comprensión por Motores de IA: La información del sitio es más fácilmente interpretada y utilizada por plataformas generativas.\r\n✓ Incremento de Autoridad Digital: Fortalecimiento de señales de experiencia, especialización y confianza.\r\n✓ Mayor Potencial de Generación de Tráfico: Incremento de oportunidades de captación de visitantes desde búsq",
                 "Descripcion_Tecnica_Corta": "Implementación de mejoras técnicas y de contenido para fortalecer el posicionamiento en buscadores y motores de IA."
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 292,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "IA Generativa",
+                "Subgrupo": "Presencia Digital",
+                "Nombre_del_Servicio": "Creación de Paginas Web con IA - Starter",
+                "Clasificación": "Servicio por Demanda",
+                "Descripción_Técnica_del_Servicio": "El paquete Starter entrega una landing page inteligente, diseñada para convertir visitantes en clientes desde el primer contacto. Cada sitio se construye con un diseño moderno y 100% responsivo, enfocado en comunicar la propuesta de valor del negocio con claridad y generar confianza inmediata. Incorpora un formulario de contacto inteligente que captura y organiza cada lead, además de integración directa con WhatsApp para que el negocio reciba las conversaciones de sus visitantes en tiempo real, sin fricción. Es el punto de partida ideal para negocios que aún no tienen presencia digital propia y necesitan una vitrina profesional que trabaje para ellos las 24 horas.",
+                "Detalles_Costo_Base": "2 unidades Básicas cubren la ejecución del servicio. ",
+                "Notas_Adicionales": "El cliente debe entregar su logo, información de contacto y contenido base (textos e imágenes) del negocio, o autorizar a IsaGIS a generarlos con IA. \r\n✓ Landing Page de 1 página: diseño moderno, responsivo y enfocado en conversión.\r\n✓ Formulario de Contacto Inteligente: captura organizada de cada visitante interesado.\r\n✓ Integración con WhatsApp: conexión directa entre el visitante y el negocio en tiempo real.\r\n✓ Entrega en 5 a 7 días hábiles.",
+                "Tiempo__Dias_habiles_": "6",
+                "Tiempos_de_entrega": "5 - 7 días",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 2.0,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "En IsaGIS creamos tu Landing Page Inteligente en tiempo récord: un sitio moderno, responsivo y conectado directamente a tu WhatsApp, listo para captar clientes desde el primer día. Es la forma más rápida de pasar de no tener página web a tener una vitrina digital profesional que vende por ti. ¿Listo para darle a tu negocio su primera presencia digital inteligente?",
+                "Descripcion_Tecnica_Corta": "Landing page inteligente de 1 página, con diseño responsivo, formulario de contacto e integración con WhatsApp, lista en 5 a 7 días."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 293,
+                "Area_IsaGIS_Technologies": "Servicios de Ingeniería",
+                "Grupo": "IA Generativa",
+                "Subgrupo": "Presencia Digital",
+                "Nombre_del_Servicio": "Creación de Paginas Web con IA - Business",
+                "Clasificación": "Servicio por Demanda",
+                "Descripción_Técnica_del_Servicio": "El paquete Business entrega un sitio web completo de hasta 5 páginas, pensado para negocios que ya tienen tráfico y necesitan convertirlo en clientes de forma sistemática. Incorpora un chatbot con inteligencia artificial que atiende a los visitantes las 24 horas, responde preguntas frecuentes y califica automáticamente a cada lead antes de que llegue al equipo comercial. El sistema de captura de leads organiza cada contacto según su nivel de interés, mientras la automatización de seguimiento se encarga de que ningún prospecto quede sin respuesta. Es la evolución natural para negocios que ya validaron su propuesta de valor con una landing page y ahora necesitan una presencia digital más robusta, con más contenido y procesos de venta automatizados.",
+                "Detalles_Costo_Base": "1 unidad Intermedia cubre la ejecución del servicio. ",
+                "Notas_Adicionales": "El cliente debe entregar la estructura de contenido deseada (hasta 5 secciones o páginas), su logo e identidad de marca, y las preguntas frecuentes que el chatbot debe resolver. \r\n✓ Sitio Web de hasta 5 páginas: diseño moderno, responsivo y estructurado por secciones.\r\n✓ Chatbot con IA: atención automática 24/7 y respuesta a preguntas frecuentes.\r\n✓ Sistema de Captura de Leads: registro y calificación automática de cada visitante interesado.\r\n✓ Automatización de Seguimiento: secuencias que dan continuidad a cada prospecto sin intervención manual.\r\n✓ Entrega en 10 a 15 días hábiles.",
+                "Tiempo__Dias_habiles_": "12",
+                "Tiempos_de_entrega": "10 - 15 días",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 0.0,
+                "Intermedios": 1.0,
+                "Avanzados": 0.0,
+                "Pregunta": "",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "En IsaGIS llevamos tu presencia digital al siguiente nivel: un sitio web de hasta 5 páginas con un chatbot de inteligencia artificial que atiende, califica y da seguimiento a tus prospectos aunque tú estés durmiendo. Menos tiempo respondiendo lo mismo, más tiempo cerrando negocios. ¿Listo para automatizar la conversión de visitantes en clientes?",
+                "Descripcion_Tecnica_Corta": "Sitio web de hasta 5 páginas con chatbot de IA, captura de leads y automatización de seguimiento, listo en 10 a 15 días."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "properties": {
+                "Nro": 294,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "IA Generativa",
+                "Subgrupo": "Presencia Digital",
+                "Nombre_del_Servicio": "Creación de Paginas Web con IA - Premium AI",
+                "Clasificación": "Servicio por Demanda",
+                "Descripción_Técnica_del_Servicio": "El paquete Premium AI entrega un ecosistema digital completo: una web totalmente personalizada respaldada por un agente de inteligencia artificial entrenado específicamente con la información del negocio, capaz de sostener conversaciones de venta reales y no solo respuestas genéricas. Se integra un CRM que centraliza cada prospecto y cliente en un solo lugar, conectado a automatizaciones avanzadas que ejecutan procesos completos de captación, seguimiento y conversión sin intervención manual. Un dashboard de métricas permite monitorear en tiempo real el desempeño del sitio, el agente IA y el pipeline comercial, dando visibilidad total sobre qué está funcionando y dónde escalar. Es la solución para negocios que buscan operar su presencia digital como un verdadero sistema de crecimiento, no solo como una página web.",
+                "Detalles_Costo_Base": "1 unidad Avanzada cubre la ejecución del servicio. ",
+                "Notas_Adicionales": "El cliente debe entregar la información completa del negocio (catálogo de productos o servicios, procesos comerciales y preguntas frecuentes) para entrenar al Agente IA, además de su identidad de marca. \r\n✓ Web Personalizada: diseño a medida alineado a la identidad de marca del negocio.\r\n✓ Agente IA Entrenado: asistente conversacional entrenado con la información real del negocio.\r\n✓ CRM Integrado: gestión centralizada de prospectos y clientes.\r\n✓ Automatizaciones Avanzadas: flujos completos de captación, seguimiento y conversión.\r\n✓ Dashboard de Métricas: visualización en tiempo real del desempeño comercial y digital.\r\n✓ Entrega en 15 a 25 días hábiles.",
+                "Tiempo__Dias_habiles_": "20",
+                "Tiempos_de_entrega": "15 - 25 días",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 0.0,
+                "Intermedios": 0.0,
+                "Avanzados": 1.0,
+                "Pregunta": "",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "En IsaGIS construimos tu ecosistema digital completo: una web personalizada, un agente de inteligencia artificial entrenado con tu negocio, un CRM que centraliza cada cliente y un dashboard que te muestra en tiempo real qué está funcionando. No es una página web más, es tu sistema de crecimiento operando 24/7. ¿Listo para escalar tu negocio con tecnología de punta?",
+                "Descripcion_Tecnica_Corta": "Ecosistema digital completo: web personalizada, agente de IA entrenado, CRM integrado, automatizaciones avanzadas y dashboard de métricas, en 15 a 25 días."
+            }
         }
     ],
-    "updated_at": "2026-07-17 18:25:04"
+    "updated_at": "2026-09-11 20:45:00"
 }
