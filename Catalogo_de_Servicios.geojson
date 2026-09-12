@@ -8831,7 +8831,436 @@
                 "micro_guion_es": "En IsaGIS construimos tu ecosistema digital completo: una web personalizada, un agente de inteligencia artificial entrenado con tu negocio, un CRM que centraliza cada cliente y un dashboard que te muestra en tiempo real qué está funcionando. No es una página web más, es tu sistema de crecimiento operando 24/7. ¿Listo para escalar tu negocio con tecnología de punta?",
                 "Descripcion_Tecnica_Corta": "Ecosistema digital completo: web personalizada, agente de IA entrenado, CRM integrado, automatizaciones avanzadas y dashboard de métricas, en 15 a 25 días."
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nro": 828,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "IA Generativa",
+                "Subgrupo": "Presencia Digital",
+                "Nombre_del_Servicio": "Página Web Básica con IA",
+                "Clasificación": "Servicio Básico",
+                "Descripción_Técnica_del_Servicio": "Desarrollo de un sitio web de 1 sola página (sin subpáginas), apoyado en IA para generar contenido, con diseño moderno 100% responsivo (escritorio, tablet y celular) y optimización SEO incluida. Ideal para negocios que necesitan una vitrina digital simple y rápida de implementar.",
+                "Detalles_Costo_Base": "1 unidad de Servicio Básico cubre la ejecución del servicio.",
+                "Notas_Adicionales": "El cliente debe entregar su logo, información de contacto y contenido base (textos e imágenes) del negocio, o autorizar a IsaGIS a generarlos con IA.\r\n✓ 1 página única, sin subpáginas.\r\n✓ Diseño responsivo (escritorio/tablet/móvil).\r\n✓ Optimización SEO básica incluida.\r\n✓ Entrega en 5 a 7 días hábiles.",
+                "Tiempo__Dias_habiles_": "6",
+                "Tiempos_de_entrega": "5 - 7 días",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 1.0,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "En IsaGIS creamos tu página web de 1 sola sección con apoyo de IA: diseño moderno, responsivo y listo en días, no semanas. Es la forma más simple de pasar de no tener web a tener una vitrina digital profesional. ¿Listo para tu primera presencia digital?",
+                "Descripcion_Tecnica_Corta": "Sitio web de 1 página generado con apoyo de IA, diseño responsivo y SEO básico incluido."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nro": 829,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "IA Generativa",
+                "Subgrupo": "Presencia Digital",
+                "Nombre_del_Servicio": "Página Web Intermedia con IA",
+                "Clasificación": "Servicio Intermedio",
+                "Descripción_Técnica_del_Servicio": "Desarrollo de un sitio web con 1 página principal y hasta 4 subpáginas, apoyado en IA, diseño responsivo y SEO incluido. Para negocios que necesitan organizar su oferta en varias secciones (ej. Inicio, Catálogo, Nosotros, Contacto).",
+                "Detalles_Costo_Base": "1 unidad de Servicio Intermedio cubre la ejecución del servicio.",
+                "Notas_Adicionales": "El cliente debe entregar la estructura de contenido deseada (hasta 4 subpáginas), su logo e identidad de marca, o autorizar a IsaGIS a generarlos con IA.\r\n✓ 1 página principal + hasta 4 subpáginas.\r\n✓ Diseño responsivo (escritorio/tablet/móvil).\r\n✓ Optimización SEO básica incluida.\r\n✓ Estructura de navegación entre secciones.\r\n✓ Entrega en 8 a 12 días hábiles.",
+                "Tiempo__Dias_habiles_": "10",
+                "Tiempos_de_entrega": "8 - 12 días",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 0.0,
+                "Intermedios": 1.0,
+                "Avanzados": 0.0,
+                "Pregunta": "",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "En IsaGIS organizamos toda tu oferta en un sitio de varias secciones, sin saturar al visitante en una sola página. Diseño responsivo, SEO incluido y apoyo de IA en cada sección. ¿Listo para ordenar tu presencia digital?",
+                "Descripcion_Tecnica_Corta": "Sitio web de 1 página principal y hasta 4 subpáginas generado con apoyo de IA, diseño responsivo y SEO básico incluido."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nro": 830,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "IA Generativa",
+                "Subgrupo": "Presencia Digital",
+                "Nombre_del_Servicio": "Página Web Avanzada con IA",
+                "Clasificación": "Servicio Avanzado",
+                "Descripción_Técnica_del_Servicio": "Desarrollo de un sitio web con 1 página principal y entre 5 y 30 subpáginas, apoyado en IA, diseño responsivo y SEO incluido. Para negocios con catálogos extensos, múltiples líneas de servicio, o necesidad de contenido profundo por sección.",
+                "Detalles_Costo_Base": "1 unidad de Servicio Avanzado cubre la ejecución del servicio.",
+                "Notas_Adicionales": "El cliente debe entregar la estructura de contenido deseada (entre 5 y 30 subpáginas), su logo e identidad de marca, o autorizar a IsaGIS a generarlos con IA.\r\n✓ 1 página principal + entre 5 y 30 subpáginas.\r\n✓ Diseño responsivo (escritorio/tablet/móvil).\r\n✓ Optimización SEO básica incluida.\r\n✓ Arquitectura de navegación multinivel.\r\n✓ Entrega en 15 a 25 días hábiles.",
+                "Tiempo__Dias_habiles_": "20",
+                "Tiempos_de_entrega": "15 - 25 días",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 0.0,
+                "Intermedios": 0.0,
+                "Avanzados": 1.0,
+                "Pregunta": "",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "En IsaGIS construimos sitios robustos capaces de sostener catálogos o portafolios extensos, sin perder claridad de navegación, con apoyo de IA en cada sección. ¿Listo para escalar tu presencia digital?",
+                "Descripcion_Tecnica_Corta": "Sitio web de 1 página principal y entre 5 y 30 subpáginas generado con apoyo de IA, diseño responsivo y SEO básico incluido."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nro": 831,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "AI Platforms",
+                "Subgrupo": "Presencia Digital",
+                "Nombre_del_Servicio": "Sincronización de Página Web con Google Sheets",
+                "Clasificación": "Servicio Básico",
+                "Descripción_Técnica_del_Servicio": "Configura la actualización de secciones específicas de una página web (catálogo, testimonios, noticias, recursos) directamente desde una hoja de Google Sheets, sin intervención técnica de ISAGIS en cada cambio.",
+                "Detalles_Costo_Base": "1 unidad de Servicio Básico cubre la ejecución del servicio.",
+                "Notas_Adicionales": "El cliente debe tener una cuenta de Google activa y la página web ya debe estar en producción.\r\n✓ Conexión de hasta 4 secciones de la página a Google Sheets.\r\n✓ Plantilla de hoja de cálculo lista para editar.\r\n✓ Capacitación de uso de 30 minutos.",
+                "Tiempo__Dias_habiles_": "3",
+                "Tiempos_de_entrega": "2 - 3 días",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 1.0,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "En IsaGIS conectamos tu página web a Google Sheets: actualizas tu catálogo o contenido tú mismo, sin llamarnos cada vez. ¿Listo para tener el control de tu contenido?",
+                "Descripcion_Tecnica_Corta": "Sincroniza secciones de la página web (catálogo, testimonios, noticias, recursos) con una hoja de Google Sheets."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nro": 832,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "AI Platforms",
+                "Subgrupo": "Presencia Digital",
+                "Nombre_del_Servicio": "Integración de Página Web a Correo Electrónico",
+                "Clasificación": "Servicio Básico",
+                "Descripción_Técnica_del_Servicio": "Configura la página web para mostrar y enrutar el correo electrónico del negocio como canal de contacto visible.",
+                "Detalles_Costo_Base": "1 unidad de Servicio Básico cubre la ejecución del servicio.",
+                "Notas_Adicionales": "El cliente debe tener una cuenta de correo electrónico activa para el negocio.\r\n✓ Correo electrónico visible en la página.\r\n✓ Enrutamiento de mensajes desde formularios al correo indicado.",
+                "Tiempo__Dias_habiles_": "1",
+                "Tiempos_de_entrega": "1 día",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 1.0,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "En IsaGIS integramos tu correo como canal de contacto formal de tu página web. Simple, rápido, profesional.",
+                "Descripcion_Tecnica_Corta": "Integra el correo electrónico del negocio como canal de contacto visible en la página web."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nro": 833,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "AI Platforms",
+                "Subgrupo": "Presencia Digital",
+                "Nombre_del_Servicio": "Formulario de Contacto con Integración Automática",
+                "Clasificación": "Servicio Intermedio",
+                "Descripción_Técnica_del_Servicio": "Implementa una sección o formulario de contacto en la página web, con envío automático de cada respuesta a Google Sheets, correo electrónico y WhatsApp del negocio simultáneamente.",
+                "Detalles_Costo_Base": "1 unidad de Servicio Intermedio cubre la ejecución del servicio.",
+                "Notas_Adicionales": "El cliente debe tener cuenta de Google Sheets y número de WhatsApp Business activos para recibir las notificaciones.\r\n✓ Formulario de contacto en la página.\r\n✓ Envío automático a Google Sheets (base de datos de contactos).\r\n✓ Notificación automática por correo.\r\n✓ Notificación automática por WhatsApp.",
+                "Tiempo__Dias_habiles_": "3",
+                "Tiempos_de_entrega": "2 - 4 días",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 0.0,
+                "Intermedios": 1.0,
+                "Avanzados": 0.0,
+                "Pregunta": "",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "En IsaGIS hacemos que cada visitante que te escribe quede registrado y notificado automáticamente, sin que se te pierda ni un contacto. ¿Listo para no perder ningún lead más?",
+                "Descripcion_Tecnica_Corta": "Formulario de contacto en la página web con envío automático a Google Sheets, correo y WhatsApp."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nro": 834,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "AI Platforms",
+                "Subgrupo": "Presencia Digital",
+                "Nombre_del_Servicio": "Carrito de Compras para Página Web",
+                "Clasificación": "Servicio Intermedio",
+                "Descripción_Técnica_del_Servicio": "Implementa un carrito de compras funcional en la página web: catálogo de productos con variantes, carrito y proceso de checkout inicial. No incluye pasarela de pago automatizada en esta fase (ver estudio de integración de pagos si se requiere).",
+                "Detalles_Costo_Base": "1 unidad de Servicio Intermedio cubre la ejecución del servicio.",
+                "Notas_Adicionales": "El cliente debe entregar el catálogo de productos con precios y variantes (talla, color, etc.).\r\n✓ Catálogo de productos con selección de variantes.\r\n✓ Carrito de compras funcional.\r\n✓ Proceso de checkout inicial.\r\n✓ Notificación de pedido nuevo al negocio.",
+                "Tiempo__Dias_habiles_": "6",
+                "Tiempos_de_entrega": "5 - 8 días",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 0.0,
+                "Intermedios": 1.0,
+                "Avanzados": 0.0,
+                "Pregunta": "",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "En IsaGIS convertimos tu página web en un canal de venta real: catálogo, carrito y pedidos organizados, sin depender de mensajes manuales por redes. ¿Listo para vender desde tu propia web?",
+                "Descripcion_Tecnica_Corta": "Carrito de compras funcional con catálogo, variantes y checkout inicial para la página web."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nro": 835,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "AI Platforms",
+                "Subgrupo": "Presencia Digital",
+                "Nombre_del_Servicio": "Adquisición de Dominio Propio",
+                "Clasificación": "Servicio Básico",
+                "Descripción_Técnica_del_Servicio": "Compra y configuración de un dominio propio (ej. nombredenegocio.com) para la página web del cliente, incluida la conexión con el hosting elegido.",
+                "Detalles_Costo_Base": "1 unidad de Servicio Básico cubre la ejecución del servicio.",
+                "Notas_Adicionales": "El cliente debe indicar el nombre de dominio deseado y confirmar disponibilidad.\r\n✓ Registro de dominio a nombre del cliente.\r\n✓ Configuración DNS.\r\n✓ Conexión con el hosting de la página web.",
+                "Tiempo__Dias_habiles_": "2",
+                "Tiempos_de_entrega": "1 - 2 días",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 1.0,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "En IsaGIS te ayudamos a que tu página web tenga nombre propio, no una URL genérica. ¿Listo para tu propio dominio?",
+                "Descripcion_Tecnica_Corta": "Compra y configuración de un dominio propio para la página web del cliente."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nro": 836,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "AI Platforms",
+                "Subgrupo": "Presencia Digital",
+                "Nombre_del_Servicio": "Configuración de Correos Corporativos",
+                "Clasificación": "Servicio Básico",
+                "Descripción_Técnica_del_Servicio": "Configura cuentas de correo corporativo bajo el dominio propio del cliente (ej. contacto@negocio.com). Requiere dominio propio activo (servicio #835).",
+                "Detalles_Costo_Base": "1 unidad de Servicio Básico cubre la ejecución del servicio.",
+                "Notas_Adicionales": "Requiere dominio propio activo (servicio #835).\r\n✓ Configuración de hasta 3 cuentas de correo corporativo.\r\n✓ Acceso vía webmail o cliente de correo.",
+                "Tiempo__Dias_habiles_": "1",
+                "Tiempos_de_entrega": "1 día",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 1.0,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "En IsaGIS configuramos tus correos corporativos para que tu negocio comunique con una imagen profesional, no un correo personal genérico.",
+                "Descripcion_Tecnica_Corta": "Configuración de cuentas de correo corporativo bajo el dominio propio del cliente."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nro": 837,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "AI Platforms",
+                "Subgrupo": "Presencia Digital",
+                "Nombre_del_Servicio": "Configuración de Hosting Pago para Página Web",
+                "Clasificación": "Servicio Básico",
+                "Descripción_Técnica_del_Servicio": "Contratación y configuración de un plan de hosting pago para alojar la página web, para casos donde el hosting gratuito (Vercel) no cubre los requerimientos del proyecto (tráfico alto, integraciones específicas, etc.). Si el cliente usa Vercel gratis, este servicio no aplica.",
+                "Detalles_Costo_Base": "1 unidad de Servicio Básico cubre la ejecución del servicio.",
+                "Notas_Adicionales": "Aplica solo si el hosting gratuito (Vercel) no cubre los requerimientos del proyecto.\r\n✓ Contratación del plan de hosting.\r\n✓ Despliegue de la página web en el hosting contratado.\r\n✓ Configuración de certificado SSL.",
+                "Tiempo__Dias_habiles_": "2",
+                "Tiempos_de_entrega": "1 - 2 días",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 1.0,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "En IsaGIS te ayudamos a alojar tu página web en un plan con capacidad garantizada, cuando el plan gratuito no es suficiente.",
+                "Descripcion_Tecnica_Corta": "Contratación y despliegue de un plan de hosting pago para la página web."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nro": 838,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "IA Generativa",
+                "Subgrupo": "Documentación",
+                "Nombre_del_Servicio": "Guía de Marca (Brand Guide)",
+                "Clasificación": "Servicio Intermedio",
+                "Descripción_Técnica_del_Servicio": "Desarrollo de una guía de marca completa: paleta de colores y tipografía, presentaciones tipo, tono de comunicación y copy, frases y conceptos clave de marca, y formatos de entrega — sirve como base para la página web, documentos, contenido de redes y presentaciones.",
+                "Detalles_Costo_Base": "1 unidad de Servicio Intermedio cubre la ejecución del servicio.",
+                "Notas_Adicionales": "El cliente debe compartir referencias de estilo o marcas que le gusten, si las tiene.\r\n✓ Paleta de colores y tipografía definida.\r\n✓ Tono de comunicación y copy.\r\n✓ Frases y conceptos clave de marca.\r\n✓ Plantilla de presentación tipo.\r\n✓ Formatos de entrega (PDF, editable).",
+                "Tiempo__Dias_habiles_": "6",
+                "Tiempos_de_entrega": "5 - 7 días",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 0.0,
+                "Intermedios": 1.0,
+                "Avanzados": 0.0,
+                "Pregunta": "",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "En IsaGIS creamos la guía que unifica tu identidad visual y verbal en todos tus canales. Una sola vez, y todo tu contenido futuro parte de ahí. ¿Listo para tener tu marca en un solo documento?",
+                "Descripcion_Tecnica_Corta": "Guía de marca completa: paleta, tipografía, tono de comunicación y formatos de entrega."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nro": 839,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "IA Generativa",
+                "Subgrupo": "Presencia Digital",
+                "Nombre_del_Servicio": "Efectos Premium para Página Web",
+                "Clasificación": "Servicio Intermedio",
+                "Descripción_Técnica_del_Servicio": "Incorpora animaciones, transiciones y microinteracciones de alto impacto visual a la página web (parallax, scroll animado, efectos de hover avanzados), por encima del diseño responsivo estándar.",
+                "Detalles_Costo_Base": "1 unidad de Servicio Intermedio cubre la ejecución del servicio.",
+                "Notas_Adicionales": "Requiere que la página web base ya esté en desarrollo o producción.\r\n✓ Animaciones y transiciones en secciones clave.\r\n✓ Microinteracciones en botones y elementos.\r\n✓ Optimización de rendimiento para no afectar velocidad de carga.",
+                "Tiempo__Dias_habiles_": "4",
+                "Tiempos_de_entrega": "3 - 5 días",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 0.0,
+                "Intermedios": 1.0,
+                "Avanzados": 0.0,
+                "Pregunta": "",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "En IsaGIS le damos a tu página web una experiencia visual más elaborada, sin sacrificar velocidad de carga. ¿Listo para diferenciarte del resto?",
+                "Descripcion_Tecnica_Corta": "Animaciones y microinteracciones de alto impacto visual para la página web."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Nro": 840,
+                "Area_IsaGIS_Technologies": "Servicios de IA",
+                "Grupo": "IA Generativa",
+                "Subgrupo": "Mercadeo",
+                "Nombre_del_Servicio": "Creación de Logo",
+                "Clasificación": "Servicio Básico",
+                "Descripción_Técnica_del_Servicio": "Diseño de un logo profesional para el negocio, en caso de que el cliente no cuente con uno, incluyendo variantes de formato para uso digital.",
+                "Detalles_Costo_Base": "1 unidad de Servicio Básico cubre la ejecución del servicio.",
+                "Notas_Adicionales": "El cliente debe indicar el nombre del negocio y su actividad económica, o compartir referencias de estilo si las tiene.\r\n✓ Propuesta de logo (2-3 alternativas).\r\n✓ Versión final en alta resolución.\r\n✓ Variantes de formato (PNG, SVG, fondo transparente).",
+                "Tiempo__Dias_habiles_": "4",
+                "Tiempos_de_entrega": "3 - 5 días",
+                "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
+                "URL_con_información_adicional": "Aun no tiene Video o Imagen Promocional",
+                "Basicos": 1.0,
+                "Intermedios": 0.0,
+                "Avanzados": 0.0,
+                "Pregunta": "",
+                "Factor_Corrección": 1.0,
+                "Codig_Nuevo": "",
+                "micro_guion_es": "En IsaGIS diseñamos el logo que le da cara a tu negocio, listo para tu página web y cualquier otro canal. ¿Listo para tener tu identidad visual?",
+                "Descripcion_Tecnica_Corta": "Diseño de un logo profesional con variantes de formato para uso digital."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
         }
     ],
-    "updated_at": "2026-09-12 16:31:28"
+    "updated_at": "2026-09-12 16:45:42"
 }
