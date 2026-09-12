@@ -8835,7 +8835,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nro": 828,
+                "Nro": 295,
                 "Area_IsaGIS_Technologies": "Servicios de IA",
                 "Grupo": "IA Generativa",
                 "Subgrupo": "Presencia Digital",
@@ -8868,7 +8868,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nro": 829,
+                "Nro": 296,
                 "Area_IsaGIS_Technologies": "Servicios de IA",
                 "Grupo": "IA Generativa",
                 "Subgrupo": "Presencia Digital",
@@ -8901,7 +8901,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nro": 830,
+                "Nro": 297,
                 "Area_IsaGIS_Technologies": "Servicios de IA",
                 "Grupo": "IA Generativa",
                 "Subgrupo": "Presencia Digital",
@@ -8934,7 +8934,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nro": 831,
+                "Nro": 298,
                 "Area_IsaGIS_Technologies": "Servicios de IA",
                 "Grupo": "AI Platforms",
                 "Subgrupo": "Presencia Digital",
@@ -8967,7 +8967,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nro": 832,
+                "Nro": 299,
                 "Area_IsaGIS_Technologies": "Servicios de IA",
                 "Grupo": "AI Platforms",
                 "Subgrupo": "Presencia Digital",
@@ -9000,7 +9000,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nro": 833,
+                "Nro": 300,
                 "Area_IsaGIS_Technologies": "Servicios de IA",
                 "Grupo": "AI Platforms",
                 "Subgrupo": "Presencia Digital",
@@ -9033,7 +9033,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nro": 834,
+                "Nro": 301,
                 "Area_IsaGIS_Technologies": "Servicios de IA",
                 "Grupo": "AI Platforms",
                 "Subgrupo": "Presencia Digital",
@@ -9066,7 +9066,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nro": 835,
+                "Nro": 302,
                 "Area_IsaGIS_Technologies": "Servicios de IA",
                 "Grupo": "AI Platforms",
                 "Subgrupo": "Presencia Digital",
@@ -9099,15 +9099,15 @@
         {
             "type": "Feature",
             "properties": {
-                "Nro": 836,
+                "Nro": 303,
                 "Area_IsaGIS_Technologies": "Servicios de IA",
                 "Grupo": "AI Platforms",
                 "Subgrupo": "Presencia Digital",
                 "Nombre_del_Servicio": "Configuración de Correos Corporativos",
                 "Clasificación": "Servicio Básico",
-                "Descripción_Técnica_del_Servicio": "Configura cuentas de correo corporativo bajo el dominio propio del cliente (ej. contacto@negocio.com). Requiere dominio propio activo (servicio #835).",
+                "Descripción_Técnica_del_Servicio": "Configura cuentas de correo corporativo bajo el dominio propio del cliente (ej. contacto@negocio.com). Requiere dominio propio activo (servicio #302).",
                 "Detalles_Costo_Base": "1 unidad de Servicio Básico cubre la ejecución del servicio.",
-                "Notas_Adicionales": "Requiere dominio propio activo (servicio #835).\r\n✓ Configuración de hasta 3 cuentas de correo corporativo.\r\n✓ Acceso vía webmail o cliente de correo.",
+                "Notas_Adicionales": "Requiere dominio propio activo (servicio #302).\r\n✓ Configuración de hasta 3 cuentas de correo corporativo.\r\n✓ Acceso vía webmail o cliente de correo.",
                 "Tiempo__Dias_habiles_": "1",
                 "Tiempos_de_entrega": "1 día",
                 "URL_Video_hosting": "Aun no tiene Video o Imagen Promocional",
@@ -9132,7 +9132,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nro": 837,
+                "Nro": 304,
                 "Area_IsaGIS_Technologies": "Servicios de IA",
                 "Grupo": "AI Platforms",
                 "Subgrupo": "Presencia Digital",
@@ -9165,7 +9165,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nro": 838,
+                "Nro": 305,
                 "Area_IsaGIS_Technologies": "Servicios de IA",
                 "Grupo": "IA Generativa",
                 "Subgrupo": "Documentación",
@@ -9198,7 +9198,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nro": 839,
+                "Nro": 306,
                 "Area_IsaGIS_Technologies": "Servicios de IA",
                 "Grupo": "IA Generativa",
                 "Subgrupo": "Presencia Digital",
@@ -9231,7 +9231,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Nro": 840,
+                "Nro": 307,
                 "Area_IsaGIS_Technologies": "Servicios de IA",
                 "Grupo": "IA Generativa",
                 "Subgrupo": "Mercadeo",
@@ -9262,5 +9262,5 @@
             }
         }
     ],
-    "updated_at": "2026-09-12 16:45:42"
+    "updated_at": "2026-09-12 16:59:38"
 }
