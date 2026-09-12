@@ -6765,7 +6765,7 @@
             "properties": {
                 "Nro": 220,
                 "Area_IsaGIS_Technologies": "Servicios SIG",
-                "Grupo": "Capacitación Servicios SIG",
+                "Grupo": "Configuración de Aplicaciones",
                 "Subgrupo": "Licenciamiento y Configuración",
                 "Nombre_del_Servicio": "Configuración de aplicaciones de ArcGIS Online o ArcGIS Desktop",
                 "Clasificación": "Servicio Intermedio, Servicio Básico",
@@ -8833,5 +8833,5 @@
             }
         }
     ],
-    "updated_at": "2026-09-11 21:05:00"
+    "updated_at": "2026-09-12 16:31:28"
 }
